@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-10T05:01:42",
+  "last_updated": "2026-07-10T05:02:26",
   "html": {
     "https://web.archive.org/web/20250905054118if_/https://twitter.com/Minecraftxfj/status/1963839837091353035": {
       "status": "done",
@@ -16022,9 +16022,9 @@
       "referenced_by": [
         "20250906144609_twitter_com_Minecraftxfj_status_1964339341150605674.json"
       ],
-      "last_updated": "2026-07-10T04:41:25",
+      "last_updated": "2026-07-10T05:02:12",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250906144609/https://video.twimg.com/ext_tw_video/1957784320644620289/pu/vid/avc1/1280x720/tPpvIHwg71YcRk58.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/G0vwh9ibcAI0Fq9.mp4": {
       "status": "done",
@@ -16038,18 +16038,18 @@
       "referenced_by": [
         "20250930165702_twitter_com_Minecraftxfj_status_1973069589425582185.json"
       ],
-      "last_updated": "2026-07-10T04:41:25",
+      "last_updated": "2026-07-10T05:02:15",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250930165702/https://video.twimg.com/ext_tw_video/1972789179605254144/pu/vid/avc1/1280x720/icl203Uu2YPvJi1Y.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/576x1280/K7YkYXqHlWbiExJg.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251004010419_twitter_com_Minecraftxfj_status_1974279379439280462.json"
       ],
-      "last_updated": "2026-07-10T04:41:25",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251004010419/https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/576x1280/K7YkYXqHlWbiExJg.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-07-10T05:02:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004010419/https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/576x1280/K7YkYXqHlWbiExJg.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f71b0d58c50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2006711130253676544/vid/avc1/544x960/Fc13XPp1rKAJGBJY.mp4": {
       "status": "done",
@@ -16468,13 +16468,13 @@
       "last_updated": "2026-07-10T04:41:26"
     },
     "https://video.twimg.com/tweet_video/HMkLJ1EbYAAiXQk.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260706203143_twitter_com_Minecraftxfj_status_2074229829541736866.json"
       ],
-      "last_updated": "2026-07-10T04:41:28",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260706203143/https://video.twimg.com/tweet_video/HMkLJ1EbYAAiXQk.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-10T05:02:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260706203143im_/https://video.twimg.com/tweet_video/HMkLJ1EbYAAiXQk.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f71b0d75c40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2074217260818845696/vid/avc1/720x954/GUcIx4juG7CgKdKf.mp4": {
       "status": "done",
@@ -48296,7 +48296,7 @@
       "last_updated": "2026-07-10T04:42:57"
     },
     "20260706203143_twitter_com_Minecraftxfj_status_2074229829541736866.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -48307,7 +48307,7 @@
           "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-10T04:42:56"
+      "last_updated": "2026-07-10T05:02:26"
     },
     "20260706203322_twitter_com_Minecraftxfj_status_2074230245755166818.json": {
       "status": "done",
