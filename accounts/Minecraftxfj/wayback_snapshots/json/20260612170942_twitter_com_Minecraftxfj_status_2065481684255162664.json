@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065155375549079552"
+      ],
+      "media_source_tweet_id": [
+        "2065155470159950107"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2065481684255162664",
+    "created_at": "2026-06-12T17:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065481684255162664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSjWAjFQPy",
+          "end": 40,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2065155470159950107/video/1",
+          "media_key": "13_2065155375549079552",
+          "start": 17,
+          "url": "https://t.co/fSjWAjFQPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065481684255162664",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 468
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065155470159950107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: https://t.co/fSjWAjFQPy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11583,
+        "height": 640,
+        "media_key": "13_2065155375549079552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065155375549079552/img/WdDmjOFGZjnW24Gt.jpg",
+        "public_metrics": {
+          "view_count": 17873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065155375549079552/vid/avc1/320x568/rj2twvTjy4xBFqR4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065155375549079552/vid/avc1/360x640/XU1GKxFZfqymZgrK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065155375549079552/pl/L3swuKh2mdxSvibW.m3u8?v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065155375549079552"
+          ],
+          "media_source_tweet_id": [
+            "2065155470159950107"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2065481684255162664",
+        "created_at": "2026-06-12T17:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065481684255162664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSjWAjFQPy",
+              "end": 40,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2065155470159950107/video/1",
+              "media_key": "13_2065155375549079552",
+              "start": 17,
+              "url": "https://t.co/fSjWAjFQPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065481684255162664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 468
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065155470159950107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: https://t.co/fSjWAjFQPy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065155375549079552"
+          ]
+        },
+        "author_id": "205565258",
+        "conversation_id": "2065155470159950107",
+        "created_at": "2026-06-11T19:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065155470159950107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSjWAjFQPy",
+              "end": 23,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2065155470159950107/video/1",
+              "media_key": "13_2065155375549079552",
+              "start": 0,
+              "url": "https://t.co/fSjWAjFQPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065155470159950107",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 582,
+          "impression_count": 42546,
+          "like_count": 4337,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 468
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fSjWAjFQPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 94,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "Daily Miku & Vocaloid Content! \nFan Account (Not Affiliated with Crypton Future Media!)\n(Ran by: @xtc_addict)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "xtc_addict"
+              }
+            ]
+          }
+        },
+        "id": "205565258",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041367547669254144/RQzxdjzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453954,
+          "following_count": 17,
+          "like_count": 3783,
+          "listed_count": 148,
+          "media_count": 1151,
+          "tweet_count": 1193
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

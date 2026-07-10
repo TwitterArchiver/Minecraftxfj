@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066476939016368453",
+    "created_at": "2026-06-16T17:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066929010454749563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011368228950614016",
+          "start": 0,
+          "username": "MUZI19751029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066929010454749563",
+    "in_reply_to_user_id": "2011368228950614016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066476939016368453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MUZI19751029 县长暗恋我吗，天天跟着我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066476939016368453",
+        "created_at": "2026-06-16T17:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066929010454749563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011368228950614016",
+              "start": 0,
+              "username": "MUZI19751029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066929010454749563",
+        "in_reply_to_user_id": "2011368228950614016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066476939016368453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MUZI19751029 县长暗恋我吗，天天跟着我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011368228950614016",
+        "conversation_id": "2066476939016368453",
+        "created_at": "2026-06-15T11:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066476939016368453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066476939016368453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 74878,
+          "like_count": 741,
+          "quote_count": 10,
+          "reply_count": 307,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我们什么时候成为发达国家\n\n1.你去开家长会，遇到县长也在，而且就坐你隔壁\n\n2.你去医院看病，遇到县长正在打点滴\n\n3.你去超市买菜，遇到县长正在那挑鱼\n\n4.你上班挤公交，遇到县长也在车厢里，一只手紧紧抓住吊环。\n\n这个县长你也熟悉，这时候，想不强大都不可能了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 123,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T09:22:26.000Z",
+        "description": "所谓名校MBA硕士，30年食品工程和科学领域工作者，AI初学者，分享独立思考，个人观点。MBA Master, 30 years Food Engineer，AI learner.\n\n🎥 我的YouTube频道👇\n\nhttps://t.co/oUsMlY2rg0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@muzi520-h?si=…",
+                "end": 131,
+                "expanded_url": "https://youtube.com/@muzi520-h?si=Dj59ceutvcnlvF0L",
+                "start": 108,
+                "url": "https://t.co/oUsMlY2rg0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/1ciNJnLOB1V",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/1ciNJnLOB1V",
+                "start": 0,
+                "url": "https://t.co/rov0ic99SD"
+              }
+            ]
+          }
+        },
+        "id": "2011368228950614016",
+        "name": "黄老邪 -Johnson",
+        "pinned_tweet_id": "2038387681244381554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036258919224655872/R8NXG_pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 1196,
+          "like_count": 1593,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 4273
+        },
+        "url": "https://t.co/rov0ic99SD",
+        "username": "MUZI19751029",
+        "verified": true
+      }
+    ]
+  }
+}

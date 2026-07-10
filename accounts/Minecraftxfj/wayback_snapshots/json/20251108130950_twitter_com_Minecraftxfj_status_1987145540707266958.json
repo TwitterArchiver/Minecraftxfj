@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "1986441436251017693",
+    "created_at": "2025-11-08T13:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T14:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987145540707266958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987145540707266958",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986441436251017693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 泥嚎，我是初音未来！（\n\n自己笔记本整点联名得了，买来到手即用，给点限定买不到的手办吧唧立牌啥的情绪价值给够，二刺螈很好骗的（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986441429946933251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FB9LcbIAMkFI1.jpg",
+        "width": 651
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986441429921751040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FB9LWa4AAb4Zc.jpg",
+        "width": 571
+      },
+      {
+        "height": 2123,
+        "media_key": "3_1986441428957077505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FB9HwbIAEeVOh.jpg",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "1986441436251017693",
+        "created_at": "2025-11-08T13:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987145540707266958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987145540707266958",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986441436251017693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 泥嚎，我是初音未来！（\n\n自己笔记本整点联名得了，买来到手即用，给点限定买不到的手办吧唧立牌啥的情绪价值给够，二刺螈很好骗的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986441429946933251",
+            "3_1986441429921751040",
+            "3_1986441428957077505"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "930481874400526336",
+              "name": "Home improvement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "930481874400526336",
+              "name": "Home improvement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "1986441436251017693",
+        "created_at": "2025-11-06T14:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986441436251017693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1HIb946uw",
+              "end": 169,
+              "expanded_url": "https://x.com/jlxc2001/status/1986441436251017693/photo/1",
+              "media_key": "3_1986441429946933251",
+              "start": 146,
+              "url": "https://t.co/m1HIb946uw"
+            },
+            {
+              "display_url": "pic.x.com/m1HIb946uw",
+              "end": 169,
+              "expanded_url": "https://x.com/jlxc2001/status/1986441436251017693/photo/1",
+              "media_key": "3_1986441429921751040",
+              "start": 146,
+              "url": "https://t.co/m1HIb946uw"
+            },
+            {
+              "display_url": "pic.x.com/m1HIb946uw",
+              "end": 169,
+              "expanded_url": "https://x.com/jlxc2001/status/1986441436251017693/photo/1",
+              "media_key": "3_1986441428957077505",
+              "start": 146,
+              "url": "https://t.co/m1HIb946uw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986441436251017693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9451,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "华硕初音未来联名这次卖得很差，他问了我一些建议，以下是我给出的反馈。\n主要就几点。\n1:宣发找的都是自家官号和一些不是初音粉丝的数码博主\n2:耳机是电竞向的耳机，音质烂\n3:开机音令人尴尬，而且语音没调好\n4:机箱是卖得最差的，因为宣发面向的都是DIY玩家，应该面向喜欢初音但不会装机的用户 https://t.co/m1HIb946uw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "「浮生一刹 万般皆舍」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top/about",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top/about",
+                "start": 0,
+                "url": "https://t.co/WXP0sGLDpd"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964029359834181632/7GIm3Umq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/WXP0sGLDpd",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "我一般会使用中文，日语，英语三种语言发帖。DIY SmartPhone Computer HatsuneMiku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "1935915100046868982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 75,
+          "like_count": 129,
+          "listed_count": 11,
+          "media_count": 319,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": false
+      }
+    ]
+  }
+}

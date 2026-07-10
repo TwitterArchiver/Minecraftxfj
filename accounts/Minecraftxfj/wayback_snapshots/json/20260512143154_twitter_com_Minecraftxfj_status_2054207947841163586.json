@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2053404057348554909",
+    "created_at": "2026-05-12T14:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054207947841163586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708489817191821312",
+          "start": 0,
+          "username": "1224HuangJin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054207947841163586",
+    "in_reply_to_user_id": "1708489817191821312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053954608364392554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1224HuangJin 还真是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2053404057348554909",
+        "created_at": "2026-05-12T14:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054207947841163586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708489817191821312",
+              "start": 0,
+              "username": "1224HuangJin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054207947841163586",
+        "in_reply_to_user_id": "1708489817191821312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053954608364392554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1224HuangJin 还真是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708489817191821312",
+        "conversation_id": "2053404057348554909",
+        "created_at": "2026-05-11T21:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T22:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053954608364392554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053954608364392554",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053404057348554909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj ..怎么说，你至少和到好喝的了。。哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 61,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:31:50.000Z",
+        "description": "",
+        "id": "1708489817191821312",
+        "name": "夜影、Night Shadow",
+        "pinned_tweet_id": "1845105108427616385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602675859501056/iPCN_1_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 70,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 365
+        },
+        "username": "1224HuangJin",
+        "verified": false
+      }
+    ]
+  }
+}

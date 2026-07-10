@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2064966221532201355",
+    "created_at": "2026-06-11T15:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065091165775618275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1631625866034794496",
+          "start": 0,
+          "username": "Badduyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065091165775618275",
+    "in_reply_to_user_id": "1631625866034794496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064966221532201355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Badduyg 嗓子不疼嘛 qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87125,
+        "height": 720,
+        "media_key": "7_2064965140857147392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064965140857147392/pu/img/Q0BgfqDBeQZPS5rR.jpg",
+        "public_metrics": {
+          "view_count": 6725
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064965140857147392/pu/vid/avc1/480x270/oA77LCT3i0USZVI3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064965140857147392/pu/vid/avc1/640x360/IaT6JSgcKTqgjvTQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064965140857147392/pu/vid/avc1/1280x720/vFA1veNDszaGzF0x.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064965140857147392/pu/pl/01rnWATqxypIkch7.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2064966221532201355",
+        "created_at": "2026-06-11T15:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065091165775618275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1631625866034794496",
+              "start": 0,
+              "username": "Badduyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065091165775618275",
+        "in_reply_to_user_id": "1631625866034794496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064966221532201355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Badduyg 嗓子不疼嘛 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064965140857147392"
+          ]
+        },
+        "author_id": "1631625866034794496",
+        "conversation_id": "2064966221532201355",
+        "created_at": "2026-06-11T07:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064966221532201355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iO6ir56wTd",
+              "end": 61,
+              "expanded_url": "https://x.com/Badduyg/status/2064966221532201355/video/1",
+              "media_key": "7_2064965140857147392",
+              "start": 38,
+              "url": "https://t.co/iO6ir56wTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064966221532201355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 12343,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "催吐预警！！ 现在越来越喜欢暴食 然后又去吐 现在觉得催吐有一种莫名的爽感 https://t.co/iO6ir56wTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 88,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T12:02:03.000Z",
+        "description": "死宅/自傷行為/抽象/境界性人格障害/断食ダイエット/汎性愛/OD/糖尿病 @s165005 \n🚪188 288 520 1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "s165005"
+              }
+            ]
+          }
+        },
+        "id": "1631625866034794496",
+        "location": "右美沙芬",
+        "name": "阿素素是谁？",
+        "pinned_tweet_id": "1949863971835478432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060811129966981120/1b3MFhU5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 142,
+          "like_count": 3551,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1666
+        },
+        "username": "Badduyg",
+        "verified": false
+      }
+    ]
+  }
+}

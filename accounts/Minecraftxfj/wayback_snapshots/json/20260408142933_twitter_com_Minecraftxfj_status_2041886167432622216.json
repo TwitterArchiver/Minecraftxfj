@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041886138454200320"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2041772420298895619",
+    "created_at": "2026-04-08T14:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041886167432622216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BSOdmWXUQF",
+          "end": 83,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2041886167432622216/photo/1",
+          "media_key": "3_2041886138454200320",
+          "start": 60,
+          "url": "https://t.co/BSOdmWXUQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041886167432622216",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041772420298895619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 桌子上用的小米的灯感觉很舒服🤔设置了屏幕挂灯的开关联动整个桌子的灯，有点想在卧室主灯用这种大路灯了 https://t.co/BSOdmWXUQF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041886138454200320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY8n-JbUAA7uHC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041772416742080512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXVMfwaQAA1fuN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041772413738983424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXVMUkaoAAZmOg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041772413214765056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXVMSnbsAAWIN9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041886138454200320"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2041772420298895619",
+        "created_at": "2026-04-08T14:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041886167432622216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSOdmWXUQF",
+              "end": 83,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2041886167432622216/photo/1",
+              "media_key": "3_2041886138454200320",
+              "start": 60,
+              "url": "https://t.co/BSOdmWXUQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041886167432622216",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041772420298895619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 桌子上用的小米的灯感觉很舒服🤔设置了屏幕挂灯的开关联动整个桌子的灯，有点想在卧室主灯用这种大路灯了 https://t.co/BSOdmWXUQF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041772416742080512",
+            "3_2041772413738983424",
+            "3_2041772413214765056"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2041772420298895619",
+        "created_at": "2026-04-08T06:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041772420298895619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3xizCc9UI",
+              "end": 151,
+              "expanded_url": "https://x.com/jlxc2001/status/2041772420298895619/photo/1",
+              "media_key": "3_2041772416742080512",
+              "start": 128,
+              "url": "https://t.co/I3xizCc9UI"
+            },
+            {
+              "display_url": "pic.x.com/I3xizCc9UI",
+              "end": 151,
+              "expanded_url": "https://x.com/jlxc2001/status/2041772420298895619/photo/1",
+              "media_key": "3_2041772413738983424",
+              "start": 128,
+              "url": "https://t.co/I3xizCc9UI"
+            },
+            {
+              "display_url": "pic.x.com/I3xizCc9UI",
+              "end": 151,
+              "expanded_url": "https://x.com/jlxc2001/status/2041772420298895619/photo/1",
+              "media_key": "3_2041772413214765056",
+              "start": 128,
+              "url": "https://t.co/I3xizCc9UI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041772420298895619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 15828,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一般租的房子自带的灯都是，白平衡偏蓝，频闪瞎眼，色显超低，我待在这种灯光下就不舒服，况且还会显得整个房间很压抑，换灯又太麻烦了，所以我买了这种大路灯，色显指数98以上，可自定义色温，还可以设置白天、夜间不同的色温。换了这个灯之后，感觉幸福感都提高了不少。 https://t.co/I3xizCc9UI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 56,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14381,
+          "following_count": 194,
+          "like_count": 484,
+          "listed_count": 29,
+          "media_count": 866,
+          "tweet_count": 2334
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      }
+    ],
+    "conversation_id": "2074387948074643836",
+    "created_at": "2026-07-07T18:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074558800544362709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1321399768258506757",
+          "start": 0,
+          "username": "ado_staff"
+        },
+        {
+          "end": 26,
+          "id": "2929136138",
+          "start": 11,
+          "username": "ado1024imokenp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074558800544362709",
+    "in_reply_to_user_id": "1321399768258506757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074387948074643836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ado_staff @ado1024imokenp 这个真想要😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2074304269264805888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMloviWa4AADUyZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "2074387948074643836",
+        "created_at": "2026-07-07T18:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074558800544362709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1321399768258506757",
+              "start": 0,
+              "username": "ado_staff"
+            },
+            {
+              "end": 26,
+              "id": "2929136138",
+              "start": 11,
+              "username": "ado1024imokenp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074558800544362709",
+        "in_reply_to_user_id": "1321399768258506757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074387948074643836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ado_staff @ado1024imokenp 这个真想要😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074304269264805888"
+          ]
+        },
+        "author_id": "1321399768258506757",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          }
+        ],
+        "conversation_id": "2074387948074643836",
+        "created_at": "2026-07-07T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074387948074643836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMT6d3biE1",
+              "end": 189,
+              "expanded_url": "https://x.com/ado_staff/status/2074387948074643836/photo/1",
+              "media_key": "3_2074304269264805888",
+              "start": 166,
+              "url": "https://t.co/FMT6d3biE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074387948074643836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "saisoncard.co.jp/cpn/ado2607/",
+                "end": 190,
+                "expanded_url": "https://www.saisoncard.co.jp/cpn/ado2607/",
+                "start": 167,
+                "url": "https://t.co/fmDxlKT4Q0"
+              }
+            ]
+          },
+          "text": "／\n📢 Ado × SAISON CARD  Visa\nカードデザイン公開！\n＼\n\nオリジナル描き下ろしデザインの\nクレジットカードデザインが、ついに公開🙋\n\n入会特典として2,000円キャッシュバックや\nyogiboネックピローのプレゼントも🎁\n\n期間：2026年7月4日(土)～2028年6月30日(金)\n\n詳細はこちら👇\n▶  https://t.co/fmDxlKT4Q0"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 714,
+          "impression_count": 407118,
+          "like_count": 6672,
+          "quote_count": 212,
+          "reply_count": 56,
+          "retweet_count": 942
+        },
+        "reply_settings": "everyone",
+        "text": "／\n📢 Ado × SAISON CARD  Visa\nカードデザイン公開！\n＼\n\nオリジナル描き下ろしデザインの\nクレジットカードデザインが、ついに公開🙋\n\n入会特典として2,000円キャッシュバックや\nyogiboネックピローのプレゼントも🎁\n\n期間：2026年7月4日(土)～2028年6月30日(金)\n\n詳細はこちら👇\n▶ https://t.co/FMT6d3biE1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 350,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-28T10:34:42.000Z",
+        "description": "Adoスタッフ公式X🙋niconico https://t.co/VjLSh0DcJQ YouTube https://t.co/CWRnSxY4UQ TikTok https://t.co/aIUSjAXoOQ ご依頼 support@cloud9pro.co.jp 💌→https://t.co/dfKuvB4XG5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3ovtGos",
+                "end": 43,
+                "expanded_url": "http://bit.ly/3ovtGos",
+                "start": 20,
+                "url": "https://t.co/VjLSh0DcJQ"
+              },
+              {
+                "display_url": "bit.ly/36OpNVy",
+                "end": 75,
+                "expanded_url": "http://bit.ly/36OpNVy",
+                "start": 52,
+                "url": "https://t.co/CWRnSxY4UQ"
+              },
+              {
+                "display_url": "bit.ly/2JK9LmK",
+                "end": 106,
+                "expanded_url": "http://bit.ly/2JK9LmK",
+                "start": 83,
+                "url": "https://t.co/aIUSjAXoOQ"
+              },
+              {
+                "display_url": "umusic.jp/ado_nl",
+                "end": 160,
+                "expanded_url": "https://umusic.jp/ado_nl",
+                "start": 137,
+                "url": "https://t.co/dfKuvB4XG5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "l-tike.com/ado/",
+                "end": 23,
+                "expanded_url": "https://l-tike.com/ado/",
+                "start": 0,
+                "url": "https://t.co/dAbS0c4L6A"
+              }
+            ]
+          }
+        },
+        "id": "1321399768258506757",
+        "location": "日産スタジアム 2026年7月4日(土),5日(日)",
+        "name": "Ado Staff",
+        "pinned_tweet_id": "2072696811664601288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030188499174051843/YJUMroMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320469,
+          "following_count": 13,
+          "like_count": 3604,
+          "listed_count": 759,
+          "media_count": 2530,
+          "tweet_count": 8436
+        },
+        "url": "https://t.co/dAbS0c4L6A",
+        "username": "ado_staff",
+        "verified": true
+      },
+      {
+        "created_at": "2014-12-14T02:19:30.000Z",
+        "description": "アドです。niconico：https://t.co/Bdx26K2k2K YouTube : https://t.co/A2EbwbLv1w イラストは「#Adoart」DMは事務所が管理しています。contact→ https://t.co/3GPesFPBFr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "Adoart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/58569901",
+                "end": 37,
+                "expanded_url": "http://nicovideo.jp/mylist/58569901",
+                "start": 14,
+                "url": "https://t.co/Bdx26K2k2K"
+              },
+              {
+                "display_url": "youtube.com/c/Ado1024",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/Ado1024",
+                "start": 48,
+                "url": "https://t.co/A2EbwbLv1w"
+              },
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 133,
+                "expanded_url": "https://cloud9pro.co.jp/contact/",
+                "start": 110,
+                "url": "https://t.co/3GPesFPBFr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…o-dokidokihimitsukichi-daigakuimo.com",
+                "end": 23,
+                "expanded_url": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
+                "start": 0,
+                "url": "https://t.co/VdcVooBwaG"
+              }
+            ]
+          }
+        },
+        "id": "2929136138",
+        "location": "i：ORIHARAさん h：トゥルさん     ↓秘密基地",
+        "name": "Ado",
+        "pinned_tweet_id": "2009642174506529231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039283475816267776/hlTPvQXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018933,
+          "following_count": 694,
+          "like_count": 53054,
+          "listed_count": 4058,
+          "media_count": 1071,
+          "tweet_count": 32273
+        },
+        "url": "https://t.co/VdcVooBwaG",
+        "username": "ado1024imokenp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042257825179840512",
+        "3_2042257825154666496"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042257857358504277",
+    "created_at": "2026-04-09T15:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042257857358504277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kQaFA9ualG",
+          "end": 39,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2042257857358504277/photo/1",
+          "media_key": "3_2042257825179840512",
+          "start": 16,
+          "url": "https://t.co/kQaFA9ualG"
+        },
+        {
+          "display_url": "pic.x.com/kQaFA9ualG",
+          "end": 39,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2042257857358504277/photo/1",
+          "media_key": "3_2042257825154666496",
+          "start": 16,
+          "url": "https://t.co/kQaFA9ualG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042257857358504277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们声嘶力竭的 假装呐喊😭😭😭 https://t.co/kQaFA9ualG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042257825179840512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeOq_GbMAA-zo9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042257825154666496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeOq_AbEAAUF1r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042257825179840512",
+            "3_2042257825154666496"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042257857358504277",
+        "created_at": "2026-04-09T15:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042257857358504277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQaFA9ualG",
+              "end": 39,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2042257857358504277/photo/1",
+              "media_key": "3_2042257825179840512",
+              "start": 16,
+              "url": "https://t.co/kQaFA9ualG"
+            },
+            {
+              "display_url": "pic.x.com/kQaFA9ualG",
+              "end": 39,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2042257857358504277/photo/1",
+              "media_key": "3_2042257825154666496",
+              "start": 16,
+              "url": "https://t.co/kQaFA9ualG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042257857358504277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们声嘶力竭的 假装呐喊😭😭😭 https://t.co/kQaFA9ualG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 56,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

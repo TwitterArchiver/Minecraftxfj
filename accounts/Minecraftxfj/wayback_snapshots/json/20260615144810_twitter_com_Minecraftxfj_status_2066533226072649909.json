@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066533226072649909",
+    "created_at": "2026-06-15T14:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066533226072649909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "A multi-platform E-paper TXT reader program for ESP8266 and ESP32 chips - fsender/readguy",
+          "display_url": "github.com/fsender/readguy",
+          "end": 32,
+          "expanded_url": "https://github.com/fsender/readguy",
+          "start": 9,
+          "status": 200,
+          "title": "GitHub - fsender/readguy: A multi-platform E-paper TXT reader program for ESP8266 and ESP32 chips",
+          "unwound_url": "https://github.com/fsender/readguy",
+          "url": "https://t.co/MKNmMZXZ06"
+        },
+        {
+          "display_url": "x.com/minecraftxfj/s…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/minecraftxfj/status/2065963759781429304",
+          "start": 65,
+          "url": "https://t.co/SJukTyZ32W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066533226072649909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065963759781429304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现了个宝藏项目\nhttps://t.co/MKNmMZXZ06\n完整移植了波形数据\n实现了 16 灰阶算法😋😋\n恩！情！✋😭🤚 https://t.co/SJukTyZ32W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13903,
+        "height": 1280,
+        "media_key": "13_2065963579694804992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065963579694804992/img/1gNFXHlWgo89BPNo.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065963579694804992/vid/avc1/320x568/t8_6U_aT7G27iiw5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065963579694804992/vid/avc1/480x852/ChQlXkro6C070Mkm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065963579694804992/vid/avc1/720x1280/PwxHdtfVYnovJ2oR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065963579694804992/pl/XwCMwqxOd0LPK5CH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066533226072649909",
+        "created_at": "2026-06-15T14:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066533226072649909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A multi-platform E-paper TXT reader program for ESP8266 and ESP32 chips - fsender/readguy",
+              "display_url": "github.com/fsender/readguy",
+              "end": 32,
+              "expanded_url": "https://github.com/fsender/readguy",
+              "start": 9,
+              "status": 200,
+              "title": "GitHub - fsender/readguy: A multi-platform E-paper TXT reader program for ESP8266 and ESP32 chips",
+              "unwound_url": "https://github.com/fsender/readguy",
+              "url": "https://t.co/MKNmMZXZ06"
+            },
+            {
+              "display_url": "x.com/minecraftxfj/s…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/minecraftxfj/status/2065963759781429304",
+              "start": 65,
+              "url": "https://t.co/SJukTyZ32W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066533226072649909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065963759781429304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现了个宝藏项目\nhttps://t.co/MKNmMZXZ06\n完整移植了波形数据\n实现了 16 灰阶算法😋😋\n恩！情！✋😭🤚 https://t.co/SJukTyZ32W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065963579694804992"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2065963759781429304",
+        "created_at": "2026-06-14T01:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065963759781429304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2cQtfv0Dz",
+              "end": 60,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2065963759781429304/video/1",
+              "media_key": "13_2065963579694804992",
+              "start": 37,
+              "url": "https://t.co/H2cQtfv0Dz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065963759781429304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写了四种灰度的算法\n怎么都这么拉跨😭\nb 站上那群大佬到底是怎么做到的🤔 https://t.co/H2cQtfv0Dz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 107,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

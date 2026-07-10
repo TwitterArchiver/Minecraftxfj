@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067484431208914944"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2067133370249720045",
+    "created_at": "2026-06-18T05:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067484440549536233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048303363670802432",
+          "start": 0,
+          "username": "Homelandertc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/28WczIcLDx",
+          "end": 37,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2067484440549536233/photo/1",
+          "media_key": "3_2067484431208914944",
+          "start": 14,
+          "url": "https://t.co/28WczIcLDx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067484440549536233",
+    "in_reply_to_user_id": "2048303363670802432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067133370249720045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homelandertc https://t.co/28WczIcLDx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2067484431208914944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEuItzboAAXrTI.jpg",
+        "width": 552
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2067133344463138816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_u0xwXMAAhHdI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067484431208914944"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2067133370249720045",
+        "created_at": "2026-06-18T05:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067484440549536233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048303363670802432",
+              "start": 0,
+              "username": "Homelandertc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/28WczIcLDx",
+              "end": 37,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2067484440549536233/photo/1",
+              "media_key": "3_2067484431208914944",
+              "start": 14,
+              "url": "https://t.co/28WczIcLDx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067484440549536233",
+        "in_reply_to_user_id": "2048303363670802432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067133370249720045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homelandertc https://t.co/28WczIcLDx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067133344463138816"
+          ]
+        },
+        "author_id": "2048303363670802432",
+        "conversation_id": "2067133370249720045",
+        "created_at": "2026-06-17T06:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067133370249720045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebu4XALMBF",
+              "end": 79,
+              "expanded_url": "https://x.com/Homelandertc/status/2067133370249720045/photo/1",
+              "media_key": "3_2067133344463138816",
+              "start": 56,
+              "url": "https://t.co/ebu4XALMBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067133370249720045",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6919,
+          "like_count": 317,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning. The Greatest Superhero of All Time is up. https://t.co/ebu4XALMBF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 168,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T07:29:54.000Z",
+        "description": "The Ghost of Homelander. Fan Account.",
+        "id": "2048303363670802432",
+        "location": "Heaven ",
+        "name": "Homelander",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048303841893117952/dGSKTn78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29756,
+          "following_count": 112,
+          "like_count": 118,
+          "listed_count": 7,
+          "media_count": 420,
+          "tweet_count": 1001
+        },
+        "username": "Homelandertc",
+        "verified": true
+      }
+    ]
+  }
+}

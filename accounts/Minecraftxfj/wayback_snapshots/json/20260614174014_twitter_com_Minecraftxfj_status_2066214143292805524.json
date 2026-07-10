@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066136828093301124",
+    "created_at": "2026-06-14T17:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066214143292805524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890029305205608448",
+          "start": 0,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066214143292805524",
+    "in_reply_to_user_id": "1890029305205608448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066136828093301124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsl8297 没去过西藏，没吃过海鲜，没住过房子，没穿过衣服，没带过手表，没喝过红酒，没用过手机，没开过汽车，没存过巨款，没去过外国"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2066136825895489537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxkfwzakAEJekf.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066136828093301124",
+        "created_at": "2026-06-14T17:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066214143292805524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066214143292805524",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066136828093301124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 没去过西藏，没吃过海鲜，没住过房子，没穿过衣服，没带过手表，没喝过红酒，没用过手机，没开过汽车，没存过巨款，没去过外国"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066136825895489537"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2066136828093301124",
+        "created_at": "2026-06-14T12:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066136828093301124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nb61Nd9whE",
+              "end": 44,
+              "expanded_url": "https://x.com/wsl8297/status/2066136828093301124/photo/1",
+              "media_key": "3_2066136825895489537",
+              "start": 21,
+              "url": "https://t.co/nb61Nd9whE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066136828093301124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1164,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全网都在测的 10 条清单，你中了几条？ https://t.co/nb61Nd9whE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 106,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2065046141146960290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17286,
+          "following_count": 625,
+          "like_count": 18771,
+          "listed_count": 98,
+          "media_count": 1860,
+          "tweet_count": 17348
+        },
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

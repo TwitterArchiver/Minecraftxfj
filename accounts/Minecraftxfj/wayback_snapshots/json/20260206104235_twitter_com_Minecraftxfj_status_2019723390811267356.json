@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2019608299327586372",
+    "created_at": "2026-02-06T10:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019723390811267356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019723390811267356",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019608299327586372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc 😰🙏🙏🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_2019608288648929280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcXCcZaoAA5ko1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2019608299327586372",
+        "created_at": "2026-02-06T10:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019723390811267356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019723390811267356",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019608299327586372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc 😰🙏🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019608288648929280"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "conversation_id": "2019608299327586372",
+        "created_at": "2026-02-06T03:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T04:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019608299327586372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RgwIf70sDw",
+              "end": 103,
+              "expanded_url": "https://x.com/Mimiaomc/status/2019608299327586372/photo/1",
+              "media_key": "3_2019608288648929280",
+              "start": 80,
+              "url": "https://t.co/RgwIf70sDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019608299327586372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求解决方法呜呜呜电脑音量键摔变形了\n然后音量加一直被按着不放\n（我现在也只能按动音量减，音量加卡死了按不动）\n然后现在一开机就会进 UEFI 呜呜呜\n在线求解 https://t.co/RgwIf70sDw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/4cqyPUZQfM"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 44,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/4cqyPUZQfM",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫啦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "https://classnote.top",
+                "start": 0,
+                "url": "https://t.co/gOvxKZpBRM"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "陕西西安，中国",
+        "name": "MM 喵了个",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374736977145303040/wMVCqAP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 416,
+          "like_count": 305,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/gOvxKZpBRM",
+        "username": "Mimiaomc",
+        "verified": false
+      }
+    ]
+  }
+}

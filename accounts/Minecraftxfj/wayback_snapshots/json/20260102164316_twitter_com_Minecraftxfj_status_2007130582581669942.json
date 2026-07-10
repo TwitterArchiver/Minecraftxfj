@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2006742210427920502",
+    "created_at": "2026-01-02T16:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T17:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007130582581669942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007130582581669942",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006742210427920502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 还是被钟离拿下的，这波 mhy 立大功"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34829,
+        "height": 960,
+        "media_key": "13_2006711130253676544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006711130253676544/img/AzCZTj-WVxB2YK8T.jpg",
+        "public_metrics": {
+          "view_count": 197984
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006711130253676544/vid/avc1/320x564/ajR5zMn7axKfe4Z2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006711130253676544/vid/avc1/480x846/XHN6yFSfe9-QILAG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006711130253676544/vid/avc1/544x960/Fc13XPp1rKAJGBJY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006711130253676544/pl/_-pFpuywSn_gA4EU.m3u8?v=c88"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 22151,
+        "height": 1280,
+        "media_key": "13_2006711130538889216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006711130538889216/img/UhwQekYY93qaPSIL.jpg",
+        "public_metrics": {
+          "view_count": 23978
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006711130538889216/vid/avc1/320x568/XrHU2EMcxFWrJdhY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006711130538889216/vid/avc1/480x852/hn_SAyLM3j5JUsXm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006711130538889216/vid/avc1/720x1280/ZWYISbveQEZjebZY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006711130538889216/pl/fV8P3z8HcqPZ9Ydh.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1185,
+        "media_key": "3_2006711130199035905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lFJBJWEAEwMBI.jpg",
+        "width": 733
+      },
+      {
+        "height": 953,
+        "media_key": "3_2006711126151573504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lFIyEWsAAGv4I.jpg",
+        "width": 627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2006742210427920502",
+        "created_at": "2026-01-02T16:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007130582581669942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007130582581669942",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006742210427920502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 还是被钟离拿下的，这波 mhy 立大功"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006711130253676544",
+            "13_2006711130538889216",
+            "3_2006711130199035905",
+            "3_2006711126151573504"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006742210427920502",
+        "created_at": "2026-01-01T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006742210427920502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2PqegSDpf",
+              "end": 80,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2006742210427920502/video/1",
+              "media_key": "13_2006711130253676544",
+              "start": 57,
+              "url": "https://t.co/V2PqegSDpf"
+            },
+            {
+              "display_url": "pic.x.com/V2PqegSDpf",
+              "end": 80,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2006742210427920502/video/1",
+              "media_key": "13_2006711130538889216",
+              "start": 57,
+              "url": "https://t.co/V2PqegSDpf"
+            },
+            {
+              "display_url": "pic.x.com/V2PqegSDpf",
+              "end": 80,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2006742210427920502/video/1",
+              "media_key": "3_2006711130199035905",
+              "start": 57,
+              "url": "https://t.co/V2PqegSDpf"
+            },
+            {
+              "display_url": "pic.x.com/V2PqegSDpf",
+              "end": 80,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2006742210427920502/video/1",
+              "media_key": "3_2006711126151573504",
+              "start": 57,
+              "url": "https://t.co/V2PqegSDpf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006742210427920502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 386270,
+          "like_count": 871,
+          "quote_count": 24,
+          "reply_count": 143,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "1月1日，苏州ACG动漫展\n一名年轻人因为COS《我的英雄学院》中的角色\n被现场其他COS按倒，最后被保安押走。 https://t.co/V2PqegSDpf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/4cqyPUZQfM"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 42,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/4cqyPUZQfM",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2001620917701501364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172279,
+          "following_count": 992,
+          "like_count": 8561,
+          "listed_count": 8487,
+          "media_count": 39395,
+          "tweet_count": 46318
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

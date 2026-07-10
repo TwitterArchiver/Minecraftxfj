@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2070991757563810184",
+    "created_at": "2026-06-28T04:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071095711538843871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "724633853617266689",
+          "start": 0,
+          "username": "StormRaiser123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071095711538843871",
+    "in_reply_to_user_id": "724633853617266689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070991757563810184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StormRaiser123 暴殄天物"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11888,
+        "height": 1920,
+        "media_key": "13_2070991726878334976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070991726878334976/img/iTOH3ke-27RwCfJ_.jpg",
+        "public_metrics": {
+          "view_count": 266
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070991726878334976/vid/avc1/320x568/NkA5VoKBRnPi7Dz3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070991726878334976/vid/avc1/480x852/UwN7pZlIKJsG3_JE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070991726878334976/vid/avc1/720x1280/awzce8Ei0MA8wjD1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070991726878334976/pl/96tYHpjR20XEIBiW.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2070991757563810184",
+        "created_at": "2026-06-28T04:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071095711538843871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "724633853617266689",
+              "start": 0,
+              "username": "StormRaiser123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071095711538843871",
+        "in_reply_to_user_id": "724633853617266689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070991757563810184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StormRaiser123 暴殄天物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070991726878334976"
+          ]
+        },
+        "author_id": "724633853617266689",
+        "conversation_id": "2070991757563810184",
+        "created_at": "2026-06-27T22:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T23:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070991757563810184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wv0IWmGuU",
+              "end": 25,
+              "expanded_url": "https://x.com/StormRaiser123/status/2070991757563810184/video/1",
+              "media_key": "13_2070991726878334976",
+              "start": 2,
+              "url": "https://t.co/7wv0IWmGuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070991757563810184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 620,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽 https://t.co/7wv0IWmGuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 280,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-25T16:19:08.000Z",
+        "description": "I don't want to be a tech bro. I want to be a Renaissance man.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stormraiser.me",
+                "end": 23,
+                "expanded_url": "https://stormraiser.me/",
+                "start": 0,
+                "url": "https://t.co/dbsHloR5ka"
+              }
+            ]
+          }
+        },
+        "id": "724633853617266689",
+        "location": "Los Angeles, CA",
+        "name": "🍫🩷StormRaiser🩵🌿",
+        "pinned_tweet_id": "1914384327682744494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006113282336382976/X6GFVfSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 957,
+          "like_count": 1044,
+          "listed_count": 26,
+          "media_count": 3867,
+          "tweet_count": 31533
+        },
+        "url": "https://t.co/dbsHloR5ka",
+        "username": "StormRaiser123",
+        "verified": false
+      }
+    ]
+  }
+}

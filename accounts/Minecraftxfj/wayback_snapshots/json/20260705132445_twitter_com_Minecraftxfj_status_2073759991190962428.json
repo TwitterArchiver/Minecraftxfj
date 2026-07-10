@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073418402509766972",
+    "created_at": "2026-07-05T13:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073759991190962428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "762647308928376833",
+          "start": 0,
+          "username": "dentakumath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073759991190962428",
+    "in_reply_to_user_id": "762647308928376833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073418402509766972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dentakumath 咕咕嘎嘎！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_2073418396142800896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZDC7zaEAAQmag.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073418402509766972",
+        "created_at": "2026-07-05T13:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073759991190962428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "762647308928376833",
+              "start": 0,
+              "username": "dentakumath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073759991190962428",
+        "in_reply_to_user_id": "762647308928376833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073418402509766972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dentakumath 咕咕嘎嘎！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073418396142800896"
+          ]
+        },
+        "author_id": "762647308928376833",
+        "conversation_id": "2073418402509766972",
+        "created_at": "2026-07-04T14:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073418402509766972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBvwa3di9c",
+              "end": 46,
+              "expanded_url": "https://x.com/dentakumath/status/2073418402509766972/photo/1",
+              "media_key": "3_2073418396142800896",
+              "start": 23,
+              "url": "https://t.co/hBvwa3di9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073418402509766972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 1102245,
+          "like_count": 13031,
+          "quote_count": 118,
+          "reply_count": 32,
+          "retweet_count": 769
+        },
+        "reply_settings": "everyone",
+        "text": "今日久々に大学行ったら新しい正門が完成してた https://t.co/hBvwa3di9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 288,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-08T13:51:02.000Z",
+        "description": "数学 AtCoder水/水 インターネット住民のなれ果て",
+        "id": "762647308928376833",
+        "location": "家のε近傍",
+        "name": "電たくT",
+        "pinned_tweet_id": "2039300351183171954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668650823788773376/xTZfhCzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 5983,
+          "like_count": 71456,
+          "listed_count": 46,
+          "media_count": 7901,
+          "tweet_count": 70076
+        },
+        "url": "",
+        "username": "dentakumath",
+        "verified": false
+      }
+    ]
+  }
+}

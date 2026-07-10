@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063428896830398464"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063428918192091228",
+    "created_at": "2026-06-07T01:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063428918192091228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6InI1bNUFn",
+          "end": 46,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2063428918192091228/photo/1",
+          "media_key": "3_2063428896830398464",
+          "start": 23,
+          "url": "https://t.co/6InI1bNUFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063428918192091228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "语文开考了\n高考生加油喵\n明年就该轮到我了🤫 https://t.co/6InI1bNUFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2063428896830398464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLFpi7aIAAKMHu.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063428896830398464"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063428918192091228",
+        "created_at": "2026-06-07T01:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063428918192091228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6InI1bNUFn",
+              "end": 46,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2063428918192091228/photo/1",
+              "media_key": "3_2063428896830398464",
+              "start": 23,
+              "url": "https://t.co/6InI1bNUFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063428918192091228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "语文开考了\n高考生加油喵\n明年就该轮到我了🤫 https://t.co/6InI1bNUFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 83,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

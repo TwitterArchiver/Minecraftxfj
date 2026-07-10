@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2062793908091015444",
+    "created_at": "2026-06-06T02:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063082600110215305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "867417063299600385",
+          "start": 0,
+          "username": "aiqian1303"
+        },
+        {
+          "end": 24,
+          "id": "2008005819263266816",
+          "start": 12,
+          "username": "nme12894541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063082600110215305",
+    "in_reply_to_user_id": "867417063299600385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063081829939523978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiqian1303 @nme12894541 人类已经可以听懂苍蝇说话了吗🤔，有没有相关技术的论文啥的发我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2062793908091015444",
+        "created_at": "2026-06-06T02:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063082600110215305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "867417063299600385",
+              "start": 0,
+              "username": "aiqian1303"
+            },
+            {
+              "end": 24,
+              "id": "2008005819263266816",
+              "start": 12,
+              "username": "nme12894541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063082600110215305",
+        "in_reply_to_user_id": "867417063299600385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063081829939523978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiqian1303 @nme12894541 人类已经可以听懂苍蝇说话了吗🤔，有没有相关技术的论文啥的发我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "867417063299600385",
+        "conversation_id": "2062793908091015444",
+        "created_at": "2026-06-06T02:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063081829939523978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            },
+            {
+              "end": 26,
+              "id": "2008005819263266816",
+              "start": 14,
+              "username": "nme12894541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063081829939523978",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062976693514784782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj @nme12894541 苍蝇还说屎是世界上最香呢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-24T16:28:38.000Z",
+        "description": "春秋一场梦 日月两盏灯",
+        "id": "867417063299600385",
+        "name": "布衣之怒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128680622434574337/o1kviHp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 346,
+          "like_count": 2163,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 3862
+        },
+        "username": "aiqian1303",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T02:41:32.000Z",
+        "description": "＃精简生活＃美食控＃国产牛马#中🌸传统文化爱好者，欢迎互动哟～",
+        "id": "2008005819263266816",
+        "name": "兔兔侠（包互的）",
+        "pinned_tweet_id": "2057254816905388514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052931613886119936/WreFR2ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1069,
+          "like_count": 1974,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2070
+        },
+        "username": "nme12894541",
+        "verified": false
+      }
+    ]
+  }
+}

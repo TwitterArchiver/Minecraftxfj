@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066992384320106496"
+      ],
+      "media_source_tweet_id": [
+        "2066992799715582134"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067284381895655662",
+    "created_at": "2026-06-17T16:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067284381895655662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048303363670802432",
+          "start": 3,
+          "username": "Homelandertc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRminX1ZAp",
+          "end": 131,
+          "expanded_url": "https://x.com/Homelandertc/status/2066992799715582134/video/1",
+          "media_key": "13_2066992384320106496",
+          "start": 108,
+          "url": "https://t.co/XRminX1ZAp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067284381895655662",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066992799715582134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Homelandertc: Why do I sound like this on the Japanese version 😭😭. Is this really how I sound in Japan? https://t.co/XRminX1ZAp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067284381895655662].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067284381895655662",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067284381895655662"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73560,
+        "height": 642,
+        "media_key": "13_2066992384320106496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066992384320106496/img/L78rf9kKaZN-oxiw.jpg",
+        "public_metrics": {
+          "view_count": 7353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066992384320106496/vid/avc1/542x270/9yDo9g2mRYMvOqUp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066992384320106496/vid/avc1/722x360/BVCdLBj9kVJGSMFg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066992384320106496/vid/avc1/1290x642/emUWc3_YUk0rnL21.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066992384320106496/pl/Mmx5mlBXdjqQVNJN.m3u8?v=fb3"
+          }
+        ],
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066992384320106496"
+          ]
+        },
+        "author_id": "2048303363670802432",
+        "conversation_id": "2066992799715582134",
+        "created_at": "2026-06-16T21:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066992799715582134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRminX1ZAp",
+              "end": 113,
+              "expanded_url": "https://x.com/Homelandertc/status/2066992799715582134/video/1",
+              "media_key": "13_2066992384320106496",
+              "start": 90,
+              "url": "https://t.co/XRminX1ZAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066992799715582134",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 18565,
+          "like_count": 479,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "Why do I sound like this on the Japanese version 😭😭. Is this really how I sound in Japan? https://t.co/XRminX1ZAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 154,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T07:29:54.000Z",
+        "description": "The Ghost of Homelander. Fan Account.",
+        "id": "2048303363670802432",
+        "location": "Heaven ",
+        "name": "Homelander",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048303841893117952/dGSKTn78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29645,
+          "following_count": 112,
+          "like_count": 118,
+          "listed_count": 7,
+          "media_count": 416,
+          "tweet_count": 993
+        },
+        "username": "Homelandertc",
+        "verified": true
+      }
+    ]
+  }
+}

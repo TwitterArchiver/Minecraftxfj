@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073998206615351296",
+        "3_2073998206598586368"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337091419786203137",
+          "name": "Aimer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337091419786203137",
+          "name": "Aimer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337091419786203137",
+          "name": "Aimer"
+        }
+      }
+    ],
+    "conversation_id": "2074000125823955282",
+    "created_at": "2026-07-06T05:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074000125823955282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0KNVTorudJ",
+          "end": 115,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2074000125823955282/photo/1",
+          "media_key": "3_2073998206615351296",
+          "start": 92,
+          "url": "https://t.co/0KNVTorudJ"
+        },
+        {
+          "display_url": "pic.x.com/0KNVTorudJ",
+          "end": 115,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2074000125823955282/photo/1",
+          "media_key": "3_2073998206598586368",
+          "start": 92,
+          "url": "https://t.co/0KNVTorudJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074000125823955282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "Day 22\n\n「多么幸运我们错失彼此\n    何其不幸我们曾经相知」\n\nAimer好像是以前咽喉病变了还是什么病，坚持练习唱歌才有了这种独特的沙哑嗓音，她的歌声就见证了她一路的坎坷\n至于《恋如雨止》这番我真没看太懂（虽然看完就忘了），好像就是橘喜欢店长大叔但是大叔拒绝了，后来还引导她重新回到跑道上当运动员，反正是挺好的一部番，可以看看\n\n *  这歌以前的封面是这个吗（？\n * 我说我今天感觉好像忘了点啥，差点忘发了（）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 22\n\n「多么幸运我们错失彼此\n    何其不幸我们曾经相知」\n\nAimer好像是以前咽喉病变了还是什么病，坚持练习唱歌才有了这种独特的沙哑嗓音，她的歌声就见证了她一路的坎坷 https://t.co/0KNVTorudJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2073998206615351296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhSYWIa8AAbSY0.jpg",
+        "width": 1170
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2073998206598586368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhSYWEbIAAlgCE.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073998206615351296",
+            "3_2073998206598586368"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337091419786203137",
+              "name": "Aimer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337091419786203137",
+              "name": "Aimer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337091419786203137",
+              "name": "Aimer"
+            }
+          }
+        ],
+        "conversation_id": "2074000125823955282",
+        "created_at": "2026-07-06T05:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074000125823955282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KNVTorudJ",
+              "end": 115,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2074000125823955282/photo/1",
+              "media_key": "3_2073998206615351296",
+              "start": 92,
+              "url": "https://t.co/0KNVTorudJ"
+            },
+            {
+              "display_url": "pic.x.com/0KNVTorudJ",
+              "end": 115,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2074000125823955282/photo/1",
+              "media_key": "3_2073998206598586368",
+              "start": 92,
+              "url": "https://t.co/0KNVTorudJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074000125823955282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Day 22\n\n「多么幸运我们错失彼此\n    何其不幸我们曾经相知」\n\nAimer好像是以前咽喉病变了还是什么病，坚持练习唱歌才有了这种独特的沙哑嗓音，她的歌声就见证了她一路的坎坷\n至于《恋如雨止》这番我真没看太懂（虽然看完就忘了），好像就是橘喜欢店长大叔但是大叔拒绝了，后来还引导她重新回到跑道上当运动员，反正是挺好的一部番，可以看看\n\n *  这歌以前的封面是这个吗（？\n * 我说我今天感觉好像忘了点啥，差点忘发了（）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 22\n\n「多么幸运我们错失彼此\n    何其不幸我们曾经相知」\n\nAimer好像是以前咽喉病变了还是什么病，坚持练习唱歌才有了这种独特的沙哑嗓音，她的歌声就见证了她一路的坎坷 https://t.co/0KNVTorudJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 290,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      }
+    ]
+  }
+}

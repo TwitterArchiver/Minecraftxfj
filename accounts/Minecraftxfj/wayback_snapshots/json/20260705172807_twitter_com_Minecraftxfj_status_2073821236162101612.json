@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073724067635687635",
+    "created_at": "2026-07-05T17:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073821236162101612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1510775205064753153",
+          "start": 0,
+          "username": "ruihanmeimei01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073821236162101612",
+    "in_reply_to_user_id": "1510775205064753153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073724067635687635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruihanmeimei01 藏色这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18715,
+        "height": 1280,
+        "media_key": "13_2073422081027674112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073422081027674112/img/Na6cJjw7LPv7NrBP.jpg",
+        "public_metrics": {
+          "view_count": 7511
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073422081027674112/vid/avc1/320x568/S0uy-LdL537_jPC9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073422081027674112/vid/avc1/480x852/w70YVL5bvLIjNs9d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073422081027674112/vid/avc1/720x1280/OZ4uys7M72105HYY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073422081027674112/pl/H847EV74E29KaBhs.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073724067635687635",
+        "created_at": "2026-07-05T17:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073821236162101612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1510775205064753153",
+              "start": 0,
+              "username": "ruihanmeimei01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073821236162101612",
+        "in_reply_to_user_id": "1510775205064753153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073724067635687635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruihanmeimei01 藏色这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073422081027674112"
+          ]
+        },
+        "author_id": "1510775205064753153",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2073724067635687635",
+        "created_at": "2026-07-05T11:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073724067635687635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdR0NFT6TI",
+              "end": 67,
+              "expanded_url": "https://x.com/ruihanmeimei01/status/2073724067635687635/video/1",
+              "media_key": "13_2073422081027674112",
+              "start": 44,
+              "url": "https://t.co/KdR0NFT6TI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073724067635687635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13520,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "女生化妆下手有多猛，层层涂抹完成精致绝美妆造！网友：我刷墙都没这么大胆，实在太厉害了！ https://t.co/KdR0NFT6TI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 288,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-04T00:24:25.000Z",
+        "description": "分享中国崛起故事、科技变化、历史真相、热点新闻事件！中国の崛起の物語、科学技術の変化、歴史の真実、注目のニュース事件を共有します。Sharing stories of China's rise, technological changes, historical truth",
+        "id": "1510775205064753153",
+        "name": "锐汉街评",
+        "pinned_tweet_id": "2068846930659344451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995327192532967424/DFZX9CP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165139,
+          "following_count": 12617,
+          "like_count": 26944,
+          "listed_count": 229,
+          "media_count": 5105,
+          "tweet_count": 26717
+        },
+        "url": "",
+        "username": "ruihanmeimei01",
+        "verified": true
+      }
+    ]
+  }
+}

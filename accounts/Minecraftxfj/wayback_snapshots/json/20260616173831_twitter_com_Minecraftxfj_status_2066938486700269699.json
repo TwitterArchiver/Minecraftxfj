@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066774115906953393",
+    "created_at": "2026-06-16T17:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066938486700269699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999012720839110656",
+          "start": 0,
+          "username": "ChujiaAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066938486700269699",
+    "in_reply_to_user_id": "1999012720839110656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066774115906953393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChujiaAI 666 雷总吃个面你都不让了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_2066774098857091072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6oF7la4AAGblT.jpg",
+        "width": 1737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066774115906953393",
+        "created_at": "2026-06-16T17:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066938486700269699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999012720839110656",
+              "start": 0,
+              "username": "ChujiaAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938486700269699",
+        "in_reply_to_user_id": "1999012720839110656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066774115906953393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChujiaAI 666 雷总吃个面你都不让了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066774098857091072"
+          ]
+        },
+        "author_id": "1999012720839110656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066774115906953393",
+        "created_at": "2026-06-16T06:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066774115906953393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xeaXpRqAk",
+              "end": 65,
+              "expanded_url": "https://x.com/ChujiaAI/status/2066774115906953393/photo/1",
+              "media_key": "3_2066774098857091072",
+              "start": 42,
+              "url": "https://t.co/2xeaXpRqAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066774115906953393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 229907,
+          "like_count": 1212,
+          "quote_count": 15,
+          "reply_count": 432,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "『雷仁勋』三个字已上热搜\n\n小米果然是做高仿的\n\n学了个遍，唯独不学老黄给全场买单 https://t.co/2xeaXpRqAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 127,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T07:06:14.000Z",
+        "description": "AI + TL;DR | 赚钱、卷、活下去，像牲口一样活下去",
+        "id": "1999012720839110656",
+        "name": "出甲",
+        "pinned_tweet_id": "2064934720912388563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053694594282590208/kpQuPfF-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 2007,
+          "like_count": 12621,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 6627
+        },
+        "username": "ChujiaAI",
+        "verified": true
+      }
+    ]
+  }
+}

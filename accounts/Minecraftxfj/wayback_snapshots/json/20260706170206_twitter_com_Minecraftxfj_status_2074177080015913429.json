@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074177018842025984"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074118057208000657",
+    "created_at": "2026-07-06T17:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074177080015913429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRo7Ae5llq",
+          "end": 44,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2074177080015913429/photo/1",
+          "media_key": "3_2074177018842025984",
+          "start": 21,
+          "url": "https://t.co/GRo7Ae5llq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074177080015913429",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074118057208000657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT T12 赛高🙏 https://t.co/GRo7Ae5llq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074177018842025984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj1AllbkAAF5FP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074118054108422144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi_YY1bYAAzZ54.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074177018842025984"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074118057208000657",
+        "created_at": "2026-07-06T17:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074177080015913429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRo7Ae5llq",
+              "end": 44,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2074177080015913429/photo/1",
+              "media_key": "3_2074177018842025984",
+              "start": 21,
+              "url": "https://t.co/GRo7Ae5llq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074177080015913429",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074118057208000657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT T12 赛高🙏 https://t.co/GRo7Ae5llq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074118054108422144"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2074118057208000657",
+        "created_at": "2026-07-06T13:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074118057208000657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5ubu9175H",
+              "end": 164,
+              "expanded_url": "https://x.com/666666666ZT/status/2074118057208000657/photo/1",
+              "media_key": "3_2074118054108422144",
+              "start": 141,
+              "url": "https://t.co/o5ubu9175H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074118057208000657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲鱼卖936焊台的我告诉你一个事实，全新的936焊台（带手柄烙铁头）只需要42块钱就能买到，而你在闲鱼上买同样价格却是二手的焊台，这下知道怎么选了吗，936焊台最近掉价越来越严重了，二手价格最好低一点，出售并且送烙铁头，手柄，支架，焊锡丝，松香，助焊剂，镊子，之类的，这样更好卖出 https://t.co/o5ubu9175H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 291,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 230,
+          "like_count": 26,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": false
+      }
+    ]
+  }
+}

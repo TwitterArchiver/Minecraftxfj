@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2068383737231151508",
+    "created_at": "2026-06-20T17:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068387936446599545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068387936446599545",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068383737231151508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc 这是在干嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15790,
+        "height": 1280,
+        "media_key": "13_2068383682201894912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068383682201894912/img/dJfhYA1Nc0BygRTo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068383682201894912/vid/avc1/320x568/0IGwGlsjn5bKy_fE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068383682201894912/vid/avc1/480x852/0pv1LVvPHjmdxJmB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068383682201894912/vid/avc1/720x1280/qQggXhTvv6lVEu0X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068383682201894912/pl/UkX1iZ1Shi6KkNPa.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068383681186807808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRf_9BawAAaylB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2068383737231151508",
+        "created_at": "2026-06-20T17:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068387936446599545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068387936446599545",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068383737231151508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc 这是在干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068383682201894912",
+            "3_2068383681186807808"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "conversation_id": "2068383737231151508",
+        "created_at": "2026-06-20T17:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068383737231151508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "广济街"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HExdB6IKEl",
+              "end": 28,
+              "expanded_url": "https://x.com/Mimiaomc/status/2068383737231151508/video/1",
+              "media_key": "13_2068383682201894912",
+              "start": 5,
+              "url": "https://t.co/HExdB6IKEl"
+            },
+            {
+              "display_url": "pic.x.com/HExdB6IKEl",
+              "end": 28,
+              "expanded_url": "https://x.com/Mimiaomc/status/2068383737231151508/video/1",
+              "media_key": "3_2068383681186807808",
+              "start": 5,
+              "url": "https://t.co/HExdB6IKEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068383737231151508",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#广济街 https://t.co/HExdB6IKEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 236,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟\n渴望被爱 | 会尽力去爱朋友 | 2009 | MtF | 西安高新 |\n红帽 Linux | 铁路迷 | 温柔大姐姐 | 高中笔记站长 |\n邮政 | 卡组织 | 公交 | 离家出走 | 嵌入式 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "https://classnote.top",
+                "start": 0,
+                "url": "https://t.co/gOvxKZpBRM"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "CLOUDFLARE.COM",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2067708459345403918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374736977145303040/wMVCqAP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 143,
+          "like_count": 1526,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/gOvxKZpBRM",
+        "username": "Mimiaomc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074149271562231847",
+    "created_at": "2026-07-06T16:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074174177633001792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074174177633001792",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074149271562231847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 我的 b 站："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2074149182223589376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjbsSGaoAAjcDj.jpg",
+        "width": 800
+      },
+      {
+        "height": 1138,
+        "media_key": "3_2074149182273908736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjbsSSacAAwSTH.jpg",
+        "width": 750
+      },
+      {
+        "height": 1067,
+        "media_key": "3_2074149182118752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjbsRta8AAbTH_.jpg",
+        "width": 800
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2074149182261370880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjbsSPbIAA8xBp.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074149271562231847",
+        "created_at": "2026-07-06T16:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074174177633001792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074174177633001792",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074149271562231847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 我的 b 站："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074149182223589376",
+            "3_2074149182273908736",
+            "3_2074149182118752256",
+            "3_2074149182261370880"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074149271562231847",
+        "created_at": "2026-07-06T15:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074149271562231847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LUkwFDZP7",
+              "end": 59,
+              "expanded_url": "https://x.com/DianJ71828/status/2074149271562231847/photo/1",
+              "media_key": "3_2074149182223589376",
+              "start": 36,
+              "url": "https://t.co/9LUkwFDZP7"
+            },
+            {
+              "display_url": "pic.x.com/9LUkwFDZP7",
+              "end": 59,
+              "expanded_url": "https://x.com/DianJ71828/status/2074149271562231847/photo/1",
+              "media_key": "3_2074149182273908736",
+              "start": 36,
+              "url": "https://t.co/9LUkwFDZP7"
+            },
+            {
+              "display_url": "pic.x.com/9LUkwFDZP7",
+              "end": 59,
+              "expanded_url": "https://x.com/DianJ71828/status/2074149271562231847/photo/1",
+              "media_key": "3_2074149182118752256",
+              "start": 36,
+              "url": "https://t.co/9LUkwFDZP7"
+            },
+            {
+              "display_url": "pic.x.com/9LUkwFDZP7",
+              "end": 59,
+              "expanded_url": "https://x.com/DianJ71828/status/2074149271562231847/photo/1",
+              "media_key": "3_2074149182261370880",
+              "start": 36,
+              "url": "https://t.co/9LUkwFDZP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074149271562231847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妖魔鬼怪快离开～\n妖魔鬼怪快离开～\n妖魔鬼怪快离开～\n妖魔鬼怪快离开～ https://t.co/9LUkwFDZP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 291,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 541,
+          "like_count": 13023,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2647
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": true
+      }
+    ]
+  }
+}

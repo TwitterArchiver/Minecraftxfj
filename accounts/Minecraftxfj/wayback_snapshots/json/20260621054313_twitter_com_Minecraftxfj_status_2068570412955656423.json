@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2068467693364167149",
+    "created_at": "2026-06-21T05:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068570412955656423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2005831710030905344",
+          "start": 0,
+          "username": "rei_quq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068570412955656423",
+    "in_reply_to_user_id": "2005831710030905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068467693364167149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rei_quq 这一身有点显矮🤔\n怎么说呢，是明星都很难 hold 住的穿搭\n（无恶意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068467688343490560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSsZ0EWUAAM6fv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1581,
+        "media_key": "3_2068467688628707328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSsZ1IWYAA_oLW.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2068467693364167149",
+        "created_at": "2026-06-21T05:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068570412955656423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005831710030905344",
+              "start": 0,
+              "username": "rei_quq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068570412955656423",
+        "in_reply_to_user_id": "2005831710030905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068467693364167149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rei_quq 这一身有点显矮🤔\n怎么说呢，是明星都很难 hold 住的穿搭\n（无恶意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068467688343490560",
+            "3_2068467688628707328"
+          ]
+        },
+        "author_id": "2005831710030905344",
+        "conversation_id": "2068467693364167149",
+        "created_at": "2026-06-20T22:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068467693364167149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "JISOO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abZ43nvqi3",
+              "end": 41,
+              "expanded_url": "https://x.com/rei_quq/status/2068467693364167149/photo/1",
+              "media_key": "3_2068467688343490560",
+              "start": 18,
+              "url": "https://t.co/abZ43nvqi3"
+            },
+            {
+              "display_url": "pic.x.com/abZ43nvqi3",
+              "end": 41,
+              "expanded_url": "https://x.com/rei_quq/status/2068467693364167149/photo/1",
+              "media_key": "3_2068467688628707328",
+              "start": 18,
+              "url": "https://t.co/abZ43nvqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068467693364167149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "借鉴 #JISOO 穿搭的拙劣模仿 https://t.co/abZ43nvqi3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 256,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T02:42:14.000Z",
+        "description": "Im ok.",
+        "id": "2005831710030905344",
+        "location": "Manhattan, NY",
+        "name": "rei💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049885873848655873/hxZEfx7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 16,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "rei_quq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066810022215246135",
+    "created_at": "2026-06-16T17:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066943818675675173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515257804642209794",
+          "start": 0,
+          "username": "pepeniub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066943818675675173",
+    "in_reply_to_user_id": "1515257804642209794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066810022215246135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pepeniub 你就挺像卖的，sb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066810022215246135",
+        "created_at": "2026-06-16T17:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066943818675675173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515257804642209794",
+              "start": 0,
+              "username": "pepeniub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066943818675675173",
+        "in_reply_to_user_id": "1515257804642209794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066810022215246135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pepeniub 你就挺像卖的，sb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515257804642209794",
+        "conversation_id": "2066810022215246135",
+        "created_at": "2026-06-16T09:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066810022215246135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066810022215246135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 132918,
+          "like_count": 140,
+          "quote_count": 2,
+          "reply_count": 270,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "讲个冷知识：\n62% 的男性嫖过\n21% 的女性卖过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 127,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T09:16:36.000Z",
+        "description": "前字节员工，进美股&Crypto交流群（付费）填表：https://t.co/CPxMDfQrXo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/pp-vip-group",
+                "end": 49,
+                "expanded_url": "https://tinyurl.com/pp-vip-group",
+                "start": 26,
+                "url": "https://t.co/CPxMDfQrXo"
+              }
+            ]
+          }
+        },
+        "id": "1515257804642209794",
+        "name": "pp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867515928604516352/Vg2OGHpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17663,
+          "following_count": 304,
+          "like_count": 282,
+          "listed_count": 84,
+          "media_count": 76,
+          "tweet_count": 361
+        },
+        "username": "pepeniub",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974279376884936704"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "1974111372683379181",
+    "created_at": "2025-10-04T01:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T02:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974279379439280462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936364417001852928",
+          "start": 0,
+          "username": "Your962497980"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f6DZq5dybX",
+          "end": 44,
+          "expanded_url": "https://x.com/Minecraftxfj/status/1974279379439280462/photo/1",
+          "media_key": "3_1974279376884936704",
+          "start": 21,
+          "url": "https://t.co/f6DZq5dybX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974279379439280462",
+    "in_reply_to_user_id": "1936364417001852928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974111372683379181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Your962497980 我超！盒！ https://t.co/f6DZq5dybX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_1974279376884936704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2YMohKbMAAvBiS.jpg",
+        "width": 652
+      },
+      {
+        "duration_ms": 72353,
+        "height": 1280,
+        "media_key": "7_1974110873620017152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974110873620017152/pu/img/vL6N8AvK3soymPg0.jpg",
+        "public_metrics": {
+          "view_count": 35928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/320x710/1YrMuMdTx4Fa_9RC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/480x1066/WBJwJ0TNW6ejiFWe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/576x1280/K7YkYXqHlWbiExJg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/pl/k64ZPJxs9x7f2oPg.m3u8?tag=12&v=b84"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974279376884936704"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "1974111372683379181",
+        "created_at": "2025-10-04T01:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T02:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974279379439280462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936364417001852928",
+              "start": 0,
+              "username": "Your962497980"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6DZq5dybX",
+              "end": 44,
+              "expanded_url": "https://x.com/Minecraftxfj/status/1974279379439280462/photo/1",
+              "media_key": "3_1974279376884936704",
+              "start": 21,
+              "url": "https://t.co/f6DZq5dybX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974279379439280462",
+        "in_reply_to_user_id": "1936364417001852928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974111372683379181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Your962497980 我超！盒！ https://t.co/f6DZq5dybX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974110873620017152"
+          ]
+        },
+        "author_id": "1936364417001852928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1974111372683379181",
+        "created_at": "2025-10-03T13:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974111372683379181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hg56dRF3u3",
+              "end": 187,
+              "expanded_url": "https://x.com/Your962497980/status/1974111372683379181/video/1",
+              "media_key": "7_1974110873620017152",
+              "start": 164,
+              "url": "https://t.co/hg56dRF3u3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974111372683379181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 88962,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "首先您家孩子都20了肯定是有分辨能力的而且您家孩子的妈妈都同意她进行HRT了所以说您这是什么意思呢？\n威胁我是吗？那就奖励个户籍满天飞吧\n 姓名: 仲怀军\n身份证: 321023197909232017\n身份证归属地: 江苏省扬州市宝应县\n性别: 男\n生肖: 羊\n星座: 天蝎座\n年龄: 46\n出生日期: 1979年9月23日 https://t.co/hg56dRF3u3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "🍥🈚️主人状态ing...🍥\n⎜09 ⎜185cm/80kg 的大药娘⎜MTF🏳️‍⚧️⎜轻度抑郁⎜ps.老号ban了，这是个新号喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top/about",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top/about",
+                "start": 0,
+                "url": "https://t.co/WXP0sGMbeL"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964029359834181632/7GIm3Umq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 30,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/WXP0sGMbeL",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T10:03:56.000Z",
+        "description": "含🍬｜已出柜｜\n15岁｜HRT2025.6.23｜Your幽小乐｜\n可以叫我幽小乐或者Your｜\n170cm｜47kg｜\n家里蹲｜ISFP｜一般不会主动发信息｜不会聊天｜对象@langmobai嘿嘿｜好姐姐@qqnjjwb｜有能力的话咱幽会尽量帮助mtf的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "langmobai"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1936364417001852928",
+        "location": "河北省衡水市",
+        "name": "Your幽小乐🍥",
+        "pinned_tweet_id": "1957784906790236283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945580096670109696/ep695TGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 837,
+          "like_count": 1208,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 428
+        },
+        "username": "Your962497980",
+        "verified": false
+      }
+    ]
+  }
+}

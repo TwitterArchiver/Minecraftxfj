@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067793682020130816"
+      ],
+      "media_source_tweet_id": [
+        "2067793688047350073"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465690254975766530",
+          "name": "Children's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1465690254975766530",
+          "name": "Children's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465690254975766530",
+          "name": "Children's Day"
+        }
+      }
+    ],
+    "conversation_id": "2067982337758167333",
+    "created_at": "2026-06-19T14:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067982337758167333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1986095053664841728",
+          "start": 3,
+          "username": "gaminArknights"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gg3VE1FdPh",
+          "end": 57,
+          "expanded_url": "https://x.com/gaminArknights/status/2067793688047350073/photo/1",
+          "media_key": "3_2067793682020130816",
+          "start": 34,
+          "url": "https://t.co/gg3VE1FdPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067982337758167333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067793688047350073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gaminArknights: 今日は中国の端午の節句だね https://t.co/gg3VE1FdPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067793682020130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJHZe2bYAAusBd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067793682020130816"
+          ],
+          "media_source_tweet_id": [
+            "2067793688047350073"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465690254975766530",
+              "name": "Children's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1465690254975766530",
+              "name": "Children's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465690254975766530",
+              "name": "Children's Day"
+            }
+          }
+        ],
+        "conversation_id": "2067982337758167333",
+        "created_at": "2026-06-19T14:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067982337758167333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1986095053664841728",
+              "start": 3,
+              "username": "gaminArknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gg3VE1FdPh",
+              "end": 57,
+              "expanded_url": "https://x.com/gaminArknights/status/2067793688047350073/photo/1",
+              "media_key": "3_2067793682020130816",
+              "start": 34,
+              "url": "https://t.co/gg3VE1FdPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067982337758167333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067793688047350073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gaminArknights: 今日は中国の端午の節句だね https://t.co/gg3VE1FdPh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067793682020130816"
+          ]
+        },
+        "author_id": "1986095053664841728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465690254975766530",
+              "name": "Children's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1465690254975766530",
+              "name": "Children's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465690254975766530",
+              "name": "Children's Day"
+            }
+          }
+        ],
+        "conversation_id": "2067793688047350073",
+        "created_at": "2026-06-19T02:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067793688047350073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gg3VE1FdPh",
+              "end": 37,
+              "expanded_url": "https://x.com/gaminArknights/status/2067793688047350073/photo/1",
+              "media_key": "3_2067793682020130816",
+              "start": 14,
+              "url": "https://t.co/gg3VE1FdPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067793688047350073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9975,
+          "like_count": 458,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "今日は中国の端午の節句だね https://t.co/gg3VE1FdPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 201,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T15:35:44.000Z",
+        "description": "明日方舟/终末地の谷子が好きな日本人\n大陸情報有〼 フォロバはドクターのみ\n\nSupported by AI translation.\n\nアークナイツ/エンドフィールド//ブルアカ/バンドリ/学マス\n明日方舟/终末地//蔚蓝档案/少女乐团派对/学园偶像大师\n\nヘッダー：냠므명방계 님！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/8218538755",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/8218538755",
+                "start": 0,
+                "url": "https://t.co/jGRUbHapBs"
+              }
+            ]
+          }
+        },
+        "id": "1986095053664841728",
+        "location": "Japan Tokyo",
+        "name": "がみん",
+        "pinned_tweet_id": "2051598877879570669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986106077130391552/fEu68o1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 637,
+          "like_count": 7619,
+          "listed_count": 3,
+          "media_count": 1962,
+          "tweet_count": 10290
+        },
+        "url": "https://t.co/jGRUbHapBs",
+        "username": "gaminArknights",
+        "verified": false
+      }
+    ]
+  }
+}

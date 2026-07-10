@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064288642923950081",
+        "3_2064288644098322432"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2064288693553410400",
+    "created_at": "2026-06-09T10:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064288693553410400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BiuVVsivjf",
+          "end": 130,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2064288693553410400/photo/1",
+          "media_key": "3_2064288642923950081",
+          "start": 107,
+          "url": "https://t.co/BiuVVsivjf"
+        },
+        {
+          "display_url": "pic.x.com/BiuVVsivjf",
+          "end": 130,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2064288693553410400/photo/1",
+          "media_key": "3_2064288644098322432",
+          "start": 107,
+          "url": "https://t.co/BiuVVsivjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064288693553410400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从抽屉里翻到一块硬盘\n赶紧把 NAS 上坏的最厉害的盘替下来\n这盘还是块翻新盘，不过 S.M.A.R.T. 信息提示良好\n我现在严重怀疑坏硬盘的问题出在这个 36 块钱的 DC-ATX 模块上\n毕竟坏了四块硬盘了 https://t.co/BiuVVsivjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064288642923950081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXTlWta8AEwUY2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064288644098322432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXTlbFacAAgn2C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064288642923950081",
+            "3_2064288644098322432"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2064288693553410400",
+        "created_at": "2026-06-09T10:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064288693553410400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BiuVVsivjf",
+              "end": 130,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2064288693553410400/photo/1",
+              "media_key": "3_2064288642923950081",
+              "start": 107,
+              "url": "https://t.co/BiuVVsivjf"
+            },
+            {
+              "display_url": "pic.x.com/BiuVVsivjf",
+              "end": 130,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2064288693553410400/photo/1",
+              "media_key": "3_2064288644098322432",
+              "start": 107,
+              "url": "https://t.co/BiuVVsivjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064288693553410400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从抽屉里翻到一块硬盘\n赶紧把 NAS 上坏的最厉害的盘替下来\n这盘还是块翻新盘，不过 S.M.A.R.T. 信息提示良好\n我现在严重怀疑坏硬盘的问题出在这个 36 块钱的 DC-ATX 模块上\n毕竟坏了四块硬盘了 https://t.co/BiuVVsivjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 85,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

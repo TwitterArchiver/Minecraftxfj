@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073759542798901248"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073683422602514731",
+    "created_at": "2026-07-05T13:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073759922601480551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1209740160943788032",
+          "start": 0,
+          "username": "wotiaozi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MZ7twZYChB",
+          "end": 42,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2073759922601480551/photo/1",
+          "media_key": "3_2073759542798901248",
+          "start": 19,
+          "url": "https://t.co/MZ7twZYChB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073759922601480551",
+    "in_reply_to_user_id": "1209740160943788032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073683422602514731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wotiaozi 他哥的，搞钱了啦 https://t.co/MZ7twZYChB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_2073759542798901248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd5USIa4AAtljK.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1878,
+        "media_key": "3_2073683414482317312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc0FCDWcAATtN0.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073759542798901248"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073683422602514731",
+        "created_at": "2026-07-05T13:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073759922601480551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1209740160943788032",
+              "start": 0,
+              "username": "wotiaozi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZ7twZYChB",
+              "end": 42,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2073759922601480551/photo/1",
+              "media_key": "3_2073759542798901248",
+              "start": 19,
+              "url": "https://t.co/MZ7twZYChB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073759922601480551",
+        "in_reply_to_user_id": "1209740160943788032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073683422602514731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wotiaozi 他哥的，搞钱了啦 https://t.co/MZ7twZYChB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073683414482317312"
+          ]
+        },
+        "author_id": "1209740160943788032",
+        "conversation_id": "2073683422602514731",
+        "created_at": "2026-07-05T08:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073683422602514731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WiqDtZ4xew",
+              "end": 80,
+              "expanded_url": "https://x.com/wotiaozi/status/2073683422602514731/photo/1",
+              "media_key": "3_2073683414482317312",
+              "start": 57,
+              "url": "https://t.co/WiqDtZ4xew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073683422602514731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个挺有钱的朋友告诉过我\n\n如果你的好友当中有使用这个头像的人\n\n直接把他拉黑加删除\n\n我问他为什么？他没告诉我 https://t.co/WiqDtZ4xew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 288,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-25T07:38:39.000Z",
+        "description": "2026年辞职后在家专职做X工作者",
+        "id": "1209740160943788032",
+        "name": "我条子",
+        "pinned_tweet_id": "2071825113717346509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067986635120115712/qrV4Exry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 1870,
+          "like_count": 242,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "wotiaozi",
+        "verified": true
+      }
+    ]
+  }
+}

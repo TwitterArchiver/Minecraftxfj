@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066781076476088375",
+    "created_at": "2026-06-16T16:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066916049296203927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1504295723277631489",
+          "start": 0,
+          "username": "dongxiaojie99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066916049296203927",
+    "in_reply_to_user_id": "1504295723277631489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066781076476088375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongxiaojie99 666 还有绝版人物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066781076476088375",
+        "created_at": "2026-06-16T16:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066916049296203927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504295723277631489",
+              "start": 0,
+              "username": "dongxiaojie99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066916049296203927",
+        "in_reply_to_user_id": "1504295723277631489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066781076476088375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongxiaojie99 666 还有绝版人物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504295723277631489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338367160410726401",
+              "name": "Xiao Zhan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338367160410726401",
+              "name": "Xiao Zhan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338367160410726401",
+              "name": "Xiao Zhan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453011703235444736",
+              "name": "Chinese actors"
+            }
+          }
+        ],
+        "conversation_id": "2066781076476088375",
+        "created_at": "2026-06-16T07:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066781076476088375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066781076476088375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1174,
+          "impression_count": 880897,
+          "like_count": 2002,
+          "quote_count": 12,
+          "reply_count": 454,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "薛之谦31010919830717303x\n肖战500113199110059414\n吴京：11010219740403115X\n孙红雷230102197008160416\n贾乃亮230102198404123718\n大张伟：110103198308310336\n张艺兴430105199110071511\n李易峰510106198705040716\n吴亦凡440106199011060938\n赵露思510106199811092143"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 119,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T03:17:55.000Z",
+        "description": "杭州人\n\n小号 @dongfupo773\n\n广告真假自辩哦！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "dongfupo773"
+              }
+            ]
+          }
+        },
+        "id": "1504295723277631489",
+        "name": "董小姐的日常",
+        "pinned_tweet_id": "2066482031908069712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504297795658072067/U_UpJL-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241114,
+          "following_count": 33,
+          "like_count": 13917,
+          "listed_count": 310,
+          "media_count": 2817,
+          "tweet_count": 14212
+        },
+        "username": "dongxiaojie99",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

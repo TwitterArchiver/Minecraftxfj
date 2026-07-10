@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2059891172726993151",
+    "created_at": "2026-05-28T18:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060063470817804482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1693610946902802432",
+          "start": 0,
+          "username": "fujiperia_z3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060063470817804482",
+    "in_reply_to_user_id": "1693610946902802432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059891172726993151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fujiperia_z3 这真的是去上学的吗（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059891167387586560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY0GlwaEAAAQim.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2059891172726993151",
+        "created_at": "2026-05-28T18:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060063470817804482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1693610946902802432",
+              "start": 0,
+              "username": "fujiperia_z3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060063470817804482",
+        "in_reply_to_user_id": "1693610946902802432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059891172726993151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fujiperia_z3 这真的是去上学的吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059891167387586560"
+          ]
+        },
+        "author_id": "1693610946902802432",
+        "conversation_id": "2059891172726993151",
+        "created_at": "2026-05-28T06:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059891172726993151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjPPSQpXkY",
+              "end": 48,
+              "expanded_url": "https://x.com/fujiperia_z3/status/2059891172726993151/photo/1",
+              "media_key": "3_2059891167387586560",
+              "start": 25,
+              "url": "https://t.co/bjPPSQpXkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059891172726993151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 100641,
+          "like_count": 2287,
+          "quote_count": 64,
+          "reply_count": 61,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "男子高校生のカバンの中身とか\n大体こんな感じだろ https://t.co/bjPPSQpXkY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 70,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T13:08:47.000Z",
+        "description": "SONY製品好き/きらら/まどドラ/デレステ/ブルアカ あんまツイートしないです",
+        "id": "1693610946902802432",
+        "location": "固定に好きな物載っけとく",
+        "name": "ふ",
+        "pinned_tweet_id": "1974082813013147767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046436804593922048/xx18JwXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 785,
+          "like_count": 83832,
+          "listed_count": 1,
+          "media_count": 1648,
+          "tweet_count": 6723
+        },
+        "username": "fujiperia_z3",
+        "verified": false
+      }
+    ]
+  }
+}

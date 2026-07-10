@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "1971243025105027317",
+    "created_at": "2025-09-25T15:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T16:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971243025105027317"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971243025105027317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诶？戴锁的话会影响以后 srs 吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "1971243025105027317",
+        "created_at": "2025-09-25T15:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T16:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971243025105027317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971243025105027317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶？戴锁的话会影响以后 srs 吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "🍥🈚️主人状态ing...🍥\n⎜09 ⎜190cm/80kg 的大药娘⎜MTF🏳️‍⚧️⎜轻度抑郁⎜ps.老号ban了，这是个新号喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top/about",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top/about",
+                "start": 0,
+                "url": "https://t.co/WXP0sGMbeL"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964029359834181632/7GIm3Umq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/WXP0sGMbeL",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

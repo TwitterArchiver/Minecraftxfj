@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2067300788062613826",
+    "created_at": "2026-06-18T16:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067651677206028571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678802597195714560",
+          "start": 0,
+          "username": "wsygdsb2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067651677206028571",
+    "in_reply_to_user_id": "1678802597195714560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067300788062613826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsygdsb2022 监控拆一下谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_2067300781976600576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCHG7GaQAAEMz2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2067300788062613826",
+        "created_at": "2026-06-18T16:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067651677206028571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678802597195714560",
+              "start": 0,
+              "username": "wsygdsb2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067651677206028571",
+        "in_reply_to_user_id": "1678802597195714560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067300788062613826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsygdsb2022 监控拆一下谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067300781976600576"
+          ]
+        },
+        "author_id": "1678802597195714560",
+        "conversation_id": "2067300788062613826",
+        "created_at": "2026-06-17T17:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067300788062613826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQYRiYco41",
+              "end": 28,
+              "expanded_url": "https://x.com/wsygdsb2022/status/2067300788062613826/photo/1",
+              "media_key": "3_2067300781976600576",
+              "start": 5,
+              "url": "https://t.co/jQYRiYco41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067300788062613826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 6093,
+          "like_count": 175,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我就要😋 https://t.co/jQYRiYco41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 176,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T16:25:15.000Z",
+        "description": "我见过很多天才，但是他们都叫我臭唐氏\n全网最尊重十里山路之人\nhttps://t.co/Jx6wGG9FqP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/BYTESY1966",
+                "end": 54,
+                "expanded_url": "https://x.com/BYTESY1966",
+                "start": 31,
+                "url": "https://t.co/Jx6wGG9FqP"
+              }
+            ]
+          }
+        },
+        "id": "1678802597195714560",
+        "location": "東京 新宿区",
+        "name": "🏳️‍⚧️🍥BL-CHAN🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940128029537136640/jjkeVMwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 110,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "wsygdsb2022",
+        "verified": false
+      }
+    ]
+  }
+}

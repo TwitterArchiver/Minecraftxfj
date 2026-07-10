@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074539033250910209"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074352189196357835",
+    "created_at": "2026-07-07T17:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074539056176959796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012925699976298496",
+          "start": 0,
+          "username": "qwq1234567d"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n8R75V0Kpj",
+          "end": 52,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2074539056176959796/photo/1",
+          "media_key": "3_2074539033250910209",
+          "start": 29,
+          "url": "https://t.co/n8R75V0Kpj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074539056176959796",
+    "in_reply_to_user_id": "2012925699976298496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074538339500511355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq1234567d 666 你个老东西收收味😡😡👊 https://t.co/n8R75V0Kpj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2074539033250910209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo-QmWaUAE18mC.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074539033250910209"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074352189196357835",
+        "created_at": "2026-07-07T17:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074539056176959796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012925699976298496",
+              "start": 0,
+              "username": "qwq1234567d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8R75V0Kpj",
+              "end": 52,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2074539056176959796/photo/1",
+              "media_key": "3_2074539033250910209",
+              "start": 29,
+              "url": "https://t.co/n8R75V0Kpj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074539056176959796",
+        "in_reply_to_user_id": "2012925699976298496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074538339500511355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq1234567d 666 你个老东西收收味😡😡👊 https://t.co/n8R75V0Kpj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012925699976298496",
+        "conversation_id": "2074352189196357835",
+        "created_at": "2026-07-07T16:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074538339500511355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074538339500511355",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074526469016154448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 翻我玩客云出来，马上上机😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 331,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1859
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T16:31:08.000Z",
+        "description": "please，，，，do not ban my account again",
+        "id": "2012925699976298496",
+        "name": "Iris06",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013639200411615232/kvzT8Bbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 149,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "qwq1234567d",
+        "verified": false
+      }
+    ]
+  }
+}

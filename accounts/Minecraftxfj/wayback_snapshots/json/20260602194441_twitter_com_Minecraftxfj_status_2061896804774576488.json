@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2061896804774576488",
+    "created_at": "2026-06-02T19:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061896804774576488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minecraftxfj/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/minecraftxfj/status/2034129409582764457",
+          "start": 54,
+          "url": "https://t.co/sVcrVBImQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061896804774576488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034129409582764457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一直想把父母强制给我吃的那个神秘小药丸全部倒掉\n没有勇气\n虽然我一直也偷偷吐了\n最近一直骂我\n他们要干什么 https://t.co/sVcrVBImQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034129392746827777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDqt58nbEAEWiLb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2061896804774576488",
+        "created_at": "2026-06-02T19:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061896804774576488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minecraftxfj/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/minecraftxfj/status/2034129409582764457",
+              "start": 54,
+              "url": "https://t.co/sVcrVBImQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061896804774576488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034129409582764457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直想把父母强制给我吃的那个神秘小药丸全部倒掉\n没有勇气\n虽然我一直也偷偷吐了\n最近一直骂我\n他们要干什么 https://t.co/sVcrVBImQi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034129392746827777"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034129409582764457",
+        "created_at": "2026-03-18T04:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034129409582764457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSUPBTuMLO",
+              "end": 142,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2034129409582764457/photo/1",
+              "media_key": "3_2034129392746827777",
+              "start": 119,
+              "url": "https://t.co/WSUPBTuMLO"
+            },
+            {
+              "display_url": "x.com/Minecraftxfj/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Minecraftxfj/status/2033965028274307463",
+              "start": 143,
+              "url": "https://t.co/9aMeOyBqmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034129409582764457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 543,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033965028274307463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "书接上回\n我以前吃的是艾司西酞普兰和坦度螺吧好像是\n这回不知道我爸妈从哪搞的烂药，药盒子都没有，也不让我碰，就说是医生给开的\n卧槽了那我敢吃吗，全偷摸吐了\n我也不认识药圈的人啊，这什么药\n黄色的有很特殊的气味，白色没有，味道都是微微发苦 https://t.co/WSUPBTuMLO https://t.co/9aMeOyBqmY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 UTC+8\n戒 OD & 自伤 中......\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 78,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

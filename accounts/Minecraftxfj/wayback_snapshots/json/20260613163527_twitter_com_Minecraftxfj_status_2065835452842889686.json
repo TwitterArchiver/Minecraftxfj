@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2065651913971105999",
+    "created_at": "2026-06-13T16:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065835452842889686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993984602978045954",
+          "start": 0,
+          "username": "sweety7968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065835452842889686",
+    "in_reply_to_user_id": "1993984602978045954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065651913971105999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweety7968 有点像西红柿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2065651684555046912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqrQ0eXQAA58U4.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2065651913971105999",
+        "created_at": "2026-06-13T16:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065835452842889686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993984602978045954",
+              "start": 0,
+              "username": "sweety7968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065835452842889686",
+        "in_reply_to_user_id": "1993984602978045954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065651913971105999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweety7968 有点像西红柿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065651684555046912"
+          ]
+        },
+        "author_id": "1993984602978045954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065651913971105999",
+        "created_at": "2026-06-13T04:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065651913971105999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMz6YC2zER",
+              "end": 36,
+              "expanded_url": "https://x.com/sweety7968/status/2065651913971105999/photo/1",
+              "media_key": "3_2065651684555046912",
+              "start": 13,
+              "url": "https://t.co/IMz6YC2zER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065651913971105999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1134,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可可爱爱，你看着像什么？ https://t.co/IMz6YC2zER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 95,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T10:06:15.000Z",
+        "description": "分享日常，喜欢抽象，缓解压力的方式是睡觉和听音乐。互关互赞100%哦\n部分段子来自网络，主打一个分享，如有侵权，请联系删除",
+        "id": "1993984602978045954",
+        "name": "sweety❤️互fo100%",
+        "pinned_tweet_id": "2065306865408540741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994042172966936576/qogjzUxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4776,
+          "following_count": 6292,
+          "like_count": 9200,
+          "listed_count": 10,
+          "media_count": 1053,
+          "tweet_count": 2862
+        },
+        "username": "sweety7968",
+        "verified": false
+      }
+    ]
+  }
+}

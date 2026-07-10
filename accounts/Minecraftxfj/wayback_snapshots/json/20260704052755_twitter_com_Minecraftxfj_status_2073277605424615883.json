@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073277507042951168"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073277605424615883",
+    "created_at": "2026-07-04T05:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073277605424615883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ocN0E20NeI",
+          "end": 35,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2073277605424615883/video/1",
+          "media_key": "13_2073277507042951168",
+          "start": 12,
+          "url": "https://t.co/ocN0E20NeI"
+        },
+        {
+          "display_url": "x.com/foreignersinTW…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/foreignersinTW/status/1955516385960005979",
+          "start": 36,
+          "url": "https://t.co/yu1rU1V5MP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073277605424615883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955516385960005979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "台湾民众欣喜若狂😭👊👊 https://t.co/ocN0E20NeI https://t.co/yu1rU1V5MP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4436,
+        "height": 936,
+        "media_key": "13_2073277507042951168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073277507042951168/img/5P3Am3G-4VbRfMal.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073277507042951168/vid/avc1/320x416/QrLgobRKZX4q3CZM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073277507042951168/vid/avc1/480x624/RIfBHRhVkaI5Zx4l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073277507042951168/vid/avc1/720x936/HGs4WgQqHBQRTNUu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073277507042951168/pl/Rkta-2Ig6f7N9tt0.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1383,
+        "media_key": "3_1955516379303723008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNjyUTbQAAByNl.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073277507042951168"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073277605424615883",
+        "created_at": "2026-07-04T05:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073277605424615883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocN0E20NeI",
+              "end": 35,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2073277605424615883/video/1",
+              "media_key": "13_2073277507042951168",
+              "start": 12,
+              "url": "https://t.co/ocN0E20NeI"
+            },
+            {
+              "display_url": "x.com/foreignersinTW…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/foreignersinTW/status/1955516385960005979",
+              "start": 36,
+              "url": "https://t.co/yu1rU1V5MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073277605424615883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955516385960005979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "台湾民众欣喜若狂😭👊👊 https://t.co/ocN0E20NeI https://t.co/yu1rU1V5MP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955516379303723008"
+          ]
+        },
+        "author_id": "2498099330",
+        "conversation_id": "1955516385960005979",
+        "created_at": "2025-08-13T06:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T07:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955516385960005979"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "Podul"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "楊柳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hPAPJuQUs",
+              "end": 165,
+              "expanded_url": "https://x.com/foreignersinTW/status/1955516385960005979/photo/1",
+              "media_key": "3_1955516379303723008",
+              "start": 142,
+              "url": "https://t.co/1hPAPJuQUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955516385960005979",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24790,
+          "impression_count": 25316455,
+          "like_count": 262116,
+          "quote_count": 11151,
+          "reply_count": 5728,
+          "retweet_count": 27960
+        },
+        "reply_settings": "everyone",
+        "text": "Typhoon #Podul #楊柳 is bringing thunderstorms, torrential rain, and very strong winds to southern Taiwan and along the central mountain range. https://t.co/1hPAPJuQUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 285,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1650
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-16T08:53:40.000Z",
+        "description": "We blog to help convince foreigners to come to Taiwan and teach them how to survive here. Run by US expats. 我們是台灣的外國人！我們透過部落格幫助外國人了解怎麽在台灣生存及旅遊！（美國人管理）RIP Ken",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwantravelblog.com",
+                "end": 23,
+                "expanded_url": "https://taiwantravelblog.com/",
+                "start": 0,
+                "url": "https://t.co/a0ECvgOVOB"
+              }
+            ]
+          }
+        },
+        "id": "2498099330",
+        "location": "台灣",
+        "name": "Foreigners in Taiwan 🇹🇼 外國人在台灣",
+        "pinned_tweet_id": "1963070661649444870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910243731275644928/LT98FeqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31303,
+          "following_count": 1788,
+          "like_count": 52341,
+          "listed_count": 241,
+          "media_count": 6829,
+          "tweet_count": 31624
+        },
+        "url": "https://t.co/a0ECvgOVOB",
+        "username": "foreignersinTW",
+        "verified": false
+      }
+    ]
+  }
+}

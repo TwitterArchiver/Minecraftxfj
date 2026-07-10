@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2060371775645745473",
+    "created_at": "2026-05-29T14:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060371775645745473"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 86,
+          "tag": "XiaomiSoundPlay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1523912770517110785",
+          "start": 3,
+          "username": "CeliaKayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060371775645745473",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059605537445077294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CeliaKayo: It's been a minute, and here comes another giveaway!😎We're giving away #XiaomiSoundPlay to 3 lucky winners!\n\nRepost this pos…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2057806674241413120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7MRHqWYAAl6aP.jpg",
+        "width": 3073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2060371775645745473",
+        "created_at": "2026-05-29T14:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060371775645745473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 86,
+              "tag": "XiaomiSoundPlay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1523912770517110785",
+              "start": 3,
+              "username": "CeliaKayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060371775645745473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 450
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059605537445077294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CeliaKayo: It's been a minute, and here comes another giveaway!😎We're giving away #XiaomiSoundPlay to 3 lucky winners!\n\nRepost this pos…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057806674241413120"
+          ]
+        },
+        "author_id": "1523912770517110785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2059605537445077294",
+        "created_at": "2026-05-27T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059605537445077294"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 71,
+              "tag": "XiaomiSoundPlay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fk6KoI3Yr9",
+              "end": 209,
+              "expanded_url": "https://x.com/CeliaKayo/status/2059605537445077294/photo/1",
+              "media_key": "3_2057806674241413120",
+              "start": 186,
+              "url": "https://t.co/Fk6KoI3Yr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059605537445077294",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 34496,
+          "like_count": 714,
+          "quote_count": 97,
+          "reply_count": 378,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "It's been a minute, and here comes another giveaway!😎We're giving away #XiaomiSoundPlay to 3 lucky winners!\n\nRepost this post and reply with a screenshot of your go-to workout playlist. https://t.co/Fk6KoI3Yr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 71,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-10T06:29:09.000Z",
+        "description": "Xiaomi Insider | Social Media | Embracing every tech day @Xiaomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 57,
+                "username": "Xiaomi"
+              }
+            ]
+          }
+        },
+        "id": "1523912770517110785",
+        "name": "Celia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678313247412490241/BqGX_qQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3310,
+          "following_count": 15,
+          "like_count": 232,
+          "listed_count": 13,
+          "media_count": 88,
+          "tweet_count": 260
+        },
+        "username": "CeliaKayo",
+        "verified": true
+      }
+    ]
+  }
+}

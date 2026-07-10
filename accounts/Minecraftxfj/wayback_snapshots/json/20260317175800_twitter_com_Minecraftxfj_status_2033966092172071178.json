@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2033491602371699007",
+    "created_at": "2026-03-17T17:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033966092172071178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886257354859315200",
+          "start": 0,
+          "username": "nn142857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033966092172071178",
+    "in_reply_to_user_id": "1886257354859315200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033491602371699007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nn142857 bro 你太帅了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2033491593932754944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhp1K4a0AARMhF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2033491602371699007",
+        "created_at": "2026-03-17T17:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033966092172071178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886257354859315200",
+              "start": 0,
+              "username": "nn142857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033966092172071178",
+        "in_reply_to_user_id": "1886257354859315200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033491602371699007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn142857 bro 你太帅了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033491593932754944"
+          ]
+        },
+        "author_id": "1886257354859315200",
+        "conversation_id": "2033491602371699007",
+        "created_at": "2026-03-16T10:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033491602371699007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTZaLGD22w",
+              "end": 51,
+              "expanded_url": "https://x.com/nn142857/status/2033491602371699007/photo/1",
+              "media_key": "3_2033491593932754944",
+              "start": 28,
+              "url": "https://t.co/iTZaLGD22w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033491602371699007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 363106,
+          "like_count": 2383,
+          "quote_count": 5,
+          "reply_count": 520,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "在20岁全款给妈妈买手机 不是最贵的但是我能力范围好的 https://t.co/iTZaLGD22w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 47,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T03:36:21.000Z",
+        "description": "4i/1i 相互尊重上推为了看美女和肌肉男\n当朋友圈发 推广自辨\n🚪88好友位/188/288纯绿",
+        "id": "1886257354859315200",
+        "name": "大石",
+        "pinned_tweet_id": "2033825532589314489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964072483679850498/VazYwvsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5380,
+          "following_count": 96,
+          "like_count": 2433,
+          "listed_count": 11,
+          "media_count": 83,
+          "tweet_count": 597
+        },
+        "username": "nn142857",
+        "verified": false
+      }
+    ]
+  }
+}

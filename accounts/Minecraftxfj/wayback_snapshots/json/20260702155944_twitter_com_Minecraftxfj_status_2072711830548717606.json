@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2072649998895100213",
+    "created_at": "2026-07-02T15:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072711830548717606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072711830548717606",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072649998895100213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc 巴啦啦小魔仙（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 808,
+        "media_key": "13_2072649879575461889",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072649879575461889/img/RcXdp8gBa9Xftz7W.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072649879575461889/vid/avc1/432x270/mGBZE7cIoTDVDNdl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072649879575461889/vid/avc1/576x360/RtkL9e15fScf6CU9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072649879575461889/vid/avc1/1152x720/i8dVwPgComi__h4P.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072649879575461889/pl/DFq1yF-spuhetuO8.m3u8?tag=14"
+          }
+        ],
+        "width": 1294
+      },
+      {
+        "duration_ms": 23821,
+        "height": 320,
+        "media_key": "13_2072649883237097472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072649883237097472/img/irlDYYKmzU5b55tB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072649883237097472/vid/avc1/478x270/4DRkq5z0tW_aFrEO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072649883237097472/vid/avc1/568x320/jbUjskPeA0vswt3r.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072649883237097472/pl/cNkl3OPnfbrz2I3o.m3u8?tag=14"
+          }
+        ],
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2072649998895100213",
+        "created_at": "2026-07-02T15:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072711830548717606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072711830548717606",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072649998895100213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc 巴啦啦小魔仙（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072649879575461889",
+            "13_2072649883237097472"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "conversation_id": "2072649998895100213",
+        "created_at": "2026-07-02T11:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072649998895100213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A boot animation that plays using mpv after login. - mimiaomc/mpv-login-video",
+              "display_url": "github.com/mimiaomc/mpv-l…",
+              "end": 41,
+              "expanded_url": "https://github.com/mimiaomc/mpv-login-video",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2072650041937043456/4EvV2j-3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072650041937043456/4EvV2j-3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "GitHub - mimiaomc/mpv-login-video: A boot animation that plays using mpv after login.",
+              "unwound_url": "https://github.com/mimiaomc/mpv-login-video",
+              "url": "https://t.co/gqBch4KNlM"
+            },
+            {
+              "display_url": "pic.x.com/gbvoqVC4gh",
+              "end": 65,
+              "expanded_url": "https://x.com/Mimiaomc/status/2072649998895100213/video/1",
+              "media_key": "13_2072649879575461889",
+              "start": 42,
+              "url": "https://t.co/gbvoqVC4gh"
+            },
+            {
+              "display_url": "pic.x.com/gbvoqVC4gh",
+              "end": 65,
+              "expanded_url": "https://x.com/Mimiaomc/status/2072649998895100213/video/1",
+              "media_key": "13_2072649883237097472",
+              "start": 42,
+              "url": "https://t.co/gbvoqVC4gh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072649998895100213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把糖糖变身的动画做成登录动画了（\nhttps://t.co/gqBch4KNlM https://t.co/gbvoqVC4gh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 284,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1625
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟\n渴望被爱 | 会尽力去爱朋友 | 2009 | MtF | 西安高新 |\n红帽 Linux | 铁路迷 | 温柔大姐姐 | 钟楼笔记站长 |\n邮政 | 卡组织 | 公交 | 离家出走 | 嵌入式 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "https://classnote.top",
+                "start": 0,
+                "url": "https://t.co/gOvxKZpBRM"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "CLOUDFLARE.COM",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2066115590272733363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374736977145303040/wMVCqAP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 158,
+          "like_count": 1717,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 1029
+        },
+        "url": "https://t.co/gOvxKZpBRM",
+        "username": "Mimiaomc",
+        "verified": false
+      }
+    ]
+  }
+}

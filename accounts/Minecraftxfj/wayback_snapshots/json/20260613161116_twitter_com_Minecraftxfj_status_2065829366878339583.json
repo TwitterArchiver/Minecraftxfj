@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2065650115642318856",
+    "created_at": "2026-06-13T16:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065829366878339583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065829366878339583",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065650115642318856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 可惜 P1 是信用卡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065650111871594496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqp1RxaMAAiUy7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065650112702140416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqp1U3bUAA7LwD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2065650115642318856",
+        "created_at": "2026-06-13T16:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065829366878339583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065829366878339583",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065650115642318856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 可惜 P1 是信用卡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065650111871594496",
+            "3_2065650112702140416"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2065650115642318856",
+        "created_at": "2026-06-13T04:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065650115642318856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdWz1Md0PB",
+              "end": 40,
+              "expanded_url": "https://x.com/wuerbangbang/status/2065650115642318856/photo/1",
+              "media_key": "3_2065650111871594496",
+              "start": 17,
+              "url": "https://t.co/YdWz1Md0PB"
+            },
+            {
+              "display_url": "pic.x.com/YdWz1Md0PB",
+              "end": 40,
+              "expanded_url": "https://x.com/wuerbangbang/status/2065650115642318856/photo/1",
+              "media_key": "3_2065650112702140416",
+              "start": 17,
+              "url": "https://t.co/YdWz1Md0PB"
+            },
+            {
+              "display_url": "x.com/tinyfool/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/tinyfool/status/2065280024337592328",
+              "start": 41,
+              "url": "https://t.co/mJ1ueAGEiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065650115642318856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 28239,
+          "like_count": 227,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065280024337592328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们这种老宅男流下了时代的眼泪。 https://t.co/YdWz1Md0PB https://t.co/mJ1ueAGEiE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 95,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2065254868072247314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11233,
+          "following_count": 970,
+          "like_count": 19222,
+          "listed_count": 49,
+          "media_count": 2867,
+          "tweet_count": 9260
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

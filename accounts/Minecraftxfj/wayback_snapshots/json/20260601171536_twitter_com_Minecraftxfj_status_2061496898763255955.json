@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2061483279891701805",
+    "created_at": "2026-06-01T17:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061496898763255955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1560959425",
+          "start": 0,
+          "username": "RhenCloud_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061496898763255955",
+    "in_reply_to_user_id": "1560959425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061483279891701805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@RhenCloud_ 我们在同一个学校😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2061483279891701805",
+        "created_at": "2026-06-01T17:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061496898763255955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1560959425",
+              "start": 0,
+              "username": "RhenCloud_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061496898763255955",
+        "in_reply_to_user_id": "1560959425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061483279891701805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@RhenCloud_ 我们在同一个学校😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560959425",
+        "conversation_id": "2061483279891701805",
+        "created_at": "2026-06-01T16:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061483279891701805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061483279891701805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "又在压力我去学校了\n“去学校和老师同学们玩玩闹闹心情就好了”\n跟那群猴子玩闹心情会好吗？\n没分寸感\n乱拍你肩膀和背\n在你上厕所的时候跑过来盯着你看\n…\n总感觉我应该再开一个号发这些负面内容…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 77,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-01T16:34:33.000Z",
+        "description": "🏳️‍⚧️MTF HRT: 2026.05.24\n家长反对党\nhttps://t.co/QQ1gFO9AHS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rhencloud_chat…",
+                "end": 54,
+                "expanded_url": "https://t.me/rhencloud_chat_bot",
+                "start": 31,
+                "url": "https://t.co/QQ1gFO9AHS"
+              }
+            ]
+          }
+        },
+        "id": "1560959425",
+        "name": "泠云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047200196996784128/Qstb92OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 124,
+          "like_count": 2000,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 133
+        },
+        "username": "RhenCloud_",
+        "verified": false
+      }
+    ]
+  }
+}

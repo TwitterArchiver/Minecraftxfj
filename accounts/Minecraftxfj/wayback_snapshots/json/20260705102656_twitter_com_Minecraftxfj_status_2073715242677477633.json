@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073586694151180572",
+    "created_at": "2026-07-05T10:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073715242677477633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073715242677477633",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073586694151180572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao 它要是镀锡铜线、镀镍铜线或者纯镍线你死🐎 👍👍👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107866,
+        "height": 1620,
+        "media_key": "13_2073586427422793728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073586427422793728/img/v4DD2FXQr1o-CEH0.jpg",
+        "public_metrics": {
+          "view_count": 74242
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073586427422793728/vid/avc1/720x1316/QAfl-ecOe_IIl2-X.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073586427422793728/vid/avc1/886x1620/fqxyi0UXgpXGy8h8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073586427422793728/vid/avc1/480x876/n92BWIToio7RBH9D.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073586427422793728/vid/avc1/320x584/oq9nMdBZemH-J8gD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073586427422793728/pl/v7mww087bxm9rVz5.m3u8"
+          }
+        ],
+        "width": 886
+      },
+      {
+        "height": 1141,
+        "media_key": "3_2073586427410128896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbb3pDaIAAWiZG.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073586694151180572",
+        "created_at": "2026-07-05T10:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073715242677477633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073715242677477633",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073586694151180572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao 它要是镀锡铜线、镀镍铜线或者纯镍线你死🐎 👍👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073586427422793728",
+            "3_2073586427410128896"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2073586694151180572",
+        "created_at": "2026-07-05T01:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073586694151180572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBEyEHyJfc",
+              "end": 150,
+              "expanded_url": "https://x.com/cuichenghao/status/2073586694151180572/video/1",
+              "media_key": "13_2073586427422793728",
+              "start": 127,
+              "url": "https://t.co/oBEyEHyJfc"
+            },
+            {
+              "display_url": "pic.x.com/oBEyEHyJfc",
+              "end": 150,
+              "expanded_url": "https://x.com/cuichenghao/status/2073586694151180572/video/1",
+              "media_key": "3_2073586427410128896",
+              "start": 127,
+              "url": "https://t.co/oBEyEHyJfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073586694151180572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 141620,
+          "like_count": 751,
+          "quote_count": 4,
+          "reply_count": 238,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "内地一汽车修理工吐槽称，某法务强大的汽车品牌，过了保修期充电口就坏，他剪开线束发现，里面根本不是铜线，而是铝线，快充过热极易发生火灾，而且这点铝线在4S店竟要价四五千元。该修理工感慨“车厂为了收割韭菜，有的是技术，不坑外国人，专坑自己人，良心不痛吗？” https://t.co/oBEyEHyJfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 287,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113177,
+          "following_count": 773,
+          "like_count": 9106,
+          "listed_count": 354,
+          "media_count": 5261,
+          "tweet_count": 5530
+        },
+        "url": "",
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

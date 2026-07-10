@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2062490106800525705",
+    "created_at": "2026-06-04T17:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062591654473949649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1503536930222653440",
+          "start": 0,
+          "username": "pasya_aroma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062591654473949649",
+    "in_reply_to_user_id": "1503536930222653440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062490106800525705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pasya_aroma 加油，祝顺利"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062490099254951937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9v0VbaAAEyy4h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2062490106800525705",
+        "created_at": "2026-06-04T17:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062591654473949649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503536930222653440",
+              "start": 0,
+              "username": "pasya_aroma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062591654473949649",
+        "in_reply_to_user_id": "1503536930222653440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062490106800525705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pasya_aroma 加油，祝顺利"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062490099254951937"
+          ]
+        },
+        "author_id": "1503536930222653440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2062490106800525705",
+        "created_at": "2026-06-04T11:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062490106800525705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2C0Nc8pDAi",
+              "end": 108,
+              "expanded_url": "https://x.com/pasya_aroma/status/2062490106800525705/photo/1",
+              "media_key": "3_2062490099254951937",
+              "start": 85,
+              "url": "https://t.co/2C0Nc8pDAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062490106800525705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2633,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "誕生日のお祝いメッセージありがとうございましました😊\nそして残念ながら本日\n脳梗塞で緊急入院となりました。\n視力に影響が出そうなので絵を描けるのか不安ですが頑張ります。 https://t.co/2C0Nc8pDAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T01:02:30.000Z",
+        "description": "独学、我流で始めたイラストも3年目に🎉ポストは不定期になりますがよろしくお願いいたします🙇名前はパシャでも⭕です。キャラ、風景、描きたい物を何でも描いてます。\n❤️、RP 、フォロー、コメントなど励みになります😊\n絵の無断使用等は❌です☝️",
+        "id": "1503536930222653440",
+        "name": "pasya",
+        "pinned_tweet_id": "2049594831752835572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014498205636128768/g4-G206i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 2830,
+          "like_count": 51818,
+          "listed_count": 19,
+          "media_count": 129,
+          "tweet_count": 709
+        },
+        "username": "pasya_aroma",
+        "verified": false
+      }
+    ]
+  }
+}

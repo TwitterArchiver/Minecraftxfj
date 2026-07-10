@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2061382407862001802",
+    "created_at": "2026-06-01T17:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061501427781132698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2591484020",
+          "start": 0,
+          "username": "miyu_KKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061501427781132698",
+    "in_reply_to_user_id": "2591484020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061382407862001802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyu_KKE 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1457,
+        "media_key": "3_2061382400001949696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuAXwJbwAA9a8d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2061382407862001802",
+        "created_at": "2026-06-01T17:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061501427781132698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2591484020",
+              "start": 0,
+              "username": "miyu_KKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061501427781132698",
+        "in_reply_to_user_id": "2591484020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061382407862001802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyu_KKE 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061382400001949696"
+          ]
+        },
+        "author_id": "2591484020",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2061382407862001802",
+        "created_at": "2026-06-01T09:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061382407862001802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7w4qYeC5o",
+              "end": 168,
+              "expanded_url": "https://x.com/miyu_KKE/status/2061382407862001802/photo/1",
+              "media_key": "3_2061382400001949696",
+              "start": 145,
+              "url": "https://t.co/u7w4qYeC5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061382407862001802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1711,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先生に、ライブ行ってもいいか聞けんかった。\n薬で白血病が大人しくしてる代わりに、腎臓が犠牲に🥲\n副作用で死を覚悟→日常生活安定まで大変すぎたけん、13年経った今更、薬を変えるなんて怖すぎてまだ踏み出せない💊\n\nみんなに助言いただき帽子無し＆首周りスッキリ可愛くなったAdoぬいﾁｬﾝ見て↓ https://t.co/u7w4qYeC5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 77,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-27T14:45:41.000Z",
+        "description": "Adoﾁｬﾝ🥀💙Episode X/よだか初参戦→Ao日産スタジアム両日SS/🍎🐿 (原神/いせのん/NTE/＆白血病など闘病記録→@risumiyu320) (モンスト→@miyu320monst) 1021🩵1024💙0315💙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "risumiyu320"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "miyu320monst"
+              }
+            ]
+          }
+        },
+        "id": "2591484020",
+        "name": "みゆち🥀💙",
+        "pinned_tweet_id": "1962106066264846527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025935342239727616/UfG88DU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1199,
+          "like_count": 20359,
+          "listed_count": 22,
+          "media_count": 1109,
+          "tweet_count": 15784
+        },
+        "username": "miyu_KKE",
+        "verified": false
+      }
+    ]
+  }
+}

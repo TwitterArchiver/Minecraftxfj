@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066021552580341997",
+    "created_at": "2026-06-14T14:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066172482357457096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "tanchixiaofang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066172482357457096",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066021552580341997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanchixiaofang 载体油是蓖麻油，很常见，蓖麻油对于这些性激素溶解度比其他载体油高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066021552580341997",
+        "created_at": "2026-06-14T14:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066172482357457096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "tanchixiaofang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066172482357457096",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066021552580341997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanchixiaofang 载体油是蓖麻油，很常见，蓖麻油对于这些性激素溶解度比其他载体油高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "2066021552580341997",
+        "created_at": "2026-06-14T04:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066021552580341997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066021552580341997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 401,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "庚酸雌二醇闻起来像医院和蓖麻油的混合气味这对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 104,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "饭菜点赞bot丨ISFP-T丨含E2丨非顺直丨无标签丨代词: I / me / my",
+        "id": "1903701047589343232",
+        "name": "贪吃小方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063957443366035456/OVAH9btp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4847,
+          "following_count": 1678,
+          "like_count": 10188,
+          "listed_count": 12,
+          "media_count": 25,
+          "tweet_count": 1951
+        },
+        "username": "tanchixiaofang",
+        "verified": false
+      }
+    ]
+  }
+}

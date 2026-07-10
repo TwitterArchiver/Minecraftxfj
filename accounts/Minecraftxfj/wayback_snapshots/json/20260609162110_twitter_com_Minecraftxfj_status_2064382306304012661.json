@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2064288693553410400",
+    "created_at": "2026-06-09T16:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064382306304012661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671687114503880705",
+          "start": 0,
+          "username": "mxdabc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064382306304012661",
+    "in_reply_to_user_id": "1671687114503880705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064382018419560629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxdabc 1.没钱\n2.省电费\n3.没开\n4.我用飞牛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2064288693553410400",
+        "created_at": "2026-06-09T16:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064382306304012661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671687114503880705",
+              "start": 0,
+              "username": "mxdabc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064382306304012661",
+        "in_reply_to_user_id": "1671687114503880705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064382018419560629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxdabc 1.没钱\n2.省电费\n3.没开\n4.我用飞牛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671687114503880705",
+        "conversation_id": "2064288693553410400",
+        "created_at": "2026-06-09T16:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064382018419560629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064382018419560629",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064288693553410400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 1.针对你那个电力环境，配好ups\n2.DC-ATX这种模块都敢用你也是人才。\n3.你的p2我不知道是后面那个电脑没开还是什么，风扇都没转，做好散热。\n4.少折腾，少用魔改版系统，nas就直接ext4就行了，不要折腾什么f2fs、btrfs，f2fs根本就不是给hdd用的，btrfs也没必要。否则直接装FreeBSD走ZFS。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 86,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T01:10:58.000Z",
+        "description": "🏳️‍⚧️ | https://t.co/sANw8pa5gN | Linux, FreeBSD, Programming & Open Source",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mxdyeah.com",
+                "end": 31,
+                "expanded_url": "http://mxdyeah.com",
+                "start": 8,
+                "url": "https://t.co/sANw8pa5gN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mxdyeah.com",
+                "end": 23,
+                "expanded_url": "https://www.mxdyeah.com/",
+                "start": 0,
+                "url": "https://t.co/P3M3nP3g2d"
+              }
+            ]
+          }
+        },
+        "id": "1671687114503880705",
+        "name": "mxdyeah",
+        "pinned_tweet_id": "1989361899180593325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671687187610636288/juA92v58_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 50,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/P3M3nP3g2d",
+        "username": "mxdabc",
+        "verified": false
+      }
+    ]
+  }
+}

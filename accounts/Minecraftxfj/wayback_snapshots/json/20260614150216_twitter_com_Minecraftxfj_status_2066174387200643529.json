@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066088188935053503",
+    "created_at": "2026-06-14T15:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066174387200643529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2568621139",
+          "start": 0,
+          "username": "Imy_official"
+        },
+        {
+          "end": 24,
+          "id": "221046840",
+          "start": 14,
+          "username": "onineko26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066174387200643529",
+    "in_reply_to_user_id": "2568621139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066088188935053503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Imy_official @onineko26 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2066087206612262912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw3XikaYAAevK9.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2066087277126914048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw3bpQakAANnUP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066088188935053503",
+        "created_at": "2026-06-14T15:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066174387200643529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2568621139",
+              "start": 0,
+              "username": "Imy_official"
+            },
+            {
+              "end": 24,
+              "id": "221046840",
+              "start": 14,
+              "username": "onineko26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066174387200643529",
+        "in_reply_to_user_id": "2568621139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066088188935053503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Imy_official @onineko26 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066087206612262912",
+            "3_2066087277126914048"
+          ]
+        },
+        "author_id": "2568621139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066088188935053503",
+        "created_at": "2026-06-14T09:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066088188935053503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulWjskdC5G",
+              "end": 58,
+              "expanded_url": "https://x.com/Imy_official/status/2066088188935053503/photo/1",
+              "media_key": "3_2066087206612262912",
+              "start": 35,
+              "url": "https://t.co/ulWjskdC5G"
+            },
+            {
+              "display_url": "pic.x.com/ulWjskdC5G",
+              "end": 58,
+              "expanded_url": "https://x.com/Imy_official/status/2066088188935053503/photo/1",
+              "media_key": "3_2066087277126914048",
+              "start": 35,
+              "url": "https://t.co/ulWjskdC5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066088188935053503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 535,
+          "impression_count": 92313,
+          "like_count": 2296,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "「水鏡」のスマホ壁紙です💐\nタップでスマホサイズになります！使ってね https://t.co/ulWjskdC5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 104,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-15T08:04:48.000Z",
+        "description": "Imy（アイミー）\nイラストと音楽で作品を紡ぎ出すアーティスト\nMusic みゅー @myu1103 ／ Illustrator おにねこ @onineko26 \n｜Booth　https://t.co/Ws3emYi1Eh\n｜HP　https://t.co/32zawTWFBv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "myu1103"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "onineko26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "imy.booth.pm",
+                "end": 112,
+                "expanded_url": "https://imy.booth.pm",
+                "start": 89,
+                "url": "https://t.co/Ws3emYi1Eh"
+              },
+              {
+                "display_url": "imymusic.tumblr.com",
+                "end": 140,
+                "expanded_url": "https://imymusic.tumblr.com",
+                "start": 117,
+                "url": "https://t.co/32zawTWFBv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Imy_official",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Imy_official",
+                "start": 0,
+                "url": "https://t.co/wDraL84dYk"
+              }
+            ]
+          }
+        },
+        "id": "2568621139",
+        "location": "各種ストリーミングで楽曲配信中！ Imy で検索🔍️",
+        "name": "Imy ｜ 9/13 1st ワンマンライブ開催",
+        "pinned_tweet_id": "2047637434725532137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047637402685198337/jg2qR_gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17898,
+          "following_count": 67,
+          "like_count": 2395,
+          "listed_count": 112,
+          "media_count": 359,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/wDraL84dYk",
+        "username": "Imy_official",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-29T15:58:37.000Z",
+        "description": "絵を描いてます ｜ Imy @Imy_Official ｜ ご依頼について https://t.co/2ucKHDz9Gn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "Imy_Official"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "onineko.tumblr.com",
+                "end": 61,
+                "expanded_url": "https://onineko.tumblr.com/",
+                "start": 38,
+                "url": "https://t.co/2ucKHDz9Gn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3952",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/3952",
+                "start": 0,
+                "url": "https://t.co/e72Nwtq393"
+              }
+            ]
+          }
+        },
+        "id": "221046840",
+        "location": "(:ᘌꇤ   )Э",
+        "name": "おにねこ💭",
+        "pinned_tweet_id": "2061789055101333593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954843143364616192/7LiHJLdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143004,
+          "following_count": 883,
+          "like_count": 14473,
+          "listed_count": 1460,
+          "media_count": 223,
+          "tweet_count": 9283
+        },
+        "url": "https://t.co/e72Nwtq393",
+        "username": "onineko26",
+        "verified": true
+      }
+    ]
+  }
+}

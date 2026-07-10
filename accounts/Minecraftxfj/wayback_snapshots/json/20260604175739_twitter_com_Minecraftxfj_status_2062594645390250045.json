@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062594637593001984",
+        "3_2062594637626540032"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2062594645390250045",
+    "created_at": "2026-06-04T17:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062594645390250045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tzrkY16F3a",
+          "end": 78,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2062594645390250045/photo/1",
+          "media_key": "3_2062594637593001984",
+          "start": 55,
+          "url": "https://t.co/tzrkY16F3a"
+        },
+        {
+          "display_url": "pic.x.com/tzrkY16F3a",
+          "end": 78,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2062594645390250045/photo/1",
+          "media_key": "3_2062594637626540032",
+          "start": 55,
+          "url": "https://t.co/tzrkY16F3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062594645390250045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "报告！\n昨晚给灯换了米家驱动，给两个墙壁开关粘了俩弹簧改成凌动开关，然后焊了三个电阻！\n对，没有其他的了（） https://t.co/tzrkY16F3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2062594637593001984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_O5RFbQAAtI59.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2062594637626540032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_O5RNbAAAr5Ha.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062594637593001984",
+            "3_2062594637626540032"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2062594645390250045",
+        "created_at": "2026-06-04T17:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062594645390250045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzrkY16F3a",
+              "end": 78,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2062594645390250045/photo/1",
+              "media_key": "3_2062594637593001984",
+              "start": 55,
+              "url": "https://t.co/tzrkY16F3a"
+            },
+            {
+              "display_url": "pic.x.com/tzrkY16F3a",
+              "end": 78,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2062594645390250045/photo/1",
+              "media_key": "3_2062594637626540032",
+              "start": 55,
+              "url": "https://t.co/tzrkY16F3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062594645390250045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报告！\n昨晚给灯换了米家驱动，给两个墙壁开关粘了俩弹簧改成凌动开关，然后焊了三个电阻！\n对，没有其他的了（） https://t.co/tzrkY16F3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

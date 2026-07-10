@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2061463215964598604",
+    "created_at": "2026-06-01T17:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061499507544891736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "939974937896349696",
+          "start": 0,
+          "username": "ewkkyorhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061499507544891736",
+    "in_reply_to_user_id": "939974937896349696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061463215964598604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ewkkyorhr Happy birthday to you"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2061463211778662400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvJ3neaYAA36Va.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2061463215964598604",
+        "created_at": "2026-06-01T17:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061499507544891736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "939974937896349696",
+              "start": 0,
+              "username": "ewkkyorhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061499507544891736",
+        "in_reply_to_user_id": "939974937896349696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061463215964598604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewkkyorhr Happy birthday to you"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061463211778662400"
+          ]
+        },
+        "author_id": "939974937896349696",
+        "conversation_id": "2061463215964598604",
+        "created_at": "2026-06-01T15:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061463215964598604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PP05sPc2bD",
+              "end": 29,
+              "expanded_url": "https://x.com/ewkkyorhr/status/2061463215964598604/photo/1",
+              "media_key": "3_2061463211778662400",
+              "start": 6,
+              "url": "https://t.co/PP05sPc2bD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061463215964598604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 26250,
+          "like_count": 2733,
+          "quote_count": 18,
+          "reply_count": 336,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "誕生日です https://t.co/PP05sPc2bD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 77,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-10T21:47:43.000Z",
+        "description": "ori祓とも書く。きょうだいと衣装が好きです◇Image Director + Illustrator ◆「Ado」イメージディレクター 『ザムザ』MV 「Mori Calliope」MV 『修羅薔薇』etc.◆お仕事（個人企業問わず）✉️→ https://t.co/wreLeAAa8o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 145,
+                "expanded_url": "http://cloud9pro.co.jp/contact/",
+                "start": 122,
+                "url": "https://t.co/wreLeAAa8o"
+              }
+            ]
+          }
+        },
+        "id": "939974937896349696",
+        "location": "無断転載、AI×",
+        "name": "ORIHARA",
+        "pinned_tweet_id": "1996749789074280773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959627792473280512/VNkuCEU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206248,
+          "following_count": 394,
+          "like_count": 13836,
+          "listed_count": 564,
+          "media_count": 252,
+          "tweet_count": 4888
+        },
+        "username": "ewkkyorhr",
+        "verified": true
+      }
+    ]
+  }
+}

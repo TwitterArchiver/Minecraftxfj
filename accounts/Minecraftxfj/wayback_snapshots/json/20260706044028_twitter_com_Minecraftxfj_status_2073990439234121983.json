@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073911996815126971",
+    "created_at": "2026-07-06T04:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073990439234121983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708489817191821312",
+          "start": 0,
+          "username": "1224HuangJin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073990439234121983",
+    "in_reply_to_user_id": "1708489817191821312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073911996815126971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@1224HuangJin wtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073911996815126971",
+        "created_at": "2026-07-06T04:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073990439234121983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708489817191821312",
+              "start": 0,
+              "username": "1224HuangJin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073990439234121983",
+        "in_reply_to_user_id": "1708489817191821312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073911996815126971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@1224HuangJin wtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708489817191821312",
+        "conversation_id": "2073911996815126971",
+        "created_at": "2026-07-05T23:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073911996815126971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073911996815126971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我知道我看起来像sb，但要是量过黑褪素会怎么样 🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 289,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T14:31:50.000Z",
+        "description": "",
+        "id": "1708489817191821312",
+        "name": "夜影、Night Shadow",
+        "pinned_tweet_id": "1845105108427616385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602675859501056/iPCN_1_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 81,
+          "like_count": 3194,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "1224HuangJin",
+        "verified": false
+      }
+    ]
+  }
+}

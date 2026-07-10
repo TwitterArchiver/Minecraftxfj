@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974008943241498624"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1973688777878168009",
+    "created_at": "2025-10-03T07:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T08:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974008945975996522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaShota"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c2aLuHECf2",
+          "end": 36,
+          "expanded_url": "https://x.com/Minecraftxfj/status/1974008945975996522/photo/1",
+          "media_key": "3_1974008943241498624",
+          "start": 13,
+          "url": "https://t.co/c2aLuHECf2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974008945975996522",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973688777878168009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaShota https://t.co/c2aLuHECf2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_1974008943241498624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UWrNVakAAkjni.jpg",
+        "width": 1222
+      },
+      {
+        "height": 1841,
+        "media_key": "3_1973688767631486976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PzeiPacAAfJT2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974008943241498624"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973688777878168009",
+        "created_at": "2025-10-03T07:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974008945975996522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaShota"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2aLuHECf2",
+              "end": 36,
+              "expanded_url": "https://x.com/Minecraftxfj/status/1974008945975996522/photo/1",
+              "media_key": "3_1974008943241498624",
+              "start": 13,
+              "url": "https://t.co/c2aLuHECf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974008945975996522",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973688777878168009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaShota https://t.co/c2aLuHECf2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973688767631486976"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "1973688777878168009",
+        "created_at": "2025-10-02T09:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T10:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973688777878168009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KM13eBg37L",
+              "end": 30,
+              "expanded_url": "https://x.com/KawawaShota/status/1973688777878168009/photo/1",
+              "media_key": "3_1973688767631486976",
+              "start": 7,
+              "url": "https://t.co/KM13eBg37L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973688777878168009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 28471,
+          "like_count": 240,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "极致的炫压抑 https://t.co/KM13eBg37L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "🍥🈚️主人状态ing...🍥\n⎜09 ⎜185cm/80kg 的大药娘⎜MTF🏳️‍⚧️⎜轻度抑郁⎜ps.老号ban了，这是个新号喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top/about",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top/about",
+                "start": 0,
+                "url": "https://t.co/WXP0sGMbeL"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964029359834181632/7GIm3Umq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 30,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/WXP0sGMbeL",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜&Minecraft船大工&Flight enthusiast👨‍✈️&僵毁老司机&资深洛批\n日本語⭕、English⭕、蜀语⭕\n学畜\n拉面仙人🍜\n一般厌蠢\n弱智吧搬石工自觉爬\nJapanglish NG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caac.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.caac.gov.cn",
+                "start": 0,
+                "url": "https://t.co/hLiv6LaCqX"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": " 卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1799806305026384261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948685372185346049/5mS9oMuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12849,
+          "following_count": 2013,
+          "like_count": 50829,
+          "listed_count": 65,
+          "media_count": 1133,
+          "tweet_count": 7090
+        },
+        "url": "https://t.co/hLiv6LaCqX",
+        "username": "KawawaShota",
+        "verified": false
+      }
+    ]
+  }
+}

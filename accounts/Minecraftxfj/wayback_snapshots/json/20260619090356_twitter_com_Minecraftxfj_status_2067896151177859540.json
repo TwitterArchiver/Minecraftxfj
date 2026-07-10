@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2067635951417934235",
+    "created_at": "2026-06-19T09:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067896151177859540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769406816344031233",
+          "start": 0,
+          "username": "adrifdzzzzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067896151177859540",
+    "in_reply_to_user_id": "1769406816344031233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067635951417934235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adrifdzzzzzz 谢谢，腿开始麻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_2067621447246204928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGqwGUW0AAV50S.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2067635951417934235",
+        "created_at": "2026-06-19T09:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067896151177859540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769406816344031233",
+              "start": 0,
+              "username": "adrifdzzzzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067896151177859540",
+        "in_reply_to_user_id": "1769406816344031233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067635951417934235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adrifdzzzzzz 谢谢，腿开始麻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067621447246204928"
+          ]
+        },
+        "author_id": "1769406816344031233",
+        "conversation_id": "2067635951417934235",
+        "created_at": "2026-06-18T15:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067635951417934235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSV60RtbgA",
+              "end": 86,
+              "expanded_url": "https://x.com/adrifdzzzzzz/status/2067635951417934235/photo/1",
+              "media_key": "3_2067621447246204928",
+              "start": 63,
+              "url": "https://t.co/YSV60RtbgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067635951417934235",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 968,
+          "impression_count": 1445151,
+          "like_count": 39798,
+          "quote_count": 79,
+          "reply_count": 247,
+          "retweet_count": 1746
+        },
+        "reply_settings": "everyone",
+        "text": "solo un verdadero cagador conoce y sabe que es esta marca roja https://t.co/YSV60RtbgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 193,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T16:54:03.000Z",
+        "description": "Cuenta parodia // Sponsored by @Stake",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 31,
+                "username": "Stake"
+              }
+            ]
+          }
+        },
+        "id": "1769406816344031233",
+        "name": "adri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931973616926588928/aBqGS2lQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22605,
+          "following_count": 742,
+          "like_count": 16297,
+          "listed_count": 30,
+          "media_count": 3673,
+          "tweet_count": 10461
+        },
+        "url": "",
+        "username": "adrifdzzzzzz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2070203261609738503",
+    "created_at": "2026-06-25T17:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070204741913858532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070204741913858532",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070203261609738503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跑通了 Qdrant 的混合检索，现在搜索会同时传输稠密和稀疏向量，RRF 融合向量和 BM25 关键词的搜索结果后再排序\n利用了一下知识树，入库时会把知识树当前缀，不依赖 markdown 文件的 frontmatter 了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2070203248670334976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrW4uHa4AA_LPL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2070203248653512704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrW4uDaMAAIdK-.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2070203261609738503",
+        "created_at": "2026-06-25T17:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070204741913858532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070204741913858532",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070203261609738503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跑通了 Qdrant 的混合检索，现在搜索会同时传输稠密和稀疏向量，RRF 融合向量和 BM25 关键词的搜索结果后再排序\n利用了一下知识树，入库时会把知识树当前缀，不依赖 markdown 文件的 frontmatter 了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070203248670334976",
+            "3_2070203248653512704"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2070203261609738503",
+        "created_at": "2026-06-25T17:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070203261609738503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE96pivDO1",
+              "end": 131,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2070203261609738503/photo/1",
+              "media_key": "3_2070203248670334976",
+              "start": 108,
+              "url": "https://t.co/bE96pivDO1"
+            },
+            {
+              "display_url": "pic.x.com/bE96pivDO1",
+              "end": 131,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2070203261609738503/photo/1",
+              "media_key": "3_2070203248653512704",
+              "start": 108,
+              "url": "https://t.co/bE96pivDO1"
+            },
+            {
+              "display_url": "x.com/minecraftxfj/s…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/minecraftxfj/status/2069814198587302284",
+              "start": 132,
+              "url": "https://t.co/meDXgv7pzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070203261609738503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069814198587302284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位早上好啊，汇报一下开发进度\n知识树结构跑通了，现在可以查看知识树并根据知识树进行结果过滤\n以前的文章是按每 400 字分一次块跑 Embbedding，现在是按段落分块了，确保每一块的语义完整\n点击继续阅读⬇️ https://t.co/bE96pivDO1 https://t.co/meDXgv7pzg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 275,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

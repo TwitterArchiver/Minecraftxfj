@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2063165551728644128",
+    "created_at": "2026-06-06T17:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063309694262018150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708489817191821312",
+          "start": 0,
+          "username": "1224HuangJin"
+        },
+        {
+          "end": 25,
+          "id": "1560959425",
+          "start": 14,
+          "username": "RhenCloud_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063309694262018150",
+    "in_reply_to_user_id": "1708489817191821312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063309417555124270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@1224HuangJin @RhenCloud_ 转人工😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2063165551728644128",
+        "created_at": "2026-06-06T17:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063309694262018150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708489817191821312",
+              "start": 0,
+              "username": "1224HuangJin"
+            },
+            {
+              "end": 25,
+              "id": "1560959425",
+              "start": 14,
+              "username": "RhenCloud_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063309694262018150",
+        "in_reply_to_user_id": "1708489817191821312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063309417555124270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@1224HuangJin @RhenCloud_ 转人工😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708489817191821312",
+        "conversation_id": "2063165551728644128",
+        "created_at": "2026-06-06T17:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063309417555124270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1560959425",
+              "start": 0,
+              "username": "RhenCloud_"
+            },
+            {
+              "end": 25,
+              "id": "1545801302617116672",
+              "start": 12,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063309417555124270",
+        "in_reply_to_user_id": "1708489817191821312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063309237791457512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@RhenCloud_ @Minecraftxfj 今天你已经很努力的coding了!，已经很棒了啦，过去的不如意不要再想了，那已经是过去了，不管是什么原因也不能否定你任何的，别人也无权评价你的人生是否成功，是否失败哦！（你的人生由你决定）\n好啦，真的很感谢你能花时间把我的这些话看完，读完，即便这可能对你没多大用处，但我依然有个小小的请求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 83,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:31:50.000Z",
+        "description": "",
+        "id": "1708489817191821312",
+        "name": "夜影、Night Shadow",
+        "pinned_tweet_id": "1845105108427616385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602675859501056/iPCN_1_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 68,
+          "like_count": 1837,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 478
+        },
+        "username": "1224HuangJin",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-01T16:34:33.000Z",
+        "description": "🏳️‍⚧️MTF HRT: 2026.05.24\n家长反对党\nhttps://t.co/QQ1gFO9AHS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rhencloud_chat…",
+                "end": 54,
+                "expanded_url": "https://t.me/rhencloud_chat_bot",
+                "start": 31,
+                "url": "https://t.co/QQ1gFO9AHS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rhen.cloud",
+                "end": 23,
+                "expanded_url": "http://rhen.cloud",
+                "start": 0,
+                "url": "https://t.co/KJAcAPOQ3g"
+              }
+            ]
+          }
+        },
+        "id": "1560959425",
+        "location": "世界的尽头",
+        "name": "泠云",
+        "pinned_tweet_id": "2049168373322596425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047200196996784128/Qstb92OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 148,
+          "like_count": 2391,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/KJAcAPOQ3g",
+        "username": "RhenCloud_",
+        "verified": false
+      }
+    ]
+  }
+}

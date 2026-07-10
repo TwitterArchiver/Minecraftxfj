@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069819322588090370"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2069814198587302284",
+    "created_at": "2026-06-24T16:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069819331719090274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Creating advanced vector search technology. Qdrant has 131 repositories available. Follow their code on GitHub.",
+          "display_url": "github.com/qdrant",
+          "end": 82,
+          "expanded_url": "http://github.com/qdrant",
+          "images": [
+            {
+              "height": 280,
+              "url": "https://pbs.twimg.com/news_img/2069819336693592064/CrercPU5?format=png&name=orig",
+              "width": 280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2069819336693592064/CrercPU5?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 59,
+          "status": 200,
+          "title": "Qdrant",
+          "unwound_url": "https://github.com/qdrant",
+          "url": "https://t.co/AdyEWkRRaO"
+        },
+        {
+          "description": "一个来自社区、服务社区的现代跨性别知识库。. Contribute to KitsuMio/MioMtFWiki development by creating an account on GitHub.",
+          "display_url": "github.com/KitsuMio/MioMt…",
+          "end": 117,
+          "expanded_url": "http://github.com/KitsuMio/MioMtFWiki",
+          "start": 94,
+          "status": 200,
+          "title": "GitHub - KitsuMio/MioMtFWiki: 一个来自社区、服务社区的现代跨性别知识库。",
+          "unwound_url": "https://github.com/KitsuMio/MioMtFWiki",
+          "url": "https://t.co/ItMRvJImX1"
+        },
+        {
+          "display_url": "github.com/project-trans/…",
+          "end": 149,
+          "expanded_url": "http://github.com/project-trans/MtF-wiki",
+          "start": 126,
+          "url": "https://t.co/YCoEu2BnbL"
+        },
+        {
+          "display_url": "pic.x.com/XLzAyHq25f",
+          "end": 218,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2069819331719090274/photo/1",
+          "media_key": "3_2069819322588090370",
+          "start": 195,
+          "url": "https://t.co/XLzAyHq25f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069819331719090274",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069818037239431200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还需要注意的是，前端目前是 AI 开发，待后端部署完毕后泠云会人工重新开发，且测试环境，不代表实际效果\nQdrant：https://t.co/AdyEWkRRaO\nMioMtFWiki：https://t.co/ItMRvJImX1\nMtFWiki：https://t.co/YCoEu2BnbL\n* 配图为录入 MioMtFWiki 的文章 “HRT 入门”，共生成了 13 个向量块 https://t.co/XLzAyHq25f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069819322588090370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl5tSAaUAIPVdv.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2069818015852429312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl4hOCWgAA3P5W.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2069818015689101312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl4hNbaUAAU_tn.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069819322588090370"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2069814198587302284",
+        "created_at": "2026-06-24T16:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069819331719090274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Creating advanced vector search technology. Qdrant has 131 repositories available. Follow their code on GitHub.",
+              "display_url": "github.com/qdrant",
+              "end": 82,
+              "expanded_url": "http://github.com/qdrant",
+              "images": [
+                {
+                  "height": 280,
+                  "url": "https://pbs.twimg.com/news_img/2069819336693592064/CrercPU5?format=png&name=orig",
+                  "width": 280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069819336693592064/CrercPU5?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "Qdrant",
+              "unwound_url": "https://github.com/qdrant",
+              "url": "https://t.co/AdyEWkRRaO"
+            },
+            {
+              "description": "一个来自社区、服务社区的现代跨性别知识库。. Contribute to KitsuMio/MioMtFWiki development by creating an account on GitHub.",
+              "display_url": "github.com/KitsuMio/MioMt…",
+              "end": 117,
+              "expanded_url": "http://github.com/KitsuMio/MioMtFWiki",
+              "start": 94,
+              "status": 200,
+              "title": "GitHub - KitsuMio/MioMtFWiki: 一个来自社区、服务社区的现代跨性别知识库。",
+              "unwound_url": "https://github.com/KitsuMio/MioMtFWiki",
+              "url": "https://t.co/ItMRvJImX1"
+            },
+            {
+              "display_url": "github.com/project-trans/…",
+              "end": 149,
+              "expanded_url": "http://github.com/project-trans/MtF-wiki",
+              "start": 126,
+              "url": "https://t.co/YCoEu2BnbL"
+            },
+            {
+              "display_url": "pic.x.com/XLzAyHq25f",
+              "end": 218,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2069819331719090274/photo/1",
+              "media_key": "3_2069819322588090370",
+              "start": 195,
+              "url": "https://t.co/XLzAyHq25f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069819331719090274",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069818037239431200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还需要注意的是，前端目前是 AI 开发，待后端部署完毕后泠云会人工重新开发，且测试环境，不代表实际效果\nQdrant：https://t.co/AdyEWkRRaO\nMioMtFWiki：https://t.co/ItMRvJImX1\nMtFWiki：https://t.co/YCoEu2BnbL\n* 配图为录入 MioMtFWiki 的文章 “HRT 入门”，共生成了 13 个向量块 https://t.co/XLzAyHq25f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069818015852429312",
+            "3_2069818015689101312"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2069814198587302284",
+        "created_at": "2026-06-24T16:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069818037239431200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSPZFcaT2s",
+              "end": 153,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2069818037239431200/photo/1",
+              "media_key": "3_2069818015852429312",
+              "start": 130,
+              "url": "https://t.co/dSPZFcaT2s"
+            },
+            {
+              "display_url": "pic.x.com/dSPZFcaT2s",
+              "end": 153,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2069818037239431200/photo/1",
+              "media_key": "3_2069818015689101312",
+              "start": 130,
+              "url": "https://t.co/dSPZFcaT2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069818037239431200",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069816596403831222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我目前在测试环境的测试效果\n你需要注意的是，我还没有录入知识树，待开发知识树功能后，会得到更便捷且更高精度的搜索范围限定\n测试文章来源于 MioMtFWiki 和 MtFWiki，其使用CC BY-ND 4.0 和 CC BY-SA 4.0 协议进行许可 https://t.co/dSPZFcaT2s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 273,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

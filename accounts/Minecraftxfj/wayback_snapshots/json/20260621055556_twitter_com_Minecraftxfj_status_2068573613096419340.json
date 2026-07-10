@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2068336764633362502",
+    "created_at": "2026-06-21T05:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068573613096419340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1754419568297271296",
+          "start": 0,
+          "username": "jhao941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068573613096419340",
+    "in_reply_to_user_id": "1754419568297271296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068336764633362502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhao941 贴张膜（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068336749630357504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ1ULWagAAHcic.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2068336764633362502",
+        "created_at": "2026-06-21T05:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068573613096419340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1754419568297271296",
+              "start": 0,
+              "username": "jhao941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068573613096419340",
+        "in_reply_to_user_id": "1754419568297271296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068336764633362502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhao941 贴张膜（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068336749630357504"
+          ]
+        },
+        "author_id": "1754419568297271296",
+        "conversation_id": "2068336764633362502",
+        "created_at": "2026-06-20T14:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068336764633362502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJkxhabKmc",
+              "end": 101,
+              "expanded_url": "https://x.com/jhao941/status/2068336764633362502/photo/1",
+              "media_key": "3_2068336749630357504",
+              "start": 78,
+              "url": "https://t.co/XJkxhabKmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068336764633362502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3900,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天清理Mac屏幕的时候发现似乎被键盘印出了浅浅的键盘印，怎么擦都擦不掉，但问题是我键盘几乎天天都要擦一遍，屏幕也有定期清理，有推友知道怎么去除或缓解吗🫠 https://t.co/XJkxhabKmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 257,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T08:20:47.000Z",
+        "description": "🏳️‍🌈｜he/him｜i make ai slop",
+        "id": "1754419568297271296",
+        "name": "Hao",
+        "pinned_tweet_id": "2065819863667683333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004869186238210048/XOWZHRBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 380,
+          "like_count": 2172,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "jhao941",
+        "verified": false
+      }
+    ]
+  }
+}

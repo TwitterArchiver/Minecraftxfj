@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "1967636319393464586",
+    "created_at": "2025-09-17T17:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T18:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968366971088683406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936364417001852928",
+          "start": 0,
+          "username": "Your962497980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968366971088683406",
+    "in_reply_to_user_id": "1936364417001852928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967636319393464586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Your962497980 最羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_1967636316029587459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05yzfAaEAMN6eF.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "1967636319393464586",
+        "created_at": "2025-09-17T17:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T18:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968366971088683406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936364417001852928",
+              "start": 0,
+              "username": "Your962497980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968366971088683406",
+        "in_reply_to_user_id": "1936364417001852928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967636319393464586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Your962497980 最羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967636316029587459"
+          ]
+        },
+        "author_id": "1936364417001852928",
+        "conversation_id": "1967636319393464586",
+        "created_at": "2025-09-15T17:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T18:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967636319393464586"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "xyn"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "hrt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERSHkFc16O",
+              "end": 59,
+              "expanded_url": "https://x.com/Your962497980/status/1967636319393464586/photo/1",
+              "media_key": "3_1967636316029587459",
+              "start": 36,
+              "url": "https://t.co/ERSHkFc16O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967636319393464586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 864,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻\n又矮了2cm\nHRT84天一共矮了5cm了\n#xyn #hrt https://t.co/ERSHkFc16O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "🍥🈚️主人状态ing...🍥\n⎜09 ⎜190cm/80kg 的大药娘⎜MTF🏳️‍⚧️⎜轻度抑郁⎜ps.老号ban了，这是个新号喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top/about",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top/about",
+                "start": 0,
+                "url": "https://t.co/WXP0sGMbeL"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964029359834181632/7GIm3Umq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/WXP0sGMbeL",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T10:03:56.000Z",
+        "description": "含🍬｜已出柜｜\n15岁｜HRT2025.6.23｜Your幽小乐｜\n可以叫我幽小乐或者Your｜\n170cm｜45kg｜\n家里蹲｜ISFP｜一般不会主动发信息｜不会聊天｜有对象啦嘿嘿｜好姐姐@qqnjjwb｜有能力的话咱幽会尽量帮助mtf的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 95,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1936364417001852928",
+        "location": "河北省衡水市",
+        "name": "Your幽小乐🍥",
+        "pinned_tweet_id": "1957784906790236283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945580096670109696/ep695TGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 685,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 309
+        },
+        "username": "Your962497980",
+        "verified": false
+      }
+    ]
+  }
+}

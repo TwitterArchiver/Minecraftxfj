@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2063220921243197941",
+    "created_at": "2026-06-08T02:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063803723026170021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "844220633168805888",
+          "start": 0,
+          "username": "takepon_tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063803723026170021",
+    "in_reply_to_user_id": "844220633168805888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063220921243197941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takepon_tw 她真漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2063220254835384320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIH4-7aoAAxY15.jpg",
+        "width": 1374
+      },
+      {
+        "height": 882,
+        "media_key": "3_2063220311638851584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIH8SiawAAuaOl.jpg",
+        "width": 1374
+      },
+      {
+        "height": 882,
+        "media_key": "3_2063220534687764480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIIJRdbEAA-u1o.jpg",
+        "width": 1374
+      },
+      {
+        "height": 882,
+        "media_key": "3_2063220574990843904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIILnmbQAAXuLb.jpg",
+        "width": 1374
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2063220921243197941",
+        "created_at": "2026-06-08T02:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063803723026170021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "844220633168805888",
+              "start": 0,
+              "username": "takepon_tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063803723026170021",
+        "in_reply_to_user_id": "844220633168805888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063220921243197941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takepon_tw 她真漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063220254835384320",
+            "3_2063220311638851584",
+            "3_2063220534687764480",
+            "3_2063220574990843904"
+          ]
+        },
+        "author_id": "844220633168805888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2063220921243197941",
+        "created_at": "2026-06-06T11:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063220921243197941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaQP7J74TW",
+              "end": 160,
+              "expanded_url": "https://x.com/takepon_tw/status/2063220921243197941/photo/1",
+              "media_key": "3_2063220254835384320",
+              "start": 137,
+              "url": "https://t.co/QaQP7J74TW"
+            },
+            {
+              "display_url": "pic.x.com/QaQP7J74TW",
+              "end": 160,
+              "expanded_url": "https://x.com/takepon_tw/status/2063220921243197941/photo/1",
+              "media_key": "3_2063220311638851584",
+              "start": 137,
+              "url": "https://t.co/QaQP7J74TW"
+            },
+            {
+              "display_url": "pic.x.com/QaQP7J74TW",
+              "end": 160,
+              "expanded_url": "https://x.com/takepon_tw/status/2063220921243197941/photo/1",
+              "media_key": "3_2063220534687764480",
+              "start": 137,
+              "url": "https://t.co/QaQP7J74TW"
+            },
+            {
+              "display_url": "pic.x.com/QaQP7J74TW",
+              "end": 160,
+              "expanded_url": "https://x.com/takepon_tw/status/2063220921243197941/photo/1",
+              "media_key": "3_2063220574990843904",
+              "start": 137,
+              "url": "https://t.co/QaQP7J74TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063220921243197941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2457,
+          "impression_count": 667317,
+          "like_count": 11712,
+          "quote_count": 57,
+          "reply_count": 43,
+          "retweet_count": 972
+        },
+        "reply_settings": "everyone",
+        "text": "AIでは無理だと思う表現、その②\n\n超高解像度（16K相当）で描き込んだ初音ミク等身大タペストリー\"ICON\"のディテール\nネクタイのシルクの繊維の表現、糸の縫い目（縫い目にも一つ一つ陰影をつけている）\nモニターは全て手描き\nニーソ鍵盤模様の立体表現\n\nわしの狂気を見ろ！ https://t.co/QaQP7J74TW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 84,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-21T16:14:18.000Z",
+        "description": "絵を描きます\n禁止事項：無断転載＆AI学習\n(pixiv) https://t.co/FsUNOSUPz1\n(E-mail) takepon2018@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25652054",
+                "end": 53,
+                "expanded_url": "http://pixiv.net/users/25652054",
+                "start": 30,
+                "url": "https://t.co/FsUNOSUPz1"
+              }
+            ]
+          }
+        },
+        "id": "844220633168805888",
+        "location": "日本国",
+        "name": "takepon@C108 日曜日 西地区 西２ホール お47a",
+        "pinned_tweet_id": "2062809564073120079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161278296203636736/vjxtcbyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79020,
+          "following_count": 251,
+          "like_count": 3593,
+          "listed_count": 671,
+          "media_count": 1164,
+          "tweet_count": 14241
+        },
+        "username": "takepon_tw",
+        "verified": true
+      }
+    ]
+  }
+}

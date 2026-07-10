@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064511046757625856"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2064511135332876736",
+    "created_at": "2026-06-10T00:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T01:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064511135332876736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dN1WwxhUig",
+          "end": 40,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2064511135332876736/video/1",
+          "media_key": "13_2064511046757625856",
+          "start": 17,
+          "url": "https://t.co/dN1WwxhUig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064511135332876736",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "od 的 MTF belike： https://t.co/dN1WwxhUig"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27375,
+        "height": 560,
+        "media_key": "13_2064511046757625856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064511046757625856/img/eYKlgCJBYH35ipMJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064511046757625856/vid/avc1/308x270/y0DcUnsC5lv7VPy4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064511046757625856/vid/avc1/410x360/Us_ZRtSg5VAdA6lc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064511046757625856/vid/avc1/640x560/Z44wAWGpws5zVLHf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064511046757625856/pl/rql-ixtAPXm2Enev.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064511046757625856"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2064511135332876736",
+        "created_at": "2026-06-10T00:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064511135332876736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dN1WwxhUig",
+              "end": 40,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2064511135332876736/video/1",
+              "media_key": "13_2064511046757625856",
+              "start": 17,
+              "url": "https://t.co/dN1WwxhUig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064511135332876736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od 的 MTF belike： https://t.co/dN1WwxhUig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 86,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

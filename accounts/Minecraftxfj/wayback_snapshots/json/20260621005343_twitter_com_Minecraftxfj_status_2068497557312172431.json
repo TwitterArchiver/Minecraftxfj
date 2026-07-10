@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2068364525037064455",
+    "created_at": "2026-06-21T00:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T01:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068497557312172431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1754419568297271296",
+          "start": 0,
+          "username": "jhao941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068497557312172431",
+    "in_reply_to_user_id": "1754419568297271296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068364525037064455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhao941 想找这种的东西你不能直接这样搜......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_2068364520226185216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLROko4aYAAnEqY.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2068364525037064455",
+        "created_at": "2026-06-21T00:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068497557312172431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1754419568297271296",
+              "start": 0,
+              "username": "jhao941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068497557312172431",
+        "in_reply_to_user_id": "1754419568297271296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068364525037064455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhao941 想找这种的东西你不能直接这样搜......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068364520226185216"
+          ]
+        },
+        "author_id": "1754419568297271296",
+        "conversation_id": "2068364525037064455",
+        "created_at": "2026-06-20T16:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068364525037064455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ef8haFhZFM",
+              "end": 41,
+              "expanded_url": "https://x.com/jhao941/status/2068364525037064455/photo/1",
+              "media_key": "3_2068364520226185216",
+              "start": 18,
+              "url": "https://t.co/Ef8haFhZFM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068364525037064455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2334,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人知道哪里可以买到彩虹旗贴纸吗！ https://t.co/Ef8haFhZFM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 252,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T08:20:47.000Z",
+        "description": "🏳️‍🌈｜he/him｜i make ai slop",
+        "id": "1754419568297271296",
+        "name": "Hao",
+        "pinned_tweet_id": "2065819863667683333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004869186238210048/XOWZHRBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 380,
+          "like_count": 2153,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "jhao941",
+        "verified": false
+      }
+    ]
+  }
+}

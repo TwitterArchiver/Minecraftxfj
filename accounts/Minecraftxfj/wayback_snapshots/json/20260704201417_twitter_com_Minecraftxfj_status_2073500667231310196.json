@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073483931354370048",
+        "3_2073483931350163456"
+      ],
+      "media_source_tweet_id": [
+        "2073483997871779903",
+        "2073483997871779903"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073500667231310196",
+    "created_at": "2026-07-04T20:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073500667231310196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f5iV8aHEio",
+          "end": 96,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2073483997871779903/photo/1",
+          "media_key": "3_2073483931354370048",
+          "start": 73,
+          "url": "https://t.co/f5iV8aHEio"
+        },
+        {
+          "display_url": "pic.x.com/f5iV8aHEio",
+          "end": 96,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2073483997871779903/photo/1",
+          "media_key": "3_2073483931350163456",
+          "start": 73,
+          "url": "https://t.co/f5iV8aHEio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073500667231310196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073483997871779903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 欸嘿嘿好吃的白丝丝……\n環状線鸭子坐的时候膝盖部分的棱角好明显，有没有什么方法能让膝盖看起来圆润一些吗🥺 https://t.co/f5iV8aHEio"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073483931354370048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZ-plfbkAAJG0b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2073483931350163456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZ-plebYAABApR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073483931354370048",
+            "3_2073483931350163456"
+          ],
+          "media_source_tweet_id": [
+            "2073483997871779903",
+            "2073483997871779903"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073500667231310196",
+        "created_at": "2026-07-04T20:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073500667231310196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5iV8aHEio",
+              "end": 96,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2073483997871779903/photo/1",
+              "media_key": "3_2073483931354370048",
+              "start": 73,
+              "url": "https://t.co/f5iV8aHEio"
+            },
+            {
+              "display_url": "pic.x.com/f5iV8aHEio",
+              "end": 96,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2073483997871779903/photo/1",
+              "media_key": "3_2073483931350163456",
+              "start": 73,
+              "url": "https://t.co/f5iV8aHEio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073500667231310196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073483997871779903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 欸嘿嘿好吃的白丝丝……\n環状線鸭子坐的时候膝盖部分的棱角好明显，有没有什么方法能让膝盖看起来圆润一些吗🥺 https://t.co/f5iV8aHEio"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073483931354370048",
+            "3_2073483931350163456"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2073483997871779903",
+        "created_at": "2026-07-04T19:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073483997871779903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5iV8aHEio",
+              "end": 76,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2073483997871779903/photo/1",
+              "media_key": "3_2073483931354370048",
+              "start": 53,
+              "url": "https://t.co/f5iV8aHEio"
+            },
+            {
+              "display_url": "pic.x.com/f5iV8aHEio",
+              "end": 76,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2073483997871779903/photo/1",
+              "media_key": "3_2073483931350163456",
+              "start": 53,
+              "url": "https://t.co/f5iV8aHEio"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2073474636201992212",
+              "start": 77,
+              "url": "https://t.co/Pdb3uGrq2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073483997871779903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 910,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073474636201992212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欸嘿嘿好吃的白丝丝……\n環状線鸭子坐的时候膝盖部分的棱角好明显，有没有什么方法能让膝盖看起来圆润一些吗🥺 https://t.co/f5iV8aHEio https://t.co/Pdb3uGrq2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 286,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9132,
+          "following_count": 879,
+          "like_count": 29403,
+          "listed_count": 13,
+          "media_count": 1872,
+          "tweet_count": 9574
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

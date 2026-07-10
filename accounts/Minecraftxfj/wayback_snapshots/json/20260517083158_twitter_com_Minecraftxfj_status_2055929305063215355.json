@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2055523960431997240",
+    "created_at": "2026-05-17T08:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055929305063215355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055929305063215355",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055523960431997240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 如果能有个大佬复刻量产就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055523953435951104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIawJR_bQAAV5Qm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2055523957475028992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIawJhCasAAtzNJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2055523952865521664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIawJP3bMAAGHqN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2055523953175916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIawJRBbcAAmvwR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2055523960431997240",
+        "created_at": "2026-05-17T08:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055929305063215355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055929305063215355",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055523960431997240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 如果能有个大佬复刻量产就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055523953435951104",
+            "3_2055523957475028992",
+            "3_2055523952865521664",
+            "3_2055523953175916544"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055523960431997240",
+        "created_at": "2026-05-16T05:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055523960431997240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPmxT4Kley",
+              "end": 39,
+              "expanded_url": "https://x.com/jlxc2001/status/2055523960431997240/photo/1",
+              "media_key": "3_2055523953435951104",
+              "start": 16,
+              "url": "https://t.co/uPmxT4Kley"
+            },
+            {
+              "display_url": "pic.x.com/uPmxT4Kley",
+              "end": 39,
+              "expanded_url": "https://x.com/jlxc2001/status/2055523960431997240/photo/1",
+              "media_key": "3_2055523957475028992",
+              "start": 16,
+              "url": "https://t.co/uPmxT4Kley"
+            },
+            {
+              "display_url": "pic.x.com/uPmxT4Kley",
+              "end": 39,
+              "expanded_url": "https://x.com/jlxc2001/status/2055523960431997240/photo/1",
+              "media_key": "3_2055523952865521664",
+              "start": 16,
+              "url": "https://t.co/uPmxT4Kley"
+            },
+            {
+              "display_url": "pic.x.com/uPmxT4Kley",
+              "end": 39,
+              "expanded_url": "https://x.com/jlxc2001/status/2055523960431997240/photo/1",
+              "media_key": "3_2055523953175916544",
+              "start": 16,
+              "url": "https://t.co/uPmxT4Kley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055523960431997240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10678,
+          "like_count": 189,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "还有没有人记得Orasaifu https://t.co/uPmxT4Kley"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 63,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17078,
+          "following_count": 211,
+          "like_count": 561,
+          "listed_count": 38,
+          "media_count": 1062,
+          "tweet_count": 2833
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

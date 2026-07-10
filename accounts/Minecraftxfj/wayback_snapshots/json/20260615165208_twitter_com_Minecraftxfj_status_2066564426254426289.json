@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2066363318961635718",
+    "created_at": "2026-06-15T16:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066564426254426289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898430207461339136",
+          "start": 0,
+          "username": "Templejulie216"
+        },
+        {
+          "end": 30,
+          "id": "1967512601639927808",
+          "start": 16,
+          "username": "Michele785099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066564426254426289",
+    "in_reply_to_user_id": "1898430207461339136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066529127168086360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Templejulie216 @Michele785099 草，没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2066363318961635718",
+        "created_at": "2026-06-15T16:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066564426254426289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898430207461339136",
+              "start": 0,
+              "username": "Templejulie216"
+            },
+            {
+              "end": 30,
+              "id": "1967512601639927808",
+              "start": 16,
+              "username": "Michele785099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066564426254426289",
+        "in_reply_to_user_id": "1898430207461339136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066529127168086360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Templejulie216 @Michele785099 草，没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898430207461339136",
+        "conversation_id": "2066363318961635718",
+        "created_at": "2026-06-15T14:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066529127168086360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967512601639927808",
+              "start": 0,
+              "username": "Michele785099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066529127168086360",
+        "in_reply_to_user_id": "1967512601639927808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21818,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066363318961635718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michele785099 会的，男生会被处女膜破了的冲击力炸出百米之外"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 109,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T17:46:55.000Z",
+        "description": "^•͈༝•^ฅ猫的章鱼@shuoaiwo_43——我是怪猫猫 如果你需要塔罗咨询可以联系我(｡ì _ í｡)不回复占卜咨询以外的私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "shuoaiwo_43"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/templejulie216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/templejulie216",
+                "start": 0,
+                "url": "https://t.co/jRosXf01ea"
+              }
+            ]
+          }
+        },
+        "id": "1898430207461339136",
+        "name": "怪猫猫",
+        "pinned_tweet_id": "2034608624283336769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065267508911935488/UiklZad-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 146,
+          "like_count": 8532,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 2941
+        },
+        "url": "https://t.co/jRosXf01ea",
+        "username": "Templejulie216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T08:55:38.000Z",
+        "description": "",
+        "id": "1967512601639927808",
+        "location": "3.1km",
+        "name": "小萌吖",
+        "pinned_tweet_id": "2065831297189310706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065765155619958785/pZv7sudk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 2,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "username": "Michele785099",
+        "verified": false
+      }
+    ]
+  }
+}

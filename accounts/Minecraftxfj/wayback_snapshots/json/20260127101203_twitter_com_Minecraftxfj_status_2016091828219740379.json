@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2015399530599161861",
+    "created_at": "2026-01-27T10:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016091828219740379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        },
+        {
+          "end": 24,
+          "id": "1812703030674128896",
+          "start": 10,
+          "username": "ChocobarFesta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016091828219740379",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015482113488048203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc @ChocobarFesta 滚筒洗衣机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 62,
+        "media_key": "3_2015482107129384960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_huTEaaUAAGufA.jpg",
+        "width": 46
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2015399530599161861",
+        "created_at": "2026-01-27T10:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016091828219740379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            },
+            {
+              "end": 24,
+              "id": "1812703030674128896",
+              "start": 10,
+              "username": "ChocobarFesta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016091828219740379",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015482113488048203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc @ChocobarFesta 滚筒洗衣机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015482107129384960"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015399530599161861",
+        "created_at": "2026-01-25T17:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015482113488048203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812703030674128896",
+              "start": 0,
+              "username": "ChocobarFesta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AirPAsKVbv",
+              "end": 48,
+              "expanded_url": "https://x.com/Mimiaomc/status/2015482113488048203/photo/1",
+              "media_key": "3_2015482107129384960",
+              "start": 25,
+              "url": "https://t.co/AirPAsKVbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015482113488048203",
+        "in_reply_to_user_id": "1812703030674128896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3167,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015399530599161861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChocobarFesta 0秒猜出是什么游戏 https://t.co/AirPAsKVbv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/4cqyPUZQfM"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 46,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/4cqyPUZQfM",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "喵了个（咪喵解说）\n就是家猫啦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu18tX"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "陕西西安，中国",
+        "name": "MM 喵了个",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374736977145303040/wMVCqAP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 395,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/zTJhnu18tX",
+        "username": "Mimiaomc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T04:17:46.000Z",
+        "description": "",
+        "id": "1812703030674128896",
+        "name": "チョコバーまつり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833998001301585920/HNYCjClj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6634,
+          "following_count": 1564,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 571
+        },
+        "username": "ChocobarFesta",
+        "verified": true
+      }
+    ]
+  }
+}

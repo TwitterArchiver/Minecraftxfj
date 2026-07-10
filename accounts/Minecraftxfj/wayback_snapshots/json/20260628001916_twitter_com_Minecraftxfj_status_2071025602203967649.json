@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2070693939225727103",
+    "created_at": "2026-06-28T00:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T01:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071025602203967649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734188803747962880",
+          "start": 0,
+          "username": "GeBiubiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071025602203967649",
+    "in_reply_to_user_id": "1734188803747962880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070693939225727103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeBiubiu 这里面有灯吗？🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070693916337491968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyVJVnb0AAk5Ph.jpg",
+        "width": 1549
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070693916832313344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyVJXdaMAAI7iK.jpg",
+        "width": 1730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2070693939225727103",
+        "created_at": "2026-06-28T00:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071025602203967649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734188803747962880",
+              "start": 0,
+              "username": "GeBiubiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071025602203967649",
+        "in_reply_to_user_id": "1734188803747962880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070693939225727103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeBiubiu 这里面有灯吗？🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070693916337491968",
+            "3_2070693916832313344"
+          ]
+        },
+        "author_id": "1734188803747962880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070693939225727103",
+        "created_at": "2026-06-27T02:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070693939225727103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T33AqFJwCp",
+              "end": 32,
+              "expanded_url": "https://x.com/GeBiubiu/status/2070693939225727103/photo/1",
+              "media_key": "3_2070693916337491968",
+              "start": 9,
+              "url": "https://t.co/T33AqFJwCp"
+            },
+            {
+              "display_url": "pic.x.com/T33AqFJwCp",
+              "end": 32,
+              "expanded_url": "https://x.com/GeBiubiu/status/2070693939225727103/photo/1",
+              "media_key": "3_2070693916832313344",
+              "start": 9,
+              "url": "https://t.co/T33AqFJwCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070693939225727103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3646,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢吗？\n送你？ https://t.co/T33AqFJwCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 280,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1470
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-11T12:30:30.000Z",
+        "description": "🇨🇳 钢筋直男 分享 美好\n      \n（视频图片源自网络 如有侵权请联系删除～）",
+        "id": "1734188803747962880",
+        "location": "Jiangxi China",
+        "name": "是Biubiu_Ge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011019340095897601/M3EAib_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12139,
+          "following_count": 6130,
+          "like_count": 434326,
+          "listed_count": 34,
+          "media_count": 1432,
+          "tweet_count": 21581
+        },
+        "url": "",
+        "username": "GeBiubiu",
+        "verified": false
+      }
+    ]
+  }
+}

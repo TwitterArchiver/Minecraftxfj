@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038626179759157248"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2038626195303260567",
+    "created_at": "2026-03-30T14:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038626195303260567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pCCCRy7zfK",
+          "end": 66,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2038626195303260567/photo/1",
+          "media_key": "3_2038626179759157248",
+          "start": 43,
+          "url": "https://t.co/pCCCRy7zfK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038626195303260567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "战败结算🤦‍♂️\n雷军！金凡！！！\n都过保的机子还不让解锁，nm 是不是炸了？？？！ https://t.co/pCCCRy7zfK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2038626179759157248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqntZpbMAA71k5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038626179759157248"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2038626195303260567",
+        "created_at": "2026-03-30T14:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038626195303260567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCCCRy7zfK",
+              "end": 66,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2038626195303260567/photo/1",
+              "media_key": "3_2038626179759157248",
+              "start": 43,
+              "url": "https://t.co/pCCCRy7zfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038626195303260567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "战败结算🤦‍♂️\n雷军！金凡！！！\n都过保的机子还不让解锁，nm 是不是炸了？？？！ https://t.co/pCCCRy7zfK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 55,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

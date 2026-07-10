@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2063515208509960646",
+    "created_at": "2026-06-07T06:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063515208509960646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781510736000274432",
+          "start": 3,
+          "username": "huantim1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063515208509960646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063496049755607311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huantim1: “海月水母新号”的一些疑点\n1.海月水母目前被送入精卫全封闭病房半年，无法发帖\n2.海月水母完全可以恢复原账号，但是却选择开了一个新号\n3.海月水母目前手机在tyw手上\n4.看ip，澳洲原生家宽，关注列表十分神奇\ntyw为什么要这么做？\n猜测1:同南…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2148,
+        "media_key": "3_2063496024602394624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMCs5XbQAA-Cpo.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2148,
+        "media_key": "3_2063496024598192128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMCs5WbIAA0l8K.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2063515208509960646",
+        "created_at": "2026-06-07T06:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063515208509960646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781510736000274432",
+              "start": 3,
+              "username": "huantim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063515208509960646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063496049755607311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huantim1: “海月水母新号”的一些疑点\n1.海月水母目前被送入精卫全封闭病房半年，无法发帖\n2.海月水母完全可以恢复原账号，但是却选择开了一个新号\n3.海月水母目前手机在tyw手上\n4.看ip，澳洲原生家宽，关注列表十分神奇\ntyw为什么要这么做？\n猜测1:同南…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063496024602394624",
+            "3_2063496024598192128"
+          ]
+        },
+        "author_id": "1781510736000274432",
+        "conversation_id": "2063496049755607311",
+        "created_at": "2026-06-07T05:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063496049755607311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3WbFtzhZe",
+              "end": 181,
+              "expanded_url": "https://x.com/huantim1/status/2063496049755607311/photo/1",
+              "media_key": "3_2063496024602394624",
+              "start": 158,
+              "url": "https://t.co/H3WbFtzhZe"
+            },
+            {
+              "display_url": "pic.x.com/H3WbFtzhZe",
+              "end": 181,
+              "expanded_url": "https://x.com/huantim1/status/2063496049755607311/photo/1",
+              "media_key": "3_2063496024598192128",
+              "start": 158,
+              "url": "https://t.co/H3WbFtzhZe"
+            },
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/17nuun/status/2063347975875875104",
+              "start": 182,
+              "url": "https://t.co/yJesF6TO5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063496049755607311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1001,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063347975875875104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“海月水母新号”的一些疑点\n1.海月水母目前被送入精卫全封闭病房半年，无法发帖\n2.海月水母完全可以恢复原账号，但是却选择开了一个新号\n3.海月水母目前手机在tyw手上\n4.看ip，澳洲原生家宽，关注列表十分神奇\ntyw为什么要这么做？\n猜测1:同南盺，tyw要搞一个抑郁人格\n猜测2:tyw想模仿海月水母进行炒作 https://t.co/H3WbFtzhZe https://t.co/yJesF6TO5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 83,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某高一牲 是mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huantim1.bsky.social",
+                "end": 23,
+                "expanded_url": "http://huantim1.bsky.social",
+                "start": 0,
+                "url": "https://t.co/cXdI7FG7B0"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 718,
+          "like_count": 62259,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 4958
+        },
+        "url": "https://t.co/cXdI7FG7B0",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2072673908105581048",
+    "created_at": "2026-07-02T15:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072710698283778440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072710698283778440",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072673908105581048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT jlc 免费的东西自己打样完放出来卖，气笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072673813587009536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOd2hoboAASQAU.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072673815717617664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOd2pkaIAAnnb2.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072673816791404544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOd2tka0AAbUd2.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072673814551617536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOd2lOaYAAVoFK.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2072673908105581048",
+        "created_at": "2026-07-02T15:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072710698283778440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072710698283778440",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072673908105581048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT jlc 免费的东西自己打样完放出来卖，气笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072673813587009536",
+            "3_2072673815717617664",
+            "3_2072673816791404544",
+            "3_2072673814551617536"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072673908105581048",
+        "created_at": "2026-07-02T13:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072673908105581048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g59qo1Q6cL",
+              "end": 163,
+              "expanded_url": "https://x.com/666666666ZT/status/2072673908105581048/photo/1",
+              "media_key": "3_2072673813587009536",
+              "start": 140,
+              "url": "https://t.co/g59qo1Q6cL"
+            },
+            {
+              "display_url": "pic.x.com/g59qo1Q6cL",
+              "end": 163,
+              "expanded_url": "https://x.com/666666666ZT/status/2072673908105581048/photo/1",
+              "media_key": "3_2072673815717617664",
+              "start": 140,
+              "url": "https://t.co/g59qo1Q6cL"
+            },
+            {
+              "display_url": "pic.x.com/g59qo1Q6cL",
+              "end": 163,
+              "expanded_url": "https://x.com/666666666ZT/status/2072673908105581048/photo/1",
+              "media_key": "3_2072673816791404544",
+              "start": 140,
+              "url": "https://t.co/g59qo1Q6cL"
+            },
+            {
+              "display_url": "pic.x.com/g59qo1Q6cL",
+              "end": 163,
+              "expanded_url": "https://x.com/666666666ZT/status/2072673908105581048/photo/1",
+              "media_key": "3_2072673814551617536",
+              "start": 140,
+              "url": "https://t.co/g59qo1Q6cL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072673908105581048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1228,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜，晚上发两个快递，裤子弄湿了，饭都没吃几口，我一看到待发货的信息，我就立马回到我房间，打包 然后拿上肩灯和防远光眼镜就骑车出门去发快递了，赚的都是辛苦钱，少一个差评少一个退款退货就是对我最好的，我发货速度快一点，快递就能到您们手上，不用等很久，因为我用心做店铺，用心对待客户 https://t.co/g59qo1Q6cL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 284,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 202,
+          "like_count": 23,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2067817055429214598",
+    "created_at": "2026-06-19T15:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067989622228189327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800527285189283840",
+          "start": 0,
+          "username": "UBYcsdpQjD76971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067989622228189327",
+    "in_reply_to_user_id": "1800527285189283840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067817055429214598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UBYcsdpQjD76971 你可以说：小姐姐你的脚好漂亮，我可以拍几张照片吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1287,
+        "media_key": "3_2067816881797660672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJcf4wbAAAiJ2K.jpg",
+        "width": 1221
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2067817055429214598",
+        "created_at": "2026-06-19T15:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067989622228189327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800527285189283840",
+              "start": 0,
+              "username": "UBYcsdpQjD76971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067989622228189327",
+        "in_reply_to_user_id": "1800527285189283840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067817055429214598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UBYcsdpQjD76971 你可以说：小姐姐你的脚好漂亮，我可以拍几张照片吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067816881797660672"
+          ]
+        },
+        "author_id": "1800527285189283840",
+        "conversation_id": "2067817055429214598",
+        "created_at": "2026-06-19T03:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067817055429214598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhA7dolf9k",
+              "end": 47,
+              "expanded_url": "https://x.com/UBYcsdpQjD76971/status/2067817055429214598/photo/1",
+              "media_key": "3_2067816881797660672",
+              "start": 24,
+              "url": "https://t.co/nhA7dolf9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067817055429214598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 31682,
+          "like_count": 394,
+          "quote_count": 0,
+          "reply_count": 126,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "请问在假期的地铁上遇到这样的女生该如何应对呢? https://t.co/nhA7dolf9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 202,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T13:55:59.000Z",
+        "description": "love and peace",
+        "id": "1800527285189283840",
+        "name": "SUI@APTS",
+        "pinned_tweet_id": "2067419145642361044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823226642560598016/yg7JkDc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 2799,
+          "like_count": 25868,
+          "listed_count": 3,
+          "media_count": 667,
+          "tweet_count": 25234
+        },
+        "url": "",
+        "username": "UBYcsdpQjD76971",
+        "verified": true
+      }
+    ]
+  }
+}

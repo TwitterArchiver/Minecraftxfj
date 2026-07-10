@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2068527069336932529",
+    "created_at": "2026-06-21T07:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068599833028636717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3427383193",
+          "start": 0,
+          "username": "KFCLBJJJVM50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068599833028636717",
+    "in_reply_to_user_id": "3427383193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068527069336932529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KFCLBJJJVM50 美女自用一手新"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068526879716601856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTiPNHa8AAxMKP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2068527069336932529",
+        "created_at": "2026-06-21T07:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068599833028636717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3427383193",
+              "start": 0,
+              "username": "KFCLBJJJVM50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068599833028636717",
+        "in_reply_to_user_id": "3427383193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068527069336932529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KFCLBJJJVM50 美女自用一手新"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068526879716601856"
+          ]
+        },
+        "author_id": "3427383193",
+        "conversation_id": "2068527069336932529",
+        "created_at": "2026-06-21T02:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068527069336932529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZ7eWFklZd",
+              "end": 36,
+              "expanded_url": "https://x.com/KFCLBJJJVM50/status/2068527069336932529/photo/1",
+              "media_key": "3_2068526879716601856",
+              "start": 13,
+              "url": "https://t.co/GZ7eWFklZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068527069336932529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1309,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用了两个月的空气净化器😡 https://t.co/GZ7eWFklZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 261,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-02T15:55:06.000Z",
+        "description": "破画画的/ 买不起原厂的尊贵松下用户/翻花绳/发声项链/水晶宝宝喷射器/闽d/鸟厨 \n是个猛男的qwq \n随缘回fo 私信只回复可爱的沙雕网友( ‘-ωก̀ )",
+        "id": "3427383193",
+        "location": "距离你10.71km",
+        "name": "想恰老百京鸡卷👉👈",
+        "pinned_tweet_id": "1796150005679436258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793850000465895424/s4E2Ucnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 385,
+          "like_count": 18311,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 1283
+        },
+        "url": "",
+        "username": "KFCLBJJJVM50",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063964181217648641"
+      ],
+      "media_source_tweet_id": [
+        "2063964191237759070"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2063992768557703536",
+    "created_at": "2026-06-08T14:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063992768557703536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1649081826097631232",
+          "start": 3,
+          "username": "mimimimimoromi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbR8pnVnuu",
+          "end": 54,
+          "expanded_url": "https://x.com/mimimimimoromi/status/2063964191237759070/video/1",
+          "media_key": "13_2063964181217648641",
+          "start": 31,
+          "url": "https://t.co/jbR8pnVnuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063992768557703536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063964191237759070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimimimimoromi: 加速するパペミクさん https://t.co/jbR8pnVnuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1133,
+        "height": 720,
+        "media_key": "13_2063964181217648641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063964181217648641/img/aCPUjLHwDDrusgDz.jpg",
+        "public_metrics": {
+          "view_count": 267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063964181217648641/vid/avc1/386x270/WL40R-vV_6mbXTkR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063964181217648641/vid/avc1/516x360/_xk-YK3Vj_pkeyX0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063964181217648641/vid/avc1/1034x720/xogzgvtivSnp8Cz3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063964181217648641/pl/a-Wu0J565f115Enm.m3u8"
+          }
+        ],
+        "width": 1034
+      },
+      {
+        "duration_ms": 1133,
+        "height": 720,
+        "media_key": "13_2063964181217648641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063964181217648641/img/aCPUjLHwDDrusgDz.jpg",
+        "public_metrics": {
+          "view_count": 269
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063964181217648641/vid/avc1/386x270/WL40R-vV_6mbXTkR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063964181217648641/vid/avc1/516x360/_xk-YK3Vj_pkeyX0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063964181217648641/vid/avc1/1034x720/xogzgvtivSnp8Cz3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063964181217648641/pl/a-Wu0J565f115Enm.m3u8"
+          }
+        ],
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063964181217648641"
+          ],
+          "media_source_tweet_id": [
+            "2063964191237759070"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2063992768557703536",
+        "created_at": "2026-06-08T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063992768557703536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1649081826097631232",
+              "start": 3,
+              "username": "mimimimimoromi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbR8pnVnuu",
+              "end": 54,
+              "expanded_url": "https://x.com/mimimimimoromi/status/2063964191237759070/video/1",
+              "media_key": "13_2063964181217648641",
+              "start": 31,
+              "url": "https://t.co/jbR8pnVnuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063992768557703536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063964191237759070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimimimimoromi: 加速するパペミクさん https://t.co/jbR8pnVnuu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063964181217648641"
+          ]
+        },
+        "author_id": "1649081826097631232",
+        "conversation_id": "2063964191237759070",
+        "created_at": "2026-06-08T12:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063964191237759070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbR8pnVnuu",
+              "end": 34,
+              "expanded_url": "https://x.com/mimimimimoromi/status/2063964191237759070/video/1",
+              "media_key": "13_2063964181217648641",
+              "start": 11,
+              "url": "https://t.co/jbR8pnVnuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063964191237759070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1680,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "加速するパペミクさん https://t.co/jbR8pnVnuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 85,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T16:05:31.000Z",
+        "description": "み゛",
+        "id": "1649081826097631232",
+        "name": "もろみ゛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039198607073767424/2vPIKlVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3952,
+          "following_count": 2774,
+          "like_count": 103040,
+          "listed_count": 14,
+          "media_count": 3011,
+          "tweet_count": 9849
+        },
+        "username": "mimimimimoromi",
+        "verified": false
+      }
+    ]
+  }
+}

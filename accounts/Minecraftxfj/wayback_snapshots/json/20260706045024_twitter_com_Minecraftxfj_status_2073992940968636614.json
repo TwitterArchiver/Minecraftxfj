@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073724071934640157",
+    "created_at": "2026-07-06T04:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073992940968636614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1788343326585806848",
+          "start": 0,
+          "username": "CHZIKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073992940968636614",
+    "in_reply_to_user_id": "1788343326585806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073724071934640157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHZIKJ 这大蟑螂看起来好像脆脆的很好吃的样子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 343685,
+        "height": 932,
+        "media_key": "13_2073723511084892160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073723511084892160/img/rKKnGLyerpoDN4Ky.jpg",
+        "public_metrics": {
+          "view_count": 13478
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073723511084892160/vid/avc1/1668x932/fpKCwAc74GVdxq9k.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073723511084892160/vid/avc1/482x270/NzOck_2bzxSOGM51.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073723511084892160/vid/avc1/1288x720/A8NXq3hbLe2pdKkv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073723511084892160/vid/avc1/644x360/h6uNovJWGVPR93Ch.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073723511084892160/pl/PFG4GibQbk1yPtrb.m3u8"
+          }
+        ],
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073724071934640157",
+        "created_at": "2026-07-06T04:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073992940968636614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1788343326585806848",
+              "start": 0,
+              "username": "CHZIKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073992940968636614",
+        "in_reply_to_user_id": "1788343326585806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073724071934640157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHZIKJ 这大蟑螂看起来好像脆脆的很好吃的样子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073723511084892160"
+          ]
+        },
+        "author_id": "1788343326585806848",
+        "conversation_id": "2073724071934640157",
+        "created_at": "2026-07-05T11:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073724071934640157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ficDuaJdR",
+              "end": 61,
+              "expanded_url": "https://x.com/CHZIKJ/status/2073724071934640157/video/1",
+              "media_key": "13_2073723511084892160",
+              "start": 38,
+              "url": "https://t.co/5ficDuaJdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073724071934640157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“南蟑北调”？\n根本不用怕！南方的大蟑螂，到了北方可能连“户口”都落不下来\n\n每隔一段时间，网络上总会出现一个让北方网友“瑟瑟发抖”的话题——“南方的大蟑螂要北上了！”尤其是看到那些体长数厘米、甚至还能短距离飞行的巨型蟑螂照片时，不少人都会发出同一个疑问：如果这些“南方战神”真的来到北方，我们是不是就无处可逃了？\n\n事实上，大多数人所说的“南方大蟑螂”，学名叫做Periplaneta americana，中文通常称为美洲大蠊。虽然名字里有“美洲”，但如今它早已广泛分布于世界各地，尤其喜欢温暖、潮湿、食物丰富的环境。\n\n然而，对于美洲大蠊来说，北方并不是一个理想的“移民目的地”。这种蟑螂对温度和湿度的要求较高，在自然环境中，它们需要较长时间的温暖气候来完成繁殖和生长周期。一旦进入寒冷、干燥的环境，其生存和繁殖能力都会受到明显限制。尤其是在北方冬季的室外环境中，它们几乎不可能建立稳定的野外种群。\n\n这也是为什么，在我国很多北方地区，人们很少见到南方那种体型巨大的蟑螂。即使偶尔通过物流运输、货物携带等方式进入北方，它们中的绝大多数也难以在自然环境中长期存活，更难形成大规模扩散。\n\n当然，这并不意味着北方完全没有蟑螂。事实上，适应能力更强、体型更小的蟑螂种类，早已在人类居住环境中找到了自己的生存之道。对于蟑螂来说，真正重要的不是地理位置，而是温暖、食物和适宜的栖息环境。\n\n因此，与其担心所谓“南蟑北调”，不如关注日常卫生管理和环境控制。毕竟，再强大的蟑螂，如果找不到合适的生存条件，也很难在新的环境中站稳脚跟。\n\n那么问题来了：如果未来随着全球气候变暖，原本只能生活在南方的大型蟑螂逐渐适应北方环境，你认为人类会找到新的应对办法，还是只能被迫接受新的“室友”？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4148,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“南蟑北调”？\n根本不用怕！南方的大蟑螂，到了北方可能连“户口”都落不下来 https://t.co/5ficDuaJdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 289,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-08T23:01:08.000Z",
+        "description": "科技探索/生活百态/搞笑暖心/",
+        "id": "1788343326585806848",
+        "location": "Los Angeles",
+        "name": "橙子科技🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068258584933371904/g_rI9r8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63243,
+          "following_count": 5657,
+          "like_count": 46096,
+          "listed_count": 175,
+          "media_count": 5440,
+          "tweet_count": 9989
+        },
+        "url": "",
+        "username": "CHZIKJ",
+        "verified": true
+      }
+    ]
+  }
+}

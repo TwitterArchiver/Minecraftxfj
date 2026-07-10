@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964683241430155265"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "1964683245561487722",
+    "created_at": "2025-09-07T13:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T14:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964683245561487722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A1i4TTvmHH",
+          "end": 54,
+          "expanded_url": "https://x.com/Minecraftxfj/status/1964683245561487722/photo/1",
+          "media_key": "3_1964683241430155265",
+          "start": 31,
+          "url": "https://t.co/A1i4TTvmHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964683245561487722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再不收拾桌子又要被骂了😅\n我是真懒得收拾啊😓\n全堆一起得了🥲 https://t.co/A1i4TTvmHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1964683241430155265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0P0_62bgAE0LvI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964683241430155265"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "1964683245561487722",
+        "created_at": "2025-09-07T13:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T14:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964683245561487722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1i4TTvmHH",
+              "end": 54,
+              "expanded_url": "https://x.com/Minecraftxfj/status/1964683245561487722/photo/1",
+              "media_key": "3_1964683241430155265",
+              "start": 31,
+              "url": "https://t.co/A1i4TTvmHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964683245561487722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再不收拾桌子又要被骂了😅\n我是真懒得收拾啊😓\n全堆一起得了🥲 https://t.co/A1i4TTvmHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "🍥🈚️主人状态ing...🍥\n⎜09 ⎜190cm/80kg 的大药娘⎜MTF🏳️‍⚧️⎜轻度抑郁⎜ps.老号ban了，这是个新号喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top/about",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top/about",
+                "start": 0,
+                "url": "https://t.co/WXP0sGMbeL"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964029359834181632/7GIm3Umq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/WXP0sGMbeL",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

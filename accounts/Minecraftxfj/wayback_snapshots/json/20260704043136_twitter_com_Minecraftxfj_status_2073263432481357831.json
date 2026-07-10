@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073027124370329961",
+    "created_at": "2026-07-04T04:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073263432481357831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792988329249529856",
+          "start": 0,
+          "username": "Herbalisque"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073263432481357831",
+    "in_reply_to_user_id": "1792988329249529856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073027124370329961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Herbalisque 谁说没有完美犯罪👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39870,
+        "height": 1280,
+        "media_key": "13_2073026058274623488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073026058274623488/img/JCh9n2OXhSOaUasN.jpg",
+        "public_metrics": {
+          "view_count": 388003
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073026058274623488/vid/avc1/320x568/_Z-TbxlmVd8cOgLn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073026058274623488/vid/avc1/480x852/4IyePY3_IjcwjK4D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073026058274623488/vid/avc1/720x1280/yr8iO_Mu310fgMIA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073026058274623488/pl/9V06-SGMC0RCdxGT.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073027124370329961",
+        "created_at": "2026-07-04T04:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073263432481357831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792988329249529856",
+              "start": 0,
+              "username": "Herbalisque"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073263432481357831",
+        "in_reply_to_user_id": "1792988329249529856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073027124370329961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Herbalisque 谁说没有完美犯罪👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073026058274623488"
+          ]
+        },
+        "author_id": "1792988329249529856",
+        "conversation_id": "2073027124370329961",
+        "created_at": "2026-07-03T12:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073027124370329961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnyusj9a6W",
+              "end": 80,
+              "expanded_url": "https://x.com/Herbalisque/status/2073027124370329961/video/1",
+              "media_key": "13_2073026058274623488",
+              "start": 57,
+              "url": "https://t.co/rnyusj9a6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073027124370329961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 540420,
+          "like_count": 231,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 Some videos deserve views. This one deserves a replay. https://t.co/rnyusj9a6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 284,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-21T18:38:46.000Z",
+        "description": "Exploring the world",
+        "id": "1792988329249529856",
+        "location": "California, USA",
+        "name": "Herbalisque",
+        "pinned_tweet_id": "2062046466395275565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966544219633299456/nKEPq1EN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77524,
+          "following_count": 35,
+          "like_count": 30490,
+          "listed_count": 132,
+          "media_count": 7462,
+          "tweet_count": 44710
+        },
+        "url": "",
+        "username": "Herbalisque",
+        "verified": true
+      }
+    ]
+  }
+}

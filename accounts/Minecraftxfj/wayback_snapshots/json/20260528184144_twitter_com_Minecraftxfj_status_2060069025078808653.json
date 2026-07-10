@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2059622000033988853",
+    "created_at": "2026-05-28T18:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060069025078808653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1536546210575970304",
+          "start": 0,
+          "username": "Sunny_Europe24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060069025078808653",
+    "in_reply_to_user_id": "1536546210575970304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059622000033988853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunny_Europe24 回归中国吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2059622000033988853",
+        "created_at": "2026-05-28T18:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060069025078808653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1536546210575970304",
+              "start": 0,
+              "username": "Sunny_Europe24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060069025078808653",
+        "in_reply_to_user_id": "1536546210575970304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059622000033988853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunny_Europe24 回归中国吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536546210575970304",
+        "conversation_id": "2059622000033988853",
+        "created_at": "2026-05-27T13:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059622000033988853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shimaco_blo/st…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/shimaco_blo/status/2059608524607615464",
+              "start": 131,
+              "url": "https://t.co/jVR7UmbUkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059622000033988853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 716,
+          "impression_count": 405796,
+          "like_count": 13403,
+          "quote_count": 63,
+          "reply_count": 114,
+          "retweet_count": 4235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059608524607615464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私は沖縄出身ですが、幼少期から日本を「安全で平和な国」とは思えませんでした。下校中に米軍人に車で拉致されそうになった事もあるし、同年代の子が米軍人数名に強姦された事件もありました。\nその「安全で平和」が、沖縄の犠牲の上に成り立っていたことも忘れないでください。 https://t.co/jVR7UmbUkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 70,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T03:09:22.000Z",
+        "description": "琉球人｜パレスチナに連帯するワーママ｜脱植民地主義｜沖縄の軍事植民地化に反対｜가끔 한국어",
+        "id": "1536546210575970304",
+        "name": "Sunny 써니🇵🇸🍉",
+        "pinned_tweet_id": "2004815244091355310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719390754395840512/QG2H4uT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 854,
+          "like_count": 97045,
+          "listed_count": 30,
+          "media_count": 879,
+          "tweet_count": 31159
+        },
+        "username": "Sunny_Europe24",
+        "verified": false
+      }
+    ]
+  }
+}

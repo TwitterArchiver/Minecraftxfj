@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "1988577315341934649",
+    "created_at": "2025-11-12T18:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T19:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988682565428060457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988682565428060457",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988577315341934649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyuounot 组乐队"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1988577302771548160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jYhVwaQAAVMzq.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "1988577315341934649",
+        "created_at": "2025-11-12T18:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T19:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988682565428060457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988682565428060457",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988577315341934649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot 组乐队"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988577302771548160"
+          ]
+        },
+        "author_id": "1490976522362302465",
+        "conversation_id": "1988577315341934649",
+        "created_at": "2025-11-12T11:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988577315341934649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iC9tJLzsrc",
+              "end": 30,
+              "expanded_url": "https://x.com/whyuounot/status/1988577315341934649/photo/1",
+              "media_key": "3_1988577302771548160",
+              "start": 7,
+              "url": "https://t.co/iC9tJLzsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988577315341934649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 23642,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是在干嘛？ https://t.co/iC9tJLzsrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "「浮生一刹 万般皆舍」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top/about",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top/about",
+                "start": 0,
+                "url": "https://t.co/WXP0sGLDpd"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964029359834181632/7GIm3Umq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/WXP0sGLDpd",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "臨場發揮第一名\n推广自辩",
+        "id": "1490976522362302465",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1988473587683258873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960145987307286528/cDwEnK1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7736,
+          "following_count": 1159,
+          "like_count": 7918,
+          "listed_count": 17,
+          "media_count": 2096,
+          "tweet_count": 14338
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

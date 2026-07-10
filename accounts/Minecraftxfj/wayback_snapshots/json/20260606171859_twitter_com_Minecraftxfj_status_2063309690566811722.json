@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2063294306539237567",
+    "created_at": "2026-06-06T17:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063309690566811722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1781876534967746560",
+          "start": 0,
+          "username": "OuGenDuQin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063309690566811722",
+    "in_reply_to_user_id": "1781876534967746560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 49,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063294306539237567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuGenDuQin 没救了，重开吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063294278680678400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJLNvPbkAA5LJu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2063294306539237567",
+        "created_at": "2026-06-06T17:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063309690566811722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1781876534967746560",
+              "start": 0,
+              "username": "OuGenDuQin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063309690566811722",
+        "in_reply_to_user_id": "1781876534967746560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063294306539237567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuGenDuQin 没救了，重开吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063294278680678400"
+          ]
+        },
+        "author_id": "1781876534967746560",
+        "conversation_id": "2063294306539237567",
+        "created_at": "2026-06-06T16:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063294306539237567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VixtT5CVRr",
+              "end": 140,
+              "expanded_url": "https://x.com/OuGenDuQin/status/2063294306539237567/photo/1",
+              "media_key": "3_2063294278680678400",
+              "start": 117,
+              "url": "https://t.co/VixtT5CVRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063294306539237567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14749,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我妹才初三，但是抽烟喝酒打耳钉全都沾了，高中也考不上所以不想中考了，还喜欢自己一个人跑去城中村陪社会上那些精神小伙玩，半夜飙车骑摩托，穿着越来越暴露甚至连坐姿都变得像是在收钱的妓女，然后在她房间也搜到了假阳具，避孕套和验孕棒怎么办？ https://t.co/VixtT5CVRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 83,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T02:44:20.000Z",
+        "description": "海鹽檸檬氣泡ぃ",
+        "id": "1781876534967746560",
+        "location": "Nara-shi, Nara",
+        "name": "♡Tosaka☆Makuku♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063211937689985025/QmCk3beq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 317,
+          "like_count": 2712,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 673
+        },
+        "username": "OuGenDuQin",
+        "verified": false
+      }
+    ]
+  }
+}

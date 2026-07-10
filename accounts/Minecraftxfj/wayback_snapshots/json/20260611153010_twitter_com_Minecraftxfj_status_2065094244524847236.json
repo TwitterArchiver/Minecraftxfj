@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2065080482749186250",
+    "created_at": "2026-06-11T15:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065094244524847236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890717486343233536",
+          "start": 0,
+          "username": "hikarou233086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065094244524847236",
+    "in_reply_to_user_id": "1890717486343233536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065080482749186250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikarou233086 多睡觉多喝水"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_2065080480647770112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKijwYGacAAR_zJ.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2065080482749186250",
+        "created_at": "2026-06-11T15:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065094244524847236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890717486343233536",
+              "start": 0,
+              "username": "hikarou233086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065094244524847236",
+        "in_reply_to_user_id": "1890717486343233536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065080482749186250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikarou233086 多睡觉多喝水"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065080480647770112"
+          ]
+        },
+        "author_id": "1890717486343233536",
+        "conversation_id": "2065080482749186250",
+        "created_at": "2026-06-11T14:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065080482749186250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTesPkxz9C",
+              "end": 40,
+              "expanded_url": "https://x.com/hikarou233086/status/2065080482749186250/photo/1",
+              "media_key": "3_2065080480647770112",
+              "start": 17,
+              "url": "https://t.co/nTesPkxz9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065080482749186250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腿上皮肤状态好差…唉\n要怎么缓解 https://t.co/nTesPkxz9C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 89,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "2009.8.1|高2|intp|低精力…|adhded?|回避型依恋的疏离怪😥|🏳️‍⚧️无证偷吃（）|会互fo同类|试图学习Cpp|VR|L4D2|希望积极生活…|喜爱浪漫（并非爱情？）|Github见下方链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Hikarou233086",
+                "end": 23,
+                "expanded_url": "https://github.com/Hikarou233086",
+                "start": 0,
+                "url": "https://t.co/l1K5Y1fpRM"
+              }
+            ]
+          }
+        },
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 241,
+          "like_count": 1454,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/l1K5Y1fpRM",
+        "username": "hikarou233086",
+        "verified": false
+      }
+    ]
+  }
+}

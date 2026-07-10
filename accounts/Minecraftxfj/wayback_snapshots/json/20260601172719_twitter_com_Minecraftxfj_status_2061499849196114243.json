@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2060969974316093477",
+    "created_at": "2026-06-01T17:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061499849196114243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581345518633959424",
+          "start": 0,
+          "username": "williamlofusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061499849196114243",
+    "in_reply_to_user_id": "1581345518633959424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060969974316093477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@williamlofusk 没关系的，坐和放宽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060969952891531264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoJQK7acAAclb6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2060969974316093477",
+        "created_at": "2026-06-01T17:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061499849196114243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581345518633959424",
+              "start": 0,
+              "username": "williamlofusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061499849196114243",
+        "in_reply_to_user_id": "1581345518633959424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060969974316093477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlofusk 没关系的，坐和放宽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060969952891531264"
+          ]
+        },
+        "author_id": "1581345518633959424",
+        "conversation_id": "2060969974316093477",
+        "created_at": "2026-05-31T06:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060969974316093477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/winMclZ0Nr",
+              "end": 34,
+              "expanded_url": "https://x.com/williamlofusk/status/2060969974316093477/photo/1",
+              "media_key": "3_2060969952891531264",
+              "start": 11,
+              "url": "https://t.co/winMclZ0Nr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060969974316093477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我搞砸了好多事情…… https://t.co/winMclZ0Nr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 77,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T18:05:37.000Z",
+        "description": "“痛的话就叫出来，会好受些的。”\n是习惯并不好的核电猫猫，平时会做一些创作。/ 超级喜欢迷迭香小猫咪！♡/ 我是MTF🍥，钢板赛高! (不是 / 想多交些朋友",
+        "id": "1581345518633959424",
+        "location": "青海/西宁/城东区",
+        "name": "🍥核猫猫WilliEam NUKCAT☢️",
+        "pinned_tweet_id": "1735699926422876441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006764709760958468/su9wM4cP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 125,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 141
+        },
+        "username": "williamlofusk",
+        "verified": false
+      }
+    ]
+  }
+}

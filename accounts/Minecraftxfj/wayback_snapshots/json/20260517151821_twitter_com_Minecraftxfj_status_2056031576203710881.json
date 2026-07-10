@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2055856500166582415",
+    "created_at": "2026-05-17T15:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056031576203710881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3007509396",
+          "start": 0,
+          "username": "pengchujin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056031576203710881",
+    "in_reply_to_user_id": "3007509396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055856500166582415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pengchujin Claude 味扑面而来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2324,
+        "media_key": "3_2055855692175790080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfd3BGaUAAv4P7.jpg",
+        "width": 3140
+      },
+      {
+        "height": 2324,
+        "media_key": "3_2055855710991519744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfd4HMbkAAfQ6H.jpg",
+        "width": 4064
+      },
+      {
+        "height": 2324,
+        "media_key": "3_2055855727282200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfd5D4boAADze7.jpg",
+        "width": 4064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2055856500166582415",
+        "created_at": "2026-05-17T15:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056031576203710881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3007509396",
+              "start": 0,
+              "username": "pengchujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056031576203710881",
+        "in_reply_to_user_id": "3007509396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055856500166582415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pengchujin Claude 味扑面而来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055855692175790080",
+            "3_2055855710991519744",
+            "3_2055855727282200576"
+          ]
+        },
+        "author_id": "3007509396",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2055856500166582415",
+        "created_at": "2026-05-17T03:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:40:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055855839085564290",
+          "2055856500166582415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "专为Giffgaff和Simyo用户设计的eSIM管理工具集，支持完整的eSIM申请、设备更换和二维码生成流程。(A modern eSIM management toolkit designed specifically for Giffgaff and Simyo users, supporting the complete eSIM application, activation, a...",
+              "display_url": "github.com/Silentely/eSIM…",
+              "end": 155,
+              "expanded_url": "http://github.com/Silentely/eSIM-Tools",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2053800989220798464/tGaLyrzs?format=jpg&name=orig",
+                  "width": 1456
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053800989220798464/tGaLyrzs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 132,
+              "status": 200,
+              "title": "GitHub - Silentely/eSIM-Tools: 专为Giffgaff和Simyo用户设计的eSIM管理工具集，支持完整的eSIM申请、设备更换和二维码生成流程。(A modern eSIM management toolkit designed specifically for Giffgaff and Simyo users, supporting the complete eSIM application, activation, and QR code generation process.)",
+              "unwound_url": "https://github.com/Silentely/eSIM-Tools",
+              "url": "https://t.co/tDaG7azw9q"
+            },
+            {
+              "display_url": "pic.x.com/4RQag07kMC",
+              "end": 179,
+              "expanded_url": "https://x.com/pengchujin/status/2055856500166582415/photo/1",
+              "media_key": "3_2055855692175790080",
+              "start": 156,
+              "url": "https://t.co/4RQag07kMC"
+            },
+            {
+              "display_url": "pic.x.com/4RQag07kMC",
+              "end": 179,
+              "expanded_url": "https://x.com/pengchujin/status/2055856500166582415/photo/1",
+              "media_key": "3_2055855710991519744",
+              "start": 156,
+              "url": "https://t.co/4RQag07kMC"
+            },
+            {
+              "display_url": "pic.x.com/4RQag07kMC",
+              "end": 179,
+              "expanded_url": "https://x.com/pengchujin/status/2055856500166582415/photo/1",
+              "media_key": "3_2055855727282200576",
+              "start": 156,
+              "url": "https://t.co/4RQag07kMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055856500166582415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1249,
+          "impression_count": 66349,
+          "like_count": 785,
+          "quote_count": 2,
+          "reply_count": 57,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "手把手免费在线获取 Giffgaff eSIM 英国保号神卡。推荐个 GitHub 开源项目：专为 Giffgaff 和Simyo用户设计的eSIM管理工具集，支持完整的eSIM申请、设备更换和二维码生成流程。搭配 eSIM 实体卡或手机支持 eSIM 非常方便。https://t.co/tDaG7azw9q https://t.co/4RQag07kMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 65,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-02T05:01:41.000Z",
+        "description": "The Fools Who Dream",
+        "id": "3007509396",
+        "name": "酱紫表",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772530812078239744/aPK5wde3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61926,
+          "following_count": 692,
+          "like_count": 2059,
+          "listed_count": 402,
+          "media_count": 1102,
+          "tweet_count": 3436
+        },
+        "username": "pengchujin",
+        "verified": true
+      }
+    ]
+  }
+}

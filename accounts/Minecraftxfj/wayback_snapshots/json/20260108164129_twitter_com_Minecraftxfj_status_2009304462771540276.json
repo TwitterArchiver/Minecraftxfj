@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2009303871001383353",
+    "created_at": "2026-01-08T16:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T17:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009304462771540276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009304462771540276",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009303871001383353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 不要想在国内平台为某些人开智"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009303851992834048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-J7NSfbYAAaZW8.jpg",
+        "width": 892
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009303851996950528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-J7NSgaMAA-DgF.jpg",
+        "width": 892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2009303871001383353",
+        "created_at": "2026-01-08T16:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009304462771540276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009304462771540276",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009303871001383353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 不要想在国内平台为某些人开智"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009303851992834048",
+            "3_2009303851996950528"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009303871001383353",
+        "created_at": "2026-01-08T16:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009303871001383353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVSlwMUk47",
+              "end": 164,
+              "expanded_url": "https://x.com/jlxc2001/status/2009303871001383353/photo/1",
+              "media_key": "3_2009303851992834048",
+              "start": 141,
+              "url": "https://t.co/uVSlwMUk47"
+            },
+            {
+              "display_url": "pic.x.com/uVSlwMUk47",
+              "end": 164,
+              "expanded_url": "https://x.com/jlxc2001/status/2009303871001383353/photo/1",
+              "media_key": "3_2009303851996950528",
+              "start": 141,
+              "url": "https://t.co/uVSlwMUk47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009303871001383353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有关这次“小米投放万能的大熊”事件，我想了很久，还是决定来回复一下\n本来我是写了很大一堆文字来回应小米这次投万能的大熊这件事的，但是周围很多朋友都在劝我不要回应这个事情，所以我憋了半天只能憋出一个“小米投了大熊多少钱”的微博，但评论依然还是有人嘴贱，说我蹭小米流量，真的给我气炸了\n我想来想去本来是决定发一条微博来回复这个事情，但是我不太想因为这个事情影响小米的形象，少给小米添点舆论麻烦，所以还是选择在这个时间点发海外X这个平台，尽量减少传播量。\n我给小米用爱发电的视频只算抖音+b站加起来都快超过3000万了（纯自发不包含商单内容的播放量）我还天天在各个平台的评论区给小米各种辟谣\n可能有人会说我做小米的视频，自己也获得了流量，但事实是，至少有3家大公司找我合作内容的时候，看我主页小米内容这么多觉得我是米系博主，从而取消了合作。抖音这边评论也是天天说我是米猴，微博这边我有的时候稍微对小米发表一点比较中立的评价，然后微博的米粉就给我扣上higo的帽子。\n\n小米一共给了我一期打2.5折的的商单（还是因为我那期视频做到了当天B站热搜第二才给的，本来一分没有）和3台赠机+几次发布会的车马费，而据我了解，大熊能拿到的钱几乎是我的十倍（具体多少只有小米内部知道）\n同时我也询问了周围非常多的喜欢小米的博主，都和我一样都是粉了小米十年以上，小米对他们的待遇甚至可以用“过分”来形容（总结起来就是白嫖米粉博主的劳动成果）本来我想把他们的事情发出来，但我问了他们的意见之后，他们的回复是“别提我了，不想再跟这个品牌扯上关系”所以我就不讲小米是怎么对待这批小米KOL了，各位如果认识媒体的人，可以去问问他们小米对米系kol到底是什么待遇，你们在网上看到的那些天天帮着小米说话的人，小米真的没怎么给过他们钱，他们更多的是凭着心里的那份正义，和不愿意看到老实人被枪指着而去帮小米说话的\n\n我从初中开始喜欢刷MIUI到现在大学毕业工作，喜欢了小米13年\n小米愿意拿省下来的营销费用把钱用在产品上，以及实现“让每个人都能体验到科技带来的乐趣”的品牌理念还有“愿你刷机半生归来仍是MIUI”（虽然现在已经没有这个slogan了）我觉得用爱发电出视频被小米白嫖完全能接受，因为我认同小米公司的价值观，这也是我一直以来给小米用爱发电出视频和不遗余力的在评论区给小米辟谣的原因。\n但小米转头就投了一个诅咒小米用户“活全家”的博主。\n真的很心寒你们知道吗。\n当然，姑且算是小米用省下来的成本做出性价比更高的产品。\n但米系KOL和米粉们的用爱发电给小米省下来的钱，是因为认同小米的价值观，希望小米做出更好的产品，不是用来唯唯诺诺给米黑支付封口费的。\n现在有些人把锅甩给公关机构，就以我对小米内部投放流程的了解，还有所有大公司对自媒体投放的流程来说，小米99%是知道自己下面的公关机构和万能的大熊有合作的。然后现在甩锅给公关机构说自己不知道，这套说辞所有从事过公关行业的人都不会相信的。\n对抗黑公关应该用强硬的法律手段去起诉那些人，而不是委曲求全的拿着米粉的钱，还有白嫖着米系博主的劳动，去堵黑子它们的嘴。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有关这次“小米投放万能的大熊”事件，我想了很久，还是决定来回复一下\n本来我是写了很大一堆文字来回应小米这次投万能的大熊这件事的，但是周围很多朋友都在劝我不要回应这个事情，所以我憋了半天只能憋出一个“小米投了大熊多少钱”的微博，但评论依然还是有人嘴贱，说我蹭小米流量，真的给我气炸了 https://t.co/uVSlwMUk47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/4cqyPUZQfM"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 42,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/4cqyPUZQfM",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8939,
+          "following_count": 121,
+          "like_count": 289,
+          "listed_count": 22,
+          "media_count": 543,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

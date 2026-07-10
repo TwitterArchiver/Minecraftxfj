@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074549257038942208"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074288300555202926",
+    "created_at": "2026-07-07T17:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074549262814495106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1991564299652022272",
+          "start": 0,
+          "username": "newusof"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrqMuAmolE",
+          "end": 39,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2074549262814495106/photo/1",
+          "media_key": "3_2074549257038942208",
+          "start": 16,
+          "url": "https://t.co/yrqMuAmolE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074549262814495106",
+    "in_reply_to_user_id": "1991564299652022272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074288300555202926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newusof 是你吗龙😭😭 https://t.co/yrqMuAmolE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 258,
+        "media_key": "3_2074549257038942208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpHjs7bUAAMJ42.jpg",
+        "width": 193
+      },
+      {
+        "duration_ms": 10263,
+        "height": 1280,
+        "media_key": "13_2074280492614946816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074280492614946816/img/u6es5lhR7gCQtNqb.jpg",
+        "public_metrics": {
+          "view_count": 1579119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074280492614946816/vid/avc1/320x568/GZ0sl-i5_B63biXp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074280492614946816/vid/avc1/480x852/gHjD1njf0doTxmfL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074280492614946816/vid/avc1/720x1280/Zx8YWB5GNIEnsgiV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074280492614946816/pl/KY6KKsbS-KpIIhVn.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074549257038942208"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074288300555202926",
+        "created_at": "2026-07-07T17:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074549262814495106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1991564299652022272",
+              "start": 0,
+              "username": "newusof"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrqMuAmolE",
+              "end": 39,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2074549262814495106/photo/1",
+              "media_key": "3_2074549257038942208",
+              "start": 16,
+              "url": "https://t.co/yrqMuAmolE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074549262814495106",
+        "in_reply_to_user_id": "1991564299652022272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074288300555202926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newusof 是你吗龙😭😭 https://t.co/yrqMuAmolE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074280492614946816"
+          ]
+        },
+        "author_id": "1991564299652022272",
+        "conversation_id": "2074288300555202926",
+        "created_at": "2026-07-07T00:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074288300555202926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDpL7HxDUr",
+              "end": 175,
+              "expanded_url": "https://x.com/newusof/status/2074288300555202926/video/1",
+              "media_key": "13_2074280492614946816",
+              "start": 152,
+              "url": "https://t.co/TDpL7HxDUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074288300555202926",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3462,
+          "impression_count": 4624622,
+          "like_count": 2338,
+          "quote_count": 8,
+          "reply_count": 75,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "Si te despiertas con 13 kilos de sobrepeso y quieres perder todo ese peso en 3 meses, esto es todo lo que debes hacer:    \n\n1. NO hacer horas de cardio https://t.co/TDpL7HxDUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 334,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-20T17:48:53.000Z",
+        "description": "Premium threads & videos for premium people.🫵🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newus.gumroad.com/l/becomeattrac…",
+                "end": 23,
+                "expanded_url": "https://newus.gumroad.com/l/becomeattractive",
+                "start": 0,
+                "url": "https://t.co/QfoKTGCq3e"
+              }
+            ]
+          }
+        },
+        "id": "1991564299652022272",
+        "location": "IMPROVE YOUR LIFE➡️",
+        "name": "NewUs",
+        "pinned_tweet_id": "2074288300555202926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991570668836544512/ezETwofd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35407,
+          "following_count": 556,
+          "like_count": 15356,
+          "listed_count": 77,
+          "media_count": 1464,
+          "tweet_count": 34169
+        },
+        "url": "https://t.co/QfoKTGCq3e",
+        "username": "newusof",
+        "verified": true
+      }
+    ]
+  }
+}

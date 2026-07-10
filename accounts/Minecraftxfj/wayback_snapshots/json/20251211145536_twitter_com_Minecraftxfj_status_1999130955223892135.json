@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "1998345441688371401",
+    "created_at": "2025-12-11T14:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999130955223892135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641088273966825480",
+          "start": 0,
+          "username": "kitttchow"
+        },
+        {
+          "end": 21,
+          "id": "1997946138083926016",
+          "start": 11,
+          "username": "MND_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999130955223892135",
+    "in_reply_to_user_id": "1641088273966825480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998397981750710418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitttchow @MND_China 哥们牛逼👍合影"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "1998345441688371401",
+        "created_at": "2025-12-11T14:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999130955223892135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641088273966825480",
+              "start": 0,
+              "username": "kitttchow"
+            },
+            {
+              "end": 21,
+              "id": "1997946138083926016",
+              "start": 11,
+              "username": "MND_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999130955223892135",
+        "in_reply_to_user_id": "1641088273966825480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998397981750710418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitttchow @MND_China 哥们牛逼👍合影"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641088273966825480",
+        "conversation_id": "1998345441688371401",
+        "created_at": "2025-12-09T14:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998397981750710418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1997946138083926016",
+              "start": 0,
+              "username": "MND_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998397981750710418",
+        "in_reply_to_user_id": "1997946138083926016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1036,
+          "impression_count": 3105848,
+          "like_count": 17870,
+          "quote_count": 109,
+          "reply_count": 1629,
+          "retweet_count": 517
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998345441688371401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MND_China 这不是抖音 我惯着你？臭傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "「浮生一刹 万般皆舍」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfj.minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://xfj.minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/4cqyPV0o5k"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/4cqyPV0o5k",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T14:41:55.000Z",
+        "description": "Lo",
+        "id": "1641088273966825480",
+        "name": "kitchow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641091005037572097/k3OCLsk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 136,
+          "like_count": 361,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "kitttchow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T08:27:55.000Z",
+        "description": "Follow us to know about China's national defense in the new era.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eng.mod.gov.cn",
+                "end": 23,
+                "expanded_url": "http://eng.mod.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/CWpY8zE0AC"
+              }
+            ]
+          }
+        },
+        "id": "1997946138083926016",
+        "location": "Beijing, China",
+        "name": "Ministry of National Defense of China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997946300550217728/w3JcRFTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287234,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 102,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/CWpY8zE0AC",
+        "username": "MND_China",
+        "verified": false
+      }
+    ]
+  }
+}

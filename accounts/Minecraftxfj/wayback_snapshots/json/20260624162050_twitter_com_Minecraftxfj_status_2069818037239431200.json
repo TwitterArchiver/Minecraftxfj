@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069818015852429312",
+        "3_2069818015689101312"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2069814198587302284",
+    "created_at": "2026-06-24T16:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069818037239431200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dSPZFcaT2s",
+          "end": 153,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2069818037239431200/photo/1",
+          "media_key": "3_2069818015852429312",
+          "start": 130,
+          "url": "https://t.co/dSPZFcaT2s"
+        },
+        {
+          "display_url": "pic.x.com/dSPZFcaT2s",
+          "end": 153,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2069818037239431200/photo/1",
+          "media_key": "3_2069818015689101312",
+          "start": 130,
+          "url": "https://t.co/dSPZFcaT2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069818037239431200",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069816596403831222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我目前在测试环境的测试效果\n你需要注意的是，我还没有录入知识树，待开发知识树功能后，会得到更便捷且更高精度的搜索范围限定\n测试文章来源于 MioMtFWiki 和 MtFWiki，其使用CC BY-ND 4.0 和 CC BY-SA 4.0 协议进行许可 https://t.co/dSPZFcaT2s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069818015852429312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl4hOCWgAA3P5W.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2069818015689101312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl4hNbaUAAU_tn.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069818015852429312",
+            "3_2069818015689101312"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2069814198587302284",
+        "created_at": "2026-06-24T16:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069818037239431200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSPZFcaT2s",
+              "end": 153,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2069818037239431200/photo/1",
+              "media_key": "3_2069818015852429312",
+              "start": 130,
+              "url": "https://t.co/dSPZFcaT2s"
+            },
+            {
+              "display_url": "pic.x.com/dSPZFcaT2s",
+              "end": 153,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2069818037239431200/photo/1",
+              "media_key": "3_2069818015689101312",
+              "start": 130,
+              "url": "https://t.co/dSPZFcaT2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069818037239431200",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069816596403831222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我目前在测试环境的测试效果\n你需要注意的是，我还没有录入知识树，待开发知识树功能后，会得到更便捷且更高精度的搜索范围限定\n测试文章来源于 MioMtFWiki 和 MtFWiki，其使用CC BY-ND 4.0 和 CC BY-SA 4.0 协议进行许可 https://t.co/dSPZFcaT2s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2069814198587302284",
+        "created_at": "2026-06-24T16:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069816596403831222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069816596403831222",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069814198587302284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后如果你要搜索东西，比如说你搜索“激素治疗”，Embedding 模型会把“激素治疗”也转换为一个类似向量的大数组，然后后端的 Qdrant 向量数据库会通过几何方法计算空间距离，用到例如密集、系数向量和多向量、混合搜索，得到更高的语义理解能力和关键词精确度，这一部分可以在 Qdrant 的仓库中详细了解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 273,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1344
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

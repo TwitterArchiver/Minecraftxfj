@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2073628165151543789",
+    "created_at": "2026-07-05T11:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073730973439754327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "54850407",
+          "start": 0,
+          "username": "nobodychann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073730973439754327",
+    "in_reply_to_user_id": "54850407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073628165151543789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nobodychann 那个时候，笔记本还可以换 CPU😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2234,
+        "media_key": "3_2073628162630844416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcB083bgAArL4g.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2073628165151543789",
+        "created_at": "2026-07-05T11:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073730973439754327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "54850407",
+              "start": 0,
+              "username": "nobodychann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073730973439754327",
+        "in_reply_to_user_id": "54850407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073628165151543789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nobodychann 那个时候，笔记本还可以换 CPU😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073628162630844416"
+          ]
+        },
+        "author_id": "54850407",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2073628165151543789",
+        "created_at": "2026-07-05T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073628165151543789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYLUi9liFi",
+              "end": 167,
+              "expanded_url": "https://x.com/nobodychann/status/2073628165151543789/photo/1",
+              "media_key": "3_2073628162630844416",
+              "start": 144,
+              "url": "https://t.co/HYLUi9liFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073628165151543789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20945,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到公众号笔吧评测室的最新发文，挺感慨的。我读大学那会儿大家还在玩台式机装机，AMD的CPU也刚开始有人愿意用，主打一个性能不行但是便宜。后来就是笔记本电脑普及了，没啥人用台式机了，从这些年换工作公司配置电脑的变迁也能感受到。最近这波硬件涨价潮下，电脑厂家估计也躺平了，确实没啥新意了。 https://t.co/HYLUi9liFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 288,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-08T09:41:53.000Z",
+        "description": "打工人，不知名产品经理",
+        "id": "54850407",
+        "location": "China",
+        "name": "chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719380830454521856/pzDVoKX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3897,
+          "following_count": 3166,
+          "like_count": 843,
+          "listed_count": 30,
+          "media_count": 276,
+          "tweet_count": 4033
+        },
+        "url": "",
+        "username": "nobodychann",
+        "verified": false
+      }
+    ]
+  }
+}

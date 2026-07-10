@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2055974108777877712",
+    "created_at": "2026-05-20T14:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057111828506067385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671687114503880705",
+          "start": 0,
+          "username": "mxdabc"
+        },
+        {
+          "end": 23,
+          "id": "1260553941714186241",
+          "start": 8,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 34,
+          "id": "1913303844869619712",
+          "start": 24,
+          "username": "cn_mifeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057111828506067385",
+    "in_reply_to_user_id": "1671687114503880705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056813630512079081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxdabc @whyyoutouzhele @cn_mifeng 干嘛～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2055974108777877712",
+        "created_at": "2026-05-20T14:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057111828506067385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671687114503880705",
+              "start": 0,
+              "username": "mxdabc"
+            },
+            {
+              "end": 23,
+              "id": "1260553941714186241",
+              "start": 8,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 34,
+              "id": "1913303844869619712",
+              "start": 24,
+              "username": "cn_mifeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057111828506067385",
+        "in_reply_to_user_id": "1671687114503880705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056813630512079081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxdabc @whyyoutouzhele @cn_mifeng 干嘛～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671687114503880705",
+        "conversation_id": "2055974108777877712",
+        "created_at": "2026-05-19T19:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056813630512079081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 29,
+              "id": "1545801302617116672",
+              "start": 16,
+              "username": "Minecraftxfj"
+            },
+            {
+              "end": 40,
+              "id": "1913303844869619712",
+              "start": 30,
+              "username": "cn_mifeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056813630512079081",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055974108777877712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele @Minecraftxfj @cn_mifeng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose UTC+8\nbuff 叠满了\n进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T01:10:58.000Z",
+        "description": "https://t.co/vfeQXqCxOm | Linux, FreeBSD, Programming & Open Source",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mxdyeah.com",
+                "end": 23,
+                "expanded_url": "https://www.mxdyeah.com",
+                "start": 0,
+                "url": "https://t.co/vfeQXqCxOm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mxdyeah.com",
+                "end": 23,
+                "expanded_url": "https://www.mxdyeah.com/",
+                "start": 0,
+                "url": "https://t.co/P3M3nP3g2d"
+              }
+            ]
+          }
+        },
+        "id": "1671687114503880705",
+        "name": "mxdyeah",
+        "pinned_tweet_id": "1989361899180593325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671687187610636288/juA92v58_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 49,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/P3M3nP3g2d",
+        "username": "mxdabc",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231429,
+          "following_count": 1059,
+          "like_count": 9582,
+          "listed_count": 8757,
+          "media_count": 47145,
+          "tweet_count": 54267
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T18:49:39.000Z",
+        "description": "UTC+8 🏳️‍🌈 | https://t.co/VuU01SRc9z | https://t.co/pEtEg9XwzI | Linux, Love open source | Minecraft",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "imbee.top",
+                "end": 36,
+                "expanded_url": "https://imbee.top",
+                "start": 13,
+                "url": "https://t.co/VuU01SRc9z"
+              },
+              {
+                "display_url": "github.com/FrecklyComb1728",
+                "end": 62,
+                "expanded_url": "https://github.com/FrecklyComb1728",
+                "start": 39,
+                "url": "https://t.co/pEtEg9XwzI"
+              }
+            ]
+          }
+        },
+        "id": "1913303844869619712",
+        "location": "Hong Kong",
+        "name": "mifeng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952605958901030912/YHupe1Tw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 70
+        },
+        "username": "cn_mifeng",
+        "verified": false
+      }
+    ]
+  }
+}

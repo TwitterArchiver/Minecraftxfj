@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2062793908091015444",
+    "created_at": "2026-06-05T19:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T20:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062976693514784782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008005819263266816",
+          "start": 0,
+          "username": "nme12894541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062976693514784782",
+    "in_reply_to_user_id": "2008005819263266816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062793908091015444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nme12894541 茴香是最难吃的东西，没有其二"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2062793892945448960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCEHdHb0AAucwq.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2062793908091015444",
+        "created_at": "2026-06-05T19:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062976693514784782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008005819263266816",
+              "start": 0,
+              "username": "nme12894541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062976693514784782",
+        "in_reply_to_user_id": "2008005819263266816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062793908091015444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nme12894541 茴香是最难吃的东西，没有其二"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062793892945448960"
+          ]
+        },
+        "author_id": "2008005819263266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062793908091015444",
+        "created_at": "2026-06-05T07:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062793908091015444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgQvtAstIz",
+              "end": 32,
+              "expanded_url": "https://x.com/nme12894541/status/2062793908091015444/photo/1",
+              "media_key": "3_2062793892945448960",
+              "start": 9,
+              "url": "https://t.co/jgQvtAstIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062793908091015444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1347,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能猜出包的啥馅吗 https://t.co/jgQvtAstIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 UTC+8\n戒 OD & 自伤 中......\n是的我玩原神异环终末地卡拉彼丘啤酒烧烤😎😎😎\n求求你了求求你了进来玩⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 77,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T02:41:32.000Z",
+        "description": "＃精简生活＃美食控＃国产牛马#中🌸传统文化爱好者，欢迎互动哟～",
+        "id": "2008005819263266816",
+        "name": "兔兔侠（包互的）",
+        "pinned_tweet_id": "2057254816905388514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052931613886119936/WreFR2ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1069,
+          "like_count": 1974,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2070
+        },
+        "username": "nme12894541",
+        "verified": false
+      }
+    ]
+  }
+}

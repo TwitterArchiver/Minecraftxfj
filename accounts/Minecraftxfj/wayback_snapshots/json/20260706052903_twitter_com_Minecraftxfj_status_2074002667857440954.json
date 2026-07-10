@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2073713497607934117",
+    "created_at": "2026-07-06T05:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074002667857440954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "949316104144457729",
+          "start": 0,
+          "username": "wangchangfu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074002667857440954",
+    "in_reply_to_user_id": "949316104144457729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073713497607934117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangchangfu88 前端，易如反掌啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5433,
+        "height": 1280,
+        "media_key": "13_2073696176738828288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073696176738828288/img/rlBmLw6UKx-8atEa.jpg",
+        "public_metrics": {
+          "view_count": 2883
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073696176738828288/vid/avc1/320x568/SmQ7GCrg0ASikc-0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073696176738828288/vid/avc1/480x852/PNEWbk7XUF6KX1jS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073696176738828288/vid/avc1/720x1280/p_RJPbAgKnWvEonL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073696176738828288/pl/7cvUcToMrCcJjwkj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2073713497607934117",
+        "created_at": "2026-07-06T05:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074002667857440954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949316104144457729",
+              "start": 0,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074002667857440954",
+        "in_reply_to_user_id": "949316104144457729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073713497607934117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangchangfu88 前端，易如反掌啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073696176738828288"
+          ]
+        },
+        "author_id": "949316104144457729",
+        "conversation_id": "2073713497607934117",
+        "created_at": "2026-07-05T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073713497607934117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NS1sQfvIHb",
+              "end": 36,
+              "expanded_url": "https://x.com/wangchangfu88/status/2073713497607934117/video/1",
+              "media_key": "13_2073696176738828288",
+              "start": 13,
+              "url": "https://t.co/NS1sQfvIHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073713497607934117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7509,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没人比我更懂 UI 设计 https://t.co/NS1sQfvIHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 291,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升 | 互动多的我都会回关",
+        "id": "949316104144457729",
+        "name": "王长富",
+        "pinned_tweet_id": "2069332680798589391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22453,
+          "following_count": 2936,
+          "like_count": 22661,
+          "listed_count": 87,
+          "media_count": 401,
+          "tweet_count": 25751
+        },
+        "url": "",
+        "username": "wangchangfu88",
+        "verified": true
+      }
+    ]
+  }
+}

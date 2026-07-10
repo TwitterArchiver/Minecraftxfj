@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070205995788492800"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2070203261609738503",
+    "created_at": "2026-06-25T18:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070206013312270637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8quYfCdJN",
+          "end": 157,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2070206013312270637/photo/1",
+          "media_key": "3_2070205995788492800",
+          "start": 134,
+          "url": "https://t.co/d8quYfCdJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070206013312270637",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070205034491703423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对了，感谢一下智谱 AI，文本模型用的是 GLM-4.7-Flash，向量模型用的 Embedding-3，GLM-4.7-Flash 完全是免费的，Embedding-3 模型能用新用户给的两百万 token，谢谢🫡❤️\n我现在唯一的要求就是智谱你千万别倒闭😭🙏🙏 https://t.co/d8quYfCdJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2070205995788492800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrZYn7bYAAYX7V.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070205995788492800"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2070203261609738503",
+        "created_at": "2026-06-25T18:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070206013312270637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8quYfCdJN",
+              "end": 157,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2070206013312270637/photo/1",
+              "media_key": "3_2070205995788492800",
+              "start": 134,
+              "url": "https://t.co/d8quYfCdJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070206013312270637",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070205034491703423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对了，感谢一下智谱 AI，文本模型用的是 GLM-4.7-Flash，向量模型用的 Embedding-3，GLM-4.7-Flash 完全是免费的，Embedding-3 模型能用新用户给的两百万 token，谢谢🫡❤️\n我现在唯一的要求就是智谱你千万别倒闭😭🙏🙏 https://t.co/d8quYfCdJN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2070203261609738503",
+        "created_at": "2026-06-25T17:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070205034491703423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070205034491703423",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070204741913858532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一个更新，引入了文本模型，给予搜索词后，文本模型会根据搜索词扩展出 2～3 个新词，再跑 Embedding 模型得到向量，应该能显著提升召回率"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 275,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

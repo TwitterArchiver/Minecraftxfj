@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2023189412927197599",
+    "created_at": "2026-02-17T03:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T04:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023601416410161514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "344500344",
+          "start": 0,
+          "username": "EddieDevs01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023601416410161514",
+    "in_reply_to_user_id": "344500344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023189605387063328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EddieDevs01 w9 我爱你我喜欢你❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_2023189525879799810",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBPQJ4tbQAIZtxO.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBPQJ4tbQAIZtxO.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2023189412927197599",
+        "created_at": "2026-02-17T03:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023601416410161514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "344500344",
+              "start": 0,
+              "username": "EddieDevs01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023601416410161514",
+        "in_reply_to_user_id": "344500344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023189605387063328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EddieDevs01 w9 我爱你我喜欢你❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023189525879799810"
+          ]
+        },
+        "author_id": "344500344",
+        "conversation_id": "2023189412927197599",
+        "created_at": "2026-02-16T00:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023189605387063328"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 195,
+              "start": 181,
+              "tag": "heartheartart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ph4o3itMCt",
+              "end": 219,
+              "expanded_url": "https://x.com/EddieDevs01/status/2023189605387063328/photo/1",
+              "media_key": "16_2023189525879799810",
+              "start": 196,
+              "url": "https://t.co/Ph4o3itMCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023189605387063328",
+        "in_reply_to_user_id": "344500344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 693,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023189412927197599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆转 Neuro：王牌律师 (AI Attorney: Neuro-sama) v1.01 更新!\n\n* 新语言支持: 简体中文\n* 加载屏幕\n* 拼写调整\n\n简中翻译团队: Slanter, wyf9, Haytch, XiaoYuan151, lronsoymilk, Ending Credit, InorgSalt\n\n谢谢大家的支持!\n⬇ 游戏链接 ⬇\n#heartheartart https://t.co/Ph4o3itMCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 Overdose 重抑重焦 UTC+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "name": "夜桜侵峰～",
+        "pinned_tweet_id": "1970206909967057225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 47,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-29T04:31:43.000Z",
+        "description": "AI Attorney: Neuro-sama: 🎮https://t.co/lKypDHw2aL🎮 | email: eddie5210300@gmail.com | https://t.co/kEGJAfEIno | Logo: @wimowowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "wimowowo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3YOJdUi",
+                "end": 49,
+                "expanded_url": "https://bit.ly/3YOJdUi",
+                "start": 26,
+                "url": "https://t.co/lKypDHw2aL"
+              },
+              {
+                "display_url": "ko-fi.com/eddiedevs",
+                "end": 108,
+                "expanded_url": "https://ko-fi.com/eddiedevs",
+                "start": 85,
+                "url": "https://t.co/kEGJAfEIno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eddiedevs01.itch.io",
+                "end": 23,
+                "expanded_url": "https://eddiedevs01.itch.io",
+                "start": 0,
+                "url": "https://t.co/79s73Ilnou"
+              }
+            ]
+          }
+        },
+        "id": "344500344",
+        "name": "eddieDevs",
+        "pinned_tweet_id": "2006153671772402071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016303828464025600/IjTcc1RL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 103,
+          "like_count": 655,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/79s73Ilnou",
+        "username": "EddieDevs01",
+        "verified": false
+      }
+    ]
+  }
+}

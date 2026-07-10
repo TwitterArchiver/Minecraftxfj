@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2067930157806243927",
+    "created_at": "2026-06-19T18:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068039729246089475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819335514291687426",
+          "start": 0,
+          "username": "honyu_reflame"
+        },
+        {
+          "end": 23,
+          "id": "2055900754968465408",
+          "start": 15,
+          "username": "conv1x1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068039729246089475",
+    "in_reply_to_user_id": "1819335514291687426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068038695513735342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honyu_reflame @conv1x1 这真找到了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068038695513735342].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068038695513735342",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068038695513735342"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2067930157806243927",
+        "created_at": "2026-06-19T18:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068039729246089475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819335514291687426",
+              "start": 0,
+              "username": "honyu_reflame"
+            },
+            {
+              "end": 23,
+              "id": "2055900754968465408",
+              "start": 15,
+              "username": "conv1x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068039729246089475",
+        "in_reply_to_user_id": "1819335514291687426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068038695513735342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honyu_reflame @conv1x1 这真找到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 212,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T11:32:56.000Z",
+        "description": "furry！",
+        "id": "1819335514291687426",
+        "name": "advan10",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853058152541073408/UaTLtf8a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 65,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "honyu_reflame",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T06:55:27.000Z",
+        "description": "怪人・lim社恐=+∞・某种奇怪的跨・infp&intp叠加态・喜欢［男, 女］孩子(闭区间)・千禧製・非二维・非线性・张量・什么时候给性别先安一个虚轴?・甚至可以跨物种?・傅立叶・贝叶斯・模拟?数字?连续?离散?・找到了神奇的介面・干什么都是半吊子・其实是个笨蛋\nhttps://t.co/FORM8d5HJj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/T9HsSQwz",
+                "end": 156,
+                "expanded_url": "https://discord.gg/T9HsSQwz",
+                "start": 133,
+                "url": "https://t.co/FORM8d5HJj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tat48760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tat48760",
+                "start": 0,
+                "url": "https://t.co/cyyi2t9Aci"
+              }
+            ]
+          }
+        },
+        "id": "2055900754968465408",
+        "location": "👆快来找我聊天喵👉",
+        "name": "uu",
+        "pinned_tweet_id": "2066245830496149751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059882826380775424/JNEraTve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 72,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/cyyi2t9Aci",
+        "username": "conv1x1",
+        "verified": false
+      }
+    ]
+  }
+}
