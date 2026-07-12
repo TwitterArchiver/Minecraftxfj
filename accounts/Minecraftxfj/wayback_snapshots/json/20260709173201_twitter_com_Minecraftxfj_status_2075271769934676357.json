@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075209026338771023",
+    "created_at": "2026-07-09T17:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075271769934676357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047631836864483328",
+          "start": 0,
+          "username": "TuT_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075271769934676357",
+    "in_reply_to_user_id": "2047631836864483328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075209026338771023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuT_1Apple 怎么都变成青紫色了🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5933,
+        "height": 1280,
+        "media_key": "13_2075207513830789120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075207513830789120/img/SpHuN1fVQDyQdclo.jpg",
+        "public_metrics": {
+          "view_count": 1266
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075207513830789120/vid/avc1/320x568/3LPVFSic9irFxUaq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075207513830789120/vid/avc1/480x852/UWYjTnS7shGvyQX-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075207513830789120/vid/avc1/720x1280/oRZ-zXe_en3Q-jG0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075207513830789120/pl/Zyky5F6vEmIK4HJ-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075209026338771023",
+        "created_at": "2026-07-09T17:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075271769934676357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075271769934676357",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075209026338771023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 怎么都变成青紫色了🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075207513830789120"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2075209026338771023",
+        "created_at": "2026-07-09T13:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075209026338771023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSUeTgzbLM",
+              "end": 28,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2075209026338771023/video/1",
+              "media_key": "13_2075207513830789120",
+              "start": 5,
+              "url": "https://t.co/FSUeTgzbLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075209026338771023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2549,
+          "like_count": 312,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "真讨厌。 https://t.co/FSUeTgzbLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 462,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2121
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 59,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

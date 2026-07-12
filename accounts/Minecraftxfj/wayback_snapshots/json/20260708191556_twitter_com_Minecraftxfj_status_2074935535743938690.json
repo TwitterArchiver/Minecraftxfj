@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074775880459837582",
+    "created_at": "2026-07-08T19:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T20:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074935535743938690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1830824440642641920",
+          "start": 0,
+          "username": "kangzaitang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074935535743938690",
+    "in_reply_to_user_id": "1830824440642641920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074775880459837582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kangzaitang 咱大东北就这生活👊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2074775848876380160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsVpFTWEAA43Uf.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074775880459837582",
+        "created_at": "2026-07-08T19:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074935535743938690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1830824440642641920",
+              "start": 0,
+              "username": "kangzaitang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074935535743938690",
+        "in_reply_to_user_id": "1830824440642641920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074775880459837582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kangzaitang 咱大东北就这生活👊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074775848876380160"
+          ]
+        },
+        "author_id": "1830824440642641920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074775880459837582",
+        "created_at": "2026-07-08T08:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074775880459837582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSYBXxKheH",
+              "end": 28,
+              "expanded_url": "https://x.com/kangzaitang/status/2074775880459837582/photo/1",
+              "media_key": "3_2074775848876380160",
+              "start": 5,
+              "url": "https://t.co/FSYBXxKheH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074775880459837582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东北蘸酱 https://t.co/FSYBXxKheH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 448,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 2027
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T04:26:13.000Z",
+        "description": "但求粉丝破千万，不惜为你点万千！关注我，我是你的；关注你，你是我的！",
+        "id": "1830824440642641920",
+        "location": "心里🩵🩵🩵🥰",
+        "name": "Kang Zaitang（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995508930299023360/pQ2-dhsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3667,
+          "following_count": 5677,
+          "like_count": 15872,
+          "listed_count": 2,
+          "media_count": 803,
+          "tweet_count": 4001
+        },
+        "url": "",
+        "username": "kangzaitang",
+        "verified": false
+      }
+    ]
+  }
+}

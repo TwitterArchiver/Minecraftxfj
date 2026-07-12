@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074593970672336981",
+    "created_at": "2026-07-08T05:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074728164161667143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1164882449257717761",
+          "start": 0,
+          "username": "rappIayerszk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074728164161667143",
+    "in_reply_to_user_id": "1164882449257717761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074593970672336981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rappIayerszk 加油！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074593970672336981",
+        "created_at": "2026-07-08T05:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074728164161667143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1164882449257717761",
+              "start": 0,
+              "username": "rappIayerszk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074728164161667143",
+        "in_reply_to_user_id": "1164882449257717761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074593970672336981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rappIayerszk 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164882449257717761",
+        "conversation_id": "2074593970672336981",
+        "created_at": "2026-07-07T20:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074593970672336981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074593970672336981",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 341414,
+          "like_count": 33035,
+          "quote_count": 17,
+          "reply_count": 591,
+          "retweet_count": 447
+        },
+        "reply_settings": "everyone",
+        "text": "amigos, mi mamá venció el cáncer 🤍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 435,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-23T12:50:07.000Z",
+        "description": "elrubius me dijo furro rojo || he/him",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/thezetamc",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/thezetamc",
+                "start": 0,
+                "url": "https://t.co/8ZszD1uFSX"
+              }
+            ]
+          }
+        },
+        "id": "1164882449257717761",
+        "location": "elbaf | 24",
+        "name": "zeta",
+        "pinned_tweet_id": "1386067581447049228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032409330180390912/XWjJtRur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 880,
+          "like_count": 355953,
+          "listed_count": 55,
+          "media_count": 15459,
+          "tweet_count": 117841
+        },
+        "url": "https://t.co/8ZszD1uFSX",
+        "username": "rappIayerszk",
+        "verified": false
+      }
+    ]
+  }
+}

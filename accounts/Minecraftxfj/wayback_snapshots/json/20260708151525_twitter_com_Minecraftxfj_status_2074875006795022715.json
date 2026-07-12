@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074720846808306159",
+    "created_at": "2026-07-08T15:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074875006795022715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1771912298271330304",
+          "start": 0,
+          "username": "Rebirth1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074875006795022715",
+    "in_reply_to_user_id": "1771912298271330304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074760317507457332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rebirth1T 我们前几天38，这几天天气预报显示凉快点了不知道为啥感觉更热了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074720846808306159",
+        "created_at": "2026-07-08T15:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074875006795022715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771912298271330304",
+              "start": 0,
+              "username": "Rebirth1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074875006795022715",
+        "in_reply_to_user_id": "1771912298271330304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074760317507457332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rebirth1T 我们前几天38，这几天天气预报显示凉快点了不知道为啥感觉更热了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771912298271330304",
+        "conversation_id": "2074720846808306159",
+        "created_at": "2026-07-08T07:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074760317507457332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074760317507457332",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074720846808306159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 我们现在这里38度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 441,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T14:49:58.000Z",
+        "description": "中文🛑其他语言都是翻译器\n人生有几个年华啊,所以我想目前想把全世界都看一遍。本人虽然是furry但还没有本体,但没有关系总有一天他会降临到这个世界上面的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1960820464/set…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1960820464/setting",
+                "start": 0,
+                "url": "https://t.co/VuDN6KtGyN"
+              }
+            ]
+          }
+        },
+        "id": "1771912298271330304",
+        "location": "China",
+        "name": "Rebirth（Like photography）",
+        "pinned_tweet_id": "1820531075606856109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828023165450059776/5xOMxalD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 48,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/VuDN6KtGyN",
+        "username": "Rebirth1T",
+        "verified": false
+      }
+    ]
+  }
+}

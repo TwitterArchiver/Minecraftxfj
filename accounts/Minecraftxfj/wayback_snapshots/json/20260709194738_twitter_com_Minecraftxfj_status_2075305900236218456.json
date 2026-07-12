@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075131845461889125",
+    "created_at": "2026-07-09T19:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T20:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075305900236218456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018279448597172225",
+          "start": 0,
+          "username": "ritu_twts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075305900236218456",
+    "in_reply_to_user_id": "2018279448597172225",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075131845461889125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ritu_twts Edge"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2075131837475880960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxZaWLagAArrqn.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075131845461889125",
+        "created_at": "2026-07-09T19:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075305900236218456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018279448597172225",
+              "start": 0,
+              "username": "ritu_twts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075305900236218456",
+        "in_reply_to_user_id": "2018279448597172225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075131845461889125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ritu_twts Edge"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075131837475880960"
+          ]
+        },
+        "author_id": "2018279448597172225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2075131845461889125",
+        "created_at": "2026-07-09T08:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075131845461889125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7Lsmzrws7",
+              "end": 111,
+              "expanded_url": "https://x.com/ritu_twts/status/2075131845461889125/photo/1",
+              "media_key": "3_2075131837475880960",
+              "start": 88,
+              "url": "https://t.co/m7Lsmzrws7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075131845461889125",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5992,
+          "like_count": 101,
+          "quote_count": 2,
+          "reply_count": 104,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Finally bought a brand new Windows laptop. \n\nWhat's the first thing I should uninstall? https://t.co/m7Lsmzrws7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 466,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2188
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T11:05:07.000Z",
+        "description": "20 | Building in AI | DSA • Dev",
+        "id": "2018279448597172225",
+        "location": "she/her",
+        "name": "Reethu",
+        "pinned_tweet_id": "2071873737486639403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018933648678920192/l4cRlIpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 705,
+          "like_count": 4812,
+          "listed_count": 9,
+          "media_count": 205,
+          "tweet_count": 3544
+        },
+        "url": "",
+        "username": "ritu_twts",
+        "verified": true
+      }
+    ]
+  }
+}

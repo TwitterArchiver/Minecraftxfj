@@ -1,0 +1,890 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075624189403570177",
+        "3_2075624189416050690",
+        "3_2075624189403561984"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2075624254876652017",
+    "created_at": "2026-07-10T16:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075624254876652017"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 134,
+          "tag": "恋与深空"
+        },
+        {
+          "end": 145,
+          "start": 140,
+          "tag": "初音未来"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DhYjpjNrxL",
+          "end": 169,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2075624254876652017/photo/1",
+          "media_key": "3_2075624189403570177",
+          "start": 146,
+          "url": "https://t.co/DhYjpjNrxL"
+        },
+        {
+          "display_url": "pic.x.com/DhYjpjNrxL",
+          "end": 169,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2075624254876652017/photo/1",
+          "media_key": "3_2075624189416050690",
+          "start": 146,
+          "url": "https://t.co/DhYjpjNrxL"
+        },
+        {
+          "display_url": "pic.x.com/DhYjpjNrxL",
+          "end": 169,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2075624254876652017/photo/1",
+          "media_key": "3_2075624189403561984",
+          "start": 146,
+          "url": "https://t.co/DhYjpjNrxL"
+        },
+        {
+          "display_url": "x.com/minecraftxfj/s…",
+          "end": 193,
+          "expanded_url": "https://twitter.com/minecraftxfj/status/2075342848132800928",
+          "start": 170,
+          "url": "https://t.co/9DTqXgCEPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075624254876652017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 139,
+            "start": 134,
+            "tag": "恋与深空"
+          },
+          {
+            "end": 145,
+            "start": 140,
+            "tag": "初音未来"
+          },
+          {
+            "end": 300,
+            "start": 295,
+            "tag": "恋と深空"
+          },
+          {
+            "end": 306,
+            "start": 301,
+            "tag": "初音ミク"
+          },
+          {
+            "end": 743,
+            "start": 726,
+            "tag": "LoveAndDeepspace"
+          },
+          {
+            "end": 756,
+            "start": 744,
+            "tag": "HatsuneMiku"
+          }
+        ]
+      },
+      "text": "我又看到后续了。《恋与深空》粉丝与初音未来骑士团的冲突中，有人做了涉及毛泽东相关政治内容的图，还有把LADS角色头部P到上帝圣像上的图片。\n我即是中国人，也是基督徒（虽然只是名义上的），看到这些确实觉得有些过线。政治和宗教红线还是别碰为好。\n不过我还能继续参战（乐）。#恋与深空 #初音未来\n また続報を見つけました。『恋と深空』ファンと初音未来騎士団の対立で、毛沢東関連の政治的内容の画像や、LADSキャラの頭を神様像に合成したものが登場。\n私は中国人でありキリスト教徒ですが、これらは少し越線気味だと思います。政治と宗教の線は越えない方が無難です。\nとはいえ私もまだ参戦できます（笑）。#恋と深空 #初音ミク\n I saw more follow-up on this. In the Love and Deepspace vs Hatsune Miku Knights conflict, there are edits involving Mao Zedong-related political content and one with a LADS character’s head photoshopped onto a God/Jesus holy image.\nAs a Chinese person and a Christian myself, I feel these cross some lines. Better not to touch political or religious red lines.\nThat said, I can still keep watching (or participating). #LoveAndDeepspace #HatsuneMiku"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075342848132800928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又看到后续了。《恋与深空》粉丝与初音未来骑士团的冲突中，有人做了涉及毛泽东相关政治内容的图，还有把LADS角色头部P到上帝圣像上的图片。\n我即是中国人，也是基督徒（虽然只是名义上的），看到这些确实觉得有些过线。政治和宗教红线还是别碰为好。\n不过我还能继续参战（乐）。#恋与深空 #初音未来 https://t.co/DhYjpjNrxL https://t.co/9DTqXgCEPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075624189403570177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4ZNACboAEkvB7.jpg",
+        "width": 922
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2075624189416050690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4ZNAFaEAIPu84.jpg",
+        "width": 876
+      },
+      {
+        "height": 687,
+        "media_key": "3_2075624189403561984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4ZNACbgAA0rZP.jpg",
+        "width": 720
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2075342786325630976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0ZRL4b0AAR707.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075624189403570177",
+            "3_2075624189416050690",
+            "3_2075624189403561984"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2075624254876652017",
+        "created_at": "2026-07-10T16:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075624254876652017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "恋与深空"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "初音未来"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhYjpjNrxL",
+              "end": 169,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2075624254876652017/photo/1",
+              "media_key": "3_2075624189403570177",
+              "start": 146,
+              "url": "https://t.co/DhYjpjNrxL"
+            },
+            {
+              "display_url": "pic.x.com/DhYjpjNrxL",
+              "end": 169,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2075624254876652017/photo/1",
+              "media_key": "3_2075624189416050690",
+              "start": 146,
+              "url": "https://t.co/DhYjpjNrxL"
+            },
+            {
+              "display_url": "pic.x.com/DhYjpjNrxL",
+              "end": 169,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2075624254876652017/photo/1",
+              "media_key": "3_2075624189403561984",
+              "start": 146,
+              "url": "https://t.co/DhYjpjNrxL"
+            },
+            {
+              "display_url": "x.com/minecraftxfj/s…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/minecraftxfj/status/2075342848132800928",
+              "start": 170,
+              "url": "https://t.co/9DTqXgCEPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075624254876652017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "恋与深空"
+              },
+              {
+                "end": 145,
+                "start": 140,
+                "tag": "初音未来"
+              },
+              {
+                "end": 300,
+                "start": 295,
+                "tag": "恋と深空"
+              },
+              {
+                "end": 306,
+                "start": 301,
+                "tag": "初音ミク"
+              },
+              {
+                "end": 743,
+                "start": 726,
+                "tag": "LoveAndDeepspace"
+              },
+              {
+                "end": 756,
+                "start": 744,
+                "tag": "HatsuneMiku"
+              }
+            ]
+          },
+          "text": "我又看到后续了。《恋与深空》粉丝与初音未来骑士团的冲突中，有人做了涉及毛泽东相关政治内容的图，还有把LADS角色头部P到上帝圣像上的图片。\n我即是中国人，也是基督徒（虽然只是名义上的），看到这些确实觉得有些过线。政治和宗教红线还是别碰为好。\n不过我还能继续参战（乐）。#恋与深空 #初音未来\n また続報を見つけました。『恋と深空』ファンと初音未来騎士団の対立で、毛沢東関連の政治的内容の画像や、LADSキャラの頭を神様像に合成したものが登場。\n私は中国人でありキリスト教徒ですが、これらは少し越線気味だと思います。政治と宗教の線は越えない方が無難です。\nとはいえ私もまだ参戦できます（笑）。#恋と深空 #初音ミク\n I saw more follow-up on this. In the Love and Deepspace vs Hatsune Miku Knights conflict, there are edits involving Mao Zedong-related political content and one with a LADS character’s head photoshopped onto a God/Jesus holy image.\nAs a Chinese person and a Christian myself, I feel these cross some lines. Better not to touch political or religious red lines.\nThat said, I can still keep watching (or participating). #LoveAndDeepspace #HatsuneMiku"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075342848132800928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又看到后续了。《恋与深空》粉丝与初音未来骑士团的冲突中，有人做了涉及毛泽东相关政治内容的图，还有把LADS角色头部P到上帝圣像上的图片。\n我即是中国人，也是基督徒（虽然只是名义上的），看到这些确实觉得有些过线。政治和宗教红线还是别碰为好。\n不过我还能继续参战（乐）。#恋与深空 #初音未来 https://t.co/DhYjpjNrxL https://t.co/9DTqXgCEPH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075342786325630976"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2075342848132800928",
+        "created_at": "2026-07-09T22:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T23:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075342848132800928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "恋与深空"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "初音未来"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uANFuIpdNx",
+              "end": 174,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2075342848132800928/photo/1",
+              "media_key": "3_2075342786325630976",
+              "start": 151,
+              "url": "https://t.co/uANFuIpdNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075342848132800928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "恋与深空"
+              },
+              {
+                "end": 150,
+                "start": 145,
+                "tag": "初音未来"
+              },
+              {
+                "end": 341,
+                "start": 336,
+                "tag": "恋と深空"
+              },
+              {
+                "end": 347,
+                "start": 342,
+                "tag": "初音ミク"
+              },
+              {
+                "end": 764,
+                "start": 747,
+                "tag": "LoveAndDeepspace"
+              },
+              {
+                "end": 777,
+                "start": 765,
+                "tag": "HatsuneMiku"
+              }
+            ]
+          },
+          "text": "最近《恋与深空》部分粉丝用AI生成男主×初音未来CP图，称“很般配”，并侮辱初音、粉丝及东方Project等角色，还攻击其他二次元社群（如FGO、原神等）。呼吁全球受影响的二次元粉丝群体保持注意。LADS社群此前已有毒性争议。更多讨论可在B站、小红书搜索“恋与深空 初音”查看。#恋与深空 #初音未来\n\n最近『恋と深空』の一部ファンがAIで主人公と初音ミクのCP画像を作り「相性良い」とし、ミクやファン、東方Projectのキャラクターを侮辱、他の二次元コミュニティ（FGO、原神など）も攻撃。世界中の影響を受けた二次元ファンコミュニティに警戒を呼びかけます。LADSコミュニティには以前から毒性問題があります。詳細はBilibiliや小红书で「恋と深空 初音」を検索を。#恋と深空 #初音ミク\n\nRecently, some Love and Deepspace fans used AI to pair male leads with Hatsune Miku (“perfect match”), while insulting Miku, her fans, Touhou characters, and attacking other 2.5D communities (e.g. FGO, Genshin Impact). We call on global affected 2.5D fan groups to stay vigilant.LADS fandom has prior toxicity issues. More discussions on Bilibili or Xiaohongshu — search “Love and Deepspace Miku”. #LoveAndDeepspace #HatsuneMiku"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2758,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最近《恋与深空》部分粉丝用AI生成男主×初音未来CP图，称“很般配”，并侮辱初音、粉丝及东方Project等角色，还攻击其他二次元社群（如FGO、原神等）。呼吁全球受影响的二次元粉丝群体保持注意。LADS社群此前已有毒性争议。更多讨论可在B站、小红书搜索“恋与深空 初音”查看。#恋与深空 #初音未来 https://t.co/uANFuIpdNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 466,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 2269
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074711876651696572",
+    "created_at": "2026-07-09T16:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075255268993290352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813842973941243904",
+          "start": 0,
+          "username": "Ze_Jaanilinn"
+        },
+        {
+          "end": 26,
+          "id": "2012925699976298496",
+          "start": 14,
+          "username": "qwq1234567d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075255268993290352",
+    "in_reply_to_user_id": "1813842973941243904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075254727420592580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ze_Jaanilinn @qwq1234567d 看懂的都哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074711876651696572",
+        "created_at": "2026-07-09T16:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075255268993290352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813842973941243904",
+              "start": 0,
+              "username": "Ze_Jaanilinn"
+            },
+            {
+              "end": 26,
+              "id": "2012925699976298496",
+              "start": 14,
+              "username": "qwq1234567d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075255268993290352",
+        "in_reply_to_user_id": "1813842973941243904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075254727420592580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ze_Jaanilinn @qwq1234567d 看懂的都哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813842973941243904",
+        "conversation_id": "2074711876651696572",
+        "created_at": "2026-07-09T16:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075254727420592580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012925699976298496",
+              "start": 0,
+              "username": "qwq1234567d"
+            },
+            {
+              "end": 26,
+              "id": "1545801302617116672",
+              "start": 13,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075254727420592580",
+        "in_reply_to_user_id": "2012925699976298496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074910570592256269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq1234567d @Minecraftxfj 释放催泪瓦斯😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 459,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2096
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T07:47:27.000Z",
+        "description": "蛆\n\n正在被生活凌迟",
+        "id": "1813842973941243904",
+        "location": "待发弹药架",
+        "name": "Янка🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065732248075448320/F3Bodd1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 301,
+          "like_count": 20667,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "Ze_Jaanilinn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T16:31:08.000Z",
+        "description": "please，，，，do not ban my account again",
+        "id": "2012925699976298496",
+        "name": "Iris06",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013639200411615232/kvzT8Bbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 149,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "qwq1234567d",
+        "verified": false
+      }
+    ]
+  }
+}

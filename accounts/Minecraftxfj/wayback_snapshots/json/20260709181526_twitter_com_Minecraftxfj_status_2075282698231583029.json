@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075276673646460930",
+    "created_at": "2026-07-09T18:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075282698231583029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067998397429317632",
+          "start": 0,
+          "username": "nhcueee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075282698231583029",
+    "in_reply_to_user_id": "2067998397429317632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075276673646460930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhcueee 棒棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075276487989821440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzc-HVagAAqLOd.jpg",
+        "width": 1871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075276673646460930",
+        "created_at": "2026-07-09T18:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075282698231583029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067998397429317632",
+              "start": 0,
+              "username": "nhcueee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075282698231583029",
+        "in_reply_to_user_id": "2067998397429317632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075276673646460930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhcueee 棒棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075276487989821440"
+          ]
+        },
+        "author_id": "2067998397429317632",
+        "conversation_id": "2075276673646460930",
+        "created_at": "2026-07-09T17:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075276673646460930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "药娘"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A24yFwgL1F",
+              "end": 61,
+              "expanded_url": "https://x.com/nhcueee/status/2075276673646460930/photo/1",
+              "media_key": "3_2075276487989821440",
+              "start": 38,
+              "url": "https://t.co/A24yFwgL1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075276673646460930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "www明明才过了四天就变成200fo了诶?有点惊喜的说 #药娘\n #mtf https://t.co/A24yFwgL1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 464,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-19T15:51:17.000Z",
+        "description": "INFP，双性恋，已有对象，请勿过度打扰\n171cm55kg，祈祷变矮变瘦ing……\n2026.6.21🍥，无证含糖，同类回关w（没回大概是忘了的说）\n重度拖延，得过且过，低能量，自卑，内耗\n轻音乐重度依赖\n不善言辞，只会玩游戏的阴角，对陌生人相当内向，平时可能会有点呆呆的，交流时还请注意分寸……",
+        "id": "2067998397429317632",
+        "name": "nhcue🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000421747228672/SNMoCeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 98,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "nhcueee",
+        "verified": false
+      }
+    ]
+  }
+}

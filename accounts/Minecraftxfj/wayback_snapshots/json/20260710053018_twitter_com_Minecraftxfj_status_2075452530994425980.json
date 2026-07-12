@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075420626311856548",
+    "created_at": "2026-07-10T05:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075452530994425980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4825911788",
+          "start": 0,
+          "username": "EZFIX_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075452530994425980",
+    "in_reply_to_user_id": "4825911788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075420626311856548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EZFIX_ 变异了这个😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075420621564002304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1gDyvXwAAWpcN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075420626311856548",
+        "created_at": "2026-07-10T05:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075452530994425980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4825911788",
+              "start": 0,
+              "username": "EZFIX_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075452530994425980",
+        "in_reply_to_user_id": "4825911788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075420626311856548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EZFIX_ 变异了这个😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075420621564002304"
+          ]
+        },
+        "author_id": "4825911788",
+        "conversation_id": "2075420626311856548",
+        "created_at": "2026-07-10T03:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075420626311856548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMXz2mpoaw",
+              "end": 32,
+              "expanded_url": "https://x.com/EZFIX_/status/2075420626311856548/photo/1",
+              "media_key": "3_2075420621564002304",
+              "start": 9,
+              "url": "https://t.co/VMXz2mpoaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075420626311856548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6794,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有见过红苹果 https://t.co/VMXz2mpoaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 468,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-28T14:46:22.000Z",
+        "description": "维修店店主 精修 Mac & iPhone iPad 维修服务WeChat: EZFIX_",
+        "id": "4825911788",
+        "location": "中国大陆",
+        "name": "EZFIX",
+        "pinned_tweet_id": "1351093412636856324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1320269221977190401/jy3u_zNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30905,
+          "following_count": 201,
+          "like_count": 2347,
+          "listed_count": 159,
+          "media_count": 737,
+          "tweet_count": 3963
+        },
+        "url": "",
+        "username": "EZFIX_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075194621727252930",
+    "created_at": "2026-07-09T17:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075275217531032053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774410859491799041",
+          "start": 0,
+          "username": "kiwi_03096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075275217531032053",
+    "in_reply_to_user_id": "1774410859491799041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075194621727252930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiwi_03096 一直没好好学习，请问一下这种小黄毛在哪领😡👊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075194603960258560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySf1jb0AAmFpd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075194621727252930",
+        "created_at": "2026-07-09T17:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075275217531032053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774410859491799041",
+              "start": 0,
+              "username": "kiwi_03096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075275217531032053",
+        "in_reply_to_user_id": "1774410859491799041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075194621727252930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwi_03096 一直没好好学习，请问一下这种小黄毛在哪领😡👊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075194603960258560"
+          ]
+        },
+        "author_id": "1774410859491799041",
+        "conversation_id": "2075194621727252930",
+        "created_at": "2026-07-09T12:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075194621727252930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f1MGybt8ag",
+              "end": 42,
+              "expanded_url": "https://x.com/kiwi_03096/status/2075194621727252930/photo/1",
+              "media_key": "3_2075194603960258560",
+              "start": 19,
+              "url": "https://t.co/f1MGybt8ag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075194621727252930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 7679,
+          "like_count": 593,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "不好好学习以后就只能嫁给我这种小黄毛 https://t.co/f1MGybt8ag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 462,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "世界上的另一个我自己@aldn126633\n喜欢每一个喜欢我的人！！！谢谢谢谢谢谢谢谢\n给我留言看见都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "aldn126633"
+              }
+            ]
+          }
+        },
+        "id": "1774410859491799041",
+        "location": "天堂",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "2054609881156763882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007447161626341376/LKnNTTGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13820,
+          "following_count": 206,
+          "like_count": 3110,
+          "listed_count": 36,
+          "media_count": 349,
+          "tweet_count": 1776
+        },
+        "url": "",
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

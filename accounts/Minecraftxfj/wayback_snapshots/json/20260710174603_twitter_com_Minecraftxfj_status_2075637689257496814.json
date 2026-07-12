@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075255922059034831",
+    "created_at": "2026-07-10T17:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075637689257496814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1173259891286392832",
+          "start": 0,
+          "username": "seanwei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075637689257496814",
+    "in_reply_to_user_id": "1173259891286392832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075255922059034831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seanwei001 你发完这个帖子你妈似了👍地球发现重量减少自己把自转加快了👍现在又把一天的长度减回去了👍你妈好样的👍👍👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14976,
+        "height": 1280,
+        "media_key": "13_2075255775241662464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075255775241662464/img/6n_R-SwBGmNybf4w.jpg",
+        "public_metrics": {
+          "view_count": 244821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075255775241662464/vid/avc1/320x568/uvX4Mc2YixJzXEOW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075255775241662464/vid/avc1/480x852/SrXO3Vypu2dEtS11.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075255775241662464/vid/avc1/720x1280/1K-X35DgoCTsrmsl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075255775241662464/pl/25i3g9_GC3djs05o.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075255922059034831",
+        "created_at": "2026-07-10T17:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075637689257496814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1173259891286392832",
+              "start": 0,
+              "username": "seanwei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075637689257496814",
+        "in_reply_to_user_id": "1173259891286392832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075255922059034831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seanwei001 你发完这个帖子你妈似了👍地球发现重量减少自己把自转加快了👍现在又把一天的长度减回去了👍你妈好样的👍👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075255775241662464"
+          ]
+        },
+        "author_id": "1173259891286392832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2075255922059034831",
+        "created_at": "2026-07-09T16:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075255922059034831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZheWgPQ2Jp",
+              "end": 133,
+              "expanded_url": "https://x.com/seanwei001/status/2075255922059034831/video/1",
+              "media_key": "13_2075255775241662464",
+              "start": 110,
+              "url": "https://t.co/ZheWgPQ2Jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075255922059034831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "根据NASA科学家的计算：中国三峡大坝，因它如此巨大的结构，以至于它减缓了地球的自转，在注满水时将一天的长度增加了 0.06 微秒。\n\n这一效应虽然极小、难以察觉，但大型水利工程通过质量再分配对行星旋转产生了可测影响。\n\n并且对整个行星的地壳平衡结构造成破坏，其直接后果就是不确定的地质灾害。2008 年的汶川地震就是明显的例子。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 496868,
+          "like_count": 633,
+          "quote_count": 22,
+          "reply_count": 388,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "根据NASA科学家的计算：中国三峡大坝，因它如此巨大的结构，以至于它减缓了地球的自转，在注满水时将一天的长度增加了 0.06 微秒。\n\n这一效应虽然极小、难以察觉，但大型水利工程通过质量再分配对行星旋转产生了可测影响。 https://t.co/ZheWgPQ2Jp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 467,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 2283
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-15T15:39:38.000Z",
+        "description": "来看有趣的事。。。",
+        "id": "1173259891286392832",
+        "name": "大变活人",
+        "pinned_tweet_id": "1454115070686887938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376681920461905922/obKbf3oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150553,
+          "following_count": 780,
+          "like_count": 29302,
+          "listed_count": 476,
+          "media_count": 29619,
+          "tweet_count": 35770
+        },
+        "url": "",
+        "username": "seanwei001",
+        "verified": true
+      }
+    ]
+  }
+}

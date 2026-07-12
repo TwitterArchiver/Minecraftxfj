@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074975673752736146",
+    "created_at": "2026-07-09T18:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075287781543456865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898715069447569408",
+          "start": 0,
+          "username": "MIKUMIKU_DELTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075287781543456865",
+    "in_reply_to_user_id": "1898715069447569408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074975673752736146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKUMIKU_DELTA 腋下管理这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3195,
+        "height": 1748,
+        "media_key": "13_2074975613832888320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074975613832888320/img/p-zpgTB3TBVQHLg6.jpg",
+        "public_metrics": {
+          "view_count": 2884
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074975613832888320/vid/avc1/480x856/64oq1LU2s9pBHLlY.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074975613832888320/vid/avc1/320x570/QvBWo-SmfeHbPEVL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074975613832888320/vid/avc1/978x1748/X5pX7z2KHnpexv3c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074975613832888320/pl/pcpE0fv4j7tGnfKv.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074975613832888320/vid/avc1/720x1286/-T1KFA9i1rF0e6IA.mp4"
+          }
+        ],
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074975673752736146",
+        "created_at": "2026-07-09T18:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075287781543456865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898715069447569408",
+              "start": 0,
+              "username": "MIKUMIKU_DELTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075287781543456865",
+        "in_reply_to_user_id": "1898715069447569408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074975673752736146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKUMIKU_DELTA 腋下管理这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074975613832888320"
+          ]
+        },
+        "author_id": "1898715069447569408",
+        "conversation_id": "2074975673752736146",
+        "created_at": "2026-07-08T21:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074975673752736146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "偽娘"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHs6HWsle3",
+              "end": 44,
+              "expanded_url": "https://x.com/MIKUMIKU_DELTA/status/2074975673752736146/video/1",
+              "media_key": "13_2074975613832888320",
+              "start": 21,
+              "url": "https://t.co/pHs6HWsle3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074975673752736146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 10874,
+          "like_count": 854,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "软糯的初音腋窝\n#男娘 #偽娘 #男の娘 https://t.co/pHs6HWsle3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 466,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-09T12:39:51.000Z",
+        "description": "",
+        "id": "1898715069447569408",
+        "name": "👾",
+        "pinned_tweet_id": "2050339250856776175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979305241607577600/8PPrTKeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6381,
+          "following_count": 6,
+          "like_count": 15371,
+          "listed_count": 15,
+          "media_count": 102,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "MIKUMIKU_DELTA",
+        "verified": true
+      }
+    ]
+  }
+}

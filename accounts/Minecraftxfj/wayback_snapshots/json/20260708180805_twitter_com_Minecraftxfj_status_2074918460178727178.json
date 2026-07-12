@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074833664962421061",
+    "created_at": "2026-07-08T18:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074918460178727178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "834003897765081088",
+          "start": 0,
+          "username": "tsurugi______"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074918460178727178",
+    "in_reply_to_user_id": "834003897765081088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074833664962421061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsurugi______ 你也有源石技艺吗🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074833605596168192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtKK92aQAApwrE.jpg",
+        "width": 1372
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074833605629820928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtKK9-bwAAzWe8.jpg",
+        "width": 1380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074833664962421061",
+        "created_at": "2026-07-08T18:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074918460178727178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "834003897765081088",
+              "start": 0,
+              "username": "tsurugi______"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074918460178727178",
+        "in_reply_to_user_id": "834003897765081088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074833664962421061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsurugi______ 你也有源石技艺吗🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074833605596168192",
+            "3_2074833605629820928"
+          ]
+        },
+        "author_id": "834003897765081088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2074833664962421061",
+        "created_at": "2026-07-08T12:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074833664962421061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "cos"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "管理员"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 83,
+              "start": 75,
+              "tag": "明日方舟终未地"
+            },
+            {
+              "end": 102,
+              "start": 84,
+              "tag": "ArknightsEndfield"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBvK48v92o",
+              "end": 126,
+              "expanded_url": "https://x.com/tsurugi______/status/2074833664962421061/photo/1",
+              "media_key": "3_2074833605596168192",
+              "start": 103,
+              "url": "https://t.co/tBvK48v92o"
+            },
+            {
+              "display_url": "pic.x.com/tBvK48v92o",
+              "end": 126,
+              "expanded_url": "https://x.com/tsurugi______/status/2074833664962421061/photo/1",
+              "media_key": "3_2074833605629820928",
+              "start": 103,
+              "url": "https://t.co/tBvK48v92o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074833664962421061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 13297,
+          "like_count": 480,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "喵屋家的女管 等了半年终于发货了 我等可都是望眼欲穿了\n）没想到上一条初投稿能有这么多流量以后也会尝试尽量多营业看看\n#cos #管理员 #明日方舟 #明日方舟终未地 #ArknightsEndfield https://t.co/tBvK48v92o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 446,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1982
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-21T11:36:39.000Z",
+        "description": "男的纯底边搞 cos 的｜随便玩玩而已啦｜各种 IP 都有看（笑）\nLanguages：中文◎ / English○ / 日本語◎",
+        "id": "834003897765081088",
+        "location": "Shanghai,China",
+        "name": "Tsurugi_ご飯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042204794333605888/xs8TUInX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1036,
+          "like_count": 99,
+          "listed_count": 7,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "tsurugi______",
+        "verified": false
+      }
+    ]
+  }
+}

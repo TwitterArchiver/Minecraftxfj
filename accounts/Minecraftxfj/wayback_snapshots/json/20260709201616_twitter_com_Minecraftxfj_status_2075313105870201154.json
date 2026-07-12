@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075089101846716789",
+    "created_at": "2026-07-09T20:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T21:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075313105870201154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2003036573907193856",
+          "start": 0,
+          "username": "N_and_ni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075313105870201154",
+    "in_reply_to_user_id": "2003036573907193856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075089101846716789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_and_ni I want to have full wall display，but it is expensive，I think I don't have enough money💔💔💔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075089093361651712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwyiT8b0AAgoju.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075089101846716789",
+        "created_at": "2026-07-09T20:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075313105870201154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2003036573907193856",
+              "start": 0,
+              "username": "N_and_ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075313105870201154",
+        "in_reply_to_user_id": "2003036573907193856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075089101846716789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_and_ni I want to have full wall display，but it is expensive，I think I don't have enough money💔💔💔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075089093361651712"
+          ]
+        },
+        "author_id": "2003036573907193856",
+        "conversation_id": "2075089101846716789",
+        "created_at": "2026-07-09T05:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075089101846716789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwJGEptekM",
+              "end": 144,
+              "expanded_url": "https://x.com/N_and_ni/status/2075089101846716789/photo/1",
+              "media_key": "3_2075089093361651712",
+              "start": 121,
+              "url": "https://t.co/iwJGEptekM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075089101846716789",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1741,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "How much screen is actually enough for vibe coding? 🤔\n\n▫️14\" ? ▫️15\" ? ▫️16\" ? ▫️Full wall display ?\n\nWhat's your setup? https://t.co/iwJGEptekM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 466,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T09:35:29.000Z",
+        "description": "Python | Java | Machine learning | Engineer Student",
+        "id": "2003036573907193856",
+        "location": "Delhi, India",
+        "name": "Nandini",
+        "pinned_tweet_id": "2074341099989258292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025864202649518080/Pw-iF8Ql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6555,
+          "following_count": 3691,
+          "like_count": 18582,
+          "listed_count": 7,
+          "media_count": 1085,
+          "tweet_count": 17585
+        },
+        "url": "",
+        "username": "N_and_ni",
+        "verified": true
+      }
+    ]
+  }
+}

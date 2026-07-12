@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074599511549259806",
+    "created_at": "2026-07-08T19:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T20:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074933635577528709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947116786643857408",
+          "start": 0,
+          "username": "luoyike2003"
+        },
+        {
+          "end": 25,
+          "id": "714356353087574016",
+          "start": 13,
+          "username": "clemmygames"
+        },
+        {
+          "end": 36,
+          "id": "836227025593491457",
+          "start": 26,
+          "username": "CChaBouzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074933635577528709",
+    "in_reply_to_user_id": "1947116786643857408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074921898341986346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoyike2003 @clemmygames @CChaBouzu 关注点错误"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074599511549259806",
+        "created_at": "2026-07-08T19:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074933635577528709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947116786643857408",
+              "start": 0,
+              "username": "luoyike2003"
+            },
+            {
+              "end": 25,
+              "id": "714356353087574016",
+              "start": 13,
+              "username": "clemmygames"
+            },
+            {
+              "end": 36,
+              "id": "836227025593491457",
+              "start": 26,
+              "username": "CChaBouzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074933635577528709",
+        "in_reply_to_user_id": "1947116786643857408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074921898341986346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoyike2003 @clemmygames @CChaBouzu 关注点错误"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947116786643857408",
+        "conversation_id": "2074599511549259806",
+        "created_at": "2026-07-08T18:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074921898341986346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "714356353087574016",
+              "start": 0,
+              "username": "clemmygames"
+            },
+            {
+              "end": 23,
+              "id": "836227025593491457",
+              "start": 13,
+              "username": "CChaBouzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074921898341986346",
+        "in_reply_to_user_id": "714356353087574016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074599511549259806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clemmygames @CChaBouzu 高手呀，这个弹道运算好丝滑……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 448,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-21T02:10:18.000Z",
+        "description": "🐱 掌管可爱暴躁法则的小火龙！\n⚖️ 近战小法务 → 偷偷爱上游戏圈的法律人\n165cm / 猫猫奴 / 游戏脑\n偶尔暴走但超爱撒娇，工作认真但下班全是废物模式\n欢迎宝贝们来唠嗑，超甜超有趣哦～\n聊天前先关注，不随便约！\n今天也在努力变得更可爱！₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1947116786643857408",
+        "location": "那维克",
+        "name": "洛一可🍥",
+        "pinned_tweet_id": "2063575828588552276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947591148782166016/RagPmesg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 83,
+          "like_count": 1316,
+          "listed_count": 9,
+          "media_count": 181,
+          "tweet_count": 2090
+        },
+        "url": "",
+        "username": "luoyike2003",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-28T07:40:01.000Z",
+        "description": "10 years on YouTube, 2700+ videos, 20000+ #indiegames | clement at https://t.co/Bhp2RN5a4N | #indiedev(s) reach out at https://t.co/uiwmJ7qGcy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 42,
+                "tag": "indiegames"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "tag": "indiedev"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "thebestindiegames.com",
+                "end": 90,
+                "expanded_url": "http://thebestindiegames.com",
+                "start": 67,
+                "url": "https://t.co/Bhp2RN5a4N"
+              },
+              {
+                "display_url": "thebestindiegames.com/contact",
+                "end": 142,
+                "expanded_url": "http://thebestindiegames.com/contact",
+                "start": 119,
+                "url": "https://t.co/uiwmJ7qGcy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/ClemmyGames",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/ClemmyGames",
+                "start": 0,
+                "url": "https://t.co/uQE4ecCVU4"
+              }
+            ]
+          }
+        },
+        "id": "714356353087574016",
+        "location": "Singapore",
+        "name": "Best Indie Games",
+        "pinned_tweet_id": "2072711771966566684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532048711982796800/o8ybHdzj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72512,
+          "following_count": 3728,
+          "like_count": 11163,
+          "listed_count": 398,
+          "media_count": 5659,
+          "tweet_count": 17023
+        },
+        "url": "https://t.co/uQE4ecCVU4",
+        "username": "clemmygames",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-27T14:50:34.000Z",
+        "description": "I'm an animator, I'm a game developer\n, I'm a handyman..... :D\n我是动画师、我是游戏制作、我是打杂的 :D\n\nhttps://t.co/4Ihyx3VgW0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/chachabozi",
+                "end": 109,
+                "expanded_url": "https://www.tumblr.com/chachabozi",
+                "start": 86,
+                "url": "https://t.co/4Ihyx3VgW0"
+              }
+            ]
+          }
+        },
+        "id": "836227025593491457",
+        "location": "中华人民共和国",
+        "name": "茶茶坊主",
+        "pinned_tweet_id": "1633849406029172736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/836228291681890305/8jHJWtIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13661,
+          "following_count": 1111,
+          "like_count": 30941,
+          "listed_count": 170,
+          "media_count": 291,
+          "tweet_count": 5096
+        },
+        "url": "",
+        "username": "CChaBouzu",
+        "verified": false
+      }
+    ]
+  }
+}

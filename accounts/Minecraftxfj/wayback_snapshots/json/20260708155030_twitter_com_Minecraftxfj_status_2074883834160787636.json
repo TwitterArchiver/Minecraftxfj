@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2074883834160787636",
+    "created_at": "2026-07-08T15:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074883834160787636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750423228173209600",
+          "start": 3,
+          "username": "BaoZiDaDa010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074883834160787636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074737993852809496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaoZiDaDa010: 看到一个bro在分享自己的AI开发游戏的经历：辛辛苦苦做了3个小游戏，只有200多个用户...\n\n所以我还是坚持我之前的观点：\n\n1、AI 只能放大已有认知，不能填补底层能力空白\n\n新手没有成熟的产品思维，就算快速产出 3 款游戏，也只是批量…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 449,
+        "media_key": "3_2074737984201777152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrzNEZbYAAdRoA.png",
+        "width": 398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074883834160787636",
+        "created_at": "2026-07-08T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074883834160787636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750423228173209600",
+              "start": 3,
+              "username": "BaoZiDaDa010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074883834160787636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074737993852809496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaoZiDaDa010: 看到一个bro在分享自己的AI开发游戏的经历：辛辛苦苦做了3个小游戏，只有200多个用户...\n\n所以我还是坚持我之前的观点：\n\n1、AI 只能放大已有认知，不能填补底层能力空白\n\n新手没有成熟的产品思维，就算快速产出 3 款游戏，也只是批量…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074737984201777152"
+          ]
+        },
+        "author_id": "1750423228173209600",
+        "conversation_id": "2074737993852809496",
+        "created_at": "2026-07-08T06:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074737993852809496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXG7yGQI0j",
+              "end": 179,
+              "expanded_url": "https://x.com/BaoZiDaDa010/status/2074737993852809496/photo/1",
+              "media_key": "3_2074737984201777152",
+              "start": 156,
+              "url": "https://t.co/tXG7yGQI0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074737993852809496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到一个bro在分享自己的AI开发游戏的经历：辛辛苦苦做了3个小游戏，只有200多个用户...\n\n所以我还是坚持我之前的观点：\n\n1、AI 只能放大已有认知，不能填补底层能力空白\n\n新手没有成熟的产品思维，就算快速产出 3 款游戏，也只是批量产出 “完成品”，而非具备吸引力的 “优质作品”\n\nAI 放大的只是 “快速做半成品” 的能力，却弥补不了产品底层缺陷。AI 本质是效率工具，而非创意、商业、运营的替代者\n\nAI 能一键做完游戏 = 能做出成功游戏！AI 可以补全代码、美术这类标准化执行工作，但游戏成功的核心门槛 ：市场洞察+玩法设计+用户留存+流量运营+社交裂变逻辑需要自身积累\n\n2、AI 简化了 “制作门槛”，却丝毫没降低 “成功门槛”\n\n游戏项目分为两大环节：生产环节和商业化环节\n\n生产：写代码 + 画素材 + 搭框架，AI 大幅降低难度，零基础也能快速产出 Demo、完整小游戏，普通人不用深耕数年技术就能上手\n\n但是AI 能帮你 “做出游戏”，但不能帮你想清楚谁会玩、怎么吸引玩家、如何留住用户。它只缩短了制作周期，却不会降低市场竞争、流量获取的难度商业化\n\n综上，理性看待AI的定位，善用而非迷信！！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到一个bro在分享自己的AI开发游戏的经历：辛辛苦苦做了3个小游戏，只有200多个用户...\n\n所以我还是坚持我之前的观点：\n\n1、AI 只能放大已有认知，不能填补底层能力空白\n\n新手没有成熟的产品思维，就算快速产出 3 款游戏，也只是批量产出 “完成品”，而非具备吸引力的 “优质作品”\n\nAI 放大的只是 https://t.co/tXG7yGQI0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 444,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T07:40:05.000Z",
+        "description": "🕸️Cyber | 🔭Tech | 🤖Game| 📖AI | 💎Crypto I 🔶Giggle Hero\n用系统设计视角，拆解 AI + Web3 的底层结构与机会",
+        "id": "1750423228173209600",
+        "location": "Singapore",
+        "name": "Jackie | Game严厉的父亲",
+        "pinned_tweet_id": "2051128568940564889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008169655207387136/CTsIIr8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3291,
+          "following_count": 3531,
+          "like_count": 5616,
+          "listed_count": 6,
+          "media_count": 1650,
+          "tweet_count": 13007
+        },
+        "url": "",
+        "username": "BaoZiDaDa010",
+        "verified": true
+      }
+    ]
+  }
+}

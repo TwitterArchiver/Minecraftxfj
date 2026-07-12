@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075047886652621101",
+    "created_at": "2026-07-09T20:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T21:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075310882310312250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959456446271377408",
+          "start": 0,
+          "username": "DeepStarts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075310882310312250",
+    "in_reply_to_user_id": "1959456446271377408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075047886652621101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeepStarts I think I don't have enough money......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2075047878159200256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwNDRWbcAAsJ5f.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075047886652621101",
+        "created_at": "2026-07-09T20:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075310882310312250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959456446271377408",
+              "start": 0,
+              "username": "DeepStarts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075310882310312250",
+        "in_reply_to_user_id": "1959456446271377408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075047886652621101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeepStarts I think I don't have enough money......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075047878159200256"
+          ]
+        },
+        "author_id": "1959456446271377408",
+        "conversation_id": "2075047886652621101",
+        "created_at": "2026-07-09T02:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075047886652621101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eo1O43102w",
+              "end": 66,
+              "expanded_url": "https://x.com/DeepStarts/status/2075047886652621101/photo/1",
+              "media_key": "3_2075047878159200256",
+              "start": 43,
+              "url": "https://t.co/eo1O43102w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075047886652621101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3949,
+          "like_count": 107,
+          "quote_count": 3,
+          "reply_count": 110,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "What’s stopping you from coding like this: https://t.co/eo1O43102w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 466,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-24T03:23:55.000Z",
+        "description": "20. Developer. @ Intern x4. l Dm for collab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mandeepn.vercel.app",
+                "end": 23,
+                "expanded_url": "https://mandeepn.vercel.app",
+                "start": 0,
+                "url": "https://t.co/si893z7KIB"
+              }
+            ]
+          }
+        },
+        "id": "1959456446271377408",
+        "location": "Neptune",
+        "name": "Deep",
+        "pinned_tweet_id": "2075080197347656096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051670138920062977/5fKtYpm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6124,
+          "following_count": 2163,
+          "like_count": 21012,
+          "listed_count": 16,
+          "media_count": 1134,
+          "tweet_count": 17482
+        },
+        "url": "https://t.co/si893z7KIB",
+        "username": "DeepStarts",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075240182358638784",
+    "created_at": "2026-07-09T19:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T20:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075294646956445756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1529411704890789889",
+          "start": 0,
+          "username": "idtNothinglose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075294646956445756",
+    "in_reply_to_user_id": "1529411704890789889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075240182358638784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idtNothinglose 这真好看吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5153,
+        "height": 3840,
+        "media_key": "13_2075240093913391104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075240093913391104/img/hGZ9xapWbN-1uDCE.jpg",
+        "public_metrics": {
+          "view_count": 3535
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075240093913391104/vid/avc1/720x1280/3kDQ01ZEuij_9lHi.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075240093913391104/vid/avc1/320x568/zp4G8tVw-C2sDFzm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075240093913391104/vid/avc1/480x852/6vwCwWhh9j1Nc07J.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075240093913391104/vid/avc1/2160x3840/i4Hw-V92tYmIal6B.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075240093913391104/vid/avc1/1080x1920/cQ-AZ5pualdXUZf_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075240093913391104/pl/a_1v28GOgK0sBa0Z.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075240182358638784",
+        "created_at": "2026-07-09T19:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075294646956445756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529411704890789889",
+              "start": 0,
+              "username": "idtNothinglose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075294646956445756",
+        "in_reply_to_user_id": "1529411704890789889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075240182358638784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idtNothinglose 这真好看吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075240093913391104"
+          ]
+        },
+        "author_id": "1529411704890789889",
+        "conversation_id": "2075240182358638784",
+        "created_at": "2026-07-09T15:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075240182358638784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 14,
+              "tag": "ArknightsEndfield‌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9r6wQqruS",
+              "end": 57,
+              "expanded_url": "https://x.com/idtNothinglose/status/2075240182358638784/video/1",
+              "media_key": "13_2075240093913391104",
+              "start": 34,
+              "url": "https://t.co/L9r6wQqruS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075240182358638784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 13194,
+          "like_count": 976,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "耍帥中。。。\n⚠️音量注意\n#ArknightsEndfield‌ https://t.co/L9r6wQqruS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 466,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-25T10:39:13.000Z",
+        "description": "cosplayer💕サブ/sub→@Gu_aoyishi, 支援/support→https://t.co/ZlNc4piWAh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Gu_aoyishi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/idtnothinglose",
+                "end": 64,
+                "expanded_url": "http://lit.link/idtnothinglose",
+                "start": 41,
+                "url": "https://t.co/ZlNc4piWAh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Reng115",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Reng115",
+                "start": 0,
+                "url": "https://t.co/JVXj3a0s54"
+              }
+            ]
+          }
+        },
+        "id": "1529411704890789889",
+        "name": "reng",
+        "pinned_tweet_id": "2047714337310363936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053093503727710208/ysV7kKXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218526,
+          "following_count": 1283,
+          "like_count": 6945,
+          "listed_count": 850,
+          "media_count": 473,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/JVXj3a0s54",
+        "username": "idtNothinglose",
+        "verified": true
+      }
+    ]
+  }
+}
