@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076698172320088317",
+    "created_at": "2026-07-13T17:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076723038125744327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712792106572644352",
+          "start": 0,
+          "username": "yukine_hkkig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076723038125744327",
+    "in_reply_to_user_id": "1712792106572644352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076698172320088317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukine_hkkig 这玩意不是把脑袋割下来然后插回茎杆上的吗🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13966,
+        "height": 3840,
+        "media_key": "13_2075184523671924736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075184523671924736/img/ZiaiI5LtncBikAkc.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075184523671924736/vid/avc1/1080x1920/pFLepVwWsBnz-xF7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075184523671924736/pl/T0qqUiKxaRp02Tif.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075184523671924736/vid/avc1/480x852/5NxPsxsbsyBhOmSZ.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075184523671924736/vid/avc1/2160x3840/jTRJpeUK37mDtf9f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075184523671924736/vid/avc1/720x1280/LOh-DRZO41vrpxtZ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075184523671924736/vid/avc1/320x568/nHsosps-E3odhFe2.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076698172320088317",
+        "created_at": "2026-07-13T17:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076723038125744327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712792106572644352",
+              "start": 0,
+              "username": "yukine_hkkig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076723038125744327",
+        "in_reply_to_user_id": "1712792106572644352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076698172320088317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukine_hkkig 这玩意不是把脑袋割下来然后插回茎杆上的吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075184523671924736"
+          ]
+        },
+        "author_id": "1712792106572644352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2076698172320088317",
+        "created_at": "2026-07-13T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076698172320088317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "vocaloid"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "ひまわり"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "ヒマワリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fA7Z9XSMR8",
+              "end": 64,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2076698172320088317/video/1",
+              "media_key": "13_2075184523671924736",
+              "start": 41,
+              "url": "https://t.co/fA7Z9XSMR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076698172320088317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 302,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "剪向日葵 🌻\n#着ぐるみ #初音ミク #vocaloid #ひまわり #ヒマワリ https://t.co/fA7Z9XSMR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 606,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T11:29:23.000Z",
+        "description": "來自香港🇭🇰的Kiger，偶爾會去其他地方的活動，最喜愛初音ミク，會不定時出現在event上(*≧∀≦*) DM📩 yukinehkkig@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hatsunemiku_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hatsunemiku_kig",
+                "start": 0,
+                "url": "https://t.co/GPYcotVSaG"
+              }
+            ]
+          }
+        },
+        "id": "1712792106572644352",
+        "location": "香港",
+        "name": "雪音",
+        "pinned_tweet_id": "1896542971069419780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799640807101935616/4maD5Pvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5360,
+          "following_count": 703,
+          "like_count": 12003,
+          "listed_count": 28,
+          "media_count": 1293,
+          "tweet_count": 8711
+        },
+        "url": "https://t.co/GPYcotVSaG",
+        "username": "yukine_hkkig",
+        "verified": true
+      }
+    ]
+  }
+}

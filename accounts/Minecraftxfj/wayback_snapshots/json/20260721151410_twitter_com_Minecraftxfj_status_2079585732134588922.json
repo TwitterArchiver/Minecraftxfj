@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2079560242262684150",
+    "created_at": "2026-07-21T15:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079585732134588922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079585732134588922",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079560242262684150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 越用越顺手其实（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079560242262684150",
+        "created_at": "2026-07-21T15:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079585732134588922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079585732134588922",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079560242262684150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 越用越顺手其实（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2079560242262684150",
+        "created_at": "2026-07-21T13:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079560242262684150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079560242262684150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于「Arch Linux」，我的建议是刚入门Linux的暂且不要轻易尝试这个，真的没那么好用……在虚拟机里装了一个，我要炸了😵\n\n还是Debian、Fedora这些发行版对我好🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 699,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 3389
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 581,
+          "like_count": 1941,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 2737
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

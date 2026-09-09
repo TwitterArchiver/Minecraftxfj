@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2079895794996662643",
+    "created_at": "2026-07-22T13:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079916289758540015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678244396805009408",
+          "start": 0,
+          "username": "Ariakage_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079916289758540015",
+    "in_reply_to_user_id": "1678244396805009408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079895794996662643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariakage_ 还有叫原神的 AI 产品（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079895773739921408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1GL7uasAAf2oN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079895774444580864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1GL-Wa8AAZrkO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079895773710569473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1GL7na0AEXfWo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079895774419447808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1GL-QbcAAU-aO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2079895794996662643",
+        "created_at": "2026-07-22T13:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079916289758540015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678244396805009408",
+              "start": 0,
+              "username": "Ariakage_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079916289758540015",
+        "in_reply_to_user_id": "1678244396805009408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079895794996662643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariakage_ 还有叫原神的 AI 产品（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079895773739921408",
+            "3_2079895774444580864",
+            "3_2079895773710569473",
+            "3_2079895774419447808"
+          ]
+        },
+        "author_id": "1678244396805009408",
+        "conversation_id": "2079895794996662643",
+        "created_at": "2026-07-22T11:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079895794996662643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLKluppvxv",
+              "end": 50,
+              "expanded_url": "https://x.com/Ariakage_/status/2079895794996662643/photo/1",
+              "media_key": "3_2079895773739921408",
+              "start": 27,
+              "url": "https://t.co/bLKluppvxv"
+            },
+            {
+              "display_url": "pic.x.com/bLKluppvxv",
+              "end": 50,
+              "expanded_url": "https://x.com/Ariakage_/status/2079895794996662643/photo/1",
+              "media_key": "3_2079895774444580864",
+              "start": 27,
+              "url": "https://t.co/bLKluppvxv"
+            },
+            {
+              "display_url": "pic.x.com/bLKluppvxv",
+              "end": 50,
+              "expanded_url": "https://x.com/Ariakage_/status/2079895794996662643/photo/1",
+              "media_key": "3_2079895773710569473",
+              "start": 27,
+              "url": "https://t.co/bLKluppvxv"
+            },
+            {
+              "display_url": "pic.x.com/bLKluppvxv",
+              "end": 50,
+              "expanded_url": "https://x.com/Ariakage_/status/2079895794996662643/photo/1",
+              "media_key": "3_2079895774419447808",
+              "start": 27,
+              "url": "https://t.co/bLKluppvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079895794996662643",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AdventureX is all you need https://t.co/bLKluppvxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 108,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 719,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-10T03:27:10.000Z",
+        "description": "你好，我是来自杭州的高中生咏影Ariakage（INFP-T 🏳️‍⚧️MtX） 热爱并热衷 摄影 | 人文 | AI | VibeCoding | Hackathon.... |语言：中文/English 🌍 欢迎互动",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ariakage.github.io",
+                "end": 23,
+                "expanded_url": "http://ariakage.github.io",
+                "start": 0,
+                "url": "https://t.co/s0l2lQHqcV"
+              }
+            ]
+          }
+        },
+        "id": "1678244396805009408",
+        "location": "浙江, 中华人民共和国",
+        "name": "咏影 Ariakage",
+        "pinned_tweet_id": "2076557866597781852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002913060810596353/zTNgtqlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 440,
+          "like_count": 13502,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/s0l2lQHqcV",
+        "username": "Ariakage_",
+        "verified": true
+      }
+    ]
+  }
+}

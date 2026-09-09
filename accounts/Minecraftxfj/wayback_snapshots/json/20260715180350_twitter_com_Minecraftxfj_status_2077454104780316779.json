@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2077203462379696486",
+    "created_at": "2026-07-15T18:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T19:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077454104780316779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831384254909181955",
+          "start": 0,
+          "username": "tnglngx480156"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077454104780316779",
+    "in_reply_to_user_id": "1831384254909181955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077203462379696486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tnglngx480156 未曾设想的道路🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36766,
+        "height": 880,
+        "media_key": "13_2077201904031924224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077201904031924224/img/t24d8hSaE_XG-WNJ.jpg",
+        "public_metrics": {
+          "view_count": 1538668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077201904031924224/vid/avc1/320x520/_DBKOfbwTqX7Tu1N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077201904031924224/vid/avc1/480x782/okKHCA2qQ3cjmQ15.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077201904031924224/vid/avc1/540x880/NfSxSjAHFzpWG_hS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077201904031924224/pl/e1gXEHnJ6O0EDzoY.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2077203462379696486",
+        "created_at": "2026-07-15T18:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077454104780316779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831384254909181955",
+              "start": 0,
+              "username": "tnglngx480156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077454104780316779",
+        "in_reply_to_user_id": "1831384254909181955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077203462379696486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnglngx480156 未曾设想的道路🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077201904031924224"
+          ]
+        },
+        "author_id": "1831384254909181955",
+        "conversation_id": "2077203462379696486",
+        "created_at": "2026-07-15T01:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077203462379696486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdGIu7oANx",
+              "end": 95,
+              "expanded_url": "https://x.com/tnglngx480156/status/2077203462379696486/video/1",
+              "media_key": "13_2077201904031924224",
+              "start": 72,
+              "url": "https://t.co/CdGIu7oANx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077203462379696486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10127,
+          "impression_count": 2887938,
+          "like_count": 15764,
+          "quote_count": 139,
+          "reply_count": 400,
+          "retweet_count": 799
+        },
+        "reply_settings": "everyone",
+        "text": "上中学的时候，物理老师说的：“盆里滴几滴纯蓝墨水，把洗干净的白衣服放进去漂一下拿出来就可以了，”这些年我一直都是这么做的，白衣服就像新的一样！ https://t.co/CdGIu7oANx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 614,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 2794
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T17:30:24.000Z",
+        "description": "Ordinary girl, love to travel, like to share their daily life, welcome everyone to pay attention to me。",
+        "id": "1831384254909181955",
+        "location": "Northwest，China",
+        "name": "Melody",
+        "pinned_tweet_id": "2077203462379696486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833814119251898368/LuTe-8S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18983,
+          "following_count": 7594,
+          "like_count": 62318,
+          "listed_count": 31,
+          "media_count": 3036,
+          "tweet_count": 11213
+        },
+        "url": "",
+        "username": "tnglngx480156",
+        "verified": true
+      }
+    ]
+  }
+}

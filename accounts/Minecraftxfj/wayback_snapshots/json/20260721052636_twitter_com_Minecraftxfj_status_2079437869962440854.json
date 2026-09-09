@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2079388183352201252",
+    "created_at": "2026-07-21T05:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079437869962440854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079437869962440854",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079388183352201252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime RM 新 Note 那个和银联的 NFC 防护功能灰度下放（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2079,
+        "media_key": "3_2079387823027970048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt4NT3a4AAA779.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1012,
+        "media_key": "3_2079387823036383232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt4NT5bQAADYqf.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079388183352201252",
+        "created_at": "2026-07-21T05:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079437869962440854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079437869962440854",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079388183352201252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime RM 新 Note 那个和银联的 NFC 防护功能灰度下放（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079387823027970048",
+            "3_2079387823036383232"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          }
+        ],
+        "conversation_id": "2079388183352201252",
+        "created_at": "2026-07-21T02:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079388183352201252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMzhOc7M7b",
+              "end": 90,
+              "expanded_url": "https://x.com/realNyarime/status/2079388183352201252/photo/1",
+              "media_key": "3_2079387823027970048",
+              "start": 67,
+              "url": "https://t.co/NMzhOc7M7b"
+            },
+            {
+              "display_url": "pic.x.com/NMzhOc7M7b",
+              "end": 90,
+              "expanded_url": "https://x.com/realNyarime/status/2079388183352201252/photo/1",
+              "media_key": "3_2079387823036383232",
+              "start": 67,
+              "url": "https://t.co/NMzhOc7M7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079388183352201252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 18677,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谨慎更新HyperOS（小米澎湃系统），更新后Google Pay（谷歌钱包）无法选中，与此前「通行密钥」一样专门恶心小米、红米用户 https://t.co/NMzhOc7M7b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 692,
+          "like_count": 187,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 3348
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40511,
+          "following_count": 663,
+          "like_count": 19839,
+          "listed_count": 186,
+          "media_count": 2420,
+          "tweet_count": 16726
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

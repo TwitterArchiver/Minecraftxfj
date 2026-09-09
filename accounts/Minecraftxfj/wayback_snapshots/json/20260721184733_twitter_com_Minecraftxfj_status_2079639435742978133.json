@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2079576532247576986",
+    "created_at": "2026-07-21T18:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079639435742978133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1995094890263560192",
+          "start": 0,
+          "username": "CYX3212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079639435742978133",
+    "in_reply_to_user_id": "1995094890263560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079576532247576986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYX3212 这是哪里🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079576521401155584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwj1AFbwAANyYk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079576521384341505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwj1ABbMAEqIcP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079576521396846592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwj1AEaAAAiRve.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079576521392668672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwj1ADaQAAtNv0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079576532247576986",
+        "created_at": "2026-07-21T18:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079639435742978133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1995094890263560192",
+              "start": 0,
+              "username": "CYX3212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079639435742978133",
+        "in_reply_to_user_id": "1995094890263560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079576532247576986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYX3212 这是哪里🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079576521401155584",
+            "3_2079576521384341505",
+            "3_2079576521396846592",
+            "3_2079576521392668672"
+          ]
+        },
+        "author_id": "1995094890263560192",
+        "conversation_id": "2079576532247576986",
+        "created_at": "2026-07-21T14:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079576532247576986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q58Geb0aLb",
+              "end": 67,
+              "expanded_url": "https://x.com/CYX3212/status/2079576532247576986/photo/1",
+              "media_key": "3_2079576521401155584",
+              "start": 44,
+              "url": "https://t.co/q58Geb0aLb"
+            },
+            {
+              "display_url": "pic.x.com/q58Geb0aLb",
+              "end": 67,
+              "expanded_url": "https://x.com/CYX3212/status/2079576532247576986/photo/1",
+              "media_key": "3_2079576521384341505",
+              "start": 44,
+              "url": "https://t.co/q58Geb0aLb"
+            },
+            {
+              "display_url": "pic.x.com/q58Geb0aLb",
+              "end": 67,
+              "expanded_url": "https://x.com/CYX3212/status/2079576532247576986/photo/1",
+              "media_key": "3_2079576521396846592",
+              "start": 44,
+              "url": "https://t.co/q58Geb0aLb"
+            },
+            {
+              "display_url": "pic.x.com/q58Geb0aLb",
+              "end": 67,
+              "expanded_url": "https://x.com/CYX3212/status/2079576532247576986/photo/1",
+              "media_key": "3_2079576521392668672",
+              "start": 44,
+              "url": "https://t.co/q58Geb0aLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079576532247576986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊……看来这是第一条贴文呢，发点什么好呢？\n最近回了东北老家，分享一些拍的照片叭QAQ https://t.co/q58Geb0aLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 702,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3407
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T11:37:51.000Z",
+        "description": "算是新人叭，单纯是因为好玩才在名字上挂着这个东西，不接受辱华行为，友跨，然后也是铁道迷……总之欢迎交友及友好交流喔～\n也可以添加我的QQ：1665973104",
+        "id": "1995094890263560192",
+        "location": "沉溺于自己的虚拟小窝里",
+        "name": "计算姬3212🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995095129351393280/cJydTsTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "CYX3212",
+        "verified": false
+      }
+    ]
+  }
+}

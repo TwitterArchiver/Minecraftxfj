@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085439492643770476",
+    "created_at": "2026-08-07T20:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085820316430094530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271295081144696833",
+          "start": 0,
+          "username": "Hyperglycemia26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085820316430094530",
+    "in_reply_to_user_id": "1271295081144696833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085439492643770476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hyperglycemia26 你等等你等等，雌二醇打成群勃龙了吧诶！😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2085439483638669312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPD4KUbbYAAIBLm.jpg",
+        "width": 1161
+      },
+      {
+        "height": 975,
+        "media_key": "3_2085439483684818944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPD4KUmbkAATrg0.jpg",
+        "width": 757
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085439492643770476",
+        "created_at": "2026-08-07T20:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085820316430094530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271295081144696833",
+              "start": 0,
+              "username": "Hyperglycemia26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085820316430094530",
+        "in_reply_to_user_id": "1271295081144696833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085439492643770476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hyperglycemia26 你等等你等等，雌二醇打成群勃龙了吧诶！😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085439483638669312",
+            "3_2085439483684818944"
+          ]
+        },
+        "author_id": "1271295081144696833",
+        "conversation_id": "2085439492643770476",
+        "created_at": "2026-08-06T18:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085439492643770476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqxSfsibJZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Hyperglycemia26/status/2085439492643770476/photo/1",
+              "media_key": "3_2085439483638669312",
+              "start": 39,
+              "url": "https://t.co/cqxSfsibJZ"
+            },
+            {
+              "display_url": "pic.x.com/cqxSfsibJZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Hyperglycemia26/status/2085439492643770476/photo/1",
+              "media_key": "3_2085439483684818944",
+              "start": 39,
+              "url": "https://t.co/cqxSfsibJZ"
+            },
+            {
+              "display_url": "x.com/laji49041/stat…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/laji49041/status/2084970263683436888",
+              "start": 63,
+              "url": "https://t.co/wpydAsn5eE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085439492643770476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6747,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084970263683436888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想来，我以前是个瞎几把练的毛睿\n为什么hrt快一千天了，肌肉还是下不去😭😭😭 https://t.co/cqxSfsibJZ https://t.co/wpydAsn5eE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 1242,
+          "like_count": 527,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 4600
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-12T04:15:49.000Z",
+        "description": "批判性使用雌激素的97年友跨顺男 hrt2023.11.28 117.5kg→65kg→83kg→80kg→74.2kg减肥中。 不踩雷的都会回fo哟 ❤@Hosiren1999 2024.7.8 日本語オッケー👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Hosiren1999"
+              }
+            ]
+          }
+        },
+        "id": "1271295081144696833",
+        "location": "宛平南路600号",
+        "name": "Shizumi",
+        "pinned_tweet_id": "2041446729372074207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001932115953512448/5RUN53t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 1597,
+          "like_count": 5106,
+          "listed_count": 7,
+          "media_count": 1097,
+          "tweet_count": 4586
+        },
+        "url": "",
+        "username": "Hyperglycemia26",
+        "verified": false
+      }
+    ]
+  }
+}

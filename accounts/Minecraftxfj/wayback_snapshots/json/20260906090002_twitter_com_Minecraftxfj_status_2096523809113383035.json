@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096433454623981568",
+        "3_2096433454640766976"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096523809113383035",
+    "created_at": "2026-09-06T09:00:02.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096523809113383035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OOxrIkMgbM",
+          "end": 37,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2096523809113383035/photo/1",
+          "media_key": "3_2096433454623981568",
+          "start": 14,
+          "url": "https://t.co/OOxrIkMgbM"
+        },
+        {
+          "display_url": "pic.x.com/OOxrIkMgbM",
+          "end": 37,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2096523809113383035/photo/1",
+          "media_key": "3_2096433454640766976",
+          "start": 14,
+          "url": "https://t.co/OOxrIkMgbM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096523809113383035",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096433454623981568"
+      },
+      {
+        "media_key": "3_2096433454640766976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们是，终末地工业🫡🫡🤫🤫 https://t.co/OOxrIkMgbM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3059,
+        "media_key": "3_2096433454623981568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgHHp4bgAAkuQy.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1185,
+        "media_key": "3_2096433454640766976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgHHp8boAAyQA8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096433454623981568",
+            "3_2096433454640766976"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096523809113383035",
+        "created_at": "2026-09-06T09:00:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096523809113383035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOxrIkMgbM",
+              "end": 37,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2096523809113383035/photo/1",
+              "media_key": "3_2096433454623981568",
+              "start": 14,
+              "url": "https://t.co/OOxrIkMgbM"
+            },
+            {
+              "display_url": "pic.x.com/OOxrIkMgbM",
+              "end": 37,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2096523809113383035/photo/1",
+              "media_key": "3_2096433454640766976",
+              "start": 14,
+              "url": "https://t.co/OOxrIkMgbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096523809113383035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096433454623981568"
+          },
+          {
+            "media_key": "3_2096433454640766976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们是，终末地工业🫡🫡🤫🤫 https://t.co/OOxrIkMgbM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096523809113383035",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1446,
+          "like_count": 2846,
+          "listed_count": 3,
+          "media_count": 652,
+          "tweet_count": 6564
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

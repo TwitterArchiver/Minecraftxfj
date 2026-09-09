@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2078872060374520242",
+    "created_at": "2026-07-20T04:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079066531053687050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079066531053687050",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078872060374520242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 原！神！启！动！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078869359280500736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmgqv5bsAAnxx8.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078869359293046784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmgqv8bIAA_v42.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2078872060374520242",
+        "created_at": "2026-07-20T04:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079066531053687050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079066531053687050",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078872060374520242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 原！神！启！动！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078869359280500736",
+            "3_2078869359293046784"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078872060374520242",
+        "created_at": "2026-07-19T15:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:47:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078869367270645904",
+          "2078872060374520242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOR5eAbzv4",
+              "end": 60,
+              "expanded_url": "https://x.com/quasarne/status/2078872060374520242/photo/1",
+              "media_key": "3_2078869359280500736",
+              "start": 37,
+              "url": "https://t.co/eOR5eAbzv4"
+            },
+            {
+              "display_url": "pic.x.com/eOR5eAbzv4",
+              "end": 60,
+              "expanded_url": "https://x.com/quasarne/status/2078872060374520242/photo/1",
+              "media_key": "3_2078869359293046784",
+              "start": 37,
+              "url": "https://t.co/eOR5eAbzv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078872060374520242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2003,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星ない换新手机了\n可以推荐几个3A大作让祂的A19 Pro酣畅淋漓一场吗 https://t.co/eOR5eAbzv4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 664,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 3268
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "想留德…｜數碼/科幻/政治/语言学趣味 Wikier 绝望的商科牲｜🚩◼️🌹自意社｜éla 🏳️‍🌈gay/pan🏳️‍⚧️｜🌐漢(吴/普)/English｜社恐，但欢迎来聊天（真的）｜安人Alt @JunenKim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "JunenKim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZkgxPtV5OpVmO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZkgxPtV5OpVmOTU1",
+                "start": 0,
+                "url": "https://t.co/xRff4RTd9x"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2078116801129410562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077557118744530944/DVZyIeFB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1144,
+          "like_count": 85432,
+          "listed_count": 6,
+          "media_count": 1502,
+          "tweet_count": 19089
+        },
+        "url": "https://t.co/xRff4RTd9x",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

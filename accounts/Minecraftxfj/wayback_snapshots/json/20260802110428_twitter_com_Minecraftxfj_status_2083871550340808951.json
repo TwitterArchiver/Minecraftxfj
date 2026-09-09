@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2083850115425689948",
+    "created_at": "2026-08-02T11:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083871550340808951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1280874385142759425",
+          "start": 0,
+          "username": "ttyjio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083871550340808951",
+    "in_reply_to_user_id": "1280874385142759425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083850115425689948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttyjio 这不就学步车吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2083850089320357888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtSnZMbIAA-__l.png",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2083850089240621056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtSnY5acAABDCM.png",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2083850089228103680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtSnY2bcAAWxxg.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2083850115425689948",
+        "created_at": "2026-08-02T11:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083871550340808951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1280874385142759425",
+              "start": 0,
+              "username": "ttyjio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083871550340808951",
+        "in_reply_to_user_id": "1280874385142759425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083850115425689948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttyjio 这不就学步车吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083850089320357888",
+            "3_2083850089240621056",
+            "3_2083850089228103680"
+          ]
+        },
+        "author_id": "1280874385142759425",
+        "conversation_id": "2083850115425689948",
+        "created_at": "2026-08-02T09:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083850115425689948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyZeK5VssF",
+              "end": 150,
+              "expanded_url": "https://x.com/ttyjio/status/2083850115425689948/photo/1",
+              "media_key": "3_2083850089320357888",
+              "start": 127,
+              "url": "https://t.co/qyZeK5VssF"
+            },
+            {
+              "display_url": "pic.x.com/qyZeK5VssF",
+              "end": 150,
+              "expanded_url": "https://x.com/ttyjio/status/2083850115425689948/photo/1",
+              "media_key": "3_2083850089240621056",
+              "start": 127,
+              "url": "https://t.co/qyZeK5VssF"
+            },
+            {
+              "display_url": "pic.x.com/qyZeK5VssF",
+              "end": 150,
+              "expanded_url": "https://x.com/ttyjio/status/2083850115425689948/photo/1",
+              "media_key": "3_2083850089228103680",
+              "start": 127,
+              "url": "https://t.co/qyZeK5VssF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083850115425689948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特斯拉在官网上推出了一款儿童自行车，售价225美元。\n\n它的车型设计很独特，没有踏板，据说会自己保持平衡。\n\n它看上去似乎不含电池，那样的话，难道全靠双脚蹬地驱动，或者只是一个不能骑行的摆设？\n\n不管怎么说，它的样子让人眼前一亮，很有特斯拉早期的感觉。 https://t.co/qyZeK5VssF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 903,
+          "like_count": 337,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 4004
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-08T14:42:07.000Z",
+        "description": "分享免费工具、开源软件、AI 工具和效率应用\n每天整理一个实用资源",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fvvvvvvp.top",
+                "end": 23,
+                "expanded_url": "https://fvvvvvvp.top",
+                "start": 0,
+                "url": "https://t.co/UTggctYxUZ"
+              }
+            ]
+          }
+        },
+        "id": "1280874385142759425",
+        "location": "Hong Kong",
+        "name": "fvvvvvvp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069641075531108352/7Gl9upUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 1353,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/UTggctYxUZ",
+        "username": "ttyjio",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076031487116497390",
+    "created_at": "2026-07-11T20:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T21:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076038622583931239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1471837590768603136",
+          "start": 0,
+          "username": "daanawa"
+        },
+        {
+          "end": 20,
+          "id": "2057835711458693120",
+          "start": 9,
+          "username": "TransPrism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076038622583931239",
+    "in_reply_to_user_id": "1471837590768603136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076037687010885807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daanawa @TransPrism 美国作息🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076031487116497390",
+        "created_at": "2026-07-11T20:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076038622583931239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1471837590768603136",
+              "start": 0,
+              "username": "daanawa"
+            },
+            {
+              "end": 20,
+              "id": "2057835711458693120",
+              "start": 9,
+              "username": "TransPrism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076038622583931239",
+        "in_reply_to_user_id": "1471837590768603136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076037687010885807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daanawa @TransPrism 美国作息🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471837590768603136",
+        "conversation_id": "2076031487116497390",
+        "created_at": "2026-07-11T20:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076037687010885807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            },
+            {
+              "end": 25,
+              "id": "2057835711458693120",
+              "start": 14,
+              "username": "TransPrism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076037687010885807",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076037334727098674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj @TransPrism 对的对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 513,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2412
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-17T13:40:08.000Z",
+        "description": "没有特定中文名，可以叫我大安，或者是答案 :D\n📍 坐标北京 | 08年 高三 (G12)\n🏳️‍⚧️ MtF | 阻断 23.2.6 / HRT 24.8.28\n📏 163cm / 48kg | 🍬 持证含糖\n📝 拿着医嘱还不听的家伙\n🗣️ 交流: CN + EN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.chengxi.online",
+                "end": 23,
+                "expanded_url": "https://blog.chengxi.online/",
+                "start": 0,
+                "url": "https://t.co/XRhntlrCJf"
+              }
+            ]
+          }
+        },
+        "id": "1471837590768603136",
+        "location": "Beijing",
+        "name": "大安/daan🏳️‍⚧️",
+        "pinned_tweet_id": "2062834503782195693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588568706505838592/oXU-iaRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 437,
+          "like_count": 1209,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/XRhntlrCJf",
+        "username": "daanawa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T14:48:25.000Z",
+        "description": "专为跨性别群体（Transgender）打造的极简、安全、双擎驱动的实用工具箱。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/daanser/Trans-…",
+                "end": 23,
+                "expanded_url": "https://github.com/daanser/Trans-Prism",
+                "start": 0,
+                "url": "https://t.co/XqPOPH35mX"
+              }
+            ]
+          }
+        },
+        "id": "2057835711458693120",
+        "name": "Trans Prism",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057928403886743553/weZYqjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/XqPOPH35mX",
+        "username": "TransPrism",
+        "verified": false
+      }
+    ]
+  }
+}

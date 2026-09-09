@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2087253069310669176",
+    "created_at": "2026-08-12T05:37:38.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087413179420995596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2076841557802864640",
+          "start": 0,
+          "username": "kuukiwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087413179420995596",
+    "in_reply_to_user_id": "2076841557802864640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087253069310669176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwtf 谁把我疼痛共享开了😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21595,
+        "height": 2340,
+        "media_key": "13_2087252929820647424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087252929820647424/img/NnWBTBUH_w1GD1kB.jpg",
+        "public_metrics": {
+          "view_count": 43746
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087252929820647424/vid/avc1/720x1560/kcqzvtypY-z_HGXD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087252929820647424/vid/avc1/480x1040/2rtlUIO8PL3ihz4b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087252929820647424/pl/FISMSf64FuKPbKAz.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087252929820647424/vid/avc1/320x692/u4tKdg9UQn_JAMEm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087252929820647424/vid/avc1/1080x2340/YOX5Lxet6EtjO2Ua.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2087253069310669176",
+        "created_at": "2026-08-12T05:37:38.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087413179420995596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087413179420995596",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087253069310669176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 谁把我疼痛共享开了😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087252929820647424"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087253069310669176",
+        "created_at": "2026-08-11T19:01:25.000Z",
+        "display_text_range": [
+          0,
+          186
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087253069310669176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Y3vtyYGUB",
+              "end": 210,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087253069310669176/video/1",
+              "media_key": "13_2087252929820647424",
+              "start": 187,
+              "url": "https://t.co/0Y3vtyYGUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087253069310669176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087252929820647424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "阿\nall fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 746,
+          "impression_count": 57449,
+          "like_count": 4149,
+          "quote_count": 20,
+          "reply_count": 27,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "阿\nall fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE https://t.co/0Y3vtyYGUB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2087413179420995596",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 1349,
+          "like_count": 853,
+          "listed_count": 2,
+          "media_count": 491,
+          "tweet_count": 5074
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087412021352378605",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 619,
+          "like_count": 10650,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

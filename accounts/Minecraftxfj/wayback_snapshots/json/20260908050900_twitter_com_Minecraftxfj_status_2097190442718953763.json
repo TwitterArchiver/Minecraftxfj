@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097069685044912128"
+      ],
+      "media_source_tweet_id": [
+        "2097069690778436074"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Breaking News",
+          "id": "1047084549396549632",
+          "name": "Ongoing news stories"
+        }
+      }
+    ],
+    "conversation_id": "2097190442718953763",
+    "created_at": "2026-09-08T05:09:00.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097190442718953763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhVU0Cei6m",
+          "end": 55,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2097069690778436074/photo/1",
+          "media_key": "3_2097069685044912128",
+          "start": 32,
+          "url": "https://t.co/dhVU0Cei6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097190442718953763",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097069685044912128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097069690778436074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: BREAKING NEWS: https://t.co/dhVU0Cei6m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 894,
+        "media_key": "3_2097069685044912128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpJxI5XoAAWmn5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097069685044912128"
+          ],
+          "media_source_tweet_id": [
+            "2097069690778436074"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2097190442718953763",
+        "created_at": "2026-09-08T05:09:00.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097190442718953763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhVU0Cei6m",
+              "end": 55,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2097069690778436074/photo/1",
+              "media_key": "3_2097069685044912128",
+              "start": 32,
+              "url": "https://t.co/dhVU0Cei6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097190442718953763",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097069685044912128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097069690778436074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: BREAKING NEWS: https://t.co/dhVU0Cei6m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097069685044912128"
+          ]
+        },
+        "author_id": "205565258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097069690778436074",
+        "created_at": "2026-09-07T21:09:10.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097069690778436074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhVU0Cei6m",
+              "end": 38,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2097069690778436074/photo/1",
+              "media_key": "3_2097069685044912128",
+              "start": 15,
+              "url": "https://t.co/dhVU0Cei6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097069690778436074",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097069685044912128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 20973,
+          "like_count": 3343,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING NEWS: https://t.co/dhVU0Cei6m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2097190442718953763",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 1449,
+          "like_count": 2967,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 6666
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "Daily Miku & Vocaloid Content! \nFan Account (Not Affiliated with Crypton Future Media!)\n(Ran by: @xtc_addict)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "xtc_addict"
+              }
+            ]
+          }
+        },
+        "id": "205565258",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097176167342117070",
+        "name": "Miku",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041367547669254144/RQzxdjzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478424,
+          "following_count": 18,
+          "like_count": 3791,
+          "listed_count": 160,
+          "media_count": 1212,
+          "tweet_count": 1248
+        },
+        "url": "",
+        "username": "HatsuneMiku",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

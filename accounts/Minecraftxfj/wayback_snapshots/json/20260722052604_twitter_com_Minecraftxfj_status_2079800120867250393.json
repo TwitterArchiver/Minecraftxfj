@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079672546975211520"
+      ],
+      "media_source_tweet_id": [
+        "2079672551408562678"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079800120867250393",
+    "created_at": "2026-07-22T05:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079800120867250393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1299189408759980032",
+          "start": 3,
+          "username": "PcPhilanthropy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NRFXnr43Uy",
+          "end": 87,
+          "expanded_url": "https://x.com/PcPhilanthropy/status/2079672551408562678/photo/1",
+          "media_key": "3_2079672546975211520",
+          "start": 64,
+          "url": "https://t.co/NRFXnr43Uy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079800120867250393",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079672551408562678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PcPhilanthropy: The obvious next step in Noctua accessories https://t.co/NRFXnr43Uy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2079672546975211520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx7KbOW4AAf9WZ.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079672546975211520"
+          ]
+        },
+        "author_id": "1299189408759980032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079672551408562678",
+        "created_at": "2026-07-21T20:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079672551408562678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRFXnr43Uy",
+              "end": 67,
+              "expanded_url": "https://x.com/PcPhilanthropy/status/2079672551408562678/photo/1",
+              "media_key": "3_2079672546975211520",
+              "start": 44,
+              "url": "https://t.co/NRFXnr43Uy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079672551408562678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 31845,
+          "like_count": 1110,
+          "quote_count": 20,
+          "reply_count": 56,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "The obvious next step in Noctua accessories https://t.co/NRFXnr43Uy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079672546975211520"
+          ],
+          "media_source_tweet_id": [
+            "2079672551408562678"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079800120867250393",
+        "created_at": "2026-07-22T05:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079800120867250393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1299189408759980032",
+              "start": 3,
+              "username": "PcPhilanthropy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRFXnr43Uy",
+              "end": 87,
+              "expanded_url": "https://x.com/PcPhilanthropy/status/2079672551408562678/photo/1",
+              "media_key": "3_2079672546975211520",
+              "start": 64,
+              "url": "https://t.co/NRFXnr43Uy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079800120867250393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079672551408562678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PcPhilanthropy: The obvious next step in Noctua accessories https://t.co/NRFXnr43Uy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 713,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 3439
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-28T03:38:06.000Z",
+        "description": "Tech enthusiast | Nostalgia Addict | Photography | Philosopher | The natural world has much to teach if we but just listen…",
+        "id": "1299189408759980032",
+        "location": "United States",
+        "name": "PC Philanthropy",
+        "pinned_tweet_id": "2048143174640562332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905395540688310273/Pe1uzH5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28066,
+          "following_count": 1872,
+          "like_count": 190311,
+          "listed_count": 87,
+          "media_count": 17966,
+          "tweet_count": 40366
+        },
+        "url": "",
+        "username": "PcPhilanthropy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085833685635567771",
+    "created_at": "2026-08-07T21:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T22:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085842903612748274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085842903612748274",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085833685635567771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 水灵灵的诶~(¯▽¯~)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2085833678119432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJerdTa8AAKOIB.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085833685635567771",
+        "created_at": "2026-08-07T21:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085842903612748274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085842903612748274",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085833685635567771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 水灵灵的诶~(¯▽¯~)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085833678119432192"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2085833685635567771",
+        "created_at": "2026-08-07T21:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085833685635567771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ccrtp97BPw",
+              "end": 54,
+              "expanded_url": "https://x.com/0xo_snow/status/2085833685635567771/photo/1",
+              "media_key": "3_2085833678119432192",
+              "start": 31,
+              "url": "https://t.co/Ccrtp97BPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085833685635567771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把这张照片换成了背景，真的很可爱吧像被透过屏幕盯着一样…！ https://t.co/Ccrtp97BPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1259,
+          "like_count": 533,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 4614
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 ip北京 可以找我线下玩哦～\n可爱是唯一追求 ！爱好是唱歌二次元和美少女\n请喜欢我;ㅅ;\n🪦另一面@rina20496141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "rina20496141"
+              }
+            ]
+          }
+        },
+        "id": "1522094329954652161",
+        "location": "跪求过🚪88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2083552076228096458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 427,
+          "like_count": 17705,
+          "listed_count": 35,
+          "media_count": 1472,
+          "tweet_count": 15149
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

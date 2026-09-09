@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085551474273382551",
+    "created_at": "2026-08-07T02:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T03:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085558051420156111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Drug_wuming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085558051420156111",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085551474273382551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drug_wuming 总结：pr 能当催化剂使"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085551474273382551",
+        "created_at": "2026-08-07T02:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085558051420156111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Drug_wuming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085558051420156111",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085551474273382551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drug_wuming 总结：pr 能当催化剂使"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2085551474273382551",
+        "created_at": "2026-08-07T02:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085551474273382551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085551474273382551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林与镇静剂结合使用时，镇静效果会得到增强，而且与精神兴奋剂结合时，兴奋效果会得到增强，然后与解离剂结合时，解离效果会得到增强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 1211,
+          "like_count": 479,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4455
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "24岁中年大叔/曾经0D 3年/目前戒掉回归生活中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "无名",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 948,
+          "like_count": 740,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 580
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Drug_wuming",
+        "verified": false
+      }
+    ]
+  }
+}

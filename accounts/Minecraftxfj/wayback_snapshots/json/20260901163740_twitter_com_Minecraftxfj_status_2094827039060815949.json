@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2094827039060815949",
+    "created_at": "2026-09-01T16:37:40.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T17:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094827039060815949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067675948074582016",
+          "start": 3,
+          "username": "johnternus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094827039060815949",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4908
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094814214787633367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johnternus: hello"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2094827039060815949",
+        "created_at": "2026-09-01T16:37:40.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094827039060815949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067675948074582016",
+              "start": 3,
+              "username": "johnternus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094827039060815949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4908
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094814214787633367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johnternus: hello"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067675948074582016",
+        "conversation_id": "2094814214787633367",
+        "created_at": "2026-09-01T15:46:43.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094814214787633367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094814214787633367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1782,
+          "impression_count": 2046186,
+          "like_count": 64133,
+          "quote_count": 1769,
+          "reply_count": 9063,
+          "retweet_count": 4854
+        },
+        "reply_settings": "everyone",
+        "text": "hello"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2094827039060815949",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1430,
+          "like_count": 2479,
+          "listed_count": 2,
+          "media_count": 615,
+          "tweet_count": 6378
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_bigger.png",
+          "description": "Apple",
+          "url": "https://twitter.com/Apple",
+          "user_id": [
+            "380749300"
+          ]
+        },
+        "created_at": "2026-06-18T18:28:56.000Z",
+        "description": " CEO",
+        "id": "2067675948074582016",
+        "is_identity_verified": false,
+        "location": "Cupertino",
+        "most_recent_tweet_id": "2094814214787633367",
+        "name": "John Ternus",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067675948074582016/1788276892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094817326155939840/MVSN5mvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78044,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 481,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "johnternus",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

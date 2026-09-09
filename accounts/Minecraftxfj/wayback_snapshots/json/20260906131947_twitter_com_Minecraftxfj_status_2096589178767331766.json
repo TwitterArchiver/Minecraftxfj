@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094607671697825792"
+      ],
+      "media_source_tweet_id": [
+        "2096539152057569508"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2096589178767331766",
+    "created_at": "2026-09-06T13:19:47.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096589178767331766"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703636516965429248",
+          "start": 3,
+          "username": "cocotte_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ysMjptJIMi",
+          "end": 55,
+          "expanded_url": "https://x.com/cocotte_ai/status/2096539152057569508/photo/1",
+          "media_key": "3_2094607671697825792",
+          "start": 32,
+          "url": "https://t.co/ysMjptJIMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096589178767331766",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094607671697825792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096539152057569508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocotte_ai: #初音ミク　ボブカットミクさん https://t.co/ysMjptJIMi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2112,
+        "media_key": "3_2094607671697825792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGKlGdbYAAVDLW.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094607671697825792"
+          ],
+          "media_source_tweet_id": [
+            "2096539152057569508"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2096589178767331766",
+        "created_at": "2026-09-06T13:19:47.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096589178767331766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1703636516965429248",
+              "start": 3,
+              "username": "cocotte_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysMjptJIMi",
+              "end": 55,
+              "expanded_url": "https://x.com/cocotte_ai/status/2096539152057569508/photo/1",
+              "media_key": "3_2094607671697825792",
+              "start": 32,
+              "url": "https://t.co/ysMjptJIMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096589178767331766",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094607671697825792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096539152057569508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocotte_ai: #初音ミク　ボブカットミクさん https://t.co/ysMjptJIMi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094607671697825792"
+          ]
+        },
+        "author_id": "1703636516965429248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2096539152057569508",
+        "created_at": "2026-09-06T10:01:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096539152057569508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysMjptJIMi",
+              "end": 39,
+              "expanded_url": "https://x.com/cocotte_ai/status/2096539152057569508/photo/1",
+              "media_key": "3_2094607671697825792",
+              "start": 16,
+              "url": "https://t.co/ysMjptJIMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096539152057569508",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094607671697825792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 7201,
+          "like_count": 950,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク　ボブカットミクさん https://t.co/ysMjptJIMi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096589178767331766",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1446,
+          "like_count": 2869,
+          "listed_count": 3,
+          "media_count": 656,
+          "tweet_count": 6588
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-18T05:06:18.000Z",
+        "description": "ミクさん大好き💫The illustration posted is generated by nijijourney+Stable diffusion（AI）+Photoshop drawing、SFW ☆*。　Instagram→https://t.co/K8Gh9XHG5K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/CMKRc",
+                "end": 140,
+                "expanded_url": "https://x.gd/CMKRc",
+                "start": 117,
+                "url": "https://t.co/K8Gh9XHG5K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/cocotte_ai",
+                "end": 23,
+                "expanded_url": "https://lit.link/cocotte_ai",
+                "start": 0,
+                "url": "https://t.co/iyfkMFwUF1"
+              }
+            ]
+          }
+        },
+        "id": "1703636516965429248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096539152057569508",
+        "name": "poco",
+        "pinned_tweet_id": "2094621516352655412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703636516965429248/1707567787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725631551776653312/HQUTj_70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145317,
+          "following_count": 202,
+          "like_count": 33215,
+          "listed_count": 781,
+          "media_count": 2745,
+          "tweet_count": 16226
+        },
+        "url": "https://t.co/iyfkMFwUF1",
+        "username": "cocotte_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

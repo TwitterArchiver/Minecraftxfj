@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092134638177419264"
+      ],
+      "media_source_tweet_id": [
+        "2094394780478501304"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2094657595223232874",
+    "created_at": "2026-09-01T05:24:22.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094657595223232874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1975006867245207553",
+          "start": 3,
+          "username": "Cho_KaguyaHime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SK5fkULAlN",
+          "end": 56,
+          "expanded_url": "https://x.com/Cho_KaguyaHime/status/2094394780478501304/photo/1",
+          "media_key": "3_2092134638177419264",
+          "start": 33,
+          "url": "https://t.co/SK5fkULAlN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094657595223232874",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092134638177419264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7558
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094394780478501304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cho_KaguyaHime: 夏休みの宿題は終わった？ https://t.co/SK5fkULAlN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 991,
+        "media_key": "3_2092134638177419264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjBXmrbAAABI1d.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092134638177419264"
+          ],
+          "media_source_tweet_id": [
+            "2094394780478501304"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2094657595223232874",
+        "created_at": "2026-09-01T05:24:22.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094657595223232874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1975006867245207553",
+              "start": 3,
+              "username": "Cho_KaguyaHime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SK5fkULAlN",
+              "end": 56,
+              "expanded_url": "https://x.com/Cho_KaguyaHime/status/2094394780478501304/photo/1",
+              "media_key": "3_2092134638177419264",
+              "start": 33,
+              "url": "https://t.co/SK5fkULAlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094657595223232874",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092134638177419264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7558
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094394780478501304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cho_KaguyaHime: 夏休みの宿題は終わった？ https://t.co/SK5fkULAlN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092134638177419264"
+          ]
+        },
+        "author_id": "1975006867245207553",
+        "conversation_id": "2094394780478501304",
+        "created_at": "2026-08-31T12:00:02.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094394780478501304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SK5fkULAlN",
+              "end": 36,
+              "expanded_url": "https://x.com/Cho_KaguyaHime/status/2094394780478501304/photo/1",
+              "media_key": "3_2092134638177419264",
+              "start": 13,
+              "url": "https://t.co/SK5fkULAlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094394780478501304",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092134638177419264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2113,
+          "impression_count": 1281392,
+          "like_count": 49431,
+          "quote_count": 795,
+          "reply_count": 531,
+          "retweet_count": 7558
+        },
+        "reply_settings": "everyone",
+        "text": "夏休みの宿題は終わった？ https://t.co/SK5fkULAlN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2094657595223232874",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 1428,
+          "like_count": 2446,
+          "listed_count": 2,
+          "media_count": 610,
+          "tweet_count": 6357
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T01:15:46.000Z",
+        "description": "映画『超かぐや姫！』公式／9/18(金)～特別フォーマット＆通常版 復活上映／Netflixにて世界独占配信中／公式スピンオフマンガ『超かぐやメシ！』「ビビビコミック」にて連載中／無料オンラインライブイベント「ツクヨミ感謝祭」12月開催／ #超かぐや姫 #超かぐやメシ #CosmicPrincessKaguya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 120,
+                "tag": "超かぐや姫"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "tag": "超かぐやメシ"
+              },
+              {
+                "end": 156,
+                "start": 135,
+                "tag": "CosmicPrincessKaguya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cho-kaguyahime.com",
+                "end": 23,
+                "expanded_url": "https://www.cho-kaguyahime.com/",
+                "start": 0,
+                "url": "https://t.co/ODAIRUeRKv"
+              }
+            ]
+          }
+        },
+        "id": "1975006867245207553",
+        "is_identity_verified": false,
+        "location": "仮想空間＜ツクヨミ＞",
+        "most_recent_tweet_id": "2094440724993605952",
+        "name": "『超かぐや姫！』公式",
+        "pinned_tweet_id": "2077363045991330008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975006867245207553/1781872987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986041262919860224/4yjhTSK__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492392,
+          "following_count": 31,
+          "like_count": 522,
+          "listed_count": 737,
+          "media_count": 843,
+          "tweet_count": 2343
+        },
+        "url": "https://t.co/ODAIRUeRKv",
+        "username": "Cho_KaguyaHime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

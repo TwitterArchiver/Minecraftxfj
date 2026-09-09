@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2082430777879597091",
+    "created_at": "2026-07-29T13:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082453403888967705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062215721275551744",
+          "start": 0,
+          "username": "jlmmb4562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082453403888967705",
+    "in_reply_to_user_id": "2062215721275551744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082453201996128481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlmmb4562 一起玩原神！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2082430777879597091",
+        "created_at": "2026-07-29T13:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082453403888967705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062215721275551744",
+              "start": 0,
+              "username": "jlmmb4562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082453403888967705",
+        "in_reply_to_user_id": "2062215721275551744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082453201996128481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlmmb4562 一起玩原神！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062215721275551744",
+        "conversation_id": "2082430777879597091",
+        "created_at": "2026-07-29T13:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082453201996128481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082453201996128481",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082453019707523259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 朋友已就位😮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 815,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 3775
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T16:52:55.000Z",
+        "description": "无论你是谁，为何来到我主页，我都永远希望你有一个自由的幸福的充满光明的生活与未来\n喜欢的角色是基因原体罗伯特基利曼，高阶领主阿拉纳克，当然也有头像指代的人物\n在X刷墙内不能看的(涩涩?)\n苦等孤独摇滚下一季中\n明日方舟",
+        "id": "2062215721275551744",
+        "location": "中国辽宁省",
+        "name": "基利曼曼波",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082116299942141953/VWaL-Q2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 32,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "jlmmb4562",
+        "verified": false
+      }
+    ]
+  }
+}

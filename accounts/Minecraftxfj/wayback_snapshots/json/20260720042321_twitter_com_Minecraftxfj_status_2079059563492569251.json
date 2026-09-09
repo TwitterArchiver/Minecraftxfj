@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2079036520871367134",
+    "created_at": "2026-07-20T04:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079059563492569251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "14698053",
+          "start": 0,
+          "username": "mast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079059563492569251",
+    "in_reply_to_user_id": "14698053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079036520871367134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mast 强强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079036520871367134",
+        "created_at": "2026-07-20T04:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079059563492569251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "14698053",
+              "start": 0,
+              "username": "mast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079059563492569251",
+        "in_reply_to_user_id": "14698053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079036520871367134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mast 强强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14698053",
+        "conversation_id": "2079036520871367134",
+        "created_at": "2026-07-20T02:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079036520871367134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "测试代码：https://github.com/LNC0831/xiaomiao-esp32.git晓川交流群：1007696121前面忘了......没有播放过Bad Apple的设备就像......后面也忘了, 视频播放量 486、弹幕量 0、点赞数 22、投硬币枚数 7、收藏人数 15、转发人数 0, 视频作者 晓川科研站, 作者简介 V:Xiaochuan5305 晓川交流群：1007696121 ，相关视频：学而思20元开源掌机完全破解！移植esp32idf+lvgl系统，小猫掌机、收音机、mp3播放器、免tf卡、改背光、改喇叭、Wi-Fi传文件、中文retrogo固件版本1.2，22 元包邮 ESP32 开源掌机｜开箱拆机刷机全流程，游戏实测试玩，学而思掌机视频播放测试，学而思掌机音乐播放测试，如何榨干学而思喵机，把学而思掌机变成暴龙机（固件分享），学而思掌机 最残暴的画面曝光。小喵掌机，别再乱刷系统了！R36S 完美整合包：全中文 + 星露谷 / MC / 红警全都有，仅18元的“开源掌机”？基于ESP32的学而思编程掌机运行NES游戏演示",
+              "display_url": "bilibili.com/video/BV1sbMn6…",
+              "end": 34,
+              "expanded_url": "https://www.bilibili.com/video/BV1sbMn6pEcK/",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079035699328892928/k1h9Ip6I?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079035699328892928/k1h9Ip6I?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "【川捡垃圾】学而思ESP32小掌机播放Bad Apple_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1sbMn6pEcK/",
+              "url": "https://t.co/QBpXuiIjlX"
+            },
+            {
+              "description": "ESP32 小喵掌机 ESP-IDF 驱动库 — ST7735 DMA双缓冲 74FPS. Contribute to LNC0831/xiaomiao-esp32 development by creating an account on GitHub.",
+              "display_url": "github.com/LNC0831/xiaomi…",
+              "end": 58,
+              "expanded_url": "https://github.com/LNC0831/xiaomiao-esp32",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2079035697005264896/17TAmmiK?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079035697005264896/17TAmmiK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "GitHub - LNC0831/xiaomiao-esp32: ESP32 小喵掌机 ESP-IDF 驱动库 — ST7735 DMA双缓冲 74FPS",
+              "unwound_url": "https://github.com/LNC0831/xiaomiao-esp32",
+              "url": "https://t.co/ZyCubeygkt"
+            },
+            {
+              "display_url": "x.com/Minecraftxfj/s…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Minecraftxfj/status/2078851421223686501",
+              "start": 59,
+              "url": "https://t.co/vsqNLhQgii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079036520871367134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078851421223686501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ESP32也跑起来~\nhttps://t.co/QBpXuiIjlX\nhttps://t.co/ZyCubeygkt https://t.co/vsqNLhQgii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 661,
+          "like_count": 177,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 3255
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2008-05-08T08:57:04.000Z",
+        "description": "",
+        "id": "14698053",
+        "name": "mast",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/818303303729565696/Q7E5H7-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 623,
+          "like_count": 6674,
+          "listed_count": 8,
+          "media_count": 230,
+          "tweet_count": 2347
+        },
+        "url": "",
+        "username": "mast",
+        "verified": false
+      }
+    ]
+  }
+}

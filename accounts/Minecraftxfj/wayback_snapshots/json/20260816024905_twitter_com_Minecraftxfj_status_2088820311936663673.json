@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2088815836895367329",
+    "created_at": "2026-08-16T02:49:05.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088820311936663673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2078430419587153920",
+          "start": 0,
+          "username": "StrawMono_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088820311936663673",
+    "in_reply_to_user_id": "2078430419587153920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088815836895367329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StrawMono_ 去医院"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2088815821728673792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPz27D9acAAuxIM.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2088815836895367329",
+        "created_at": "2026-08-16T02:49:05.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088820311936663673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078430419587153920",
+              "start": 0,
+              "username": "StrawMono_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088820311936663673",
+        "in_reply_to_user_id": "2078430419587153920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088815836895367329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrawMono_ 去医院"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088815821728673792"
+          ]
+        },
+        "author_id": "2078430419587153920",
+        "conversation_id": "2088815836895367329",
+        "created_at": "2026-08-16T02:31:18.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088815836895367329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5HLLaPHNs",
+              "end": 27,
+              "expanded_url": "https://x.com/StrawMono_/status/2088815836895367329/photo/1",
+              "media_key": "3_2088815821728673792",
+              "start": 4,
+              "url": "https://t.co/M5HLLaPHNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088815836895367329",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088815821728673792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咕…… https://t.co/M5HLLaPHNs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2088820311936663673",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1383,
+          "like_count": 1085,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 5428
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T10:43:54.000Z",
+        "description": "生产日期 2010.05 / hrt 2026.08.04 / 无证含糖 / 未出柜 / 不od不割手 / 是会编程的小猫 / 想找人聊聊天喵 / 玩原神、三角洲 / 同类互fo（如果没回关就是忘了…可以私信提醒喵）\n最爱的老公&主人：@h1kar1_chan喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "h1kar1_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StrawMono",
+                "end": 23,
+                "expanded_url": "http://t.me/StrawMono",
+                "start": 0,
+                "url": "https://t.co/kwnn4le920"
+              }
+            ]
+          }
+        },
+        "id": "2078430419587153920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088815836895367329",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2087975311829024870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078430419587153920/1784377399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080509254012907521/dKV3LIpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 326,
+          "like_count": 1197,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/kwnn4le920",
+        "username": "StrawMono_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

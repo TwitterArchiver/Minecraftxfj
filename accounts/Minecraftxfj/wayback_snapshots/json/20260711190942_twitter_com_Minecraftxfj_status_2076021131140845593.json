@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075841819804582088",
+    "created_at": "2026-07-11T19:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076021131140845593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829911631931015168",
+          "start": 0,
+          "username": "ZionFromZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076021131140845593",
+    "in_reply_to_user_id": "1829911631931015168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075841819804582088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZionFromZero 中年老登吧这是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075841819804582088",
+        "created_at": "2026-07-11T19:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076021131140845593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829911631931015168",
+              "start": 0,
+              "username": "ZionFromZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076021131140845593",
+        "in_reply_to_user_id": "1829911631931015168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075841819804582088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZionFromZero 中年老登吧这是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829911631931015168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2075841819804582088",
+        "created_at": "2026-07-11T07:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:16:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075841636316410327",
+          "2075841819804582088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075841819804582088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当代年轻人最顶级的状态，\n\n就是用着不卡顿的 iPhone，早晨开着特斯拉去健身房，完成自己的训练计划\n\n然后去山姆超市采购一些低糖、低脂的抗炎食物，把身体管理好\n\n下午坐在咖啡厅，晒晒太阳，看看书，或者研究股票和期货\n\n晚上一个人在家，喝着日本精酿，看电视、打游戏，刷刷X，微醺之后上床睡觉\n\n结束平凡且普通的一天"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 145548,
+          "like_count": 1462,
+          "quote_count": 15,
+          "reply_count": 177,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "当代年轻人最顶级的状态，\n\n就是用着不卡顿的 iPhone，早晨开着特斯拉去健身房，完成自己的训练计划\n\n然后去山姆超市采购一些低糖、低脂的抗炎食物，把身体管理好\n\n下午坐在咖啡厅，晒晒太阳，看看书，或者研究股票和期货\n\n晚上一个人在家，喝着日本精酿，看电视、打游戏，刷刷X，微醺之后上床睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 503,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T15:58:42.000Z",
+        "description": "认知提升｜投资观察｜AI学习｜两性情感｜在变化里寻找机会，在实践中完成破局",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xui12n",
+                "end": 23,
+                "expanded_url": "https://t.me/xui12n",
+                "start": 0,
+                "url": "https://t.co/XjvayHzFKY"
+              }
+            ]
+          }
+        },
+        "id": "1829911631931015168",
+        "name": "Zion",
+        "pinned_tweet_id": "2075448622104367510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065825188982538240/q-9fLyUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 1136,
+          "like_count": 2563,
+          "listed_count": 6,
+          "media_count": 102,
+          "tweet_count": 3139
+        },
+        "url": "https://t.co/XjvayHzFKY",
+        "username": "ZionFromZero",
+        "verified": true
+      }
+    ]
+  }
+}

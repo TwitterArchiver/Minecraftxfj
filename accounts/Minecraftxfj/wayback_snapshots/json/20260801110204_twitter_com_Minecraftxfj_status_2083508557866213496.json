@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2083483799992906089",
+    "created_at": "2026-08-01T11:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083508557866213496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "hoshinofuji___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083508557866213496",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083483799992906089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofuji___ 🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 505,
+        "media_key": "3_2083483794267607040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoFeNyakAAzIWX.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2083483799992906089",
+        "created_at": "2026-08-01T11:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083508557866213496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "hoshinofuji___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083508557866213496",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083483799992906089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofuji___ 🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083483794267607040"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2083483799992906089",
+        "created_at": "2026-08-01T09:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083483799992906089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1tq2GntcS",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2083483799992906089/photo/1",
+              "media_key": "3_2083483794267607040",
+              "start": 12,
+              "url": "https://t.co/z1tq2GntcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083483799992906089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想今天达到900fo https://t.co/z1tq2GntcS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 886,
+          "like_count": 323,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 3920
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜pixiv illustrator | AIart | 旧友寻回中｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 748,
+          "like_count": 884,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "hoshinofuji___",
+        "verified": true
+      }
+    ]
+  }
+}

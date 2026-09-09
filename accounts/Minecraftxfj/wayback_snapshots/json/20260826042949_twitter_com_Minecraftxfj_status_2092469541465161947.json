@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2092197796195803191",
+    "created_at": "2026-08-26T04:29:49.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T05:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092469541465161947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1300841451379503105",
+          "start": 0,
+          "username": "LuxuriantDream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092469541465161947",
+    "in_reply_to_user_id": "1300841451379503105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092440472950300859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuxuriantDream 秦始皇都没研究出来长生不老🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2092197796195803191",
+        "created_at": "2026-08-26T04:29:49.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092469541465161947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1300841451379503105",
+              "start": 0,
+              "username": "LuxuriantDream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092469541465161947",
+        "in_reply_to_user_id": "1300841451379503105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092440472950300859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuxuriantDream 秦始皇都没研究出来长生不老🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300841451379503105",
+        "conversation_id": "2092197796195803191",
+        "created_at": "2026-08-26T02:34:19.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092440472950300859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092440472950300859",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092197796195803191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 一直活着，不死。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2092469541465161947",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 1407,
+          "like_count": 2005,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 6045
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T17:02:37.000Z",
+        "description": "发泄+观点记录",
+        "id": "1300841451379503105",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092445644837601620",
+        "name": "棽梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300841451379503105/1778388494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092153502802006016/7o433Uwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 318,
+          "like_count": 61905,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2938
+        },
+        "url": "",
+        "username": "LuxuriantDream",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

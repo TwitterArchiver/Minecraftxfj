@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095485115204079616"
+      ],
+      "media_source_tweet_id": [
+        "2095485121059307806"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2095734268265906265",
+    "created_at": "2026-09-04T04:42:41.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095734268265906265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2B4qRiN65a",
+          "end": 35,
+          "expanded_url": "https://x.com/aoim33/status/2095485121059307806/photo/1",
+          "media_key": "3_2095485115204079616",
+          "start": 12,
+          "url": "https://t.co/2B4qRiN65a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095734268265906265",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095485115204079616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095485121059307806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @aoim33: https://t.co/2B4qRiN65a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2095485115204079616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSonCPbkAAKswA.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095485115204079616"
+          ],
+          "media_source_tweet_id": [
+            "2095485121059307806"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2095734268265906265",
+        "created_at": "2026-09-04T04:42:41.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095734268265906265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2B4qRiN65a",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/2095485121059307806/photo/1",
+              "media_key": "3_2095485115204079616",
+              "start": 12,
+              "url": "https://t.co/2B4qRiN65a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095734268265906265",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095485115204079616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095485121059307806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @aoim33: https://t.co/2B4qRiN65a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095485115204079616"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2095485121059307806",
+        "created_at": "2026-09-03T12:12:39.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095485121059307806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2B4qRiN65a",
+              "end": 23,
+              "expanded_url": "https://x.com/aoim33/status/2095485121059307806/photo/1",
+              "media_key": "3_2095485115204079616",
+              "start": 0,
+              "url": "https://t.co/2B4qRiN65a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095485121059307806",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095485115204079616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5945,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/2B4qRiN65a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2095734268265906265",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 1442,
+          "like_count": 2627,
+          "listed_count": 2,
+          "media_count": 631,
+          "tweet_count": 6437
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2095713821709226141",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 3274,
+          "like_count": 62754,
+          "listed_count": 23,
+          "media_count": 4098,
+          "tweet_count": 16014
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

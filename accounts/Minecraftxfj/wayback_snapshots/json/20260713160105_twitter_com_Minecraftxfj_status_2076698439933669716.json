@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076540288177201469",
+    "created_at": "2026-07-13T16:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076698439933669716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060945493195116549",
+          "start": 0,
+          "username": "buzhimingdeyiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076698439933669716",
+    "in_reply_to_user_id": "2060945493195116549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076540288177201469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhimingdeyiai 我真该睡了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2076540284670816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFaYw2XsAAJ5N-.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076540288177201469",
+        "created_at": "2026-07-13T16:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076698439933669716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060945493195116549",
+              "start": 0,
+              "username": "buzhimingdeyiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076698439933669716",
+        "in_reply_to_user_id": "2060945493195116549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076540288177201469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhimingdeyiai 我真该睡了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076540284670816256"
+          ]
+        },
+        "author_id": "2060945493195116549",
+        "conversation_id": "2076540288177201469",
+        "created_at": "2026-07-13T05:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076540288177201469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MqtEjNLvsw",
+              "end": 25,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2076540288177201469/photo/1",
+              "media_key": "3_2076540284670816256",
+              "start": 2,
+              "url": "https://t.co/MqtEjNLvsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076540288177201469",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3024,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/MqtEjNLvsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 605,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2624
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "❌见证，没有任何立场｜10年的幼稚小孩｜友🏳️‍⚧️🏳️‍🌈｜可互fo｜梗图号｜偶尔精神病发作｜不喜欢请回避拉黑｜看个乐就行了较真又是何意味",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/buzhimingdeyia…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/buzhimingdeyiai1",
+                "start": 0,
+                "url": "https://t.co/ulViwEz957"
+              }
+            ]
+          }
+        },
+        "id": "2060945493195116549",
+        "location": "Cape Morris Jesup",
+        "name": "小翌不是翌🍥🎊🎉🍟",
+        "pinned_tweet_id": "2063522560889798739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 211,
+          "like_count": 2495,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/ulViwEz957",
+        "username": "buzhimingdeyiai",
+        "verified": true
+      }
+    ]
+  }
+}

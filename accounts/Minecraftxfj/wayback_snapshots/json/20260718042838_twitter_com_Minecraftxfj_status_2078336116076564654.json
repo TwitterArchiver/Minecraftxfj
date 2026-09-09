@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078297028501897634",
+    "created_at": "2026-07-18T04:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078336116076564654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078336116076564654",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078297028501897634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 未曾设想的道路😱😱😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2078296977172021249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeYFuYbQAEdECj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2078296992439312384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeYGnQboAANF6h.jpg",
+        "width": 3084
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2078297008956485632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeYHkybsAAzqzr.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078297028501897634",
+        "created_at": "2026-07-18T04:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078336116076564654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078336116076564654",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078297028501897634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 未曾设想的道路😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078296977172021249",
+            "3_2078296992439312384",
+            "3_2078297008956485632"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2078297028501897634",
+        "created_at": "2026-07-18T01:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078297028501897634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8YAKAeprd",
+              "end": 51,
+              "expanded_url": "https://x.com/jlxc2001/status/2078297028501897634/photo/1",
+              "media_key": "3_2078296977172021249",
+              "start": 28,
+              "url": "https://t.co/r8YAKAeprd"
+            },
+            {
+              "display_url": "pic.x.com/r8YAKAeprd",
+              "end": 51,
+              "expanded_url": "https://x.com/jlxc2001/status/2078297028501897634/photo/1",
+              "media_key": "3_2078296992439312384",
+              "start": 28,
+              "url": "https://t.co/r8YAKAeprd"
+            },
+            {
+              "display_url": "pic.x.com/r8YAKAeprd",
+              "end": 51,
+              "expanded_url": "https://x.com/jlxc2001/status/2078297028501897634/photo/1",
+              "media_key": "3_2078297008956485632",
+              "start": 28,
+              "url": "https://t.co/r8YAKAeprd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078297028501897634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7409,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们公司的新机柜，花 128 元买了一个二手冰箱改的（ https://t.co/r8YAKAeprd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 623,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 2983
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jlxc2001.com",
+                "end": 23,
+                "expanded_url": "http://jlxc2001.com",
+                "start": 0,
+                "url": "https://t.co/625h9MQZlk"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2059940003623621082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18393,
+          "following_count": 225,
+          "like_count": 694,
+          "listed_count": 46,
+          "media_count": 1258,
+          "tweet_count": 3312
+        },
+        "url": "https://t.co/625h9MQZlk",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

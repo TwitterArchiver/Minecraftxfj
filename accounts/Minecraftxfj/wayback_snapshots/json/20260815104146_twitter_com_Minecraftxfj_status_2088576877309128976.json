@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2088328167857729734",
+    "created_at": "2026-08-15T10:41:46.000Z",
+    "display_text_range": [
+      29,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088576877309128976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800905994186432512",
+          "start": 0,
+          "username": "Hoshino_Iroha10"
+        },
+        {
+          "end": 28,
+          "id": "2083077147774898176",
+          "start": 17,
+          "username": "skyyi_550W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088576877309128976",
+    "in_reply_to_user_id": "1800905994186432512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088511267556491268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Iroha10 @skyyi_550W 我拿 iPhone 是直接就有了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2088328167857729734",
+        "created_at": "2026-08-15T10:41:46.000Z",
+        "display_text_range": [
+          29,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088576877309128976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800905994186432512",
+              "start": 0,
+              "username": "Hoshino_Iroha10"
+            },
+            {
+              "end": 28,
+              "id": "2083077147774898176",
+              "start": 17,
+              "username": "skyyi_550W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088576877309128976",
+        "in_reply_to_user_id": "1800905994186432512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088511267556491268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Iroha10 @skyyi_550W 我拿 iPhone 是直接就有了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800905994186432512",
+        "conversation_id": "2088328167857729734",
+        "created_at": "2026-08-15T06:21:03.000Z",
+        "display_text_range": [
+          26,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088511267556491268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083077147774898176",
+              "start": 0,
+              "username": "skyyi_550W"
+            },
+            {
+              "end": 25,
+              "id": "1545801302617116672",
+              "start": 12,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088511267556491268",
+        "in_reply_to_user_id": "2083077147774898176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088330032796315707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyyi_550W @Minecraftxfj 我在play商店下载的也不让我订阅premium，但是我在电脑网页端登录同一账号时可以订阅，应该是手机系统设置的语言时区和地区触发风控了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2088576877309128976",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1372,
+          "like_count": 1010,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 5331
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "学生です  跨性别友好🏳️‍⚧️ | ADHD | BMI22.8 | 数码收集癖 | 业余摄影 航拍 | 89648964 | 正體中文🇹🇼 简体中文🇨🇳 日本語🇯🇵正在学 | 不会打音游\n📬 https://t.co/PvmynagsX5\n\n✨人生、二十七で死ねるならロックンロールは僕を救った✨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 121,
+                "expanded_url": "http://ngl.link/hoshino_iroha10",
+                "start": 98,
+                "url": "https://t.co/PvmynagsX5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoshino_iroha10",
+                "start": 0,
+                "url": "https://t.co/AQCy4BsVsT"
+              }
+            ]
+          }
+        },
+        "id": "1800905994186432512",
+        "is_identity_verified": false,
+        "location": "秦城监狱",
+        "most_recent_tweet_id": "2088569534378807418",
+        "name": "星野いろは",
+        "pinned_tweet_id": "2088527200287088975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800905994186432512/1780323920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061063208686030848/Ab8l7idB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1341,
+          "like_count": 70820,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 3641
+        },
+        "url": "https://t.co/AQCy4BsVsT",
+        "username": "Hoshino_Iroha10",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T06:29:41.000Z",
+        "description": "2009.07.28｜INFP｜168cm｜48.5kg｜重焦重抑\n友跨半跨🍥｜AI   科技  政治  金融  航空 商务 \n喜欢的游戏：光遇｜明日方舟终末地｜phigros\n我是乖宝宝🍥同类互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/mBnzc94Z",
+                "end": 23,
+                "expanded_url": "https://discord.gg/mBnzc94Z",
+                "start": 0,
+                "url": "https://t.co/CjEaiWdhAr"
+              }
+            ]
+          }
+        },
+        "id": "2083077147774898176",
+        "is_identity_verified": false,
+        "location": "天空王国：伊甸",
+        "most_recent_tweet_id": "2088422411725357411",
+        "name": "550W",
+        "pinned_tweet_id": "2086093772308598881",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083077147774898176/1785480711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083078784706899968/PCmV0Z_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 61,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/CjEaiWdhAr",
+        "username": "skyyi_550W",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2080339453458206977",
+    "created_at": "2026-07-23T17:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080341550899536140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "417165222",
+          "start": 0,
+          "username": "neginegi555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080341550899536140",
+    "in_reply_to_user_id": "417165222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080339453458206977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neginegi555 七尺男儿在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2080339453458206977",
+        "created_at": "2026-07-23T17:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080341550899536140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "417165222",
+              "start": 0,
+              "username": "neginegi555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080341550899536140",
+        "in_reply_to_user_id": "417165222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080339453458206977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neginegi555 七尺男儿在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "417165222",
+        "conversation_id": "2080339453458206977",
+        "created_at": "2026-07-23T17:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080339453458206977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "鴨川ネギ (⃔ *`꒳´ * )⃕↝🖤’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Nxar…",
+              "end": 26,
+              "expanded_url": "https://x.com/i/spaces/1NxarrYQQRWKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2080339455488208896/_8QHkV9g?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080339455488208896/_8QHkV9g?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "Happening now: 雑談",
+              "unwound_url": "https://twitter.com/i/spaces/1NxarrYQQRWKj/peek",
+              "url": "https://t.co/nc3QnboJkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080339453458206977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雑談 https://t.co/nc3QnboJkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 779,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 3628
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-20T16:21:07.000Z",
+        "description": "Ascetic/ロリィタ、生粋なAtelier BOZ信者/機器保守系/レトロPC＆コンソール色々所有/プロの通訳🇯🇵🇨🇳/IHIレベルの重加工  欲しい物https://t.co/77Lf8ktueT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/3Qf51",
+                "end": 101,
+                "expanded_url": "https://x.gd/3Qf51",
+                "start": 78,
+                "url": "https://t.co/77Lf8ktueT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neginegi555",
+                "end": 23,
+                "expanded_url": "https://lit.link/neginegi555",
+                "start": 0,
+                "url": "https://t.co/8EFYvOChfP"
+              }
+            ]
+          }
+        },
+        "id": "417165222",
+        "location": "ブラウン管の妖精(耐圧200VAC)",
+        "name": "鴨川ネギ (⃔ *`꒳´ * )⃕↝🖤",
+        "pinned_tweet_id": "2073094025075404877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990001618348281857/Xy4_081k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 753,
+          "like_count": 16929,
+          "listed_count": 20,
+          "media_count": 3420,
+          "tweet_count": 10935
+        },
+        "url": "https://t.co/8EFYvOChfP",
+        "username": "neginegi555",
+        "verified": true
+      }
+    ]
+  }
+}

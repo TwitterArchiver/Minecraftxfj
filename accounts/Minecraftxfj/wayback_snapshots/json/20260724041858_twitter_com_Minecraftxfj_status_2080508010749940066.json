@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080507993591099392",
+        "3_2080508002105499648"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080508010749940066",
+    "created_at": "2026-07-24T04:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080508010749940066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/idDB33wrfM",
+          "end": 85,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2080508010749940066/photo/1",
+          "media_key": "3_2080507993591099392",
+          "start": 62,
+          "url": "https://t.co/idDB33wrfM"
+        },
+        {
+          "display_url": "pic.x.com/idDB33wrfM",
+          "end": 85,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2080508010749940066/photo/1",
+          "media_key": "3_2080508002105499648",
+          "start": 62,
+          "url": "https://t.co/idDB33wrfM"
+        },
+        {
+          "display_url": "x.com/Minecraftxfj/s…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/Minecraftxfj/status/2080393075936096309",
+          "start": 86,
+          "url": "https://t.co/paJEVJXwvp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080508010749940066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080393075936096309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨晚邪播的白银之城的商单\n然后我寻思蜂群为啥都在骂\n再一看…\n不奇怪了…这下不奇怪了……\n单创始人武大出身我就得掂量掂量🙏 https://t.co/idDB33wrfM https://t.co/paJEVJXwvp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 146,
+        "media_key": "3_2080507993591099392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9y_0ZbsAAYZGG.jpg",
+        "width": 546
+      },
+      {
+        "height": 2713,
+        "media_key": "3_2080508002105499648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9zAUHbIAAzsmb.jpg",
+        "width": 937
+      },
+      {
+        "height": 591,
+        "media_key": "3_2080393060496932864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8Kd1QbgAAhjyc.jpg",
+        "width": 795
+      },
+      {
+        "height": 91,
+        "media_key": "3_2080393071561494528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8KeeebUAAIC2C.jpg",
+        "width": 232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080507993591099392",
+            "3_2080508002105499648"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080508010749940066",
+        "created_at": "2026-07-24T04:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080508010749940066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/idDB33wrfM",
+              "end": 85,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2080508010749940066/photo/1",
+              "media_key": "3_2080507993591099392",
+              "start": 62,
+              "url": "https://t.co/idDB33wrfM"
+            },
+            {
+              "display_url": "pic.x.com/idDB33wrfM",
+              "end": 85,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2080508010749940066/photo/1",
+              "media_key": "3_2080508002105499648",
+              "start": 62,
+              "url": "https://t.co/idDB33wrfM"
+            },
+            {
+              "display_url": "x.com/Minecraftxfj/s…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Minecraftxfj/status/2080393075936096309",
+              "start": 86,
+              "url": "https://t.co/paJEVJXwvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080508010749940066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080393075936096309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚邪播的白银之城的商单\n然后我寻思蜂群为啥都在骂\n再一看…\n不奇怪了…这下不奇怪了……\n单创始人武大出身我就得掂量掂量🙏 https://t.co/idDB33wrfM https://t.co/paJEVJXwvp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080393060496932864",
+            "3_2080393071561494528"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080393075936096309",
+        "created_at": "2026-07-23T20:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080393075936096309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhMKMgzRk6",
+              "end": 45,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2080393075936096309/photo/1",
+              "media_key": "3_2080393060496932864",
+              "start": 22,
+              "url": "https://t.co/DhMKMgzRk6"
+            },
+            {
+              "display_url": "pic.x.com/DhMKMgzRk6",
+              "end": 45,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2080393075936096309/photo/1",
+              "media_key": "3_2080393071561494528",
+              "start": 22,
+              "url": "https://t.co/DhMKMgzRk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080393075936096309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兲：你会怎么提升我？\n邪：你考虑过整容吗？ https://t.co/DhMKMgzRk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 780,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 3663
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      }
+    ]
+  }
+}

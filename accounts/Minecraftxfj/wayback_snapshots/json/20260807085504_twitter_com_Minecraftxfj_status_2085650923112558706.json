@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085583493686530096",
+    "created_at": "2026-08-07T08:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085650923112558706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684572167860801536",
+          "start": 0,
+          "username": "kukmoon97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085650923112558706",
+    "in_reply_to_user_id": "1684572167860801536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085583493686530096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukmoon97 有没有一种可能是精简版自身的问题（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085583493686530096",
+        "created_at": "2026-08-07T08:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085650923112558706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684572167860801536",
+              "start": 0,
+              "username": "kukmoon97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085650923112558706",
+        "in_reply_to_user_id": "1684572167860801536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085583493686530096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukmoon97 有没有一种可能是精简版自身的问题（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684572167860801536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873034",
+              "name": "AMD"
+            }
+          }
+        ],
+        "conversation_id": "2085583493686530096",
+        "created_at": "2026-08-07T04:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085583493686530096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085583493686530096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我死了装 Windows 11 的那条心。在我的老电脑（AMD R5-5600G，64GB 内存，华擎主板）上，Windows 11 精简版有各种大大小小的问题。看来只有新电脑才能适配 Windows 11 了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1214,
+          "like_count": 486,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 4480
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 前 #伪娘｜现 #跨性别 女 ｜#AI + #Office 初心者 🌸 Fmr #crossdresser #CD｜Curr #MtF #transgender #TS｜AI+Office beginner 🌸 元 #女装子｜今や #ニューハーフ ｜AI+Office 初心者 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "伪娘"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "跨性别"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "AI"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Office"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "CD"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "MtF"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "tag": "transgender"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "TS"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "女装子"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2082751392478007801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7641,
+          "following_count": 5000,
+          "like_count": 106516,
+          "listed_count": 7,
+          "media_count": 2084,
+          "tweet_count": 19823
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076668408415101245",
+    "created_at": "2026-07-13T17:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076724933405909321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1278831792540139523",
+          "start": 0,
+          "username": "miike_hrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076724933405909321",
+    "in_reply_to_user_id": "1278831792540139523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076668408415101245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miike_hrk 让世界热闹起来吧～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_2076668405319610368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHO6XdaMAAxSwM.jpg",
+        "width": 1361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076668408415101245",
+        "created_at": "2026-07-13T17:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076724933405909321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1278831792540139523",
+              "start": 0,
+              "username": "miike_hrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076724933405909321",
+        "in_reply_to_user_id": "1278831792540139523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076668408415101245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miike_hrk 让世界热闹起来吧～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076668405319610368"
+          ]
+        },
+        "author_id": "1278831792540139523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2076668408415101245",
+        "created_at": "2026-07-13T14:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076668408415101245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "原神"
+            },
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "genshin"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "furina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvRxboHnvb",
+              "end": 59,
+              "expanded_url": "https://x.com/miike_hrk/status/2076668408415101245/photo/1",
+              "media_key": "3_2076668405319610368",
+              "start": 36,
+              "url": "https://t.co/kvRxboHnvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076668408415101245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝这么喜欢跳舞呀！😹👏🏻💦\n#原神 #genshin #furina https://t.co/kvRxboHnvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 610,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2661
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "20↑｜Cosplay｜Tourette's Syndrome｜CFA & FRM｜S&P500 Trading Analyst",
+        "id": "1278831792540139523",
+        "location": "8964 Wanping Rd (S), Shanghai",
+        "name": "❀雲堇はるか❀",
+        "pinned_tweet_id": "2046849424257912833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923486647221616646/jewlxugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5552,
+          "following_count": 470,
+          "like_count": 34310,
+          "listed_count": 22,
+          "media_count": 12563,
+          "tweet_count": 48376
+        },
+        "url": "",
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

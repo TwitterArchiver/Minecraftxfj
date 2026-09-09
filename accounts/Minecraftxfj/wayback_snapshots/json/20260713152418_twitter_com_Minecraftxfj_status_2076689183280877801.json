@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "125th Emperor of Japan (reign 1989-2019)",
+          "id": "1109143548853551105",
+          "name": "Akihito (明仁)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "2076523731909050727",
+    "created_at": "2026-07-13T15:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076689183280877801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056603029638467584",
+          "start": 0,
+          "username": "SunXiaoChu8xyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076689183280877801",
+    "in_reply_to_user_id": "2056603029638467584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076622793622638862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunXiaoChu8xyr 天皇陛下给我看看你遗照（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "125th Emperor of Japan (reign 1989-2019)",
+              "id": "1109143548853551105",
+              "name": "Akihito (明仁)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2076523731909050727",
+        "created_at": "2026-07-13T15:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076689183280877801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056603029638467584",
+              "start": 0,
+              "username": "SunXiaoChu8xyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076689183280877801",
+        "in_reply_to_user_id": "2056603029638467584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076622793622638862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunXiaoChu8xyr 天皇陛下给我看看你遗照（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056603029638467584",
+        "conversation_id": "2076523731909050727",
+        "created_at": "2026-07-13T11:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076622793622638862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076622793622638862",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076523731909050727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj +3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 604,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T05:10:18.000Z",
+        "description": "面对真正的神明，愚昧自己也只能缄口不言。",
+        "id": "2056603029638467584",
+        "name": "Sun XiaoChuan",
+        "pinned_tweet_id": "2065710336423104930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056603870743187456/qvsp1hfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 572,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "SunXiaoChu8xyr",
+        "verified": true
+      }
+    ]
+  }
+}

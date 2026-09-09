@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085323019451576331",
+    "created_at": "2026-08-06T11:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085324191604318647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "Realhoshinofuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085324191604318647",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085323019451576331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realhoshinofuji 豪堪！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2085322992503152640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCONpIa4AA92ia.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085323019451576331",
+        "created_at": "2026-08-06T11:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085324191604318647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "Realhoshinofuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085324191604318647",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085323019451576331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realhoshinofuji 豪堪！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085322992503152640"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2085323019451576331",
+        "created_at": "2026-08-06T11:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085323019451576331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTIMieSjYK",
+              "end": 29,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2085323019451576331/photo/1",
+              "media_key": "3_2085322992503152640",
+              "start": 6,
+              "url": "https://t.co/CTIMieSjYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085323019451576331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好美的夕阳 https://t.co/CTIMieSjYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1134,
+          "like_count": 445,
+          "listed_count": 2,
+          "media_count": 448,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart |Partner @KokonaKokoro\n 旧友寻回中｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 1120,
+          "like_count": 1808,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true
+      }
+    ]
+  }
+}

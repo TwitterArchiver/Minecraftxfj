@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085038403800994067",
+    "created_at": "2026-08-06T07:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085269748519231505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1094064895450959877",
+          "start": 0,
+          "username": "hoshizakiharuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085269748519231505",
+    "in_reply_to_user_id": "1094064895450959877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085038403800994067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshizakiharuka 吃这个！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085038346095771649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-LVCobQAEb-5e.jpg",
+        "width": 1202
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085038346095771648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-LVCobQAAOgdx.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085038403800994067",
+        "created_at": "2026-08-06T07:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085269748519231505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1094064895450959877",
+              "start": 0,
+              "username": "hoshizakiharuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085269748519231505",
+        "in_reply_to_user_id": "1094064895450959877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085038403800994067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshizakiharuka 吃这个！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085038346095771649",
+            "3_2085038346095771648"
+          ]
+        },
+        "author_id": "1094064895450959877",
+        "conversation_id": "2085038403800994067",
+        "created_at": "2026-08-05T16:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085038403800994067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHrfR3PZdU",
+              "end": 27,
+              "expanded_url": "https://x.com/hoshizakiharuka/status/2085038403800994067/photo/1",
+              "media_key": "3_2085038346095771649",
+              "start": 4,
+              "url": "https://t.co/JHrfR3PZdU"
+            },
+            {
+              "display_url": "pic.x.com/JHrfR3PZdU",
+              "end": 27,
+              "expanded_url": "https://x.com/hoshizakiharuka/status/2085038403800994067/photo/1",
+              "media_key": "3_2085038346095771648",
+              "start": 4,
+              "url": "https://t.co/JHrfR3PZdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085038403800994067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 6352,
+          "like_count": 536,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "吃什么 https://t.co/JHrfR3PZdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1109,
+          "like_count": 433,
+          "listed_count": 2,
+          "media_count": 445,
+          "tweet_count": 4281
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-09T02:46:12.000Z",
+        "description": "小笨蛋一个",
+        "id": "1094064895450959877",
+        "location": "梦世界",
+        "name": "星咲はるか",
+        "pinned_tweet_id": "1869785456654811635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907459653442879490/KcBFJawl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4540,
+          "following_count": 365,
+          "like_count": 9599,
+          "listed_count": 20,
+          "media_count": 82,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "hoshizakiharuka",
+        "verified": false
+      }
+    ]
+  }
+}

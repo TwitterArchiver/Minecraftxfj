@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076264947907240155",
+    "created_at": "2026-07-12T18:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076377981954797674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072913223511339008",
+          "start": 0,
+          "username": "shixiaomonune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076377981954797674",
+    "in_reply_to_user_id": "2072913223511339008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076264947907240155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shixiaomonune E.钝角"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076264947907240155",
+        "created_at": "2026-07-12T18:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076377981954797674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072913223511339008",
+              "start": 0,
+              "username": "shixiaomonune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076377981954797674",
+        "in_reply_to_user_id": "2072913223511339008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076264947907240155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shixiaomonune E.钝角"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2076264946787319808"
+          ]
+        },
+        "author_id": "2072913223511339008",
+        "conversation_id": "2076264947907240155",
+        "created_at": "2026-07-12T11:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076264947907240155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076264947907240155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1543,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我現在應該怎麼辦呢？\n心理壓力好大……情緒好差……\nxbjl好嚴重……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 591,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-03T05:21:07.000Z",
+        "description": "可愛的小貓一隻・chushengriqi20101130 優點：会点魔 术~~~比赛拿过两年亚军,魔术爱好者内中 低水平 （毕竟我还小）缺點：缺愛・沒安全感\n二號（出生日期）2026 6 1\n（以及你能想到的任何可能存在的缺點）\n加wechat52（同類除外）\n喵//les//",
+        "id": "2072913223511339008",
+        "name": "山茶花",
+        "pinned_tweet_id": "2076300726289240312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072914983218978816/JtIvL988_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 48,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "shixiaomonune",
+        "verified": false
+      }
+    ]
+  }
+}

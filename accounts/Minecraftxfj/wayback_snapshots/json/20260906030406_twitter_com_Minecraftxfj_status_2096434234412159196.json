@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096433915976445952"
+      ],
+      "media_source_tweet_id": [
+        "2096434162110775563"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2096434234412159196",
+    "created_at": "2026-09-06T03:04:06.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096434234412159196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2070818840213422080",
+          "start": 3,
+          "username": "Trans_Helper"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iiEJU7Q3bq",
+          "end": 68,
+          "expanded_url": "https://x.com/Trans_Helper/status/2096434162110775563/photo/1",
+          "media_key": "3_2096433915976445952",
+          "start": 45,
+          "url": "https://t.co/iiEJU7Q3bq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096434234412159196",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096433915976445952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096434162110775563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Trans_Helper: 严肃谴责这位成员😡😡👊\n我这不是在新建文件夹吗😫（恼 https://t.co/iiEJU7Q3bq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 785,
+        "media_key": "3_2096433915976445952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgHigjbcAACu-B.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096433915976445952"
+          ],
+          "media_source_tweet_id": [
+            "2096434162110775563"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2096434234412159196",
+        "created_at": "2026-09-06T03:04:06.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096434234412159196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070818840213422080",
+              "start": 3,
+              "username": "Trans_Helper"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiEJU7Q3bq",
+              "end": 68,
+              "expanded_url": "https://x.com/Trans_Helper/status/2096434162110775563/photo/1",
+              "media_key": "3_2096433915976445952",
+              "start": 45,
+              "url": "https://t.co/iiEJU7Q3bq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096434234412159196",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096433915976445952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096434162110775563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Trans_Helper: 严肃谴责这位成员😡😡👊\n我这不是在新建文件夹吗😫（恼 https://t.co/iiEJU7Q3bq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096433915976445952"
+          ]
+        },
+        "author_id": "2070818840213422080",
+        "conversation_id": "2096434162110775563",
+        "created_at": "2026-09-06T03:03:48.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096434162110775563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiEJU7Q3bq",
+              "end": 50,
+              "expanded_url": "https://x.com/Trans_Helper/status/2096434162110775563/photo/1",
+              "media_key": "3_2096433915976445952",
+              "start": 27,
+              "url": "https://t.co/iiEJU7Q3bq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096434162110775563",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096433915976445952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "严肃谴责这位成员😡😡👊\n我这不是在新建文件夹吗😫（恼 https://t.co/iiEJU7Q3bq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096434234412159196",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 1448,
+          "like_count": 2806,
+          "listed_count": 3,
+          "media_count": 646,
+          "tweet_count": 6534
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T10:44:33.000Z",
+        "description": "TransHelper 团队官方账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transhelper.org",
+                "end": 23,
+                "expanded_url": "https://transhelper.org",
+                "start": 0,
+                "url": "https://t.co/VJKVaqTtZY"
+              }
+            ]
+          }
+        },
+        "id": "2070818840213422080",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2096434162110775563",
+        "name": "TransHelper",
+        "pinned_tweet_id": "2070869416808751335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070818840213422080/1783269902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820961390321664/_gbcmZoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/VJKVaqTtZY",
+        "username": "Trans_Helper",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

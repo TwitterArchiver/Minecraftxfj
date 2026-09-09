@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094351642493927424"
+      ],
+      "media_source_tweet_id": [
+        "2094351658247704628"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094459274294640983",
+    "created_at": "2026-08-31T16:16:18.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094459274294640983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1374724817119772674",
+          "start": 3,
+          "username": "Mimiaomc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gB3lshXNl1",
+          "end": 45,
+          "expanded_url": "https://x.com/Mimiaomc/status/2094351658247704628/photo/1",
+          "media_key": "3_2094351642493927424",
+          "start": 22,
+          "url": "https://t.co/gB3lshXNl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094459274294640983",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094351642493927424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094351658247704628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mimiaomc: 我给做出来了🥺 https://t.co/gB3lshXNl1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2094351642493927424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRChuPWbQAAUqpf.jpg",
+        "width": 3648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094351642493927424"
+          ],
+          "media_source_tweet_id": [
+            "2094351658247704628"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094459274294640983",
+        "created_at": "2026-08-31T16:16:18.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094459274294640983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374724817119772674",
+              "start": 3,
+              "username": "Mimiaomc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB3lshXNl1",
+              "end": 45,
+              "expanded_url": "https://x.com/Mimiaomc/status/2094351658247704628/photo/1",
+              "media_key": "3_2094351642493927424",
+              "start": 22,
+              "url": "https://t.co/gB3lshXNl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094459274294640983",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094351642493927424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094351658247704628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mimiaomc: 我给做出来了🥺 https://t.co/gB3lshXNl1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094351642493927424"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094351658247704628",
+        "created_at": "2026-08-31T09:08:41.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094351658247704628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB3lshXNl1",
+              "end": 31,
+              "expanded_url": "https://x.com/Mimiaomc/status/2094351658247704628/photo/1",
+              "media_key": "3_2094351642493927424",
+              "start": 8,
+              "url": "https://t.co/gB3lshXNl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094351658247704628",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094351642493927424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我给做出来了🥺 https://t.co/gB3lshXNl1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2094459274294640983",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 1425,
+          "like_count": 2403,
+          "listed_count": 2,
+          "media_count": 609,
+          "tweet_count": 6339
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟！钟楼！\n渴望被爱 | 会尽力去爱朋友 | 温柔大姐姐 | 2009 | MtF |\n西安高新 | 邮政 | 卡组织 | 钟楼系列维基 | 红帽 Linux |\n嵌入式 | 铁路 | 公交 | 最爱的姐姐：@Mimiaomc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Mimiaomc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu1Gjv"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "is_identity_verified": false,
+        "location": "CLOUDFLARE.COM",
+        "most_recent_tweet_id": "2094411286432100367",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2093655863169073497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374724817119772674/1783492251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074742430805704704/YQCCc8tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 287,
+          "like_count": 3059,
+          "listed_count": 5,
+          "media_count": 474,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/zTJhnu1Gjv",
+        "username": "Mimiaomc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

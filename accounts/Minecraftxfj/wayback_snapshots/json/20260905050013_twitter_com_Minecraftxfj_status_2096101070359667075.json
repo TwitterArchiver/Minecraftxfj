@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094066225009905664"
+      ],
+      "media_source_tweet_id": [
+        "2096071067676897417"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2096101070359667075",
+    "created_at": "2026-09-05T05:00:13.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096101070359667075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703636516965429248",
+          "start": 3,
+          "username": "cocotte_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/17QPe8HrZR",
+          "end": 50,
+          "expanded_url": "https://x.com/cocotte_ai/status/2096071067676897417/photo/1",
+          "media_key": "3_2094066225009905664",
+          "start": 27,
+          "url": "https://t.co/17QPe8HrZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096101070359667075",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094066225009905664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096071067676897417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocotte_ai: 髪をおろしたテトさん https://t.co/17QPe8HrZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2094066225009905664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-eIwXb0AA9Xz6.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094066225009905664"
+          ],
+          "media_source_tweet_id": [
+            "2096071067676897417"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2096101070359667075",
+        "created_at": "2026-09-05T05:00:13.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096101070359667075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1703636516965429248",
+              "start": 3,
+              "username": "cocotte_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17QPe8HrZR",
+              "end": 50,
+              "expanded_url": "https://x.com/cocotte_ai/status/2096071067676897417/photo/1",
+              "media_key": "3_2094066225009905664",
+              "start": 27,
+              "url": "https://t.co/17QPe8HrZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096101070359667075",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094066225009905664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096071067676897417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocotte_ai: 髪をおろしたテトさん https://t.co/17QPe8HrZR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094066225009905664"
+          ]
+        },
+        "author_id": "1703636516965429248",
+        "conversation_id": "2096071067676897417",
+        "created_at": "2026-09-05T03:01:00.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096071067676897417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17QPe8HrZR",
+              "end": 34,
+              "expanded_url": "https://x.com/cocotte_ai/status/2096071067676897417/photo/1",
+              "media_key": "3_2094066225009905664",
+              "start": 11,
+              "url": "https://t.co/17QPe8HrZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096071067676897417",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094066225009905664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3702,
+          "like_count": 496,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "髪をおろしたテトさん https://t.co/17QPe8HrZR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096101070359667075",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 1446,
+          "like_count": 2691,
+          "listed_count": 2,
+          "media_count": 637,
+          "tweet_count": 6477
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-18T05:06:18.000Z",
+        "description": "ミクさん大好き💫The illustration posted is generated by nijijourney+Stable diffusion（AI）+Photoshop drawing、SFW ☆*。　Instagram→https://t.co/K8Gh9XHG5K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/CMKRc",
+                "end": 140,
+                "expanded_url": "https://x.gd/CMKRc",
+                "start": 117,
+                "url": "https://t.co/K8Gh9XHG5K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/cocotte_ai",
+                "end": 23,
+                "expanded_url": "https://lit.link/cocotte_ai",
+                "start": 0,
+                "url": "https://t.co/iyfkMFwUF1"
+              }
+            ]
+          }
+        },
+        "id": "1703636516965429248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096071067676897417",
+        "name": "poco",
+        "pinned_tweet_id": "2094621516352655412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703636516965429248/1707567787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725631551776653312/HQUTj_70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145286,
+          "following_count": 202,
+          "like_count": 33208,
+          "listed_count": 782,
+          "media_count": 2742,
+          "tweet_count": 16222
+        },
+        "url": "https://t.co/iyfkMFwUF1",
+        "username": "cocotte_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

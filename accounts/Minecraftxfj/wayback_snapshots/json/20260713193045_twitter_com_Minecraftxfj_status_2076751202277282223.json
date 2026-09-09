@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076536508753063936"
+      ],
+      "media_source_tweet_id": [
+        "2076536901071409291"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076751202277282223",
+    "created_at": "2026-07-13T19:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076751202277282223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "hanasakimakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ceal49UBNS",
+          "end": 74,
+          "expanded_url": "https://x.com/hanasakimakura/status/2076536901071409291/video/1",
+          "media_key": "13_2076536508753063936",
+          "start": 51,
+          "url": "https://t.co/Ceal49UBNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076751202277282223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076536901071409291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanasakimakura: 我是狼群的爪牙！\n\n上海BW2026結束啦～謝謝各位管理員！ https://t.co/Ceal49UBNS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15766,
+        "height": 2160,
+        "media_key": "13_2076536508753063936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076536508753063936/img/Mk0E5qkxjkIHt4Tp.jpg",
+        "public_metrics": {
+          "view_count": 7311
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076536508753063936/vid/avc1/1920x1080/H-Qx2XrbkQYypckG.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076536508753063936/vid/avc1/480x270/rYB3xXo9kjewk_T_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076536508753063936/pl/mTGRnNdPYSJqjhXi.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076536508753063936/vid/avc1/640x360/S4mp9aPMPgk8LuzI.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076536508753063936/vid/avc1/3840x2160/ZKNv7UjLS-Apq8-M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076536508753063936/vid/avc1/1280x720/SLr8p43YdCft_s9F.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076536508753063936"
+          ],
+          "media_source_tweet_id": [
+            "2076536901071409291"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076751202277282223",
+        "created_at": "2026-07-13T19:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076751202277282223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "hanasakimakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ceal49UBNS",
+              "end": 74,
+              "expanded_url": "https://x.com/hanasakimakura/status/2076536901071409291/video/1",
+              "media_key": "13_2076536508753063936",
+              "start": 51,
+              "url": "https://t.co/Ceal49UBNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076751202277282223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076536901071409291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanasakimakura: 我是狼群的爪牙！\n\n上海BW2026結束啦～謝謝各位管理員！ https://t.co/Ceal49UBNS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076536508753063936"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "conversation_id": "2076536901071409291",
+        "created_at": "2026-07-13T05:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076536901071409291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ceal49UBNS",
+              "end": 54,
+              "expanded_url": "https://x.com/hanasakimakura/status/2076536901071409291/video/1",
+              "media_key": "13_2076536508753063936",
+              "start": 31,
+              "url": "https://t.co/Ceal49UBNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076536901071409291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 22638,
+          "like_count": 1765,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "我是狼群的爪牙！\n\n上海BW2026結束啦～謝謝各位管理員！ https://t.co/Ceal49UBNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 612,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "Chinese cosplayer🎀#まくらーめん 異世界同位体💀#花咲ゾンビ／TikTok▶︎hnsk_makura／@mizuchimakomori 🩵🩺／加工厨。時々変な日本語喋る／Fanmark▶︎🌸🪽",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mizuchimakomori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hanasaki___?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hanasaki___?igsh=MTc3aXppb2I5eWZhZA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/5qywsnArL1"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "AI🚫reprint🚫写真、仕事はDMへお願いします",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2075170645512757632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193194,
+          "following_count": 996,
+          "like_count": 104157,
+          "listed_count": 736,
+          "media_count": 1283,
+          "tweet_count": 22990
+        },
+        "url": "https://t.co/5qywsnArL1",
+        "username": "hanasakimakura",
+        "verified": true
+      }
+    ]
+  }
+}

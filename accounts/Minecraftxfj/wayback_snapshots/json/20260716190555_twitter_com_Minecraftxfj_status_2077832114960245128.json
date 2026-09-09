@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2077713194471014478",
+    "created_at": "2026-07-16T19:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077832114960245128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643976839071928325",
+          "start": 0,
+          "username": "wyuhanbyu"
+        },
+        {
+          "end": 27,
+          "id": "1885557129588948992",
+          "start": 11,
+          "username": "85240609891_1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077832114960245128",
+    "in_reply_to_user_id": "1643976839071928325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077831927646810225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyuhanbyu @85240609891_1st 来看就知道了，你过来😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2077713194471014478",
+        "created_at": "2026-07-16T19:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077832114960245128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643976839071928325",
+              "start": 0,
+              "username": "wyuhanbyu"
+            },
+            {
+              "end": 27,
+              "id": "1885557129588948992",
+              "start": 11,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077832114960245128",
+        "in_reply_to_user_id": "1643976839071928325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077831927646810225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyuhanbyu @85240609891_1st 来看就知道了，你过来😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643976839071928325",
+        "conversation_id": "2077713194471014478",
+        "created_at": "2026-07-16T19:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077831927646810225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            },
+            {
+              "end": 30,
+              "id": "1885557129588948992",
+              "start": 14,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077831927646810225",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077831482752790683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj @85240609891_1st 登dua郎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 618,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2857
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T14:01:10.000Z",
+        "description": "06XYN丨MTF 丨 HRT:2026.5.11无证含糖生产日期2006.1.28丨爱哭鬼一个！变的不太正常了我，会变的很乖的不多说一句话\n                                                      喵喵喵~",
+        "id": "1643976839071928325",
+        "location": "Japan",
+        "name": "余不是鱼🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2076783976681992591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051913380047503360/t10OCd9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 279,
+          "like_count": 3386,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1133
+        },
+        "url": "",
+        "username": "wyuhanbyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "民國派OK\n港英派OK\n最喜歡AWP\n反對威權主義\nHK仔\n自由資本主義 OK\n自由/民主社會主義 OK\n自由共產主義 OK\n🇮🇷🇺🇦🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼🇪🇺🇮🇱🇭🇰🎗️\n祈求民主與自由萬世都不朽\n一位邏輯學者\nSocial Liberalism",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "🔫Arctic Warfare Police 北極戰警",
+        "pinned_tweet_id": "2075196163725344825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075029229423742976/d4GQ9rlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 7466,
+          "like_count": 18723,
+          "listed_count": 7,
+          "media_count": 952,
+          "tweet_count": 5426
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false
+      }
+    ]
+  }
+}

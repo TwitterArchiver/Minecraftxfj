@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088667932645797888"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2088667943009952127",
+    "created_at": "2026-08-15T16:43:37.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088667943009952127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqYYqaCT1x",
+          "end": 167,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2088667943009952127/photo/1",
+          "media_key": "3_2088667932645797888",
+          "start": 144,
+          "url": "https://t.co/oqYYqaCT1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088667943009952127",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088667932645797888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜哇哇哇，我们这个，这个是\n一千人以内最好的群聊！👍\n\n其实我是来宣群的喵，窝养了一群的猫娘宝宝喵，怕找窝聊天的时候窝不在宝宝们会孤单喵🥺\n所以你们都来进 QQ &amp; Discord &amp; 云湖 群喵🥺🥺🥺\n以防你不知道我的主页有链接可以直接跳转加群，所以偷偷告诉你一下喵🥺 https://t.co/oqYYqaCT1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_2088667932645797888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxwayMaMAASab4.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088667932645797888"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2088667943009952127",
+        "created_at": "2026-08-15T16:43:37.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088667943009952127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqYYqaCT1x",
+              "end": 167,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2088667943009952127/photo/1",
+              "media_key": "3_2088667932645797888",
+              "start": 144,
+              "url": "https://t.co/oqYYqaCT1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088667943009952127",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088667932645797888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜哇哇哇，我们这个，这个是\n一千人以内最好的群聊！👍\n\n其实我是来宣群的喵，窝养了一群的猫娘宝宝喵，怕找窝聊天的时候窝不在宝宝们会孤单喵🥺\n所以你们都来进 QQ &amp; Discord &amp; 云湖 群喵🥺🥺🥺\n以防你不知道我的主页有链接可以直接跳转加群，所以偷偷告诉你一下喵🥺 https://t.co/oqYYqaCT1x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2088667943009952127",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1376,
+          "like_count": 1064,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 5384
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

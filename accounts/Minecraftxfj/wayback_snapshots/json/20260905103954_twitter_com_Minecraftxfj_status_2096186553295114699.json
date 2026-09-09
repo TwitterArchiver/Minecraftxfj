@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2095814137008021906",
+    "created_at": "2026-09-05T10:39:54.000Z",
+    "display_text_range": [
+      13,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096186553295114699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "417165222",
+          "start": 0,
+          "username": "neginegi555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096186553295114699",
+    "in_reply_to_user_id": "417165222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096153549399040032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neginegi555 怎么说呢，AUX 应该是功能名称， 3.5mm TRS 是物理规格，日常把耳机口叫 AUX，应该是习惯叫法混在一起了？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2095814137008021906",
+        "created_at": "2026-09-05T10:39:54.000Z",
+        "display_text_range": [
+          13,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096186553295114699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "417165222",
+              "start": 0,
+              "username": "neginegi555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096186553295114699",
+        "in_reply_to_user_id": "417165222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096153549399040032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neginegi555 怎么说呢，AUX 应该是功能名称， 3.5mm TRS 是物理规格，日常把耳机口叫 AUX，应该是习惯叫法混在一起了？🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "417165222",
+        "conversation_id": "2095814137008021906",
+        "created_at": "2026-09-05T08:28:45.000Z",
+        "display_text_range": [
+          14,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096153549399040032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096153549399040032",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095814137008021906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 为什么叫aux？不是3.5mm trs plug么？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096186553295114699",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 1446,
+          "like_count": 2719,
+          "listed_count": 3,
+          "media_count": 640,
+          "tweet_count": 6491
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-20T16:21:07.000Z",
+        "description": "Ascetic/ロリィタ、生粋なAtelier BOZ信者/機器保守系/レトロPC＆コンソール色々所有/プロの通訳🇯🇵🇨🇳/IHIレベルの重加工 マシュマロ→https://t.co/ptbAcyJHjE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neginegi555",
+                "end": 102,
+                "expanded_url": "https://ngl.link/neginegi555",
+                "start": 79,
+                "url": "https://t.co/ptbAcyJHjE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neginegi555",
+                "end": 23,
+                "expanded_url": "https://lit.link/neginegi555",
+                "start": 0,
+                "url": "https://t.co/8EFYvOBJqh"
+              }
+            ]
+          }
+        },
+        "id": "417165222",
+        "is_identity_verified": true,
+        "location": "ブラウン管の妖精(耐圧200VAC)",
+        "most_recent_tweet_id": "2096153549399040032",
+        "name": "鴨川ネギ (⃔ *`꒳´ * )⃕↝🖤",
+        "pinned_tweet_id": "2073094025075404877",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/417165222/1762287345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990001618348281857/Xy4_081k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 790,
+          "like_count": 17148,
+          "listed_count": 26,
+          "media_count": 3469,
+          "tweet_count": 11110
+        },
+        "url": "https://t.co/8EFYvOBJqh",
+        "username": "neginegi555",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

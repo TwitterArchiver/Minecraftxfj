@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2087281641790287926",
+    "created_at": "2026-08-12T17:13:27.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087588284683919461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624337198765178881",
+          "start": 0,
+          "username": "niconekkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087588284683919461",
+    "in_reply_to_user_id": "1624337198765178881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087281641790287926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niconekkod 我需要这些故事的文字，谢谢（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2087281633343025153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeDli2bsAEDEJ4.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2087281633343025152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeDli2bsAAZAXb.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2087281641790287926",
+        "created_at": "2026-08-12T17:13:27.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087588284683919461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624337198765178881",
+              "start": 0,
+              "username": "niconekkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087588284683919461",
+        "in_reply_to_user_id": "1624337198765178881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087281641790287926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niconekkod 我需要这些故事的文字，谢谢（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087281633343025153",
+            "3_2087281633343025152"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087281641790287926",
+        "created_at": "2026-08-11T20:54:57.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087281641790287926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4cVEIRc0K",
+              "end": 51,
+              "expanded_url": "https://x.com/niconekkod/status/2087281641790287926/photo/1",
+              "media_key": "3_2087281633343025153",
+              "start": 28,
+              "url": "https://t.co/g4cVEIRc0K"
+            },
+            {
+              "display_url": "pic.x.com/g4cVEIRc0K",
+              "end": 51,
+              "expanded_url": "https://x.com/niconekkod/status/2087281641790287926/photo/1",
+              "media_key": "3_2087281633343025152",
+              "start": 28,
+              "url": "https://t.co/g4cVEIRc0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087281641790287926",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087281633343025153"
+          },
+          {
+            "media_key": "3_2087281633343025152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1052,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给雨木木降唐逼奶龙小故事给她哄睡着了\nkawaii🤤😍 https://t.co/g4cVEIRc0K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2087588284683919461",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 1355,
+          "like_count": 870,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 5116
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "性别是:女孩子！| 家暴党 | 年龄党 | 无证含糖 | MtF | 出厂日期:2011.10.29 | hrt🍥:2026.6.4 | ボカロ | oder | AFOedOIer | 🈹🔪🩸 | 💊💉 | 中度抑郁 | 坐标重庆 | 欢迎互 fo | 🩷@IiRin_00917_QwQ ✝️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 129,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconekkod",
+                "end": 23,
+                "expanded_url": "https://t.me/niconekkod",
+                "start": 0,
+                "url": "https://t.co/Sxu7tx4YaI"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "is_identity_verified": false,
+        "location": "CKG",
+        "most_recent_tweet_id": "2087581152395808893",
+        "name": "niconekko🍥🏳️‍⚧️💊💉🩸",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624337198765178881/1781453891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085095403876409344/v1qXEMPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 212,
+          "like_count": 418,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/Sxu7tx4YaI",
+        "username": "niconekkod",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

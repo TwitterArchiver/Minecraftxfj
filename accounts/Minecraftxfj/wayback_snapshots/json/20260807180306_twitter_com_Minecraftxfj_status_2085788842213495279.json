@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085783027406508274",
+    "created_at": "2026-08-07T18:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085788842213495279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085788842213495279",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085783027406508274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc 把对侧扇叶也掰掉就行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085783013372366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIwmYaakAA1yMY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085783027406508274",
+        "created_at": "2026-08-07T18:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085788842213495279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085788842213495279",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085783027406508274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc 把对侧扇叶也掰掉就行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085783013372366848"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "conversation_id": "2085783027406508274",
+        "created_at": "2026-08-07T17:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085783027406508274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcuqbRkBCc",
+              "end": 30,
+              "expanded_url": "https://x.com/Mimiaomc/status/2085783027406508274/photo/1",
+              "media_key": "3_2085783013372366848",
+              "start": 7,
+              "url": "https://t.co/UcuqbRkBCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085783027406508274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要绝望死了 https://t.co/UcuqbRkBCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1220,
+          "like_count": 508,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 4547
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟！钟楼！\n渴望被爱 | 会尽力去爱朋友 | 温柔大姐姐 | 2009 | MtF |\n西安高新 | 邮政 | 卡组织 | 钟楼系列维基 | 红帽 Linux |\n嵌入式 | 铁路 | 公交 | 最爱的姐姐：@Mimiaomc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Mimiaomc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu1Gjv"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "CLOUDFLARE.COM",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2083664440894058794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074742430805704704/YQCCc8tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 245,
+          "like_count": 2536,
+          "listed_count": 5,
+          "media_count": 375,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/zTJhnu1Gjv",
+        "username": "Mimiaomc",
+        "verified": true
+      }
+    ]
+  }
+}

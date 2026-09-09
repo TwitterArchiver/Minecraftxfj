@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078203969449685372",
+    "created_at": "2026-07-18T10:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078429136402694632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1872814920896790530",
+          "start": 0,
+          "username": "Mika_Nyako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078429136402694632",
+    "in_reply_to_user_id": "1872814920896790530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078203969449685372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mika_Nyako 哇还有牛肉🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2078203962474561536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdDfjobAAA1J7k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078203969449685372",
+        "created_at": "2026-07-18T10:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078429136402694632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1872814920896790530",
+              "start": 0,
+              "username": "Mika_Nyako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078429136402694632",
+        "in_reply_to_user_id": "1872814920896790530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078203969449685372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mika_Nyako 哇还有牛肉🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078203962474561536"
+          ]
+        },
+        "author_id": "1872814920896790530",
+        "conversation_id": "2078203969449685372",
+        "created_at": "2026-07-17T19:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078203969449685372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5opxhMuxf",
+              "end": 99,
+              "expanded_url": "https://x.com/Mika_Nyako/status/2078203969449685372/photo/1",
+              "media_key": "3_2078203962474561536",
+              "start": 76,
+              "url": "https://t.co/n5opxhMuxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078203969449685372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 8384,
+          "like_count": 711,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "总是自卑自己怎么办啊...我真的不好看，肩宽，腿型，身材，事实上没有照片里的那么好看，我有时候真的很想自杀，为什么偏偏是我呢......好难受啊，呃呃 https://t.co/n5opxhMuxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 627,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-28T01:21:01.000Z",
+        "description": "Kigurumi\n🚫Chinese. If you’re biased against Chinese people, please do not interact🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/profiles/76561…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/profiles/76561199021445951/",
+                "start": 0,
+                "url": "https://t.co/wQZXdzbbiy"
+              }
+            ]
+          }
+        },
+        "id": "1872814920896790530",
+        "name": "NekohaRin",
+        "pinned_tweet_id": "2030493171831230620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065010272771923968/C_3O1qE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 48,
+          "like_count": 63,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/wQZXdzbbiy",
+        "username": "Mika_Nyako",
+        "verified": false
+      }
+    ]
+  }
+}

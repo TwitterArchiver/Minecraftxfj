@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2086371004373459282",
+    "created_at": "2026-08-09T19:51:37.000Z",
+    "display_text_range": [
+      23,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086540927141867859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070541460659924992",
+          "start": 0,
+          "username": "Kiri_yume1"
+        },
+        {
+          "end": 22,
+          "id": "2925300679",
+          "start": 12,
+          "username": "chubbyemu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086540927141867859",
+    "in_reply_to_user_id": "2070541460659924992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086538604449571063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiri_yume1 @chubbyemu 不治之症，发病快……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2086371004373459282",
+        "created_at": "2026-08-09T19:51:37.000Z",
+        "display_text_range": [
+          23,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086540927141867859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070541460659924992",
+              "start": 0,
+              "username": "Kiri_yume1"
+            },
+            {
+              "end": 22,
+              "id": "2925300679",
+              "start": 12,
+              "username": "chubbyemu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086540927141867859",
+        "in_reply_to_user_id": "2070541460659924992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086538604449571063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiri_yume1 @chubbyemu 不治之症，发病快……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070541460659924992",
+        "conversation_id": "2086371004373459282",
+        "created_at": "2026-08-09T19:42:23.000Z",
+        "display_text_range": [
+          25,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086538604449571063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            },
+            {
+              "end": 24,
+              "id": "2925300679",
+              "start": 14,
+              "username": "chubbyemu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086538604449571063",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086538378699473017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj @chubbyemu 神经退行性疾病…唉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2086540927141867859",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 1321,
+          "like_count": 716,
+          "listed_count": 2,
+          "media_count": 483,
+          "tweet_count": 4853
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "わがはいはきり夢です ||",
+        "id": "2070541460659924992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086538604449571063",
+        "name": "Kiriyume",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070541460659924992/1782492879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085185472918441984/2AOv8azU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 120,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-12-10T06:10:26.000Z",
+        "description": "Clinical Adjunct Professor, University of Illinois. tox, hobby youtube, host @hemereview secret channel @Bigemus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "hemereview"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "Bigemus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCKOvO…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCKOvOaJv4GK-oDqx-sj7VVg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/3y35HcRjkp"
+              }
+            ]
+          }
+        },
+        "id": "2925300679",
+        "is_identity_verified": false,
+        "location": "Washington DC",
+        "most_recent_tweet_id": "2082179077063245831",
+        "name": "Chubbyemu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2925300679/1762622774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1016462685733511168/ehh6ejgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105096,
+          "following_count": 267,
+          "like_count": 17057,
+          "listed_count": 120,
+          "media_count": 1513,
+          "tweet_count": 4268
+        },
+        "url": "https://t.co/3y35HcRjkp",
+        "username": "chubbyemu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

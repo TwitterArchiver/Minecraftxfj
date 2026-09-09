@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2092197796195803191",
+    "created_at": "2026-08-25T12:10:39.000Z",
+    "display_text_range": [
+      8,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092223127690543508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1815053369003720704",
+          "start": 0,
+          "username": "gsmdxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092223127690543508",
+    "in_reply_to_user_id": "1815053369003720704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092219478499320012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsmdxy 这可以，我吃一天药都够了🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2092197796195803191",
+        "created_at": "2026-08-25T12:10:39.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092223127690543508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1815053369003720704",
+              "start": 0,
+              "username": "gsmdxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092223127690543508",
+        "in_reply_to_user_id": "1815053369003720704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092219478499320012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsmdxy 这可以，我吃一天药都够了🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815053369003720704",
+        "conversation_id": "2092197796195803191",
+        "created_at": "2026-08-25T11:56:09.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092219478499320012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092219478499320012",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092218968715260299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 那我就命令你用一天的时间花一元人民币😃😃😃😃😃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2092223127690543508",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1406,
+          "like_count": 1910,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 5990
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-21T15:57:13.000Z",
+        "description": "慢热｜随和｜偶尔发疯\n喜欢音乐、电影和到处走走\n很高兴认识有趣的人 :)",
+        "id": "1815053369003720704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092220790305656900",
+        "name": "搞数码的小宇",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815053369003720704/1787587728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852603002454196225/SDn9mFUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 83,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "gsmdxy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

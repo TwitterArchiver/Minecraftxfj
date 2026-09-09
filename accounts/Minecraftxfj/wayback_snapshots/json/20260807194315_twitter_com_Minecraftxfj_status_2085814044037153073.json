@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085799157579870615",
+    "created_at": "2026-08-07T19:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085814044037153073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085814044037153073",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085799157579870615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ 我去这么强？！！😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "3_2085799150931816448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI_RtgaMAAIGSN.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085799157579870615",
+        "created_at": "2026-08-07T19:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085814044037153073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085814044037153073",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085799157579870615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ 我去这么强？！！😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085799150931816448"
+          ]
+        },
+        "author_id": "1995146888249778177",
+        "conversation_id": "2085799157579870615",
+        "created_at": "2026-08-07T18:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085799157579870615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZLC7QyWlp",
+              "end": 59,
+              "expanded_url": "https://x.com/Rin_Mashiro_/status/2085799157579870615/photo/1",
+              "media_key": "3_2085799150931816448",
+              "start": 36,
+              "url": "https://t.co/CZLC7QyWlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085799157579870615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暑假以来最富裕的一次，评论这条帖子的人我将抽一个人赠送2u或14CNY https://t.co/CZLC7QyWlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 1237,
+          "like_count": 523,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 4592
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女？（很喜欢这个称呼就拿来用了）｜处于HRT与非HRT叠加态（取决于买完vps还有没有钱…）｜J-POP｜软件开发｜AI｜ACGN｜JP（N2） EN CH｜SillyTavern二开及插件开发者\n个人博客:https://t.co/PVGkqcilif\n匿名提问:https://t.co/520DUeTbF0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 131,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 108,
+                "url": "https://t.co/PVGkqcilif"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 160,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 137,
+                "url": "https://t.co/520DUeTbF0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqcilif"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "name": "Rin",
+        "pinned_tweet_id": "2080359589506404639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 68,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/PVGkqcilif",
+        "username": "Rin_Mashiro_",
+        "verified": true
+      }
+    ]
+  }
+}

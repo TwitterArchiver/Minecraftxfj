@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075593878866911687",
+    "created_at": "2026-07-10T18:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075642753170710829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1241938130925572099",
+          "start": 0,
+          "username": "HEX_C3550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075642753170710829",
+    "in_reply_to_user_id": "1241938130925572099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075593878866911687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HEX_C3550 ideabook 是联想最低端的系列了好像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075593869371023360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM39oJHWoAAnSXD.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075593878866911687",
+        "created_at": "2026-07-10T18:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075642753170710829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1241938130925572099",
+              "start": 0,
+              "username": "HEX_C3550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075642753170710829",
+        "in_reply_to_user_id": "1241938130925572099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075593878866911687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HEX_C3550 ideabook 是联想最低端的系列了好像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075593869371023360"
+          ]
+        },
+        "author_id": "1241938130925572099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2075593878866911687",
+        "created_at": "2026-07-10T14:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075593878866911687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MeoGL6BGp1",
+              "end": 54,
+              "expanded_url": "https://x.com/HEX_C3550/status/2075593878866911687/photo/1",
+              "media_key": "3_2075593869371023360",
+              "start": 31,
+              "url": "https://t.co/MeoGL6BGp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075593878866911687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "联想卖这么便宜了吗？\n但是看CPU是很入门的款\n没事干就逛街 https://t.co/MeoGL6BGp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 468,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 2289
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T04:03:38.000Z",
+        "description": "Per Aspera Ad Astra\n/\nAnxiety is the dizziness of freedom\n/",
+        "id": "1241938130925572099",
+        "location": "Frankfurt am Main, Deutschland",
+        "name": "nobody",
+        "pinned_tweet_id": "1992223274994966779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998800621781000192/c8NS3cgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 700,
+          "like_count": 148813,
+          "listed_count": 4,
+          "media_count": 1265,
+          "tweet_count": 26797
+        },
+        "url": "",
+        "username": "HEX_C3550",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078569781436071966",
+    "created_at": "2026-07-18T20:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T21:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078571994103366040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1802990537647214592",
+          "start": 0,
+          "username": "web3168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078571994103366040",
+    "in_reply_to_user_id": "1802990537647214592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078571623406547182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@web3168 进就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078569781436071966",
+        "created_at": "2026-07-18T20:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078571994103366040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1802990537647214592",
+              "start": 0,
+              "username": "web3168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078571994103366040",
+        "in_reply_to_user_id": "1802990537647214592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078571623406547182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@web3168 进就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802990537647214592",
+        "conversation_id": "2078569781436071966",
+        "created_at": "2026-07-18T20:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078571623406547182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078571623406547182",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078569781436071966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 这是什么直播啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 639,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3105
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-18T09:03:46.000Z",
+        "description": "🌟记录生活，笑谈人生\n🌟自由寻美，旅途随心\n🌟币圈观察，财富洞见",
+        "id": "1802990537647214592",
+        "location": "香港",
+        "name": "二胖",
+        "pinned_tweet_id": "2068548219970478309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066265850261446656/NYHtVYLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 1879,
+          "like_count": 5099,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 5642
+        },
+        "url": "",
+        "username": "web3168",
+        "verified": true
+      }
+    ]
+  }
+}

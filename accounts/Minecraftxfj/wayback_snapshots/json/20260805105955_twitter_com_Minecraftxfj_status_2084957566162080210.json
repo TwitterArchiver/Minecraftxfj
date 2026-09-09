@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2084467962778718586",
+    "created_at": "2026-08-05T10:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084957566162080210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055900754968465408",
+          "start": 0,
+          "username": "conv1x1"
+        },
+        {
+          "end": 21,
+          "id": "1806849464386416640",
+          "start": 9,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084957566162080210",
+    "in_reply_to_user_id": "2055900754968465408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084954336057323741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@conv1x1 @tangeorange 这是对的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084954336057323741].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084954336057323741",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084954336057323741"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2084467962778718586",
+        "created_at": "2026-08-05T10:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084957566162080210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055900754968465408",
+              "start": 0,
+              "username": "conv1x1"
+            },
+            {
+              "end": 21,
+              "id": "1806849464386416640",
+              "start": 9,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084957566162080210",
+        "in_reply_to_user_id": "2055900754968465408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084954336057323741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conv1x1 @tangeorange 这是对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 965,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 4154
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T06:55:27.000Z",
+        "description": "怪人・lim社恐=+∞・某种奇怪的跨・infp&intp叠加态・喜欢［男, 女］孩子(闭区间)・千禧製・非二维・非线性・张量・什么时候给性别先安一个虚轴?・甚至可以跨物种?・找到了神奇的介面・干什么都是半吊子・其实是个笨蛋\n如果误封锁了请一定联系我喵\n如果误封锁了请一定联系我喵\n如果误封锁了请一定联系我喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tat48760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tat48760",
+                "start": 0,
+                "url": "https://t.co/cyyi2t9Aci"
+              }
+            ]
+          }
+        },
+        "id": "2055900754968465408",
+        "location": "其中一个投影的实例部署于太阳系",
+        "name": "uu （永远爱你们！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069073801414082560/0qmpBmzD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 182,
+          "like_count": 9858,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/cyyi2t9Aci",
+        "username": "conv1x1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "i am not too dare to face the reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8k88z"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2080144271894876640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3394,
+          "following_count": 2906,
+          "like_count": 9331,
+          "listed_count": 5,
+          "media_count": 1475,
+          "tweet_count": 9398
+        },
+        "url": "https://t.co/NqG6Q8k88z",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

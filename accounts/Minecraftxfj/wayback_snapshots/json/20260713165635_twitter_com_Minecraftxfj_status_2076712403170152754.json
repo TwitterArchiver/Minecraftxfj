@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076562964820435306",
+    "created_at": "2026-07-13T16:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076712403170152754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076712403170152754",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076562964820435306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT @grok 解答问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076562964820435306",
+        "created_at": "2026-07-13T16:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076712403170152754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076712403170152754",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076562964820435306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT @grok 解答问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054099511279296512",
+        "conversation_id": "2076562964820435306",
+        "created_at": "2026-07-13T07:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076562964820435306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076562964820435306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你说我是跨➗，我感到可笑，我考你一个问题，回答不出来就闭上你的臭嘴，绝对禁止用AI！\n某7¹/₂位数字万用表\n故障：\n所有功能  都有误差\n数据：\nDCV:+12ppm \n电阻：+11ppm \n电流: +13ppm \n温度系数: 正常\n维修：输入保护正常  分压正常  恒流源正常  ADC正常\n唯一异常: \n5V基准: \n标准： 5.000000V \n实测：5.000065V \n问题：\n1️⃣最可能故障？\n2️⃣为什么所有功能同时偏高？\n3️⃣如果基准源上升65uv  理论误差是多少ppm? \n4️⃣更换基准源后是否一定需要重新校准?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1314,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说我是跨➗，我感到可笑，我考你一个问题，回答不出来就闭上你的臭嘴，绝对禁止用AI！\n某7¹/₂位数字万用表\n故障：\n所有功能  都有误差\n数据：\nDCV:+12ppm \n电阻：+11ppm \n电流: +13ppm \n温度系数: 正常\n维修：输入保护正常  分压正常  恒流源正常  ADC正常\n唯一异常: \n5V基准: \n标准： 5.000000V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 606,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 293,
+          "like_count": 30,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8855998,
+          "following_count": 5,
+          "like_count": 118,
+          "listed_count": 7165,
+          "media_count": 9154333,
+          "tweet_count": 131338587
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

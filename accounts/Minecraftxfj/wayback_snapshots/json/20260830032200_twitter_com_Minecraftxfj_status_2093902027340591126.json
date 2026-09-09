@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2093902027340591126",
+    "created_at": "2026-08-30T03:22:00.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093902027340591126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1345623428112343040",
+          "start": 3,
+          "username": "yhomg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093902027340591126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093901846226293109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yhomg1: 感謝大大送的宜家鯊鯊❤️\n聽說他已經送出一堆鯊鯊了喔👍🏻\n自己都不捨得買也要送給粉絲😭\n大家快去支持一下侵雪的帳號🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2093902027340591126",
+        "created_at": "2026-08-30T03:22:00.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093902027340591126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1345623428112343040",
+              "start": 3,
+              "username": "yhomg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093902027340591126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093901846226293109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yhomg1: 感謝大大送的宜家鯊鯊❤️\n聽說他已經送出一堆鯊鯊了喔👍🏻\n自己都不捨得買也要送給粉絲😭\n大家快去支持一下侵雪的帳號🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345623428112343040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2093901846226293109",
+        "created_at": "2026-08-30T03:21:17.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093901846226293109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minecraftxfj/s…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Minecraftxfj/status/2093740316625113458",
+              "start": 59,
+              "url": "https://t.co/hGBji5htKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093901846226293109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093740316625113458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感謝大大送的宜家鯊鯊❤️\n聽說他已經送出一堆鯊鯊了喔👍🏻\n自己都不捨得買也要送給粉絲😭\n大家快去支持一下侵雪的帳號🔥 https://t.co/hGBji5htKW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2093902027340591126",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 1430,
+          "like_count": 2269,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 6250
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-03T06:50:11.000Z",
+        "description": "Web 3深耕6年 | AI developer | 隨機發有潛力的項目 | 分享AI變現方法 | 項目方\n極速建站技術：1小時內將網站由0到完成部署到cloudfare和google 入TG獲專屬粉絲福利 \n接厰商和個體廣告，合作可以私信我TG或X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KzZsTTq0yLtmN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KzZsTTq0yLtmNDg1",
+                "start": 0,
+                "url": "https://t.co/yFZknn8dGV"
+              }
+            ]
+          }
+        },
+        "id": "1345623428112343040",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2093901846226293109",
+        "name": "yhomg🦜",
+        "pinned_tweet_id": "2082081078140088707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345623428112343040/1762174016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985327752703291392/ewxSdEET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6452,
+          "following_count": 7377,
+          "like_count": 5920,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 4030
+        },
+        "url": "https://t.co/yFZknn8dGV",
+        "username": "yhomg1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2079938675467866123",
+    "created_at": "2026-07-23T14:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080292429866156472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "237972429",
+          "start": 0,
+          "username": "final_object"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080292429866156472",
+    "in_reply_to_user_id": "237972429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080206859538227590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@final_object 是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079938675467866123",
+        "created_at": "2026-07-23T14:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080292429866156472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "237972429",
+              "start": 0,
+              "username": "final_object"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080292429866156472",
+        "in_reply_to_user_id": "237972429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080206859538227590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@final_object 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "237972429",
+        "conversation_id": "2079938675467866123",
+        "created_at": "2026-07-23T08:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080206859538227590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080206859538227590",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079938675467866123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 只有AUR之前有点事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 774,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 3598
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2011-01-14T02:14:48.000Z",
+        "description": "🌷無言フォロー失礼します💐 / 全部是小狗！",
+        "id": "237972429",
+        "location": "烈日の黄金郷",
+        "name": "Nova⚓️🏴",
+        "pinned_tweet_id": "1832443684270571625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055653650371125248/vT3pjKmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 5608,
+          "like_count": 80806,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 33371
+        },
+        "url": "",
+        "username": "final_object",
+        "verified": true
+      }
+    ]
+  }
+}

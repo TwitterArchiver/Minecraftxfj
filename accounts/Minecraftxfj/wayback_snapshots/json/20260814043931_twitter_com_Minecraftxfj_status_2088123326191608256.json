@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2087981395331399719",
+    "created_at": "2026-08-14T04:39:31.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088123326191608256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088123326191608256",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087981395331399719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 随心换：我来助你！！（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2087978267089514497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn9K9ybMAEj6Fd.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087978267093725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn9K9zbcAA8bpq.jpg",
+        "width": 2304
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2087981380777168896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoAANLaUAA2DLl.jpg",
+        "width": 1723
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2087981380777201664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoAANLa0AAMojV.jpg",
+        "width": 1723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2087981395331399719",
+        "created_at": "2026-08-14T04:39:31.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088123326191608256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088123326191608256",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087981395331399719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 随心换：我来助你！！（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087978267089514497",
+            "3_2087978267093725184",
+            "3_2087981380777168896",
+            "3_2087981380777201664"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2087981395331399719",
+        "created_at": "2026-08-13T19:15:32.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:03:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087978311976956307",
+          "2087981395331399719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEmtZOvjSj",
+              "end": 49,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2087981395331399719/photo/1",
+              "media_key": "3_2087978267089514497",
+              "start": 26,
+              "url": "https://t.co/gEmtZOvjSj"
+            },
+            {
+              "display_url": "pic.x.com/gEmtZOvjSj",
+              "end": 49,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2087981395331399719/photo/1",
+              "media_key": "3_2087978267093725184",
+              "start": 26,
+              "url": "https://t.co/gEmtZOvjSj"
+            },
+            {
+              "display_url": "pic.x.com/gEmtZOvjSj",
+              "end": 49,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2087981395331399719/photo/1",
+              "media_key": "3_2087981380777168896",
+              "start": 26,
+              "url": "https://t.co/gEmtZOvjSj"
+            },
+            {
+              "display_url": "pic.x.com/gEmtZOvjSj",
+              "end": 49,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2087981395331399719/photo/1",
+              "media_key": "3_2087981380777201664",
+              "start": 26,
+              "url": "https://t.co/gEmtZOvjSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087981395331399719",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087978267089514497"
+          },
+          {
+            "media_key": "3_2087978267093725184"
+          },
+          {
+            "media_key": "3_2087981380777168896"
+          },
+          {
+            "media_key": "3_2087981380777201664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5558,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我完了，我妈会骂死我的\n10000¥已经四分五裂了 https://t.co/gEmtZOvjSj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2088123326191608256",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 1367,
+          "like_count": 942,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 5242
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/三角洲UID:54317480744297644809\r／究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！ ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 120,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "is_identity_verified": false,
+        "location": "狗笼里",
+        "most_recent_tweet_id": "2088108773999251767",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2079594082041823465",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704469304077611008/1736569625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5616,
+          "following_count": 4573,
+          "like_count": 33273,
+          "listed_count": 14,
+          "media_count": 1624,
+          "tweet_count": 7100
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

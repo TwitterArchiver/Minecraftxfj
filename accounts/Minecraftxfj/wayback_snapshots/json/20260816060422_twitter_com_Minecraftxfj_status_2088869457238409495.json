@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2088666580544860519",
+    "created_at": "2026-08-16T06:04:22.000Z",
+    "display_text_range": [
+      25,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088869457238409495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        },
+        {
+          "end": 24,
+          "id": "1769078117052854272",
+          "start": 11,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088869457238409495",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088666580544860519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan @huahuojiang_ 封了老实了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088666571044786176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxvLh1bkAAdtns.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088666570981855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxvLhmbUAAj7Q8.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2088666580544860519",
+        "created_at": "2026-08-16T06:04:22.000Z",
+        "display_text_range": [
+          25,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088869457238409495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 24,
+              "id": "1769078117052854272",
+              "start": 11,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088869457238409495",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088666580544860519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan @huahuojiang_ 封了老实了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088666571044786176",
+            "3_2088666570981855232"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2088666580544860519",
+        "created_at": "2026-08-15T16:38:13.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088666580544860519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7LJt5kmTM",
+              "end": 47,
+              "expanded_url": "https://x.com/ggdxfulan/status/2088666580544860519/photo/1",
+              "media_key": "3_2088666571044786176",
+              "start": 24,
+              "url": "https://t.co/m7LJt5kmTM"
+            },
+            {
+              "display_url": "pic.x.com/m7LJt5kmTM",
+              "end": 47,
+              "expanded_url": "https://x.com/ggdxfulan/status/2088666580544860519/photo/1",
+              "media_key": "3_2088666570981855232",
+              "start": 24,
+              "url": "https://t.co/m7LJt5kmTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088666580544860519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088666571044786176"
+          },
+          {
+            "media_key": "3_2088666570981855232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1677,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "插件版推特😋要的人多我会发链接，安卓iOS都有 https://t.co/m7LJt5kmTM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2088869457238409495",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1388,
+          "like_count": 1098,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5457
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "一个看书的人\n星火系统",
+        "id": "1639816523190763521",
+        "is_identity_verified": false,
+        "location": "距离你2km",
+        "most_recent_tweet_id": "2088863135151305081",
+        "name": "泠溯",
+        "pinned_tweet_id": "2078112254688412095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639816523190763521/1706021227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087805761422286848/GTJBcYwx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17850,
+          "following_count": 517,
+          "like_count": 37474,
+          "listed_count": 31,
+          "media_count": 3876,
+          "tweet_count": 11972
+        },
+        "url": "",
+        "username": "ggdxfulan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "is_identity_verified": false,
+        "location": "匹诺康尼",
+        "most_recent_tweet_id": "2088869324308255071",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2082322364830978116",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1774973744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7785,
+          "following_count": 3980,
+          "like_count": 104779,
+          "listed_count": 18,
+          "media_count": 9568,
+          "tweet_count": 104796
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

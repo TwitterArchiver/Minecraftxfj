@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2095734321630089567",
+    "created_at": "2026-09-04T04:42:53.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095734321630089567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1640917359493005313",
+          "start": 3,
+          "username": "shizukululu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095734321630089567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095499846992203848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @shizukululu0721: 感觉自己越来越像超天酱了。&lt;互联网天使&gt;的说。\n现实生活与网络生活完全不一样，感觉像是两个人。\n在现实生活里，雨下只是不善言辞的，优柔寡断的，讨好别人的，情绪不稳定的一只小透明罢了。\n雨下最害怕的一件事就是开心和痛苦交替，雨下不知道为什…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2095499796220088320",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRS19lSaEAAx2Wk.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRS19lSaEAAx2Wk.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2095734321630089567",
+        "created_at": "2026-09-04T04:42:53.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095734321630089567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1640917359493005313",
+              "start": 3,
+              "username": "shizukululu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095734321630089567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095499846992203848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @shizukululu0721: 感觉自己越来越像超天酱了。&lt;互联网天使&gt;的说。\n现实生活与网络生活完全不一样，感觉像是两个人。\n在现实生活里，雨下只是不善言辞的，优柔寡断的，讨好别人的，情绪不稳定的一只小透明罢了。\n雨下最害怕的一件事就是开心和痛苦交替，雨下不知道为什…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095499796220088320"
+          ]
+        },
+        "author_id": "1640917359493005313",
+        "conversation_id": "2095499846992203848",
+        "created_at": "2026-09-03T13:11:10.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095499846992203848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNHu0tfUL0",
+              "end": 161,
+              "expanded_url": "https://x.com/shizukululu0721/status/2095499846992203848/photo/1",
+              "media_key": "16_2095499796220088320",
+              "start": 138,
+              "url": "https://t.co/GNHu0tfUL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095499846992203848",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2095499796220088320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 377,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "感觉自己越来越像超天酱了。&lt;互联网天使&gt;的说。\n现实生活与网络生活完全不一样，感觉像是两个人。\n在现实生活里，雨下只是不善言辞的，优柔寡断的，讨好别人的，情绪不稳定的一只小透明罢了。\n雨下最害怕的一件事就是开心和痛苦交替，雨下不知道为什么自己情绪会如此大起大落… https://t.co/GNHu0tfUL0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2095734321630089567",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 1442,
+          "like_count": 2628,
+          "listed_count": 2,
+          "media_count": 631,
+          "tweet_count": 6438
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "成分都在推文里啦🥰｜xnn努力中…｜友跨的喵！｜主要是碎碎念✨｜喜欢和大家一起贴贴～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDUbn0"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "is_identity_verified": false,
+        "location": "N. Jiangsu",
+        "most_recent_tweet_id": "2095622253757214914",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2094011514017714370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917359493005313/1770278755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089256914173779969/LJrgpZEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1652,
+          "like_count": 4150,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 2392
+        },
+        "url": "https://t.co/IxTJNDUbn0",
+        "username": "shizukululu0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

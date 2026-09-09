@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2082152647516389462",
+    "created_at": "2026-07-29T04:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082328009286328543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082328009286328543",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082327938645840115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2082152647516389462",
+        "created_at": "2026-07-29T04:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082328009286328543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082328009286328543",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082327938645840115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781893716183060480",
+        "conversation_id": "2082152647516389462",
+        "created_at": "2026-07-29T04:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082327938645840115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082327938645840115",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082325873764749365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 😯那再攒一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 794,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3746
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n​✨ 二次元 & アニメ\n💻 プログラミング\n✏️ 日本語勉強中\n​気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro.03131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro.03131",
+                "start": 0,
+                "url": "https://t.co/cWs0qXeWVS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079848684662202369/1bYOBN1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 2281,
+          "like_count": 11419,
+          "listed_count": 1,
+          "media_count": 1205,
+          "tweet_count": 8752
+        },
+        "url": "https://t.co/cWs0qXeWVS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

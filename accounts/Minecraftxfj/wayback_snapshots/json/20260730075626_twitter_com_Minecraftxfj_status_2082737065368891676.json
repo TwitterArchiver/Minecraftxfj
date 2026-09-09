@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2081660574509990001",
+    "created_at": "2026-07-30T07:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082737065368891676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2050269321029435392",
+          "start": 0,
+          "username": "nk1415926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082737065368891676",
+    "in_reply_to_user_id": "2050269321029435392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081660574509990001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nk1415926 现在是 ai 时代（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "第三方矫治机构列表索引页",
+        "height": 706,
+        "media_key": "3_2081660100415217664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOK1QxaYAAIHyK.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "首页",
+        "height": 1843,
+        "media_key": "3_2081660476912799744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOLLLVbkAABpWF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2081660574509990001",
+        "created_at": "2026-07-30T07:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082737065368891676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2050269321029435392",
+              "start": 0,
+              "username": "nk1415926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082737065368891676",
+        "in_reply_to_user_id": "2050269321029435392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081660574509990001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nk1415926 现在是 ai 时代（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081660100415217664",
+            "3_2081660476912799744"
+          ]
+        },
+        "author_id": "2050269321029435392",
+        "conversation_id": "2081660574509990001",
+        "created_at": "2026-07-27T08:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081660574509990001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "smcs.dpdns.org",
+              "end": 131,
+              "expanded_url": "http://smcs.dpdns.org",
+              "start": 108,
+              "status": 200,
+              "title": "登录 - xxxx计算机系统",
+              "unwound_url": "https://smcs.dpdns.org/login",
+              "url": "https://t.co/dLJ88ZTnCH"
+            },
+            {
+              "display_url": "pic.x.com/TegubCiP7c",
+              "end": 195,
+              "expanded_url": "https://x.com/nk1415926/status/2081660574509990001/photo/1",
+              "media_key": "3_2081660100415217664",
+              "start": 172,
+              "url": "https://t.co/TegubCiP7c"
+            },
+            {
+              "display_url": "pic.x.com/TegubCiP7c",
+              "end": 195,
+              "expanded_url": "https://x.com/nk1415926/status/2081660574509990001/photo/1",
+              "media_key": "3_2081660476912799744",
+              "start": 172,
+              "url": "https://t.co/TegubCiP7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081660574509990001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因开发时间有限，故想寻找一批有能力的开发者，能开发有关扭转机构与违规医疗机构列表或地图、实用文档信息展示、证据收集上传和存储等类似功能，我这边在系统里可以直接集成。最好有现成页面。必要时我们提供API。\n\nurl: https://t.co/dLJ88ZTnCH\nid: moo5jdrdsSCQME\npwd: nk1415926\n\n望转帖。 https://t.co/TegubCiP7c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 850,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 3849
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T17:41:29.000Z",
+        "description": "黑夜是白昼的序曲，沉默是惊雷的前奏。\n\n我是MTF，也是安全守护计算机系统的站长。\n\n反对暴力网戒中心与医疗机构违规收治，我们在行动。\n\n网址 https://t.co/KlpAQICLUy\n公共账户ID moo5jdrdsSCQME\n密码 nk1415926\n申请账户后私信我\n\ngit仓库 https://t.co/7KgS8OFDn5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "smcs.dpdns.org",
+                "end": 95,
+                "expanded_url": "http://smcs.dpdns.org",
+                "start": 72,
+                "url": "https://t.co/KlpAQICLUy"
+              },
+              {
+                "display_url": "github.com/nuosky/smcs",
+                "end": 170,
+                "expanded_url": "http://github.com/nuosky/smcs",
+                "start": 147,
+                "url": "https://t.co/7KgS8OFDn5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smcs.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://smcs.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/AQfLiX47Hs"
+              }
+            ]
+          }
+        },
+        "id": "2050269321029435392",
+        "location": "邮箱 admin@email.smcs.dpdns.org",
+        "name": "糯空",
+        "pinned_tweet_id": "2067929824765837562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050274836107149312/iPZZXU1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 41,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/AQfLiX47Hs",
+        "username": "nk1415926",
+        "verified": false
+      }
+    ]
+  }
+}

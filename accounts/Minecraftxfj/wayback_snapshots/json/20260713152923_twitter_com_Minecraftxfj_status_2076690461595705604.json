@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076569100655222987",
+    "created_at": "2026-07-13T15:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076690461595705604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688792465292374016",
+          "start": 0,
+          "username": "unitedly_37400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076690461595705604",
+    "in_reply_to_user_id": "1688792465292374016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076569100655222987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unitedly_37400 好哦贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2076569093529030656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNF0lqNaUAAMyF7.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076569100655222987",
+        "created_at": "2026-07-13T15:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076690461595705604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688792465292374016",
+              "start": 0,
+              "username": "unitedly_37400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076690461595705604",
+        "in_reply_to_user_id": "1688792465292374016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076569100655222987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unitedly_37400 好哦贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076569093529030656"
+          ]
+        },
+        "author_id": "1688792465292374016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076569100655222987",
+        "created_at": "2026-07-13T07:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076569100655222987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "X（Twitter）の交流をグリッド状に一覧表示します。集計は過去30日分の公開データに限ります。ログイン不要で、勝手に投稿されることはありません。",
+              "display_url": "nareaitter.hikamer.f5.si",
+              "end": 25,
+              "expanded_url": "https://nareaitter.hikamer.f5.si",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074761821316374528/5eO3FBYP?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074761821316374528/5eO3FBYP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 2,
+              "status": 200,
+              "title": "Twitter馴れ合いサークル",
+              "unwound_url": "https://nareaitter.hikamer.f5.si",
+              "url": "https://t.co/LoObgjd0wA"
+            },
+            {
+              "display_url": "pic.x.com/8FkKWSmjM2",
+              "end": 49,
+              "expanded_url": "https://x.com/unitedly_37400/status/2076569100655222987/photo/1",
+              "media_key": "3_2076569093529030656",
+              "start": 26,
+              "url": "https://t.co/8FkKWSmjM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076569100655222987",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 880,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤓\nhttps://t.co/LoObgjd0wA https://t.co/8FkKWSmjM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 604,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰｜现在的名字不像假账号了👊｜🇯🇵🏳️‍⚧️｜微微微查成分，ok就会回fo😽｜小号@tsurumi_37400 欢迎关注喵｜最好的伙伴 @tomo9487｜后面想不到了嘻嘻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 63,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "tomo9487"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9W7F"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県 草津市",
+        "name": "中井鶴見)⌒★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 569,
+          "like_count": 82662,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1990
+        },
+        "url": "https://t.co/QrtZ8v9W7F",
+        "username": "unitedly_37400",
+        "verified": true
+      }
+    ]
+  }
+}

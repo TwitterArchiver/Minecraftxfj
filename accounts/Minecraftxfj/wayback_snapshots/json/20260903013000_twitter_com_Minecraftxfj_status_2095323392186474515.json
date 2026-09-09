@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095278473032122368",
+        "3_2095278473036337152"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2095323392186474515",
+    "created_at": "2026-09-03T01:30:00.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T02:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095323392186474515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MquYQbnm84",
+          "end": 33,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2095323392186474515/photo/1",
+          "media_key": "3_2095278473032122368",
+          "start": 10,
+          "url": "https://t.co/MquYQbnm84"
+        },
+        {
+          "display_url": "pic.x.com/MquYQbnm84",
+          "end": 33,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2095323392186474515/photo/1",
+          "media_key": "3_2095278473036337152",
+          "start": 10,
+          "url": "https://t.co/MquYQbnm84"
+        },
+        {
+          "display_url": "x.com/tokyomanaka/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/tokyomanaka/status/1960668962095816823",
+          "start": 34,
+          "url": "https://t.co/StauMioCql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095323392186474515",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095278473032122368"
+      },
+      {
+        "media_key": "3_2095278473036337152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960668962095816823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我理想中的致幻剂： https://t.co/MquYQbnm84 https://t.co/StauMioCql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2095278473032122368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPsq4KaQAAUPYm.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2095278473036337152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPsq4LakAAhKdf.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 19541,
+        "height": 720,
+        "media_key": "13_1960668899772653570",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960668899772653570/img/NN6d8DcMNLSLGe47.jpg",
+        "public_metrics": {
+          "view_count": 182021
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960668899772653570/vid/avc1/320x320/BeGNZMbdqym0UCGC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960668899772653570/vid/avc1/540x540/xW-aOpnlFkB6H7bb.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960668899772653570/vid/avc1/720x720/HlKvIBvk_OwS9s9X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960668899772653570/pl/tVabzpj0QCJCSPX_.m3u8?v=29e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095278473032122368",
+            "3_2095278473036337152"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2095323392186474515",
+        "created_at": "2026-09-03T01:30:00.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095323392186474515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MquYQbnm84",
+              "end": 33,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2095323392186474515/photo/1",
+              "media_key": "3_2095278473032122368",
+              "start": 10,
+              "url": "https://t.co/MquYQbnm84"
+            },
+            {
+              "display_url": "pic.x.com/MquYQbnm84",
+              "end": 33,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2095323392186474515/photo/1",
+              "media_key": "3_2095278473036337152",
+              "start": 10,
+              "url": "https://t.co/MquYQbnm84"
+            },
+            {
+              "display_url": "x.com/tokyomanaka/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/tokyomanaka/status/1960668962095816823",
+              "start": 34,
+              "url": "https://t.co/StauMioCql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095323392186474515",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095278473032122368"
+          },
+          {
+            "media_key": "3_2095278473036337152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960668962095816823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我理想中的致幻剂： https://t.co/MquYQbnm84 https://t.co/StauMioCql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960668899772653570"
+          ]
+        },
+        "author_id": "1756629962193596416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1960668962095816823",
+        "created_at": "2025-08-27T11:41:22.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960668962095816823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "重音テト"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "teto"
+            }
+          ],
+          "urls": [
+            {
+              "description": "STREAM & DOWNLOADhttps://linkco.re/TQBrNSy2CREDITSMusic, Lyric...",
+              "display_url": "youtu.be/YcO-MxPf_Vg",
+              "end": 52,
+              "expanded_url": "https://youtu.be/YcO-MxPf_Vg",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2094759420811231234/EWGcu0Lt?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2094759420811231234/EWGcu0Lt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "東京真中 - ドゥーマー feat. 重音テト",
+              "unwound_url": "https://www.youtube.com/watch?v=YcO-MxPf_Vg&feature=youtu.be",
+              "url": "https://t.co/JWVfZL0iUS"
+            },
+            {
+              "display_url": "pic.x.com/IbdGFOKuqj",
+              "end": 89,
+              "expanded_url": "https://x.com/tokyomanaka/status/1960668962095816823/video/1",
+              "media_key": "13_1960668899772653570",
+              "start": 66,
+              "url": "https://t.co/IbdGFOKuqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960668962095816823",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_1960668899772653570"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2028,
+          "impression_count": 1549752,
+          "like_count": 13253,
+          "quote_count": 230,
+          "reply_count": 44,
+          "retweet_count": 2253
+        },
+        "reply_settings": "everyone",
+        "text": "🪬 New Song  🪬 \n\n東京真中『ドゥーマー』\n\nhttps://t.co/JWVfZL0iUS\n\n#重音テト #teto https://t.co/IbdGFOKuqj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2095323392186474515",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1436,
+          "like_count": 2566,
+          "listed_count": 2,
+          "media_count": 626,
+          "tweet_count": 6405
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-11T10:43:24.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tokyomanaka",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@tokyomanaka",
+                "start": 0,
+                "url": "https://t.co/iTJgcDEi5k"
+              }
+            ]
+          }
+        },
+        "id": "1756629962193596416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095103576637075869",
+        "name": "東京真中",
+        "pinned_tweet_id": "2092564025469288861",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756629962193596416/1772636544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960889618917969920/T60kpzsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35360,
+          "following_count": 601,
+          "like_count": 53943,
+          "listed_count": 112,
+          "media_count": 552,
+          "tweet_count": 4374
+        },
+        "url": "https://t.co/iTJgcDEi5k",
+        "username": "tokyomanaka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

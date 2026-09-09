@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2094173404865941775",
+    "created_at": "2026-08-31T16:18:01.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094459705657884965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094459705657884965",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094173404865941775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 泥要做毛血旺吗🫪🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3575,
+        "height": 1920,
+        "media_key": "13_2094173381176479744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094173381176479744/img/U2m6-ikrq1AtAWY7.jpg",
+        "public_metrics": {
+          "view_count": 672
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094173381176479744/pl/7zjsQHBJ0CqaC9zB.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094173381176479744/vid/avc1/720x1280/Ke2Yk0UkUyeTOz7c.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094173381176479744/vid/avc1/480x852/b6zIxGmLV4WkYcc5.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094173381176479744/vid/avc1/320x568/ZlGy6nbNAzKKcP4K.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094173381176479744/vid/avc1/1080x1920/uoMOAhbp1jK5VqGV.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2094173404865941775",
+        "created_at": "2026-08-31T16:18:01.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094459705657884965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094459705657884965",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094173404865941775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 泥要做毛血旺吗🫪🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094173381176479744"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094173404865941775",
+        "created_at": "2026-08-30T21:20:22.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094173404865941775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKwUZ1FroC",
+              "end": 36,
+              "expanded_url": "https://x.com/Mintink3/status/2094173404865941775/video/1",
+              "media_key": "13_2094173381176479744",
+              "start": 13,
+              "url": "https://t.co/ZKwUZ1FroC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094173404865941775",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094173381176479744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1158,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在尝试让🩸流回输液袋里 https://t.co/ZKwUZ1FroC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2094459705657884965",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 1425,
+          "like_count": 2406,
+          "listed_count": 2,
+          "media_count": 609,
+          "tweet_count": 6341
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094449408360554858",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 1111,
+          "like_count": 10510,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1497
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

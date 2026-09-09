@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076327979538657509",
+    "created_at": "2026-07-12T16:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076350715665219758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        },
+        {
+          "end": 21,
+          "id": "1781888238283862016",
+          "start": 10,
+          "username": "lmn1171429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076350715665219758",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076348615891796444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc @lmn1171429 刚刚在群里看到就刷到了 qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076327979538657509",
+        "created_at": "2026-07-12T16:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076350715665219758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            },
+            {
+              "end": 21,
+              "id": "1781888238283862016",
+              "start": 10,
+              "username": "lmn1171429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076350715665219758",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076348615891796444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc @lmn1171429 刚刚在群里看到就刷到了 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374724817119772674",
+        "conversation_id": "2076327979538657509",
+        "created_at": "2026-07-12T16:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076348615891796444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1781888238283862016",
+              "start": 0,
+              "username": "lmn1171429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076348615891796444",
+        "in_reply_to_user_id": "1781888238283862016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076327979538657509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmn1171429 这是我们郑州的北海公园，旁边还有大雁塔可以去看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 550,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟！钟楼！\n渴望被爱 | 会尽力去爱朋友 | 温柔大姐姐 | 2009 | MtF |\n西安高新 | 邮政 | 卡组织 | 钟楼笔记站长 | 红帽 Linux |\n嵌入式 | 铁路 | 公交 | 最爱的姐姐：@Mimiaomc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Mimiaomc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu1Gjv"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "CLOUDFLARE.COM",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2074743815743873500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074742430805704704/YQCCc8tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 171,
+          "like_count": 1915,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/zTJhnu1Gjv",
+        "username": "Mimiaomc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:30:50.000Z",
+        "description": "",
+        "id": "1781888238283862016",
+        "name": "Lumæn🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027914161364340736/YKO5ce37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1029,
+          "like_count": 1108,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "lmn1171429",
+        "verified": false
+      }
+    ]
+  }
+}

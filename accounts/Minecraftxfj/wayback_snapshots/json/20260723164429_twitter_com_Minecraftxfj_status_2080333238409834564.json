@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2080329438735278143",
+    "created_at": "2026-07-23T16:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080333238409834564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "417165222",
+          "start": 0,
+          "username": "neginegi555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080333238409834564",
+    "in_reply_to_user_id": "417165222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080329438735278143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neginegi555 可以做一个智能的零件收纳盒（）\n0603 这种大的贴片买错了懒得换的话，阻值差的不多也可以搭棚通过串并联调整一下阻值（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45250,
+        "height": 3840,
+        "media_key": "13_2080329318140686336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080329318140686336/img/zp6xVBwyPhh-1veA.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080329318140686336/pl/sEZqAPjvCP11fCGV.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080329318140686336/vid/avc1/1080x1920/YcJDeql_nirH1swm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080329318140686336/vid/avc1/480x852/pHS1f26zgSvNcYlo.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080329318140686336/vid/avc1/2160x3840/KTbeAByfuOpjduG2.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080329318140686336/vid/avc1/320x568/Y5qi7FX7H916nqCB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080329318140686336/vid/avc1/720x1280/CoGD7GAZx5jwHHcU.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2080329438735278143",
+        "created_at": "2026-07-23T16:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080333238409834564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "417165222",
+              "start": 0,
+              "username": "neginegi555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080333238409834564",
+        "in_reply_to_user_id": "417165222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080329438735278143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neginegi555 可以做一个智能的零件收纳盒（）\n0603 这种大的贴片买错了懒得换的话，阻值差的不多也可以搭棚通过串并联调整一下阻值（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080329318140686336"
+          ]
+        },
+        "author_id": "417165222",
+        "conversation_id": "2080329438735278143",
+        "created_at": "2026-07-23T16:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080329438735278143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sDnwRAtUwz",
+              "end": 29,
+              "expanded_url": "https://x.com/neginegi555/status/2080329438735278143/video/1",
+              "media_key": "13_2080329318140686336",
+              "start": 6,
+              "url": "https://t.co/sDnwRAtUwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080329438735278143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大事な話！ https://t.co/sDnwRAtUwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 775,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 3618
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-20T16:21:07.000Z",
+        "description": "Ascetic/ロリィタ、生粋なAtelier BOZ信者/機器保守系/レトロPC＆コンソール色々所有/プロの通訳🇯🇵🇨🇳/IHIレベルの重加工  欲しい物https://t.co/77Lf8ktueT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/3Qf51",
+                "end": 101,
+                "expanded_url": "https://x.gd/3Qf51",
+                "start": 78,
+                "url": "https://t.co/77Lf8ktueT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neginegi555",
+                "end": 23,
+                "expanded_url": "https://lit.link/neginegi555",
+                "start": 0,
+                "url": "https://t.co/8EFYvOChfP"
+              }
+            ]
+          }
+        },
+        "id": "417165222",
+        "location": "ブラウン管の妖精(耐圧200VAC)",
+        "name": "鴨川ネギ (⃔ *`꒳´ * )⃕↝🖤",
+        "pinned_tweet_id": "2073094025075404877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990001618348281857/Xy4_081k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 752,
+          "like_count": 16929,
+          "listed_count": 20,
+          "media_count": 3420,
+          "tweet_count": 10934
+        },
+        "url": "https://t.co/8EFYvOChfP",
+        "username": "neginegi555",
+        "verified": true
+      }
+    ]
+  }
+}

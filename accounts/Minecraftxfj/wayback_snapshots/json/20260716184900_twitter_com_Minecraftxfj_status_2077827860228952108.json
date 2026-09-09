@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2077814229919547534",
+    "created_at": "2026-07-16T18:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077827860228952108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516941936971554817",
+          "start": 0,
+          "username": "wolfyxbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077827860228952108",
+    "in_reply_to_user_id": "1516941936971554817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077814229919547534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wolfyxbt 伞兵一号卢本伟！！！准！备！就！绪！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1753,
+        "media_key": "3_2077814227210027008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXhB-obQAANfEW.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2077814229919547534",
+        "created_at": "2026-07-16T18:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077827860228952108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516941936971554817",
+              "start": 0,
+              "username": "wolfyxbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077827860228952108",
+        "in_reply_to_user_id": "1516941936971554817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077814229919547534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolfyxbt 伞兵一号卢本伟！！！准！备！就！绪！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077814227210027008"
+          ]
+        },
+        "author_id": "1516941936971554817",
+        "conversation_id": "2077814229919547534",
+        "created_at": "2026-07-16T17:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077814229919547534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5lkGQxrO4",
+              "end": 64,
+              "expanded_url": "https://x.com/wolfyxbt/status/2077814229919547534/photo/1",
+              "media_key": "3_2077814227210027008",
+              "start": 41,
+              "url": "https://t.co/Q5lkGQxrO4"
+            },
+            {
+              "display_url": "x.com/15169419369715…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/1516941936971554817/status/1910715353745023307",
+              "start": 65,
+              "url": "https://t.co/k82EKOOXJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077814229919547534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11825,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910715353745023307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卢本伟回归了\n\n抖音那里已经全体起立了，X 这里还没有起立\n\n现在开始，全体起立 https://t.co/Q5lkGQxrO4 https://t.co/k82EKOOXJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 616,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2849
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "目前专注 5 件事：炒币、打飞机、找番号、Vibe Coding、建设 @CHILABS_｜币安返佣：https://t.co/AUJdXS2sTr｜交易 Memecoin 推荐使用币安 Web3 钱包：https://t.co/msPjqdJALu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "CHILABS_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=S…",
+                "end": 74,
+                "expanded_url": "http://binance.com/register?ref=SPL001",
+                "start": 51,
+                "url": "https://t.co/AUJdXS2sTr"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=S…",
+                "end": 125,
+                "expanded_url": "http://web3.binance.com/referral?ref=SPL001",
+                "start": 102,
+                "url": "https://t.co/msPjqdJALu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wolfyxbt",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/wolfyxbt",
+                "start": 0,
+                "url": "https://t.co/plPhSkkg4O"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "交易所返佣链接 →",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "1980990613739970728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855625,
+          "following_count": 7738,
+          "like_count": 54938,
+          "listed_count": 3788,
+          "media_count": 2898,
+          "tweet_count": 22174
+        },
+        "url": "https://t.co/plPhSkkg4O",
+        "username": "wolfyxbt",
+        "verified": true
+      }
+    ]
+  }
+}

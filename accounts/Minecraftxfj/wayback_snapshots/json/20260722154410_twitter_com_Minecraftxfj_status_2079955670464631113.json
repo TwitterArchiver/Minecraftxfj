@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2079676149878411584",
+    "created_at": "2026-07-22T15:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079955670464631113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032436888334946304",
+          "start": 0,
+          "username": "guisuwer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079955670464631113",
+    "in_reply_to_user_id": "2032436888334946304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079676149878411584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guisuwer 其实都能清洁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2418,
+        "media_key": "3_2079676030588207104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx-VMsawAAZvzl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079676149878411584",
+        "created_at": "2026-07-22T15:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079955670464631113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032436888334946304",
+              "start": 0,
+              "username": "guisuwer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079955670464631113",
+        "in_reply_to_user_id": "2032436888334946304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079676149878411584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guisuwer 其实都能清洁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079676030588207104"
+          ]
+        },
+        "author_id": "2032436888334946304",
+        "conversation_id": "2079676149878411584",
+        "created_at": "2026-07-21T21:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079676149878411584"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "日常"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "傻子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wH65JTzvOt",
+              "end": 49,
+              "expanded_url": "https://x.com/guisuwer/status/2079676149878411584/photo/1",
+              "media_key": "3_2079676030588207104",
+              "start": 26,
+              "url": "https://t.co/wH65JTzvOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079676149878411584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "666半夜刷牙差点把这个当牙膏挤了\n＃日常 ＃傻子 https://t.co/wH65JTzvOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 108,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 743,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 3526
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T12:41:49.000Z",
+        "description": "09生人，爱好上网，爱玩暗区突围\nx潜水冠军，消肿笔\n和真人情感已破裂🤕\n恋物癖喜欢AK12（不是战术人型）",
+        "id": "2032436888334946304",
+        "name": "硅溯wer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079295304952893440/vlRlivOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 23,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "guisuwer",
+        "verified": false
+      }
+    ]
+  }
+}

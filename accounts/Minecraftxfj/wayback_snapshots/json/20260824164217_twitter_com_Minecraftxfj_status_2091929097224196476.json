@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091929070200401920",
+        "3_2091929078245076995",
+        "3_2091929087078281220"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091929097224196476",
+    "created_at": "2026-08-24T16:42:17.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091929097224196476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tXrXy5a0Xp",
+          "end": 168,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2091929097224196476/photo/1",
+          "media_key": "3_2091929070200401920",
+          "start": 145,
+          "url": "https://t.co/tXrXy5a0Xp"
+        },
+        {
+          "display_url": "pic.x.com/tXrXy5a0Xp",
+          "end": 168,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2091929097224196476/photo/1",
+          "media_key": "3_2091929078245076995",
+          "start": 145,
+          "url": "https://t.co/tXrXy5a0Xp"
+        },
+        {
+          "display_url": "pic.x.com/tXrXy5a0Xp",
+          "end": 168,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2091929097224196476/photo/1",
+          "media_key": "3_2091929087078281220",
+          "start": 145,
+          "url": "https://t.co/tXrXy5a0Xp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091929097224196476",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091929070200401920"
+      },
+      {
+        "media_key": "3_2091929078245076995"
+      },
+      {
+        "media_key": "3_2091929087078281220"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "有人利用第三方中转站服务，接入了claude模型并绕过了安全政策，组建了破甲模型，并对当地政府网站进行网络入侵攻击，而模型认为这只是普通的攻防测试，从而导致政府网站被入侵，真实个人数据大量泄露，然后中转站被“大清洗”，要求涉及对个人用途接入国外模型的中转站立即整顿，也就是客观看来即中转站大规模倒闭"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人利用第三方中转站服务，接入了claude模型并绕过了安全政策，组建了破甲模型，并对当地政府网站进行网络入侵攻击，而模型认为这只是普通的攻防测试，从而导致政府网站被入侵，真实个人数据大量泄露，然后中转站被“大清洗”，要求涉及对个人用途接入国外模型的中转站立即整顿，也就是客观看来即中转站 https://t.co/tXrXy5a0Xp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2091929070200401920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgGZ-SbsAAiGqZ.jpg",
+        "width": 700
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2091929078245076995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgGacQbsAMCngp.jpg",
+        "width": 882
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2091929087078281220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgGa9KbsAQYwZv.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091929070200401920",
+            "3_2091929078245076995",
+            "3_2091929087078281220"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091929097224196476",
+        "created_at": "2026-08-24T16:42:17.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091929097224196476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXrXy5a0Xp",
+              "end": 168,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2091929097224196476/photo/1",
+              "media_key": "3_2091929070200401920",
+              "start": 145,
+              "url": "https://t.co/tXrXy5a0Xp"
+            },
+            {
+              "display_url": "pic.x.com/tXrXy5a0Xp",
+              "end": 168,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2091929097224196476/photo/1",
+              "media_key": "3_2091929078245076995",
+              "start": 145,
+              "url": "https://t.co/tXrXy5a0Xp"
+            },
+            {
+              "display_url": "pic.x.com/tXrXy5a0Xp",
+              "end": 168,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2091929097224196476/photo/1",
+              "media_key": "3_2091929087078281220",
+              "start": 145,
+              "url": "https://t.co/tXrXy5a0Xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091929097224196476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091929070200401920"
+          },
+          {
+            "media_key": "3_2091929078245076995"
+          },
+          {
+            "media_key": "3_2091929087078281220"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "有人利用第三方中转站服务，接入了claude模型并绕过了安全政策，组建了破甲模型，并对当地政府网站进行网络入侵攻击，而模型认为这只是普通的攻防测试，从而导致政府网站被入侵，真实个人数据大量泄露，然后中转站被“大清洗”，要求涉及对个人用途接入国外模型的中转站立即整顿，也就是客观看来即中转站大规模倒闭"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人利用第三方中转站服务，接入了claude模型并绕过了安全政策，组建了破甲模型，并对当地政府网站进行网络入侵攻击，而模型认为这只是普通的攻防测试，从而导致政府网站被入侵，真实个人数据大量泄露，然后中转站被“大清洗”，要求涉及对个人用途接入国外模型的中转站立即整顿，也就是客观看来即中转站 https://t.co/tXrXy5a0Xp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2091929097224196476",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1408,
+          "like_count": 1769,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 5950
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

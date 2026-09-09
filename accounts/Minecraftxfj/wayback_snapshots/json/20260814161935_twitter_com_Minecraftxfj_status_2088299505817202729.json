@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2088284364895555945",
+    "created_at": "2026-08-14T16:19:35.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088299505817202729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035527946354716672",
+          "start": 0,
+          "username": "Amatsukiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088299505817202729",
+    "in_reply_to_user_id": "2035527946354716672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088284364895555945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukiqwq 你很可爱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2088284364895555945",
+        "created_at": "2026-08-14T16:19:35.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088299505817202729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035527946354716672",
+              "start": 0,
+              "username": "Amatsukiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088299505817202729",
+        "in_reply_to_user_id": "2035527946354716672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088284364895555945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukiqwq 你很可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035527946354716672",
+        "conversation_id": "2088284364895555945",
+        "created_at": "2026-08-14T15:19:25.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088284364895555945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2035527946354716672",
+              "start": 9,
+              "username": "Amatsukiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088284364895555945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价 X 用户@Amatsukiqwq ？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2088299505817202729",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 1366,
+          "like_count": 974,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 5281
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T01:25:44.000Z",
+        "description": "🏳️‍⚧️🍥|简体中文/正體中文/日本語|日本の文化と文学が好き|バンドリ、プロセカをプレイ\n总之大家可以来找我聊天交朋友\n同类互fo",
+        "id": "2035527946354716672",
+        "is_identity_verified": false,
+        "location": "重慶",
+        "most_recent_tweet_id": "2088288266919506170",
+        "name": "天月🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "2072508716562383206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035527946354716672/1782924399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511169758064640/ImfSq6Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 682,
+          "like_count": 7229,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "Amatsukiqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

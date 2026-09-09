@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2083615877644357908",
+    "created_at": "2026-08-01T23:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T00:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083693363774333133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034245121009729536",
+          "start": 0,
+          "username": "qianjianmoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083693363774333133",
+    "in_reply_to_user_id": "2034245121009729536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083615877644357908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianjianmoxin 八位纯数字 xyz 域名便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2083615877644357908",
+        "created_at": "2026-08-01T23:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083693363774333133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034245121009729536",
+              "start": 0,
+              "username": "qianjianmoxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083693363774333133",
+        "in_reply_to_user_id": "2034245121009729536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083615877644357908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianjianmoxin 八位纯数字 xyz 域名便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034245121009729536",
+        "conversation_id": "2083615877644357908",
+        "created_at": "2026-08-01T18:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083615877644357908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083615877644357908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "决定买一个xyz域名 好像有一个厂家每年只需要七块 这个有点划算，那必须拿下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 894,
+          "like_count": 331,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 3949
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-18T12:27:43.000Z",
+        "description": "写代理的 neko唯一开发者&维护者欢迎随时提问&开issue\ntg：https://t.co/qXqTtHlylN\ngit: https://t.co/0FsJQZR1Sk\nmail kensd0490@gmail.com\nヤンデレに狂わされたい",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinmoyu",
+                "end": 58,
+                "expanded_url": "https://t.me/xinmoyu",
+                "start": 35,
+                "url": "https://t.co/qXqTtHlylN"
+              },
+              {
+                "display_url": "github.com/nekokemoji",
+                "end": 87,
+                "expanded_url": "https://github.com/nekokemoji",
+                "start": 64,
+                "url": "https://t.co/0FsJQZR1Sk"
+              }
+            ]
+          }
+        },
+        "id": "2034245121009729536",
+        "name": "浅见墨心🏳️‍⚧️",
+        "pinned_tweet_id": "2082124978997346372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070910174450360320/K4W57DUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 232,
+          "like_count": 360,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 1305
+        },
+        "url": "",
+        "username": "qianjianmoxin",
+        "verified": false
+      }
+    ]
+  }
+}

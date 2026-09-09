@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2082412805714854080",
+    "created_at": "2026-07-29T14:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082468873371258940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2658834144",
+          "start": 0,
+          "username": "JOERze_VR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082468873371258940",
+    "in_reply_to_user_id": "2658834144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082412805714854080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JOERze_VR 好哦生快！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_2082412713863778304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY3VIWbkAAOamE.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2082412805714854080",
+        "created_at": "2026-07-29T14:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082468873371258940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2658834144",
+              "start": 0,
+              "username": "JOERze_VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082468873371258940",
+        "in_reply_to_user_id": "2658834144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082412805714854080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JOERze_VR 好哦生快！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082412713863778304"
+          ]
+        },
+        "author_id": "2658834144",
+        "conversation_id": "2082412805714854080",
+        "created_at": "2026-07-29T10:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082412805714854080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgIuVHeprV",
+              "end": 32,
+              "expanded_url": "https://x.com/JOERze_VR/status/2082412805714854080/photo/1",
+              "media_key": "3_2082412713863778304",
+              "start": 9,
+              "url": "https://t.co/XgIuVHeprV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082412805714854080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4655,
+          "like_count": 335,
+          "quote_count": 1,
+          "reply_count": 131,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "終於輪到我生日了 https://t.co/XgIuVHeprV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 824,
+          "like_count": 289,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-19T06:50:34.000Z",
+        "description": "Twitch Partner 紫勾勾🍡\nYoutube萬訂🎀\n恋ゆきママ@koiyuki841201\n紫陽パパ@ziyang0719\n語言：中文O/日本語▲/ENG▲ \n特色：FPS、女裝精華、爵士鼓Cover\nHashtag #嬌蘿\nFanArt #嬌繪\nFanName #狐焦糖粉\n#個人勢 #台灣Vtuber",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 114,
+                "tag": "嬌蘿"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "嬌繪"
+              },
+              {
+                "end": 142,
+                "start": 137,
+                "tag": "狐焦糖粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "個人勢"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "tag": "台灣Vtuber"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "koiyuki841201"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "ziyang0719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/joerze",
+                "end": 23,
+                "expanded_url": "https://lit.link/joerze",
+                "start": 0,
+                "url": "https://t.co/KFXiRHiuVJ"
+              }
+            ]
+          }
+        },
+        "id": "2658834144",
+        "location": "台灣",
+        "name": "焦兒JOERze🌸蘿太Vtuber",
+        "pinned_tweet_id": "1831192654723588572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685664382376890368/gJ5qTY_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22582,
+          "following_count": 1553,
+          "like_count": 126588,
+          "listed_count": 53,
+          "media_count": 2344,
+          "tweet_count": 79641
+        },
+        "url": "https://t.co/KFXiRHiuVJ",
+        "username": "JOERze_VR",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085803021662130686",
+    "created_at": "2026-08-07T22:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T23:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085853225895538692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954959493810515968",
+          "start": 0,
+          "username": "Chi777_Guuuu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085853225895538692",
+    "in_reply_to_user_id": "1954959493810515968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085803021662130686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chi777_Guuuu_ 抱抱，都看完了，你真的很绝望，祝你能跑出去吧，跑的越远越好\n还有，不要再伤害自己了喵，对自己好点，明天对你会是很有意义的一天，生日快乐，希望未来你能天天开心～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085803021662130686",
+        "created_at": "2026-08-07T22:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T23:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085853225895538692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954959493810515968",
+              "start": 0,
+              "username": "Chi777_Guuuu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085853225895538692",
+        "in_reply_to_user_id": "1954959493810515968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085803021662130686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chi777_Guuuu_ 抱抱，都看完了，你真的很绝望，祝你能跑出去吧，跑的越远越好\n还有，不要再伤害自己了喵，对自己好点，明天对你会是很有意义的一天，生日快乐，希望未来你能天天开心～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954959493810515968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2085803021662130686",
+        "created_at": "2026-08-07T18:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085803021662130686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085803021662130686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天我就要19岁了 突然就很想聊一聊自己目前以来的人生\n我出生在一个并不富裕的家庭 我的父亲是二婚 我还有一个同父异母的哥哥只不过我跟他并不熟 他和我爸的关系也不怎么好\n很小的时候我对我爸的印象就是爱打人 我不知道大人之间发生了什么事情 但是至少一个星期有两三次都会看到我爸在打我妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1261,
+          "like_count": 549,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 4620
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-11T17:34:08.000Z",
+        "description": "专心经营自己的下水道生活\n我只是一个心理极度黑暗扭曲的女孩 我有各种各样的奇怪癖好 但是对待感情依旧真诚 我只是在做自己的事\n纯绿🚪88推上陪聊 ➕52获得微信好友位",
+        "id": "1954959493810515968",
+        "name": "耻骨",
+        "pinned_tweet_id": "2083181835581006334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533665746411520/K7wdQ2rc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 18,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "Chi777_Guuuu_",
+        "verified": false
+      }
+    ]
+  }
+}

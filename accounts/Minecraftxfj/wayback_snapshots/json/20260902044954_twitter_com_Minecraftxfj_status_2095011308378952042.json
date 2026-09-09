@@ -1,0 +1,839 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Tim Cook",
+          "id": "809105292814270464",
+          "name": "Tim Cook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tim Cook",
+          "id": "809105292814270464",
+          "name": "Tim Cook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2095011308378952042",
+    "created_at": "2026-09-02T04:49:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095011308378952042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602320477347000325",
+          "start": 3,
+          "username": "landiantech"
+        },
+        {
+          "end": 29,
+          "id": "380749300",
+          "start": 23,
+          "username": "Apple"
+        },
+        {
+          "end": 42,
+          "id": "1636590253",
+          "start": 33,
+          "username": "tim_cook"
+        },
+        {
+          "end": 62,
+          "id": "2067675948074582016",
+          "start": 51,
+          "username": "johnternus"
+        },
+        {
+          "end": 99,
+          "id": "380749300",
+          "start": 93,
+          "username": "Apple"
+        },
+        {
+          "end": 124,
+          "id": "1636590253",
+          "start": 115,
+          "username": "tim_cook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095011308378952042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094824431671734494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landiantech: 苹果官方账号@Apple 已取关@tim_cook ，现在唯一关注是@johnternus 🤣🤣🤣\n\nApple’s official account @Apple has unfollowed @tim_cook. The only acco…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_2094824420242341892",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJPthtbwAQfeHK.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1259,
+        "media_key": "3_2094824420242313216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJPthtbUAAKCoH.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2095011308378952042",
+        "created_at": "2026-09-02T04:49:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095011308378952042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602320477347000325",
+              "start": 3,
+              "username": "landiantech"
+            },
+            {
+              "end": 29,
+              "id": "380749300",
+              "start": 23,
+              "username": "Apple"
+            },
+            {
+              "end": 42,
+              "id": "1636590253",
+              "start": 33,
+              "username": "tim_cook"
+            },
+            {
+              "end": 62,
+              "id": "2067675948074582016",
+              "start": 51,
+              "username": "johnternus"
+            },
+            {
+              "end": 99,
+              "id": "380749300",
+              "start": 93,
+              "username": "Apple"
+            },
+            {
+              "end": 124,
+              "id": "1636590253",
+              "start": 115,
+              "username": "tim_cook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095011308378952042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094824431671734494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landiantech: 苹果官方账号@Apple 已取关@tim_cook ，现在唯一关注是@johnternus 🤣🤣🤣\n\nApple’s official account @Apple has unfollowed @tim_cook. The only acco…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094824420242341892",
+            "3_2094824420242313216"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2094824431671734494",
+        "created_at": "2026-09-01T16:27:19.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094824431671734494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "380749300",
+              "start": 6,
+              "username": "Apple"
+            },
+            {
+              "end": 25,
+              "id": "1636590253",
+              "start": 16,
+              "username": "tim_cook"
+            },
+            {
+              "end": 45,
+              "id": "2067675948074582016",
+              "start": 34,
+              "username": "johnternus"
+            },
+            {
+              "end": 82,
+              "id": "380749300",
+              "start": 76,
+              "username": "Apple"
+            },
+            {
+              "end": 107,
+              "id": "1636590253",
+              "start": 98,
+              "username": "tim_cook"
+            },
+            {
+              "end": 159,
+              "id": "2067675948074582016",
+              "start": 148,
+              "username": "johnternus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdvEOO0keQ",
+              "end": 187,
+              "expanded_url": "https://x.com/landiantech/status/2094824431671734494/photo/1",
+              "media_key": "3_2094824420242341892",
+              "start": 164,
+              "url": "https://t.co/BdvEOO0keQ"
+            },
+            {
+              "display_url": "pic.x.com/BdvEOO0keQ",
+              "end": 187,
+              "expanded_url": "https://x.com/landiantech/status/2094824431671734494/photo/1",
+              "media_key": "3_2094824420242313216",
+              "start": 164,
+              "url": "https://t.co/BdvEOO0keQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094824431671734494",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094824420242341892"
+          },
+          {
+            "media_key": "3_2094824420242313216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 93595,
+          "like_count": 469,
+          "quote_count": 17,
+          "reply_count": 79,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "苹果官方账号@Apple 已取关@tim_cook ，现在唯一关注是@johnternus 🤣🤣🤣\n\nApple’s official account @Apple has unfollowed @tim_cook. The only account it’s following now is @johnternus 🤣🤣🤣 https://t.co/BdvEOO0keQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2095011308378952042",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 1433,
+          "like_count": 2521,
+          "listed_count": 2,
+          "media_count": 619,
+          "tweet_count": 6392
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2094999255043977565",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2094679266130846179",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37493,
+          "following_count": 809,
+          "like_count": 6332,
+          "listed_count": 280,
+          "media_count": 6536,
+          "tweet_count": 17703
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rvXrq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rvXrq"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "is_identity_verified": false,
+        "location": "Cupertino, CA",
+        "most_recent_tweet_id": "2094623099052249486",
+        "name": "Apple",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/380749300/1787760992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9940310,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 15326,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "Apple",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_bigger.png",
+          "description": "Apple",
+          "url": "https://twitter.com/Apple",
+          "user_id": [
+            "380749300"
+          ]
+        },
+        "created_at": "2013-07-31T22:41:25.000Z",
+        "description": "Apple Executive Chairman",
+        "id": "1636590253",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094448088199078236",
+        "name": "Tim Cook",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1636590253/1788287713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094812189299494912/HDF7GRVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19827930,
+          "following_count": 71,
+          "like_count": 1987,
+          "listed_count": 24759,
+          "media_count": 867,
+          "tweet_count": 1946
+        },
+        "url": "",
+        "username": "tim_cook",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_bigger.png",
+          "description": "Apple",
+          "url": "https://twitter.com/Apple",
+          "user_id": [
+            "380749300"
+          ]
+        },
+        "created_at": "2026-06-18T18:28:56.000Z",
+        "description": " CEO",
+        "id": "2067675948074582016",
+        "is_identity_verified": false,
+        "location": "Cupertino",
+        "most_recent_tweet_id": "2094814214787633367",
+        "name": "John Ternus",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067675948074582016/1788276892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094817326155939840/MVSN5mvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645050,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 846,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "johnternus",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

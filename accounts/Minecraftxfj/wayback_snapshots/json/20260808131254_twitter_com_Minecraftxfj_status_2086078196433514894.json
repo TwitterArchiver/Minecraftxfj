@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086078187579314176"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2086068300379988090",
+    "created_at": "2026-08-08T13:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T14:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086078196433514894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7qjr1zz0A",
+          "end": 38,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2086078196433514894/photo/1",
+          "media_key": "3_2086078187579314176",
+          "start": 15,
+          "url": "https://t.co/l7qjr1zz0A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086078196433514894",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086068300379988090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 猜你在玩： https://t.co/l7qjr1zz0A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 87,
+        "media_key": "3_2086078187579314176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPM9DyBbEAAUzIe.png",
+        "width": 80
+      },
+      {
+        "height": 3227,
+        "media_key": "3_2086068266058039296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPM0CReawAAF75j.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086078187579314176"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2086068300379988090",
+        "created_at": "2026-08-08T13:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T14:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086078196433514894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7qjr1zz0A",
+              "end": 38,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2086078196433514894/photo/1",
+              "media_key": "3_2086078187579314176",
+              "start": 15,
+              "url": "https://t.co/l7qjr1zz0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086078196433514894",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086068300379988090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 猜你在玩： https://t.co/l7qjr1zz0A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086068266058039296"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2086068300379988090",
+        "created_at": "2026-08-08T12:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086068300379988090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v30v7Kn75K",
+              "end": 123,
+              "expanded_url": "https://x.com/gdioiui/status/2086068300379988090/photo/1",
+              "media_key": "3_2086068266058039296",
+              "start": 100,
+              "url": "https://t.co/v30v7Kn75K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086068300379988090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来领扭蛋了喵!什么叫扭蛋没有了只剩挑蛋了喵?不要这个喵!别靠近我喵!窝不要扭蛋了喵!放我走吧喵!我上有大喵下有小喵的喵!放过窝喵!哦齁齁齁齁挑蛋已经塞不下了喵!不要喵...别塞了喵...已经不行了 https://t.co/v30v7Kn75K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 1295,
+          "like_count": 605,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 4700
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 496,
+          "like_count": 4935,
+          "listed_count": 5,
+          "media_count": 1741,
+          "tweet_count": 8806
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2089540787726111222",
+    "created_at": "2026-08-18T15:35:17.000Z",
+    "display_text_range": [
+      24,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089737906659418324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        },
+        {
+          "end": 23,
+          "id": "18236716",
+          "start": 13,
+          "username": "backblaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089737906659418324",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089540787726111222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech @backblaze 用了十多块硬盘，还真是这样，坏的大部分都是希捷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2089377934725496832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP72KWDaQAAPhSm.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2089540787726111222",
+        "created_at": "2026-08-18T15:35:17.000Z",
+        "display_text_range": [
+          24,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089737906659418324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            },
+            {
+              "end": 23,
+              "id": "18236716",
+              "start": 13,
+              "username": "backblaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089737906659418324",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089540787726111222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech @backblaze 用了十多块硬盘，还真是这样，坏的大部分都是希捷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089377934725496832"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089540787726111222",
+        "created_at": "2026-08-18T02:32:00.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089540787726111222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "硬盘选购参考"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 82,
+              "id": "18236716",
+              "start": 72,
+              "username": "backblaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRWbqBfgEp",
+              "end": 189,
+              "expanded_url": "https://x.com/landiantech/status/2089540787726111222/photo/1",
+              "media_key": "3_2089377934725496832",
+              "start": 166,
+              "url": "https://t.co/vRWbqBfgEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089540787726111222",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089377934725496832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "硬盘选购参考"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "id": "18236716",
+                "start": 72,
+                "username": "Backblaze"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/126287?x",
+                "end": 294,
+                "expanded_url": "https://ourl.co/126287?x",
+                "start": 271,
+                "url": "https://t.co/TwS8exUD5P"
+              }
+            ]
+          },
+          "text": "#硬盘选购参考 研究显示 HGST (日立，已被西数收购) 与西部数据机械硬盘故障率更低，而希捷和东芝硬盘故障率要明显更高。\n\n有研究团队获取 @Backblaze 集群中使用的 44.3 万块硬盘数据，然后深度分析后发布研究论文，该论文已经被 IEEE 接收。\n\n故障率：HGST 39%、西部数据 51%、希捷 100%、东芝 107%。\n\n研究还发现，东芝硬盘运行满 5 年后故障率会明显增加 (通常保修期就是 5 年)，而希捷在早期使用阶段故障率相比其他盘更高，但如果早期没挂，使用超过 5 年平均故障率也没有明显增加。\n\n查看全文：https://t.co/TwS8exUD5P"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 13331,
+          "like_count": 89,
+          "quote_count": 4,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#硬盘选购参考 研究显示 HGST (日立，已被西数收购) 与西部数据机械硬盘故障率更低，而希捷和东芝硬盘故障率要明显更高。\n\n有研究团队获取 @Backblaze 集群中使用的 44.3 万块硬盘数据，然后深度分析后发布研究论文，该论文已经被 IEEE 接收。\n\n故障率：HGST 39%、西部数据 51%、希捷 100%、东芝 https://t.co/vRWbqBfgEp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2089737906659418324",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1414,
+          "like_count": 1344,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 5608
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2089711127253176444",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2084467358127780272",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37222,
+          "following_count": 803,
+          "like_count": 6012,
+          "listed_count": 281,
+          "media_count": 6376,
+          "tweet_count": 17356
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-12-19T06:27:02.000Z",
+        "description": "The object storage layer for AI: no lock-in, egress fees, or hyperscaler tax. Just storage built to scale.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "backblaze.com",
+                "end": 23,
+                "expanded_url": "http://www.backblaze.com",
+                "start": 0,
+                "url": "https://t.co/sSLImOuHgB"
+              }
+            ]
+          }
+        },
+        "id": "18236716",
+        "is_identity_verified": false,
+        "location": "San Mateo, CA",
+        "most_recent_tweet_id": "2088327419853766767",
+        "name": "Backblaze",
+        "pinned_tweet_id": "2080276786781249740",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18236716/1730478160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666847548924129281/4WjCdog-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17896,
+          "following_count": 42,
+          "like_count": 1148,
+          "listed_count": 646,
+          "media_count": 4322,
+          "tweet_count": 57658
+        },
+        "url": "https://t.co/sSLImOuHgB",
+        "username": "backblaze",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

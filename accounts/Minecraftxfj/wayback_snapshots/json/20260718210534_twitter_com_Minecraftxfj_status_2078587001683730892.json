@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078443325498204301",
+    "created_at": "2026-07-18T21:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078587001683730892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555936278352633859",
+          "start": 0,
+          "username": "Royal_Zeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078587001683730892",
+    "in_reply_to_user_id": "1555936278352633859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078443325498204301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Royal_Zeng 好让人羡慕的房间"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078443318212722688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgdL5PagAAccHq.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078443325498204301",
+        "created_at": "2026-07-18T21:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078587001683730892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555936278352633859",
+              "start": 0,
+              "username": "Royal_Zeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078587001683730892",
+        "in_reply_to_user_id": "1555936278352633859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078443325498204301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Royal_Zeng 好让人羡慕的房间"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078443318212722688"
+          ]
+        },
+        "author_id": "1555936278352633859",
+        "conversation_id": "2078443325498204301",
+        "created_at": "2026-07-18T11:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078443325498204301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQA5T9Lti0",
+              "end": 34,
+              "expanded_url": "https://x.com/Royal_Zeng/status/2078443325498204301/photo/1",
+              "media_key": "3_2078443318212722688",
+              "start": 11,
+              "url": "https://t.co/SQA5T9Lti0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078443325498204301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1312,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "部屋を片付けてみた！ https://t.co/SQA5T9Lti0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 645,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 3121
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-06T15:18:22.000Z",
+        "description": "絵描き",
+        "id": "1555936278352633859",
+        "name": "Can",
+        "pinned_tweet_id": "2036560452910719153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009216349055406082/JcOLTa1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 362,
+          "like_count": 42165,
+          "listed_count": 5,
+          "media_count": 268,
+          "tweet_count": 3701
+        },
+        "url": "",
+        "username": "Royal_Zeng",
+        "verified": false
+      }
+    ]
+  }
+}

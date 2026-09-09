@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2090102829109363071",
+    "created_at": "2026-08-20T04:52:10.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T05:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090300839378460797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2086286552595132416",
+          "start": 0,
+          "username": "lmdsf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090300839378460797",
+    "in_reply_to_user_id": "2086286552595132416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090102829109363071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmdsf6 晚安🕯…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2090102800554639360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGJbFsbwAAfzvu.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1890,
+        "media_key": "3_2090102810243465216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGJbpybgAAey3u.jpg",
+        "width": 1259
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2090102820632723456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGJcQfbAAAC_8r.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2090102829109363071",
+        "created_at": "2026-08-20T04:52:10.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090300839378460797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2086286552595132416",
+              "start": 0,
+              "username": "lmdsf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090300839378460797",
+        "in_reply_to_user_id": "2086286552595132416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090102829109363071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmdsf6 晚安🕯…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090102800554639360",
+            "3_2090102810243465216",
+            "3_2090102820632723456"
+          ]
+        },
+        "author_id": "2086286552595132416",
+        "conversation_id": "2090102829109363071",
+        "created_at": "2026-08-19T15:45:21.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090102829109363071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hk4whH1J8x",
+              "end": 169,
+              "expanded_url": "https://x.com/lmdsf6/status/2090102829109363071/photo/1",
+              "media_key": "3_2090102800554639360",
+              "start": 146,
+              "url": "https://t.co/Hk4whH1J8x"
+            },
+            {
+              "display_url": "pic.x.com/Hk4whH1J8x",
+              "end": 169,
+              "expanded_url": "https://x.com/lmdsf6/status/2090102829109363071/photo/1",
+              "media_key": "3_2090102810243465216",
+              "start": 146,
+              "url": "https://t.co/Hk4whH1J8x"
+            },
+            {
+              "display_url": "pic.x.com/Hk4whH1J8x",
+              "end": 169,
+              "expanded_url": "https://x.com/lmdsf6/status/2090102829109363071/photo/1",
+              "media_key": "3_2090102820632723456",
+              "start": 146,
+              "url": "https://t.co/Hk4whH1J8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090102829109363071",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090102800554639360"
+          },
+          {
+            "media_key": "3_2090102810243465216"
+          },
+          {
+            "media_key": "3_2090102820632723456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 9354,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\n泠月，上海人，跨性别者，2009年3月17日出生，于公元2026年8月19日凌晨6时吞药离世，享年17岁。\n\n我等悲痛，写下讣告。\n\n请大家向逝者泠月肃穆垂首\n\n此前离世的跨性别者：\n猫猫\n\n小陈\n\n酥酥\n\n糖糖\n\n雪风\n\n星星\n\n（默哀）\n明晚将会开始线上追悼会，有意者可以私信我 https://t.co/Hk4whH1J8x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2090300839378460797",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 1392,
+          "like_count": 1409,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 5673
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T03:01:55.000Z",
+        "description": "🏳️‍⚧️18岁·mtf高三女生+业余作者 |CPTSD MDD GAD 患者 | 相信故事里的温柔也能照进现实 | 希望每个迷路的女孩都能被看见～（如果有最近去世的同类，可以联系我，我可以帮她做祷告，写讣告和悼文）",
+        "id": "2086286552595132416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090102829109363071",
+        "name": "橘猫小支～🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086286552595132416/1786610127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086287305321705474/yKuTR7rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 150,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "lmdsf6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

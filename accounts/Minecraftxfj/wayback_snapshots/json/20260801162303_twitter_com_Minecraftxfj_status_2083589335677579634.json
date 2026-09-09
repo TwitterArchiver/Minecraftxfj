@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2083516807835787611",
+    "created_at": "2026-08-01T16:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083589335677579634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "417165222",
+          "start": 0,
+          "username": "neginegi555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083589335677579634",
+    "in_reply_to_user_id": "417165222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083516807835787611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neginegi555 把控制的部分做成底座，整体是立起来的那种感觉会好看一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19581,
+        "height": 2160,
+        "media_key": "13_2083516709982642176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083516709982642176/img/RqSuS7Hk1Ns9fErE.jpg",
+        "public_metrics": {
+          "view_count": 291
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083516709982642176/vid/avc1/1280x720/tjgTgQYvxMMg6gg1.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083516709982642176/vid/avc1/3840x2160/rqShJri0myLLWA5v.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083516709982642176/vid/avc1/1920x1080/ljBuYcag-WKKR_lW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083516709982642176/pl/4BzFn24hiXbDSmUd.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083516709982642176/vid/avc1/480x270/K_UJ62t8crewnbjs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083516709982642176/vid/avc1/640x360/Jt4SYpBluXGEIV4d.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083516709995220992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOojaKbbEAAgC6e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2083516807835787611",
+        "created_at": "2026-08-01T16:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083589335677579634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "417165222",
+              "start": 0,
+              "username": "neginegi555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083589335677579634",
+        "in_reply_to_user_id": "417165222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083516807835787611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neginegi555 把控制的部分做成底座，整体是立起来的那种感觉会好看一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083516709982642176",
+            "3_2083516709995220992"
+          ]
+        },
+        "author_id": "417165222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083516807835787611",
+        "created_at": "2026-08-01T11:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083516807835787611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbsg2YiDDv",
+              "end": 155,
+              "expanded_url": "https://x.com/neginegi555/status/2083516807835787611/video/1",
+              "media_key": "13_2083516709982642176",
+              "start": 132,
+              "url": "https://t.co/qbsg2YiDDv"
+            },
+            {
+              "display_url": "pic.x.com/qbsg2YiDDv",
+              "end": 155,
+              "expanded_url": "https://x.com/neginegi555/status/2083516807835787611/video/1",
+              "media_key": "3_2083516709995220992",
+              "start": 132,
+              "url": "https://t.co/qbsg2YiDDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083516807835787611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 621,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "オーダーメイドしたニキシー管電波時計のフロントパネルが届いたから早速装着!\n黒のアクリル両面テープ在庫切れなので、レーザー距離測定センサーはまだ仮止め状態だけど、仕様通りにできた( ｰ̀дｰ́)و\n6年越しにやっと自分の思う通りの物が作れた☺️\n我ながら上出来👏 https://t.co/qbsg2YiDDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 887,
+          "like_count": 327,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 3937
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-20T16:21:07.000Z",
+        "description": "Ascetic/ロリィタ、生粋なAtelier BOZ信者/機器保守系/レトロPC＆コンソール色々所有/プロの通訳🇯🇵🇨🇳/IHIレベルの重加工  欲しい物https://t.co/77Lf8ktueT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/3Qf51",
+                "end": 101,
+                "expanded_url": "https://x.gd/3Qf51",
+                "start": 78,
+                "url": "https://t.co/77Lf8ktueT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neginegi555",
+                "end": 23,
+                "expanded_url": "https://lit.link/neginegi555",
+                "start": 0,
+                "url": "https://t.co/8EFYvOChfP"
+              }
+            ]
+          }
+        },
+        "id": "417165222",
+        "location": "ブラウン管の妖精(耐圧200VAC)",
+        "name": "鴨川ネギ (⃔ *`꒳´ * )⃕↝🖤",
+        "pinned_tweet_id": "2073094025075404877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990001618348281857/Xy4_081k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 769,
+          "like_count": 16978,
+          "listed_count": 23,
+          "media_count": 3441,
+          "tweet_count": 11002
+        },
+        "url": "https://t.co/8EFYvOChfP",
+        "username": "neginegi555",
+        "verified": true
+      }
+    ]
+  }
+}

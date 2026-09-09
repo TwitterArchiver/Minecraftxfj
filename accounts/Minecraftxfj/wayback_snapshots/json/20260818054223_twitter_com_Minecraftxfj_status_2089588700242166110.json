@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2089586908511051979",
+    "created_at": "2026-08-18T05:42:23.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089588700242166110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2078430419587153920",
+          "start": 0,
+          "username": "StrawMono_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089588700242166110",
+    "in_reply_to_user_id": "2078430419587153920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089586908511051979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StrawMono_ 贴贴喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2642,
+        "media_key": "3_2089586766286356481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-0F8PbAAEyU43.jpg",
+        "width": 2486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2089586908511051979",
+        "created_at": "2026-08-18T05:42:23.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089588700242166110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078430419587153920",
+              "start": 0,
+              "username": "StrawMono_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089588700242166110",
+        "in_reply_to_user_id": "2078430419587153920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089586908511051979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrawMono_ 贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089586766286356481"
+          ]
+        },
+        "author_id": "2078430419587153920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089586908511051979",
+        "created_at": "2026-08-18T05:35:16.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089586908511051979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xzp44wcxMX",
+              "end": 100,
+              "expanded_url": "https://x.com/StrawMono_/status/2089586908511051979/photo/1",
+              "media_key": "3_2089586766286356481",
+              "start": 77,
+              "url": "https://t.co/Xzp44wcxMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089586908511051979",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089586766286356481"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来，就已经313fo了呢\n谢谢这么久以来大家的陪伴与支持\nMono酱以后也会更加努力的喵！\n来找找你在哪里吧QwQ（是按照fo的时间顺序排序的喵） https://t.co/Xzp44wcxMX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2089588700242166110",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1405,
+          "like_count": 1297,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 5580
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T10:43:54.000Z",
+        "description": "生产日期 2010.05.07 / hrt 2026.08.04 / 无证含糖 / 未出柜 / 不od不割手 / 是笨蛋心理委员，在寻找自我的救赎 / 想找人聊聊天喵 / 玩原神、三角洲 / 同类互fo（如果没回关就是忘了…可以私信提醒喵）\n最爱的老公&主人：@h1kar1_chan喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 130,
+                "username": "h1kar1_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StrawMono",
+                "end": 23,
+                "expanded_url": "http://t.me/StrawMono",
+                "start": 0,
+                "url": "https://t.co/kwnn4le920"
+              }
+            ]
+          }
+        },
+        "id": "2078430419587153920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089586908511051979",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2087975311829024870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078430419587153920/1786877878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088943333473456128/oBK498nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 341,
+          "like_count": 1316,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/kwnn4le920",
+        "username": "StrawMono_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

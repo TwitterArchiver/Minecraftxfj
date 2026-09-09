@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2084963899225559494",
+    "created_at": "2026-08-05T14:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085006327089414354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684572167860801536",
+          "start": 0,
+          "username": "kukmoon97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085006327089414354",
+    "in_reply_to_user_id": "1684572167860801536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085002745095069903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukmoon97 手机吹风扇是体积小散不出去热，会很卡，能高温把电脑都烧坏了要不就是该换电脑了要不就是工况太恶劣了，给专门设计成没有风扇的 Air 找个风扇这很不 Apple（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2084963899225559494",
+        "created_at": "2026-08-05T14:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085006327089414354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684572167860801536",
+              "start": 0,
+              "username": "kukmoon97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085006327089414354",
+        "in_reply_to_user_id": "1684572167860801536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085002745095069903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukmoon97 手机吹风扇是体积小散不出去热，会很卡，能高温把电脑都烧坏了要不就是该换电脑了要不就是工况太恶劣了，给专门设计成没有风扇的 Air 找个风扇这很不 Apple（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684572167860801536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2084963899225559494",
+        "created_at": "2026-08-05T13:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085002745095069903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085002745095069903",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085002145645183282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 高温会导致电子迁移，设备坏得快，我可不想这么快就把宝贝电脑用坏了。\n\n而且换个角度，我发现爱玩手机游戏的那些用户，很多人会给手机配个外置风扇（其实我也有，是给手机和ipad降温的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 978,
+          "like_count": 395,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 4163
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 前 #伪娘｜现 #跨性别 女 ｜#AI + #Office 初心者 🌸 Fmr #crossdresser #CD｜Curr #MtF #transgender #TS｜AI+Office beginner 🌸 元 #女装子｜今や #ニューハーフ ｜AI+Office 初心者 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "伪娘"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "跨性别"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "AI"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Office"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "CD"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "MtF"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "tag": "transgender"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "TS"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "女装子"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2082751392478007801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7643,
+          "following_count": 5000,
+          "like_count": 106403,
+          "listed_count": 7,
+          "media_count": 2080,
+          "tweet_count": 19765
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      }
+    ]
+  }
+}

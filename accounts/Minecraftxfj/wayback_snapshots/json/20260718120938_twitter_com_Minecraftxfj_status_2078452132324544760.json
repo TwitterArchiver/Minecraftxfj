@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078378441121092066",
+    "created_at": "2026-07-18T12:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078452132324544760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078452132324544760",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078378441121092066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO02213882 可以接受它们在胃里融合，但请不要让它们在眼睛前面融合，谢谢😭😭🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2252,
+        "media_key": "3_2078378412696272896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfiJ5WaAAAXePY.jpg",
+        "width": 4000
+      },
+      {
+        "height": 2252,
+        "media_key": "3_2078378427560951808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfiKwubAAA3ADf.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078378441121092066",
+        "created_at": "2026-07-18T12:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078452132324544760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078452132324544760",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078378441121092066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 可以接受它们在胃里融合，但请不要让它们在眼睛前面融合，谢谢😭😭🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078378412696272896",
+            "3_2078378427560951808"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078378441121092066",
+        "created_at": "2026-07-18T07:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078378441121092066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMl5if1xWW",
+              "end": 71,
+              "expanded_url": "https://x.com/OuO02213882/status/2078378441121092066/photo/1",
+              "media_key": "3_2078378412696272896",
+              "start": 48,
+              "url": "https://t.co/PMl5if1xWW"
+            },
+            {
+              "display_url": "pic.x.com/PMl5if1xWW",
+              "end": 71,
+              "expanded_url": "https://x.com/OuO02213882/status/2078378441121092066/photo/1",
+              "media_key": "3_2078378427560951808",
+              "start": 48,
+              "url": "https://t.co/PMl5if1xWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078378441121092066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紫魔爪和粉魔爪泡麵\n紫的比上次好吃\n粉魔爪甜到發膩了 沒吃完喵\n浪費食物了喵\n(請勿模仿喵？） https://t.co/PMl5if1xWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 628,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "mtx？（我會焦慮,他不會）/友善/矛盾/忘了很多事/兩個人格共存（他會保護我）（為什麼我們記憶能互通？）/還在慢慢認識自己喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "pinned_tweet_id": "2074744246817714245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 2152,
+          "like_count": 46187,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

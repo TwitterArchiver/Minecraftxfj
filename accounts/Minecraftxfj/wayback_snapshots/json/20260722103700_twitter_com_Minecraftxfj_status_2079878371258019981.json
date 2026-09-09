@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2079799864582697087",
+    "created_at": "2026-07-22T10:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079878371258019981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "780565239574122496",
+          "start": 0,
+          "username": "Best2Best22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079878371258019981",
+    "in_reply_to_user_id": "780565239574122496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079799864582697087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Best2Best22 一个个的还真选上了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079799847377661952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzu8SLbcAATaDx.jpg",
+        "width": 1563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079799864582697087",
+        "created_at": "2026-07-22T10:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079878371258019981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "780565239574122496",
+              "start": 0,
+              "username": "Best2Best22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079878371258019981",
+        "in_reply_to_user_id": "780565239574122496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079799864582697087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Best2Best22 一个个的还真选上了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079799847377661952"
+          ]
+        },
+        "author_id": "780565239574122496",
+        "conversation_id": "2079799864582697087",
+        "created_at": "2026-07-22T05:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079799864582697087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1m6jBZekL",
+              "end": 41,
+              "expanded_url": "https://x.com/Best2Best22/status/2079799864582697087/photo/1",
+              "media_key": "3_2079799847377661952",
+              "start": 18,
+              "url": "https://t.co/C1m6jBZekL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079799864582697087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有一次机会\n\n只能6选3你选哪项 https://t.co/C1m6jBZekL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 716,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 3457
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-27T00:30:30.000Z",
+        "description": "AI + Crypto   |    美股    |    币圈   |    AI应用   |  投资理财  |    AI技术赋能    |    科技   |   随心所想\n\n世界如此奇妙!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/best2best22",
+                "end": 23,
+                "expanded_url": "http://x.com/best2best22",
+                "start": 0,
+                "url": "https://t.co/t6l3tqPJ7l"
+              }
+            ]
+          }
+        },
+        "id": "780565239574122496",
+        "location": "Hong Kong",
+        "name": "太阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076149226518769664/8eMbvYnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 3021,
+          "like_count": 546,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/t6l3tqPJ7l",
+        "username": "Best2Best22",
+        "verified": true
+      }
+    ]
+  }
+}

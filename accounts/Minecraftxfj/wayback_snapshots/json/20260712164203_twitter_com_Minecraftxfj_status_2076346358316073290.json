@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076334719332196583",
+    "created_at": "2026-07-12T16:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076346358316073290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2942764381",
+          "start": 0,
+          "username": "mcbd_kiritu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076346358316073290",
+    "in_reply_to_user_id": "2942764381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076334719332196583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mcbd_kiritu 装进机箱里吧🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2076334563853516800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCfSPFawAAYXJE.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076334719332196583",
+        "created_at": "2026-07-12T16:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076346358316073290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2942764381",
+              "start": 0,
+              "username": "mcbd_kiritu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076346358316073290",
+        "in_reply_to_user_id": "2942764381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076334719332196583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mcbd_kiritu 装进机箱里吧🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076334563853516800"
+          ]
+        },
+        "author_id": "2942764381",
+        "conversation_id": "2076334719332196583",
+        "created_at": "2026-07-12T15:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076334719332196583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTWFBatuAo",
+              "end": 52,
+              "expanded_url": "https://x.com/mcbd_kiritu/status/2076334719332196583/photo/1",
+              "media_key": "3_2076334563853516800",
+              "start": 29,
+              "url": "https://t.co/JTWFBatuAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076334719332196583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特人多，来问问~\n我装了个外置的内置网卡，这很离谱吗？ https://t.co/JTWFBatuAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 549,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2507
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2014-12-25T10:22:15.000Z",
+        "description": "混沌系缺爱(´ρ`) •拍扁滴蜡熊•美食推主（X 不会射影的摄嘤师•ACG都能聊得来•（绝赞老阿姨*❓•（自拍超级无敌高P ！🈚【图片仅供参考 请以实物为准】）））想要被狠狠调教•喜欢沙士的都是friend(*ﾟ∀ﾟ*) •ingress agent🍀•绳艺&捆绑喜欢 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "id": "2942764381",
+        "location": "香港",
+        "name": "呜喵不小心花光了~",
+        "pinned_tweet_id": "1991820219573317953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004747286895886337/MY0E1YWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10715,
+          "following_count": 1017,
+          "like_count": 35218,
+          "listed_count": 32,
+          "media_count": 2046,
+          "tweet_count": 12356
+        },
+        "url": "",
+        "username": "mcbd_kiritu",
+        "verified": false
+      }
+    ]
+  }
+}

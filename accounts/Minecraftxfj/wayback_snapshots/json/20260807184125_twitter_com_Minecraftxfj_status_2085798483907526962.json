@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2085756347157811509",
+    "created_at": "2026-08-07T18:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085798483907526962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085798483907526962",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085756347157811509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyronANNO iPad 觉醒了，智械危机😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6358,
+        "height": 1920,
+        "media_key": "13_2085756285413466113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085756285413466113/img/WgfG6UR5NKN9DxUL.jpg",
+        "public_metrics": {
+          "view_count": 64
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085756285413466113/vid/avc1/480x852/PS_4Yzb_NRn00G7Y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085756285413466113/pl/4vMifQyp4tBmjT-v.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085756285413466113/vid/avc1/320x568/9Np4w66JlxY3EOl2.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085756285413466113/vid/avc1/1080x1920/63vIczPIUkj1KL2H.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085756285413466113/vid/avc1/720x1280/ExD2mq7F13M5jTmc.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2085756347157811509",
+        "created_at": "2026-08-07T18:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085798483907526962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085798483907526962",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085756347157811509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyronANNO iPad 觉醒了，智械危机😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085756285413466113"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2085756347157811509",
+        "created_at": "2026-08-07T15:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085756347157811509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUy6d5UGVs",
+              "end": 51,
+              "expanded_url": "https://x.com/CyronANNO/status/2085756347157811509/video/1",
+              "media_key": "13_2085756285413466113",
+              "start": 28,
+              "url": "https://t.co/vUy6d5UGVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085756347157811509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才翻出了我第二台iPad\n古时候的iPad会自动解锁 https://t.co/vUy6d5UGVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1225,
+          "like_count": 510,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 4564
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | 音ゲー | チュウマイ | バンドリ | \nDM⇒フォロバ | サブ @cyron_anno | CN EN JP KR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "cyron_anno"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "location": "Soochow",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078180183266504704/nIRBXx5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2581,
+          "following_count": 905,
+          "like_count": 214301,
+          "listed_count": 0,
+          "media_count": 5667,
+          "tweet_count": 22950
+        },
+        "url": "",
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}

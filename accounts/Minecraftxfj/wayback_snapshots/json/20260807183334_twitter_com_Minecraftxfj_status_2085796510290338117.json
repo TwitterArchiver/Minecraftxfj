@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085794602150461445",
+    "created_at": "2026-08-07T18:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085796510290338117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684489356931629059",
+          "start": 0,
+          "username": "jom123ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085796510290338117",
+    "in_reply_to_user_id": "1684489356931629059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085794602150461445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jom123ab 有个叫赛逸的洗发水，欧洲的那个紫瓶蓝盖那个，狗东上能买到正品，我觉得挺不错的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085794602150461445",
+        "created_at": "2026-08-07T18:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085796510290338117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684489356931629059",
+              "start": 0,
+              "username": "jom123ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085796510290338117",
+        "in_reply_to_user_id": "1684489356931629059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085794602150461445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jom123ab 有个叫赛逸的洗发水，欧洲的那个紫瓶蓝盖那个，狗东上能买到正品，我觉得挺不错的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684489356931629059",
+        "conversation_id": "2085794602150461445",
+        "created_at": "2026-08-07T18:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085794602150461445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085794602150461445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我每次洗完澡头发就挺蓬松的，但是第二天运动出汗的时候头发就容易粘在头皮上，就很臭。\n\n有什么好用的洗发水推荐的吗？谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1223,
+          "like_count": 509,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 4557
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T09:02:29.000Z",
+        "description": "这个人在想写点什么能引起你的注意",
+        "id": "1684489356931629059",
+        "location": "一本回忆录里",
+        "name": "Jom",
+        "pinned_tweet_id": "2063566548250525839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875020315207884800/6vjYfloc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 2535,
+          "like_count": 13796,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "jom123ab",
+        "verified": false
+      }
+    ]
+  }
+}

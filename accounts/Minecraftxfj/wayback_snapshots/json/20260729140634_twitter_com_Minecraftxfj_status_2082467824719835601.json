@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2082388137867915554",
+    "created_at": "2026-07-29T14:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082467824719835601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Kazama_Nagi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082467824719835601",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082388137867915554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazama_Nagi_ 强强！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2082388137867915554",
+        "created_at": "2026-07-29T14:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082467824719835601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Kazama_Nagi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082467824719835601",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082388137867915554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazama_Nagi_ 强强！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781868776918790144",
+        "conversation_id": "2082388137867915554",
+        "created_at": "2026-07-29T08:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082388137867915554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082388137867915554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 768,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "非常感谢大家！\n现在已经69fo啦！\n现在我要攒钱了\n争取高一就开始HRT吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 823,
+          "like_count": 289,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 3791
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "人生价值观\n脸面乃身外之物/佛系/听天由命/造它就完了\n🏳️‍⚧️11年MTF 同类互fo喵\n🏫高中生（准确来讲应该是准高一，还没开学）\n👤MBTI （测不准，合起来是）INSFTP\n♥️爱好 折腾/音乐/写作/美食\n😭175cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "location": "Canada",
+        "name": "Kazama_Nagi🏳️‍⚧️",
+        "pinned_tweet_id": "2080968300151103664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080239190462390272/8R29S_kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 200,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Kazama_Nagi_",
+        "verified": false
+      }
+    ]
+  }
+}

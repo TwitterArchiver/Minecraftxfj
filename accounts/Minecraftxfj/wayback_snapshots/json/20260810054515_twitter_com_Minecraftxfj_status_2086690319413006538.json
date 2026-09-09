@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2086466401611764154",
+    "created_at": "2026-08-10T05:45:15.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086690319413006538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086690319413006538",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086466401611764154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 保姆级画质"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2086466389750218752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSeIHzagAA7a2N.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2086466401611764154",
+        "created_at": "2026-08-10T05:45:15.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086690319413006538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086690319413006538",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086466401611764154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 保姆级画质"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086466389750218752"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2086466401611764154",
+        "created_at": "2026-08-09T14:55:29.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086466401611764154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADR3GibStd",
+              "end": 30,
+              "expanded_url": "https://x.com/aaarjkk/status/2086466401611764154/photo/1",
+              "media_key": "3_2086466389750218752",
+              "start": 7,
+              "url": "https://t.co/ADR3GibStd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086466401611764154",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086466389750218752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 12693,
+          "like_count": 506,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "宽肩细跨呜呜 https://t.co/ADR3GibStd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2086690319413006538",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1324,
+          "like_count": 732,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 4870
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086682668486553770",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2086292151143735526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955980103688790017/1781268380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 1209,
+          "like_count": 27636,
+          "listed_count": 5,
+          "media_count": 638,
+          "tweet_count": 3832
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

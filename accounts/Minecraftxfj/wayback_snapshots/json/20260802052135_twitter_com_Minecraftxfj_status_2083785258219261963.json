@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2083752675951428036",
+    "created_at": "2026-08-02T05:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083785258219261963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1503380347668803586",
+          "start": 0,
+          "username": "CaptainWang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083785258219261963",
+    "in_reply_to_user_id": "1503380347668803586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083752675951428036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaptainWang_ 周围都没听说过有人上，看来是个野鸡大学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083752666862411776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOr6AqQbYAAs_7V.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2083752675951428036",
+        "created_at": "2026-08-02T05:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083785258219261963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1503380347668803586",
+              "start": 0,
+              "username": "CaptainWang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083785258219261963",
+        "in_reply_to_user_id": "1503380347668803586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083752675951428036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaptainWang_ 周围都没听说过有人上，看来是个野鸡大学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083752666862411776"
+          ]
+        },
+        "author_id": "1503380347668803586",
+        "conversation_id": "2083752675951428036",
+        "created_at": "2026-08-02T03:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083752675951428036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQpTlU2hgR",
+              "end": 45,
+              "expanded_url": "https://x.com/CaptainWang_/status/2083752675951428036/photo/1",
+              "media_key": "3_2083752666862411776",
+              "start": 22,
+              "url": "https://t.co/wQpTlU2hgR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083752675951428036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 617,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当年你们是因为什么原因\n\n才没来这里上学的 https://t.co/wQpTlU2hgR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 899,
+          "like_count": 335,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 3982
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-14T14:39:54.000Z",
+        "description": "😂 互联网快乐收集员\n🪙 Crypto 韭菜观察员\n⚽️每日分享 @Wangdafu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Wangdafu_"
+              }
+            ]
+          }
+        },
+        "id": "1503380347668803586",
+        "name": "王船长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073406228768989184/a392h8by_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12150,
+          "following_count": 4084,
+          "like_count": 3658,
+          "listed_count": 28,
+          "media_count": 169,
+          "tweet_count": 6779
+        },
+        "url": "",
+        "username": "CaptainWang_",
+        "verified": true
+      }
+    ]
+  }
+}

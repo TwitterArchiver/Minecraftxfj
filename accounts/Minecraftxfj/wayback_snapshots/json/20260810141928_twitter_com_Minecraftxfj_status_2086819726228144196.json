@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2086384944486781023",
+    "created_at": "2026-08-10T14:19:28.000Z",
+    "display_text_range": [
+      17,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086819726228144196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800905994186432512",
+          "start": 0,
+          "username": "Hoshino_Iroha10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086819726228144196",
+    "in_reply_to_user_id": "1800905994186432512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086719788718698989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Iroha10 有主线，能开车，就是没有抽卡，估计是阉割版，感觉不如异环😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_2086719776177750016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWElJzbgAA8qvK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2086384944486781023",
+        "created_at": "2026-08-10T14:19:28.000Z",
+        "display_text_range": [
+          17,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086819726228144196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800905994186432512",
+              "start": 0,
+              "username": "Hoshino_Iroha10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086819726228144196",
+        "in_reply_to_user_id": "1800905994186432512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086719788718698989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Iroha10 有主线，能开车，就是没有抽卡，估计是阉割版，感觉不如异环😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086719776177750016"
+          ]
+        },
+        "author_id": "1800905994186432512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086384944486781023",
+        "created_at": "2026-08-10T07:42:21.000Z",
+        "display_text_range": [
+          14,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086719788718698989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlrL4Go2h9",
+              "end": 73,
+              "expanded_url": "https://x.com/Hoshino_Iroha10/status/2086719788718698989/photo/1",
+              "media_key": "3_2086719776177750016",
+              "start": 50,
+              "url": "https://t.co/XlrL4Go2h9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086719788718698989",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086719776177750016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086384944486781023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 大家帮我看看我这70块钱买的异环是不是正版，感觉和别人玩的不一样啊😭😭 https://t.co/XlrL4Go2h9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2086819726228144196",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 1325,
+          "like_count": 736,
+          "listed_count": 2,
+          "media_count": 486,
+          "tweet_count": 4880
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "学生です  跨性别友好🏳️‍⚧️ | ADHD | 数码收集癖 | 业余摄影 航拍 | 89648964 | 正體中文🇹🇼 简体中文🇨🇳 日本語 正在学 | 不会打音游\n📬 https://t.co/PvmynagsX5\n\n✨人生、二十七で死ねるならロックンロールは僕を救った✨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 110,
+                "expanded_url": "http://ngl.link/hoshino_iroha10",
+                "start": 87,
+                "url": "https://t.co/PvmynagsX5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoshino_iroha10",
+                "start": 0,
+                "url": "https://t.co/AQCy4BsVsT"
+              }
+            ]
+          }
+        },
+        "id": "1800905994186432512",
+        "is_identity_verified": false,
+        "location": "秦城监狱",
+        "most_recent_tweet_id": "2086818939750023519",
+        "name": "星野いろは",
+        "pinned_tweet_id": "2086681350409753061",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800905994186432512/1780323920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061063208686030848/Ab8l7idB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 1287,
+          "like_count": 68424,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 3382
+        },
+        "url": "https://t.co/AQCy4BsVsT",
+        "username": "Hoshino_Iroha10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

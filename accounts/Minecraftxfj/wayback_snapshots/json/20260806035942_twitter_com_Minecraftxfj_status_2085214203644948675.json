@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085189847615156374",
+    "created_at": "2026-08-06T03:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085214203644948675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085214203644948675",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085189847615156374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 收到，降级回牢梁处理🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2085189798457913344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAVEupaMAA-_XW.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085189847615156374",
+        "created_at": "2026-08-06T03:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085214203644948675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085214203644948675",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085189847615156374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 收到，降级回牢梁处理🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085189798457913344"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2085189847615156374",
+        "created_at": "2026-08-06T02:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085189847615156374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "DeepSeek"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#人工智能 梁圣变梁子：深度求索计划近期整体上调 DS API 调用价格，预计涨幅较大，提前挂上通知建议用户合理安排使用。目前具体的…",
+              "display_url": "ourl.co/114216?x",
+              "end": 149,
+              "expanded_url": "https://ourl.co/114216?x",
+              "start": 126,
+              "status": 200,
+              "title": "梁圣变梁子：深度求索计划近期整体上调DS API价格 预计涨幅较大 - 蓝点网",
+              "unwound_url": "https://www.landian.news/archives/114216.html?utm_source=x.com&utm_medium=social&utm_campaign=share&utm_content=landiantech&utm_term=%E6%A2%81%E5%9C%A3%E5%8F%98%E6%A2%81%E5%AD%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E8%AE%A1%E5%88%92%E8%BF%91%E6%9C%9F%E6%95%B4%E4%BD%93%E4%B8%8A%E8%B0%83DS+API%E4%BB%B7%E6%A0%BC+%E9%A2%84%E8%AE%A1%E6%B6%A8%E5%B9%85%E8%BE%83%E5%A4%A7",
+              "url": "https://t.co/CDHN6gEFy9"
+            },
+            {
+              "display_url": "pic.x.com/QZy1yB1DGL",
+              "end": 173,
+              "expanded_url": "https://x.com/landiantech/status/2085189847615156374/photo/1",
+              "media_key": "3_2085189798457913344",
+              "start": 150,
+              "url": "https://t.co/QZy1yB1DGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085189847615156374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "DeepSeek"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/114216?x",
+                "end": 149,
+                "expanded_url": "https://ourl.co/114216?x",
+                "start": 126,
+                "url": "https://t.co/11eFbQACfN"
+              }
+            ]
+          },
+          "text": "#DeepSeek 梁圣变梁子：深度求索计划近期整体上调 DS API 调用价格，预计涨幅较大，提前挂上通知建议用户合理安排使用。\n\n目前具体的价格变化尚未公布，此前深度求索都是降价或者提供限时优惠，像这种提前挂上涨价通知的情况非常罕见。\n\n查看全文：https://t.co/11eFbQACfN"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2988,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#DeepSeek 梁圣变梁子：深度求索计划近期整体上调 DS API 调用价格，预计涨幅较大，提前挂上通知建议用户合理安排使用。\n\n目前具体的价格变化尚未公布，此前深度求索都是降价或者提供限时优惠，像这种提前挂上涨价通知的情况非常罕见。\n\n查看全文：https://t.co/CDHN6gEFy9 https://t.co/QZy1yB1DGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1046,
+          "like_count": 417,
+          "listed_count": 2,
+          "media_count": 445,
+          "tweet_count": 4227
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2084467358127780272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37041,
+          "following_count": 804,
+          "like_count": 5847,
+          "listed_count": 280,
+          "media_count": 6256,
+          "tweet_count": 17053
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

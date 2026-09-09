@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076355709835575531",
+    "created_at": "2026-07-13T05:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076536499563352484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076536499563352484",
+    "in_reply_to_user_id": "193648759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076355709835575531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 谢谢你，愿世界和平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2076355645121716224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCydU7bYAAedIq.jpg",
+        "width": 3840
+      },
+      {
+        "duration_ms": 4900,
+        "height": 1512,
+        "media_key": "13_2076355645130063872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076355645130063872/img/XBoaHILgkS_QwN2U.jpg",
+        "public_metrics": {
+          "view_count": 2016
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076355645130063872/vid/avc1/640x360/HcQt5ErveH78m0kT.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076355645130063872/vid/avc1/2688x1512/gGtyn-9mPOa5fmEP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076355645130063872/vid/avc1/1920x1080/-mCdoC7ixwoAZtal.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076355645130063872/vid/avc1/1280x720/uuihadTripxP-G8e.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076355645130063872/vid/avc1/480x270/2kQGabb0zYyzFndu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076355645130063872/pl/HqStqu6XlG84a9xJ.m3u8"
+          }
+        ],
+        "width": 2688
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2076355645117501440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCydU6bEAAJoeq.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076355709835575531",
+        "created_at": "2026-07-13T05:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076536499563352484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076536499563352484",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076355709835575531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 谢谢你，愿世界和平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076355645121716224",
+            "13_2076355645130063872",
+            "3_2076355645117501440"
+          ]
+        },
+        "author_id": "193648759",
+        "conversation_id": "2076355709835575531",
+        "created_at": "2026-07-12T17:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076355709835575531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIvoB5705G",
+              "end": 150,
+              "expanded_url": "https://x.com/ripo0079/status/2076355709835575531/video/1",
+              "media_key": "3_2076355645121716224",
+              "start": 127,
+              "url": "https://t.co/kIvoB5705G"
+            },
+            {
+              "display_url": "pic.x.com/kIvoB5705G",
+              "end": 150,
+              "expanded_url": "https://x.com/ripo0079/status/2076355709835575531/video/1",
+              "media_key": "13_2076355645130063872",
+              "start": 127,
+              "url": "https://t.co/kIvoB5705G"
+            },
+            {
+              "display_url": "pic.x.com/kIvoB5705G",
+              "end": 150,
+              "expanded_url": "https://x.com/ripo0079/status/2076355709835575531/video/1",
+              "media_key": "3_2076355645117501440",
+              "start": 127,
+              "url": "https://t.co/kIvoB5705G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076355709835575531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我和我朋友去了的中国旅行非常好的！我很高兴！谢谢朋友，谢谢中国。\n\n在抗日战争博物馆里，我仔细听了一下，确实听到了“小日本”这个词。还有一次，我回头的时候，似乎听见有人是对着我说的。\n\n在那样的场所，所以我能够理解。\n\n不过，后面还有一些很温暖的故事。\n\n博物馆服务員用不太熟练的日语为我指路，还对我说：“大丈夫ですよ〜”（没关系哦～）。\n\n出租车司机也用日语对我说了“ありがとうございます”（谢谢）。\n\n蜜雪冰城的店员也用简单的日语！\n\n谢谢你们！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6110,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我和我朋友去了的中国旅行非常好的！我很高兴！谢谢朋友，谢谢中国。\n\n在抗日战争博物馆里，我仔细听了一下，确实听到了“小日本”这个词。还有一次，我回头的时候，似乎听见有人是对着我说的。\n\n在那样的场所，所以我能够理解。\n\n不过，后面还有一些很温暖的故事。 https://t.co/kIvoB5705G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 600,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12596,
+          "following_count": 1433,
+          "like_count": 75173,
+          "listed_count": 141,
+          "media_count": 4539,
+          "tweet_count": 55262
+        },
+        "url": "",
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

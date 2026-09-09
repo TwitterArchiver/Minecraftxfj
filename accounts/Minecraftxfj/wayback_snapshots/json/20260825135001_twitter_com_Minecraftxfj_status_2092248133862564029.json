@@ -1,0 +1,593 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2092248133862564029",
+    "created_at": "2026-08-25T13:50:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092248133862564029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471837590768603136",
+          "start": 3,
+          "username": "daanawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/markbach",
+          "end": 139,
+          "expanded_url": "https://x.com/markbach",
+          "start": 125,
+          "status": 404,
+          "unwound_url": "https://twitter.com/markbach",
+          "url": "https://t.co/M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092248133862564029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092241413450928575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daanawa: v1.6.3 — 体验优化2👀\n发布日期：2026-08-25\n\n新增\nWiki 竞速模式（mtf / miomtfwiki），打开 wiki 链接时并发探测官方源与镜像站，谁先响应就访问谁，规避 GFW 干扰。\n支持镜像：https://t.co/M…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2092248133862564029",
+        "created_at": "2026-08-25T13:50:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092248133862564029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471837590768603136",
+              "start": 3,
+              "username": "daanawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/markbach",
+              "end": 139,
+              "expanded_url": "https://x.com/markbach",
+              "start": 125,
+              "status": 404,
+              "unwound_url": "https://twitter.com/markbach",
+              "url": "https://t.co/M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092248133862564029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092241413450928575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daanawa: v1.6.3 — 体验优化2👀\n发布日期：2026-08-25\n\n新增\nWiki 竞速模式（mtf / miomtfwiki），打开 wiki 链接时并发探测官方源与镜像站，谁先响应就访问谁，规避 GFW 干扰。\n支持镜像：https://t.co/M…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471837590768603136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2092241413450928575",
+        "created_at": "2026-08-25T13:23:19.000Z",
+        "display_text_range": [
+          0,
+          192
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092241413450928575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mtf.chengxi.moe",
+              "end": 135,
+              "expanded_url": "https://mtf.chengxi.moe",
+              "start": 112,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.chengxi.moe",
+              "url": "https://t.co/MtQJGausI1"
+            },
+            {
+              "description": "来自社区、服务社区的现代跨性别知识库",
+              "display_url": "mio.chengxi.moe",
+              "end": 159,
+              "expanded_url": "https://mio.chengxi.moe",
+              "start": 136,
+              "status": 200,
+              "title": "MioMtFWiki",
+              "unwound_url": "https://mio.chengxi.moe/MioMtFWiki/",
+              "url": "https://t.co/tG7qnumDFy"
+            },
+            {
+              "display_url": "x.com/daanawa/status…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/daanawa/status/2088483249677074914",
+              "start": 193,
+              "url": "https://t.co/My0jwKUr4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092241413450928575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 451,
+                "start": 440,
+                "tag": "TransPrism"
+              },
+              {
+                "end": 457,
+                "start": 452,
+                "tag": "Dart"
+              },
+              {
+                "end": 466,
+                "start": 458,
+                "tag": "Flutter"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mtf.chengxi.moe",
+                "end": 135,
+                "expanded_url": "http://mtf.chengxi.moe",
+                "start": 112,
+                "url": "https://t.co/CxdHzFqMCV"
+              },
+              {
+                "display_url": "mio.chengxi.moe",
+                "end": 159,
+                "expanded_url": "http://mio.chengxi.moe",
+                "start": 136,
+                "url": "https://t.co/wSVUmSWvdM"
+              }
+            ]
+          },
+          "text": "v1.6.3 — 体验优化2👀\n发布日期：2026-08-25\n\n新增\nWiki 竞速模式（mtf / miomtfwiki），打开 wiki 链接时并发探测官方源与镜像站，谁先响应就访问谁，规避 GFW 干扰。\n支持镜像：https://t.co/CxdHzFqMCV、https://t.co/wSVUmSWvdM（注：镜像使用cf反代，无法加速，只能解决gfw干扰原域名的问题）\n浏览器式底部导航条（Wiki 阅读器），新增页面内的后退 / 刷新 / 前进细条，替代右上角按钮，操作更顺手。\n\n优化\n更新弹窗支持 Markdown 渲染，更新说明排版更清晰。\n更新弹窗圆角统一，界面更一致。\n\n其他\n竞速结果按网络环境（IP 指纹）半永久记忆：同一网络复用上次竞速成功的地址，换网络重新竞速。最多保存 50 条记录、保留 7 天。不上传任何 IP 信息，本地加密存储（flutter_secure_storage）。\n\n获取更新：「下载链接见评论区第一楼 👇」       #TransPrism #Dart #Flutter"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088483249677074914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "v1.6.3 — 体验优化2👀\n发布日期：2026-08-25\n\n新增\nWiki 竞速模式（mtf / miomtfwiki），打开 wiki 链接时并发探测官方源与镜像站，谁先响应就访问谁，规避 GFW 干扰。\n支持镜像：https://t.co/MtQJGausI1、https://t.co/tG7qnumDFy（注：镜像使用cf反代，无法加速，只能解决gfw干扰原域名的问题） https://t.co/My0jwKUr4O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2092248133862564029",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1406,
+          "like_count": 1921,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5995
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-17T13:40:08.000Z",
+        "description": "没有特定中文名，可以叫我大安，或者是答案 :D\n# https://t.co/D6TMZOk1Km\n📍坐标北京 | 08年 (Gap year)\n🏳️‍⚧️MtF | 阻断 23.2.6 / HRT 24.8.28\n📏163cm / 48kg | 🍬 持证含糖\n🗣️交流: CN EN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Transprism.chengxi.moe",
+                "end": 49,
+                "expanded_url": "http://Transprism.chengxi.moe",
+                "start": 26,
+                "url": "https://t.co/D6TMZOk1Km"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.chengxi.moe",
+                "end": 23,
+                "expanded_url": "https://blog.chengxi.moe",
+                "start": 0,
+                "url": "https://t.co/cAIvCmpMac"
+              }
+            ]
+          }
+        },
+        "id": "1471837590768603136",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2092241417695617047",
+        "name": "大安/daan🏳️‍⚧️",
+        "pinned_tweet_id": "2062834503782195693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471837590768603136/1682826998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077336309807669248/Sp9Rv5_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 443,
+          "like_count": 1238,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/cAIvCmpMac",
+        "username": "daanawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

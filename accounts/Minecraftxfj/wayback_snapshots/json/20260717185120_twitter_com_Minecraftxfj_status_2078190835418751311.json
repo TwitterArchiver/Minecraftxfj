@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078190829685096448"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078190835418751311",
+    "created_at": "2026-07-17T18:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078190835418751311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nO0szyqvov",
+          "end": 135,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2078190835418751311/photo/1",
+          "media_key": "3_2078190829685096448",
+          "start": 112,
+          "url": "https://t.co/nO0szyqvov"
+        },
+        {
+          "display_url": "x.com/trans_helper/s…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/trans_helper/status/2078189665614766229",
+          "start": 136,
+          "url": "https://t.co/yOAUFPahB3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078190835418751311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078189665614766229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么深夜发这个（）\n因为刚刚我还在修后端的一个 bug（）\n就是前端不显示返回的扩展词（）\n旧前端往新前端迁移搞出来一堆乱七八糟的问题😭🙏🙏\n全部都！炸飞了！！！\nps.我周日是为期末考试做准备去复习还是修 bug？（） https://t.co/nO0szyqvov https://t.co/yOAUFPahB3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2078190829685096448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNc3jILawAAMgt6.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2078189658681593856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNc2e92bUAAgwib.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078190829685096448"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078190835418751311",
+        "created_at": "2026-07-17T18:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078190835418751311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nO0szyqvov",
+              "end": 135,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2078190835418751311/photo/1",
+              "media_key": "3_2078190829685096448",
+              "start": 112,
+              "url": "https://t.co/nO0szyqvov"
+            },
+            {
+              "display_url": "x.com/trans_helper/s…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/trans_helper/status/2078189665614766229",
+              "start": 136,
+              "url": "https://t.co/yOAUFPahB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078190835418751311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078189665614766229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么深夜发这个（）\n因为刚刚我还在修后端的一个 bug（）\n就是前端不显示返回的扩展词（）\n旧前端往新前端迁移搞出来一堆乱七八糟的问题😭🙏🙏\n全部都！炸飞了！！！\nps.我周日是为期末考试做准备去复习还是修 bug？（） https://t.co/nO0szyqvov https://t.co/yOAUFPahB3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078189658681593856"
+          ]
+        },
+        "author_id": "2070818840213422080",
+        "conversation_id": "2078189665614766229",
+        "created_at": "2026-07-17T18:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078189665614766229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 98,
+              "id": "1560959425",
+              "start": 87,
+              "username": "RhenCloud_"
+            },
+            {
+              "end": 107,
+              "id": "1471837590768603136",
+              "start": 99,
+              "username": "daanawa"
+            },
+            {
+              "end": 121,
+              "id": "1545801302617116672",
+              "start": 108,
+              "username": "Minecraftxfj"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一个聚合跨性别相关医疗、法律、生活信息的中文资料库，正在建设中。",
+              "display_url": "search.transhelper.org",
+              "end": 187,
+              "expanded_url": "https://search.transhelper.org/",
+              "start": 164,
+              "status": 200,
+              "title": "跨性别信息库 · 即将上线",
+              "unwound_url": "https://searchcomingsoon.transhelper.org/",
+              "url": "https://t.co/RWe7PPspcX"
+            },
+            {
+              "display_url": "pic.x.com/EGOkU1cVpm",
+              "end": 211,
+              "expanded_url": "https://x.com/Trans_Helper/status/2078189665614766229/photo/1",
+              "media_key": "3_2078189658681593856",
+              "start": 188,
+              "url": "https://t.co/EGOkU1cVpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078189665614766229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Trans-Search 项目依旧在难产...\n为什么？\n实际上已经上线很久了\n但是效果还是太差强人意\n很多奇怪的 Bug...\n这也是迟迟不发帖子的主要原因\n目前团队里只有@RhenCloud_ @daanawa @Minecraftxfj 三个人\n写代码已经筋疲力尽了\n更别说录入文章啊，贴链接做跳转啊什么的\n加油吧...\nhttps://t.co/RWe7PPspcX https://t.co/EGOkU1cVpm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 622,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 2965
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-27T10:44:33.000Z",
+        "description": "TransHelper 团队官方账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transhelper.org",
+                "end": 23,
+                "expanded_url": "https://transhelper.org",
+                "start": 0,
+                "url": "https://t.co/VJKVaqTtZY"
+              }
+            ]
+          }
+        },
+        "id": "2070818840213422080",
+        "location": "Internet",
+        "name": "TransHelper",
+        "pinned_tweet_id": "2070869416808751335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820961390321664/_gbcmZoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/VJKVaqTtZY",
+        "username": "Trans_Helper",
+        "verified": false
+      }
+    ]
+  }
+}

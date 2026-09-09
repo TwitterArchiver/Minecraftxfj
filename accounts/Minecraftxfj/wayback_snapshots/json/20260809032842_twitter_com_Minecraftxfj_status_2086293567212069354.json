@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2086022727610273932",
+    "created_at": "2026-08-09T03:28:42.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T04:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086293567212069354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049406075376660480",
+          "start": 0,
+          "username": "Wxmk4xRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086293567212069354",
+    "in_reply_to_user_id": "2049406075376660480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086235448461160917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wxmk4xRS 自己买😡👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2086022727610273932",
+        "created_at": "2026-08-09T03:28:42.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086293567212069354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049406075376660480",
+              "start": 0,
+              "username": "Wxmk4xRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086293567212069354",
+        "in_reply_to_user_id": "2049406075376660480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086235448461160917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wxmk4xRS 自己买😡👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049406075376660480",
+        "conversation_id": "2086022727610273932",
+        "created_at": "2026-08-08T23:37:45.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T00:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086235448461160917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086235448461160917",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086022727610273932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 我的呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2086293567212069354",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1322,
+          "like_count": 653,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 4756
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-29T08:31:10.000Z",
+        "description": "女 | she/her | 友跨 | 中文&英語&日本語ok | サブ垢 @MekoriLs7\n音ゲー | maimai 曉舞舞/宙舞舞/星舞舞 取得\n彼氏@CH3COOOH_    | 🇯🇵/🇨🇳\nCan you still hear the sound of cosmos?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "MekoriLs7"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "CH3COOOH_"
+              }
+            ]
+          }
+        },
+        "id": "2049406075376660480",
+        "is_identity_verified": true,
+        "location": "あなたは私の人生における唯一の支えです。",
+        "most_recent_tweet_id": "2086235448461160917",
+        "name": "SSanceD",
+        "pinned_tweet_id": "2085334397428113904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049406075376660480/1784403672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083428426199990273/t2AFUB2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 97,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "Wxmk4xRS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

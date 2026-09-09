@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2076111676093706350",
+    "created_at": "2026-07-12T03:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076149522997399592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076149522997399592",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076149416768221577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 米 12 系都很好看（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2076111676093706350",
+        "created_at": "2026-07-12T03:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076149522997399592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076149522997399592",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076149416768221577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 米 12 系都很好看（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781893716183060480",
+        "conversation_id": "2076111676093706350",
+        "created_at": "2026-07-12T03:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076149416768221577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076149416768221577",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076149061728805365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 嗯但是12sp我觉得真不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 515,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 2428
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n\n🌌 アニメと宇宙が好き\n💻 プログラミング\n✏️ 日本語勉強中\n\n気軽に絡んでください😼✨\n\n🐾 大切な親友がいます➰\n\nDM◎ & Telegram↓\nhttps://t.co/RV6X4WIAjP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/akihiro_0313",
+                "end": 115,
+                "expanded_url": "http://t.me/akihiro_0313",
+                "start": 92,
+                "url": "https://t.co/RV6X4WIAjP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro0313",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro0313",
+                "start": 0,
+                "url": "https://t.co/5zPAH9OdaS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "💁あきひろくんです✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061123813845409792/vmhK_GSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 1326,
+          "like_count": 8572,
+          "listed_count": 0,
+          "media_count": 834,
+          "tweet_count": 6068
+        },
+        "url": "https://t.co/5zPAH9OdaS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

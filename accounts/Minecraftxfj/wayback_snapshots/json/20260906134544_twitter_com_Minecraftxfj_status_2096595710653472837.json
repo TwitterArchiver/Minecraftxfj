@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "2096595710653472837",
+    "created_at": "2026-09-06T13:45:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096595710653472837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "377228272",
+          "start": 3,
+          "username": "Xiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096595710653472837",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096561550437839279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaomi: Xiaomi SkyNomad officially launches on September 7th, 19:00 (GMT+8).\n\nMeet the Xiaomi SkyNomad N70 Pro, Xiaomi SkyNomad N70 Max…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2096543453429805056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhrKbXasAADu7D.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2096543477895229440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhrL2gbcAAU44y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2096543478079791104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhrL3MboAA6xnt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2096595710653472837",
+        "created_at": "2026-09-06T13:45:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096595710653472837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "377228272",
+              "start": 3,
+              "username": "Xiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096595710653472837",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096561550437839279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaomi: Xiaomi SkyNomad officially launches on September 7th, 19:00 (GMT+8).\n\nMeet the Xiaomi SkyNomad N70 Pro, Xiaomi SkyNomad N70 Max…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096543453429805056",
+            "3_2096543477895229440",
+            "3_2096543478079791104"
+          ]
+        },
+        "author_id": "377228272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2096561550437839279",
+        "created_at": "2026-09-06T11:30:00.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096561550437839279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTWftqrVS7",
+              "end": 299,
+              "expanded_url": "https://x.com/Xiaomi/status/2096561550437839279/photo/1",
+              "media_key": "3_2096543453429805056",
+              "start": 276,
+              "url": "https://t.co/YTWftqrVS7"
+            },
+            {
+              "display_url": "pic.x.com/YTWftqrVS7",
+              "end": 299,
+              "expanded_url": "https://x.com/Xiaomi/status/2096561550437839279/photo/1",
+              "media_key": "3_2096543477895229440",
+              "start": 276,
+              "url": "https://t.co/YTWftqrVS7"
+            },
+            {
+              "display_url": "pic.x.com/YTWftqrVS7",
+              "end": 299,
+              "expanded_url": "https://x.com/Xiaomi/status/2096561550437839279/photo/1",
+              "media_key": "3_2096543478079791104",
+              "start": 276,
+              "url": "https://t.co/YTWftqrVS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096561550437839279",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096543453429805056"
+          },
+          {
+            "media_key": "3_2096543477895229440"
+          },
+          {
+            "media_key": "3_2096543478079791104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 857,
+                "start": 842,
+                "tag": "XiaomiSkyNomad"
+              }
+            ]
+          },
+          "text": "Xiaomi SkyNomad officially launches on September 7th, 19:00 (GMT+8).\n\nMeet the Xiaomi SkyNomad N70 Pro, Xiaomi SkyNomad N70 Max and Xiaomi SkyNomad N90 Max, with flexible 5-or 7-seat layouts.\nFrom Front Double-Wishbone and Rear Integrated Multi-Link Independent Suspension to High-Speed Tire Blowout Stability Control, every drive is built for confident control.\nPowered by the 1.5T Xiaomi Kunlun Range Extender, they deliver long range and low fuel consumption for every journey.\nLiDAR, NVIDIA Thor ADAS Chip, 2200 MPa Xiaomi Ultra-high strength steel, Embedded Roll Cage and Integrated Hot-Formed Door Ring bring advanced technology and all-seat safety as standard.\n\nWhat matters to you, standard across the Xiaomi SkyNomad series.\nPlease note that Xiaomi SkyNomad is announced in 2026 and currently only available in the Chinese Mainland. #XiaomiSkyNomad"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14183,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Xiaomi SkyNomad officially launches on September 7th, 19:00 (GMT+8).\n\nMeet the Xiaomi SkyNomad N70 Pro, Xiaomi SkyNomad N70 Max and Xiaomi SkyNomad N90 Max, with flexible 5-or 7-seat layouts.\nFrom Front Double-Wishbone and Rear Integrated Multi-Link Independent Suspension to https://t.co/YTWftqrVS7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096595710653472837",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 1446,
+          "like_count": 2873,
+          "listed_count": 3,
+          "media_count": 656,
+          "tweet_count": 6590
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-21T07:09:28.000Z",
+        "description": "Titan power, go max.\nREDMI Titan Quality that's built to last #REDMINote17Series",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 62,
+                "tag": "REDMINote17Series"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/_jidM8Z0",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/_jidM8Z0",
+                "start": 0,
+                "url": "https://t.co/U0ZmlXboGc"
+              }
+            ]
+          }
+        },
+        "id": "377228272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096592672853258672",
+        "name": "Xiaomi",
+        "pinned_tweet_id": "2092945222980210839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377228272/1787830011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384363472259928071/zXb55Bwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323728,
+          "following_count": 364,
+          "like_count": 9894,
+          "listed_count": 3839,
+          "media_count": 10389,
+          "tweet_count": 15316
+        },
+        "url": "https://t.co/U0ZmlXboGc",
+        "username": "Xiaomi",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

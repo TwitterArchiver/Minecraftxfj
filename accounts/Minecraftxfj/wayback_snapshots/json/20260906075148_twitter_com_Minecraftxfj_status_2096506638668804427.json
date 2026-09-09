@@ -1,0 +1,673 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213132918785",
+          "name": "McNeil-PPC, Inc"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2096506638668804427",
+    "created_at": "2026-09-06T07:51:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096506638668804427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "110077436",
+          "start": 3,
+          "username": "cfm_miku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Official Hatsune Miku and Piapro Characters Website run by Crypton Future Media, INC.",
+          "display_url": "piapro.net",
+          "end": 131,
+          "expanded_url": "https://www.piapro.net",
+          "images": [
+            {
+              "height": 406,
+              "url": "https://pbs.twimg.com/news_img/2095663190327672832/KVmMdijx?format=png&name=orig",
+              "width": 798
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2095663190327672832/KVmMdijx?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 108,
+          "status": 200,
+          "title": "piapro.net",
+          "unwound_url": "https://piapro.net/intl/en.html",
+          "url": "https://t.co/uYPzALcdSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096506638668804427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9753
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096177880447545718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @cfm_miku: 初音ミク＆ロビンが届くスペシャルメドレー\n『夏空メドレー：Tell Your World × ただ風を追いかけて』\nMV公開🪽\n\n© Crypton Future Media, INC. https://t.co/uYPzALcdSh\n©︎COGNO…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 174500,
+        "height": 1080,
+        "media_key": "13_2096174912948064257",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096174912948064257/img/6ylcbCbSIlzEP6N6.jpg",
+        "public_metrics": {
+          "view_count": 410211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096174912948064257/vid/avc1/1920x1080/5dtJTbucJBNd5ikG.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096174912948064257/vid/avc1/480x270/UKm5qTo3o20Cmh5_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096174912948064257/vid/avc1/1280x720/zPu8DGS1zd0Lan7Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096174912948064257/pl/p6WBG4O0SHZ4HFU4.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096174912948064257/vid/avc1/640x360/DujdtlTxFny9kAUO.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2096506638668804427",
+        "created_at": "2026-09-06T07:51:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096506638668804427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "110077436",
+              "start": 3,
+              "username": "cfm_miku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Official Hatsune Miku and Piapro Characters Website run by Crypton Future Media, INC.",
+              "display_url": "piapro.net",
+              "end": 131,
+              "expanded_url": "https://www.piapro.net",
+              "images": [
+                {
+                  "height": 406,
+                  "url": "https://pbs.twimg.com/news_img/2095663190327672832/KVmMdijx?format=png&name=orig",
+                  "width": 798
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095663190327672832/KVmMdijx?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "piapro.net",
+              "unwound_url": "https://piapro.net/intl/en.html",
+              "url": "https://t.co/uYPzALcdSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096506638668804427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9753
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096177880447545718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @cfm_miku: 初音ミク＆ロビンが届くスペシャルメドレー\n『夏空メドレー：Tell Your World × ただ風を追いかけて』\nMV公開🪽\n\n© Crypton Future Media, INC. https://t.co/uYPzALcdSh\n©︎COGNO…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096174912948064257"
+          ]
+        },
+        "author_id": "110077436",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2096177880447545718",
+        "created_at": "2026-09-05T10:05:26.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096177880447545718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 133,
+              "tag": "崩壊スターレイル"
+            },
+            {
+              "end": 152,
+              "start": 143,
+              "tag": "ロビン・夏空の歌"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Official Hatsune Miku and Piapro Characters Website run by Crypton Future Media, INC.",
+              "display_url": "piapro.net",
+              "end": 117,
+              "expanded_url": "https://www.piapro.net",
+              "images": [
+                {
+                  "height": 406,
+                  "url": "https://pbs.twimg.com/news_img/2095663190327672832/KVmMdijx?format=png&name=orig",
+                  "width": 798
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095663190327672832/KVmMdijx?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 94,
+              "status": 200,
+              "title": "piapro.net",
+              "unwound_url": "https://piapro.net/intl/en.html",
+              "url": "https://t.co/uYPzALcdSh"
+            },
+            {
+              "display_url": "pic.x.com/s1cvjVbu0U",
+              "end": 182,
+              "expanded_url": "https://x.com/cfm_miku/status/2096177880447545718/video/1",
+              "media_key": "13_2096174912948064257",
+              "start": 159,
+              "url": "https://t.co/s1cvjVbu0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096177880447545718",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096174912948064257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4360,
+          "impression_count": 1768883,
+          "like_count": 32696,
+          "quote_count": 815,
+          "reply_count": 1,
+          "retweet_count": 9753
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "初音ミク＆ロビンが届くスペシャルメドレー\n『夏空メドレー：Tell Your World × ただ風を追いかけて』\nMV公開🪽\n\n© Crypton Future Media, INC. https://t.co/uYPzALcdSh\n©︎COGNOSPHERE\n\n#崩壊スターレイル #ロビン・夏空の歌 #初音ミク https://t.co/s1cvjVbu0U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096506638668804427",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 1445,
+          "like_count": 2840,
+          "listed_count": 3,
+          "media_count": 650,
+          "tweet_count": 6556
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-01-31T07:29:26.000Z",
+        "description": "クリプトン社が運営する公式アカウントです。\n「初音ミク」はじめ当社バーチャルシンガーの最新情報を発信します！\n【公式ブログ】https://t.co/G6JNmOAP40",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.piapro.net",
+                "end": 85,
+                "expanded_url": "http://blog.piapro.net",
+                "start": 62,
+                "url": "https://t.co/G6JNmOAP40"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "piapro.net",
+                "end": 23,
+                "expanded_url": "https://piapro.net/",
+                "start": 0,
+                "url": "https://t.co/MyGWR0OFoO"
+              }
+            ]
+          }
+        },
+        "id": "110077436",
+        "is_identity_verified": false,
+        "location": "その先の、道へ。北海道",
+        "most_recent_tweet_id": "2096177883425464518",
+        "name": "初音ミク 公式",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110077436/1648803701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509818267812364288/Y1EMCVdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720255,
+          "following_count": 395,
+          "like_count": 622,
+          "listed_count": 3007,
+          "media_count": 7500,
+          "tweet_count": 39316
+        },
+        "url": "https://t.co/MyGWR0OFoO",
+        "username": "cfm_miku",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

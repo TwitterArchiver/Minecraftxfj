@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2077617409918488979",
+    "created_at": "2026-07-16T05:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077631888911659147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1657035603748192259",
+          "start": 0,
+          "username": "czy194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077631888911659147",
+    "in_reply_to_user_id": "1657035603748192259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077617409918488979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@czy194 习惯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2077617409918488979",
+        "created_at": "2026-07-16T05:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077631888911659147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1657035603748192259",
+              "start": 0,
+              "username": "czy194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077631888911659147",
+        "in_reply_to_user_id": "1657035603748192259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077617409918488979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@czy194 习惯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657035603748192259",
+        "conversation_id": "2077617409918488979",
+        "created_at": "2026-07-16T04:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077617409918488979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077617409918488979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个现象。都已经翻墙出来了。\n\n中文圈还是有不少人说话小心翼翼。\n\n时政不敢聊，敏感词还要用拼音首字母代替。\n\n真有这么可怕吗？\n\n又不是天天当反贼、天天造谣带节奏。\n\n很多人嘴上说对政治不感兴趣。\n\n可墙外时政新闻没少看吧\n\n难道真怕顺着网线请去喝茶？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 616,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 2811
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-12T14:51:20.000Z",
+        "description": "世界很大，一起看看",
+        "id": "1657035603748192259",
+        "name": "放纵的小男孩",
+        "pinned_tweet_id": "2075059865618436531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070450610001100800/HvDYZ9Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 775,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1330
+        },
+        "url": "",
+        "username": "czy194",
+        "verified": true
+      }
+    ]
+  }
+}

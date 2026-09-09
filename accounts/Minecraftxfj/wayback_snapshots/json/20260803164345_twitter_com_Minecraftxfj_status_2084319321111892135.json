@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2084308907460346077",
+    "created_at": "2026-08-03T16:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084319321111892135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084319321111892135",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084308907460346077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 不戳不戳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110170,
+        "height": 1080,
+        "media_key": "13_2084308707975008256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084308707975008256/img/v_v7lktmJSA0IRyQ.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084308707975008256/vid/avc1/640x360/5PbVck3OeKKhVsUT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084308707975008256/vid/avc1/1280x720/CB3AM8w0qaqfa7Sa.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084308707975008256/vid/avc1/480x270/aSDn4MhCpDmthaaw.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084308707975008256/vid/avc1/1920x1080/q92N9LiN-F27g-EM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084308707975008256/pl/aA7J31pTXc6MCQow.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2084308907460346077",
+        "created_at": "2026-08-03T16:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084319321111892135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084319321111892135",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084308907460346077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 不戳不戳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084308707975008256"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "conversation_id": "2084308907460346077",
+        "created_at": "2026-08-03T16:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084308907460346077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7FkNQgAHb",
+              "end": 81,
+              "expanded_url": "https://x.com/akihiro_0313/status/2084308907460346077/video/1",
+              "media_key": "13_2084308707975008256",
+              "start": 58,
+              "url": "https://t.co/m7FkNQgAHb"
+            },
+            {
+              "display_url": "x.com/akihiro_0313/s…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/akihiro_0313/status/2083884437725479389",
+              "start": 82,
+              "url": "https://t.co/xaMSkeZnrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084308907460346077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083884437725479389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自己唱的，应该不好听……\n\nBang Bang Bang - Silly Funk - Zachz Winner https://t.co/m7FkNQgAHb https://t.co/xaMSkeZnrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 913,
+          "like_count": 358,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 4077
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n​✨ 二次元 & アニメ\n💻 プログラミング\n✏️ 日本語勉強中\n​気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro.03131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro.03131",
+                "start": 0,
+                "url": "https://t.co/cWs0qXeWVS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079848684662202369/1bYOBN1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 2484,
+          "like_count": 12102,
+          "listed_count": 1,
+          "media_count": 1296,
+          "tweet_count": 9425
+        },
+        "url": "https://t.co/cWs0qXeWVS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

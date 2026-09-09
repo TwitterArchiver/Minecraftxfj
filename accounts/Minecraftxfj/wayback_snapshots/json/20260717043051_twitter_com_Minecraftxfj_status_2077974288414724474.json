@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2077913119029158231",
+    "created_at": "2026-07-17T04:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077974288414724474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012535035174219776",
+          "start": 0,
+          "username": "wenhui778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077974288414724474",
+    "in_reply_to_user_id": "2012535035174219776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077913119029158231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenhui778 瓜皮子是金子做的还是瓜粒子是金子做的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077913111882055680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNY690vbQAAbRte.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077913111840100352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNY690lbEAAC8zr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2077913119029158231",
+        "created_at": "2026-07-17T04:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077974288414724474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012535035174219776",
+              "start": 0,
+              "username": "wenhui778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077974288414724474",
+        "in_reply_to_user_id": "2012535035174219776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077913119029158231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenhui778 瓜皮子是金子做的还是瓜粒子是金子做的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077913111882055680",
+            "3_2077913111840100352"
+          ]
+        },
+        "author_id": "2012535035174219776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077913119029158231",
+        "created_at": "2026-07-17T00:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077913119029158231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRghNpEmn8",
+              "end": 54,
+              "expanded_url": "https://x.com/wenhui778/status/2077913119029158231/photo/1",
+              "media_key": "3_2077913111882055680",
+              "start": 31,
+              "url": "https://t.co/PRghNpEmn8"
+            },
+            {
+              "display_url": "pic.x.com/PRghNpEmn8",
+              "end": 54,
+              "expanded_url": "https://x.com/wenhui778/status/2077913119029158231/photo/1",
+              "media_key": "3_2077913111840100352",
+              "start": 31,
+              "url": "https://t.co/PRghNpEmn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077913119029158231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本东京超市，一个西瓜6372日元，大家觉得这个价格怎么样？ https://t.co/PRghNpEmn8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 619,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 2896
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T14:39:48.000Z",
+        "description": "分享普通人在日本东京的真实生活与成长。",
+        "id": "2012535035174219776",
+        "location": "Tokyo, Japan",
+        "name": "YY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068990617968152577/81jnAuO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2637,
+          "following_count": 3111,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "wenhui778",
+        "verified": true
+      }
+    ]
+  }
+}

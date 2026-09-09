@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2086589420657156298",
+    "created_at": "2026-08-10T05:30:06.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086686505272311835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924662324138541058",
+          "start": 0,
+          "username": "bouinboushokuup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086686505272311835",
+    "in_reply_to_user_id": "1924662324138541058",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086589420657156298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bouinboushokuup use AI？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2086589415095517184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUOBI7bwAA0khS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2086589420657156298",
+        "created_at": "2026-08-10T05:30:06.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086686505272311835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924662324138541058",
+              "start": 0,
+              "username": "bouinboushokuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086686505272311835",
+        "in_reply_to_user_id": "1924662324138541058",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086589420657156298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bouinboushokuup use AI？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086589415095517184"
+          ]
+        },
+        "author_id": "1924662324138541058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Macaron",
+              "id": "842474022902288384",
+              "name": "Macaron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Macaron",
+              "id": "842474022902288384",
+              "name": "Macaron"
+            }
+          }
+        ],
+        "conversation_id": "2086589420657156298",
+        "created_at": "2026-08-09T23:04:19.000Z",
+        "display_text_range": [
+          0,
+          218
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086589420657156298"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 192,
+              "start": 180,
+              "tag": "LiarMacaron"
+            },
+            {
+              "end": 206,
+              "start": 193,
+              "tag": "BoinBoshokuP"
+            },
+            {
+              "end": 218,
+              "start": 207,
+              "tag": "Kasaneteto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WphShRWOul",
+              "end": 242,
+              "expanded_url": "https://x.com/bouinboushokuup/status/2086589420657156298/photo/1",
+              "media_key": "3_2086589415095517184",
+              "start": 219,
+              "url": "https://t.co/WphShRWOul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086589420657156298",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086589415095517184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍬 “Liar Macaron feat.Kasane teto” Music Video (English Version) Coming Soon 🍬\nScheduled to premiere on Tuesday, August 12 at 7:00 PM (EDT)!!\nStay tuned for the English version! 👅\n\n#LiarMacaron #BoinBoshokuP #Kasaneteto https://t.co/WphShRWOul"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2086686505272311835",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1322,
+          "like_count": 731,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 4867
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-20T03:04:01.000Z",
+        "description": "新卒大食い24歳、音楽も、社会人も2年目、現実と音楽のはざまで生きています。 今日もいっぱい食べるぞーーーー！！🍙 私の大好物たち➡https://t.co/dCl2BEe6Ss",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCRF-o…",
+                "end": 89,
+                "expanded_url": "https://youtube.com/channel/UCRF-oSGAxISmpBubZT3WPXQ",
+                "start": 66,
+                "url": "https://t.co/dCl2BEe6Ss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists?id=991…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists?id=991902&lang=ja",
+                "start": 0,
+                "url": "https://t.co/EhhZ2aD973"
+              }
+            ]
+          }
+        },
+        "id": "1924662324138541058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086589420657156298",
+        "name": "暴飲暴食P🍣🥑",
+        "pinned_tweet_id": "2085660037498978641",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996897915172978688/I4-PrfZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 85,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 87,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/EhhZ2aD973",
+        "username": "bouinboushokuup",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

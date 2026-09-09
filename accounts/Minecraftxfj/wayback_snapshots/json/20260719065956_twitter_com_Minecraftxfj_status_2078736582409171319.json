@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078736582409171319",
+    "created_at": "2026-07-19T06:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078736582409171319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Trans_Helper/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Trans_Helper/status/2078735840617099342",
+          "start": 21,
+          "url": "https://t.co/HCJ8CVskpT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078736582409171319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078735840617099342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大安整的这个功能🫡\n这脑子真好使吧🤫（） https://t.co/HCJ8CVskpT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20178,
+        "height": 1078,
+        "media_key": "13_2078735684828045312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078735684828045312/img/vPhhHetMadBYrh-x.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078735684828045312/vid/avc1/480x270/E-NRuDIvCWCOsDah.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078735684828045312/vid/avc1/640x360/mbwYVQifJU-9QUT1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078735684828045312/vid/avc1/1280x720/tOsTSUX37-tJm61e.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078735684828045312/pl/Ekb2dGlyVI6gcOJn.m3u8?tag=14"
+          }
+        ],
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078736582409171319",
+        "created_at": "2026-07-19T06:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078736582409171319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Trans_Helper/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Trans_Helper/status/2078735840617099342",
+              "start": 21,
+              "url": "https://t.co/HCJ8CVskpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078736582409171319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078735840617099342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大安整的这个功能🫡\n这脑子真好使吧🤫（） https://t.co/HCJ8CVskpT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078735684828045312"
+          ]
+        },
+        "author_id": "2070818840213422080",
+        "conversation_id": "2078735840617099342",
+        "created_at": "2026-07-19T06:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078735840617099342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twaA1y0Ogo",
+              "end": 45,
+              "expanded_url": "https://x.com/Trans_Helper/status/2078735840617099342/video/1",
+              "media_key": "13_2078735684828045312",
+              "start": 22,
+              "url": "https://t.co/twaA1y0Ogo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078735840617099342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点意思\n\n* 开发中功能，不代表生产环境 https://t.co/twaA1y0Ogo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 652,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 3176
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-27T10:44:33.000Z",
+        "description": "TransHelper 团队官方账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transhelper.org",
+                "end": 23,
+                "expanded_url": "https://transhelper.org",
+                "start": 0,
+                "url": "https://t.co/VJKVaqTtZY"
+              }
+            ]
+          }
+        },
+        "id": "2070818840213422080",
+        "location": "Internet",
+        "name": "TransHelper",
+        "pinned_tweet_id": "2070869416808751335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820961390321664/_gbcmZoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/VJKVaqTtZY",
+        "username": "Trans_Helper",
+        "verified": false
+      }
+    ]
+  }
+}

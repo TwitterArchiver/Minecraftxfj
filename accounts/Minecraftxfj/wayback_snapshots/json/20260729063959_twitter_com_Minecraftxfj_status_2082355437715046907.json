@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082355180595712000"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2082355437715046907",
+    "created_at": "2026-07-29T06:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082355437715046907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KrPRiOgDM8",
+          "end": 57,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2082355437715046907/photo/1",
+          "media_key": "3_2082355180595712000",
+          "start": 34,
+          "url": "https://t.co/KrPRiOgDM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082355437715046907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想把三个显示器都接在一台电脑上，但是窝显卡的dp口是坏的，呜呜好烦 https://t.co/KrPRiOgDM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2082355180595712000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYDAQOaEAAeHQK.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082355180595712000"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2082355437715046907",
+        "created_at": "2026-07-29T06:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082355437715046907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KrPRiOgDM8",
+              "end": 57,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2082355437715046907/photo/1",
+              "media_key": "3_2082355180595712000",
+              "start": 34,
+              "url": "https://t.co/KrPRiOgDM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082355437715046907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想把三个显示器都接在一台电脑上，但是窝显卡的dp口是坏的，呜呜好烦 https://t.co/KrPRiOgDM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 795,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 3748
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      }
+    ]
+  }
+}

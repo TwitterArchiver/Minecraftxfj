@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078809925115863282",
+    "created_at": "2026-07-19T13:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078835633733415372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078835633733415372",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078809925115863282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 mikumiku！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1953,
+        "media_key": "3_2078809798070480896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlqf1GXsAAItYp.jpg",
+        "width": 3286
+      },
+      {
+        "height": 1936,
+        "media_key": "3_2078809895290208256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlqlfRXAAAoBzu.jpg",
+        "width": 3289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078809925115863282",
+        "created_at": "2026-07-19T13:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078835633733415372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078835633733415372",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078809925115863282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 mikumiku！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078809798070480896",
+            "3_2078809895290208256"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2078809925115863282",
+        "created_at": "2026-07-19T11:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078809925115863282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWGb1TPJwG",
+              "end": 72,
+              "expanded_url": "https://x.com/mario_2333/status/2078809925115863282/photo/1",
+              "media_key": "3_2078809798070480896",
+              "start": 49,
+              "url": "https://t.co/vWGb1TPJwG"
+            },
+            {
+              "display_url": "pic.x.com/vWGb1TPJwG",
+              "end": 72,
+              "expanded_url": "https://x.com/mario_2333/status/2078809925115863282/photo/1",
+              "media_key": "3_2078809895290208256",
+              "start": 49,
+              "url": "https://t.co/vWGb1TPJwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078809925115863282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1042,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶，大家都在说推特新UI的事情诶\n\n但是今年是2018年呀，你们都在说什么呢(っ °Д °;)っ https://t.co/vWGb1TPJwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 657,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 3228
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://telegram.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/P0unqfEJ1Z"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3969,
+          "following_count": 281,
+          "like_count": 56684,
+          "listed_count": 20,
+          "media_count": 1186,
+          "tweet_count": 18797
+        },
+        "url": "https://t.co/P0unqfEJ1Z",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

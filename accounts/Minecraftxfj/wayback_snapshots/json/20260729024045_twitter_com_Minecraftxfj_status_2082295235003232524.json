@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2082295235003232524",
+    "created_at": "2026-07-29T02:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082295235003232524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huantim7/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/huantim7/status/2082222791148057039",
+          "start": 6,
+          "url": "https://t.co/02A4HFOJoZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082295235003232524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082222791148057039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请不要自杀 https://t.co/02A4HFOJoZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2082295235003232524",
+        "created_at": "2026-07-29T02:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082295235003232524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim7/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/huantim7/status/2082222791148057039",
+              "start": 6,
+              "url": "https://t.co/02A4HFOJoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082295235003232524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082222791148057039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请不要自杀 https://t.co/02A4HFOJoZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2082222791148057039",
+        "created_at": "2026-07-28T21:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082222791148057039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/mark67358226/status/2082112865662849128",
+              "start": 36,
+              "url": "https://t.co/nDsE6xN0CQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082222791148057039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082112865662849128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请不要在春天自杀\n请不要在夏天自杀\n请不要在秋天自杀\n请不要在冬天自杀 https://t.co/nDsE6xN0CQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 790,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3741
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 794,
+          "like_count": 100722,
+          "listed_count": 1,
+          "media_count": 538,
+          "tweet_count": 6498
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": false
+      }
+    ]
+  }
+}

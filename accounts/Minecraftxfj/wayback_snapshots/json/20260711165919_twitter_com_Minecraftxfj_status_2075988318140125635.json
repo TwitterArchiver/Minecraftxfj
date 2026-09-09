@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2075961582463701321",
+    "created_at": "2026-07-11T16:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075988318140125635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075988318140125635",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075961582463701321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi 我去不早说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2075961571130724352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9MDM6b0AAJm-r.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2075961582463701321",
+        "created_at": "2026-07-11T16:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075988318140125635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075988318140125635",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075961582463701321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075961571130724352"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2075961582463701321",
+        "created_at": "2026-07-11T15:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075961582463701321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8nUPntbhr",
+              "end": 29,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2075961582463701321/photo/1",
+              "media_key": "3_2075961571130724352",
+              "start": 6,
+              "url": "https://t.co/M8nUPntbhr"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2075961582463701321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 729,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去不早說 https://t.co/M8nUPntbhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\nUTC+8🤨简中/Eng🤯怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 478,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​桜の咲く頃に 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 357,
+          "like_count": 12610,
+          "listed_count": 3,
+          "media_count": 958,
+          "tweet_count": 4417
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

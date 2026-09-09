@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2083740774353748475",
+    "created_at": "2026-08-07T11:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085688367954706776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708489817191821312",
+          "start": 0,
+          "username": "Gues114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085688367954706776",
+    "in_reply_to_user_id": "1708489817191821312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085678820263174342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gues114514 买呗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2083740774353748475",
+        "created_at": "2026-08-07T11:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085688367954706776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708489817191821312",
+              "start": 0,
+              "username": "Gues114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085688367954706776",
+        "in_reply_to_user_id": "1708489817191821312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085678820263174342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gues114514 买呗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708489817191821312",
+        "conversation_id": "2083740774353748475",
+        "created_at": "2026-08-07T10:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085678820263174342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085678820263174342",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084465492400730465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 对呀（（\n我也好想要可惜没\"工具\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1214,
+          "like_count": 491,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 4482
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T14:31:50.000Z",
+        "description": "我是前1~2~2~4~H~u~a~n~g~J~i~n",
+        "id": "1708489817191821312",
+        "name": "用户114514",
+        "pinned_tweet_id": "1845105108427616385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602675859501056/iPCN_1_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 95,
+          "like_count": 4437,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1114
+        },
+        "url": "",
+        "username": "Gues114514",
+        "verified": false
+      }
+    ]
+  }
+}

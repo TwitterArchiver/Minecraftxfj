@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096601409722757120"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "conversation_id": "2096601451518894507",
+    "created_at": "2026-09-06T14:08:33.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096601451518894507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZZi0eKohuI",
+          "end": 33,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2096601451518894507/photo/1",
+          "media_key": "3_2096601409722757120",
+          "start": 10,
+          "url": "https://t.co/ZZi0eKohuI"
+        },
+        {
+          "display_url": "x.com/Adrawta/status…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Adrawta/status/2096048478455841104",
+          "start": 34,
+          "url": "https://t.co/SXHg8q0VmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096601451518894507",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096601409722757120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096048478455841104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那还说啥了？！！！ https://t.co/ZZi0eKohuI https://t.co/SXHg8q0VmZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1186,
+        "media_key": "3_2096601409722757120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRif37YbsAAdaW8.jpg",
+        "width": 1440
+      },
+      {
+        "height": 737,
+        "media_key": "3_2096048457228378112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRao920aYAA9NWy.png",
+        "width": 537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096601409722757120"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2096601451518894507",
+        "created_at": "2026-09-06T14:08:33.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096601451518894507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZZi0eKohuI",
+              "end": 33,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2096601451518894507/photo/1",
+              "media_key": "3_2096601409722757120",
+              "start": 10,
+              "url": "https://t.co/ZZi0eKohuI"
+            },
+            {
+              "display_url": "x.com/Adrawta/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Adrawta/status/2096048478455841104",
+              "start": 34,
+              "url": "https://t.co/SXHg8q0VmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096601451518894507",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096601409722757120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096048478455841104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那还说啥了？！！！ https://t.co/ZZi0eKohuI https://t.co/SXHg8q0VmZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096048457228378112"
+          ]
+        },
+        "author_id": "1934766733237342209",
+        "conversation_id": "2096048478455841104",
+        "created_at": "2026-09-05T01:31:14.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T02:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096048478455841104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EDZLcQiio",
+              "end": 25,
+              "expanded_url": "https://x.com/Adrawta/status/2096048478455841104/photo/1",
+              "media_key": "3_2096048457228378112",
+              "start": 2,
+              "url": "https://t.co/7EDZLcQiio"
+            },
+            {
+              "display_url": "x.com/Fuugetsu_808/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Fuugetsu_808/status/2096043056051188220",
+              "start": 26,
+              "url": "https://t.co/dczuxCD0oC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096048478455841104",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096048457228378112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096043056051188220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/7EDZLcQiio https://t.co/dczuxCD0oC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096601451518894507",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1446,
+          "like_count": 2882,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 6607
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/個人觀點無其它意味👀/dm open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0BF6L"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "is_identity_verified": false,
+        "location": "inside QEMU",
+        "most_recent_tweet_id": "2096600998718722080",
+        "name": "raw_data💫",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934766733237342209/1783393111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083132879186595840/DHBVlY0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 167,
+          "like_count": 10063,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/z6v8G0BF6L",
+        "username": "Adrawta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

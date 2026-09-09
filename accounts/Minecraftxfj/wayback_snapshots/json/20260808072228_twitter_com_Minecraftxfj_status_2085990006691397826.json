@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085920526514463090",
+    "created_at": "2026-08-08T07:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T08:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085990006691397826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084213801918816256",
+          "start": 0,
+          "username": "starowoowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085990006691397826",
+    "in_reply_to_user_id": "2084213801918816256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085920526514463090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starowoowo 祝一切顺利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085920526514463090",
+        "created_at": "2026-08-08T07:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085990006691397826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084213801918816256",
+              "start": 0,
+              "username": "starowoowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085990006691397826",
+        "in_reply_to_user_id": "2084213801918816256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085920526514463090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starowoowo 祝一切顺利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084213801918816256",
+        "conversation_id": "2085920526514463090",
+        "created_at": "2026-08-08T02:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T03:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085920526514463090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085920526514463090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟家长出柜了，祝我成为家长党"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1284,
+          "like_count": 566,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 4647
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-08-03T09:47:41.000Z",
+        "description": "一只猫娘/mtf/多体/音游入/二次元/出厂日期2010.12.27/想含糖但是没有丝毫经济的穷逼😭",
+        "id": "2084213801918816256",
+        "name": "starowo🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084215611928784896/PYUDZ8gP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 36,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "starowoowo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084630300391624704"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2084630312198496354",
+    "created_at": "2026-08-04T13:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084630312198496354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UX0qQTzJoS",
+          "end": 150,
+          "expanded_url": "https://x.com/Minecraftxfj/status/2084630312198496354/photo/1",
+          "media_key": "3_2084630300391624704",
+          "start": 127,
+          "url": "https://t.co/UX0qQTzJoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084630312198496354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 172,
+            "id": "2076475617806274560",
+            "start": 159,
+            "username": "SakayoriIr4e"
+          }
+        ]
+      },
+      "text": "饱饱来给我送钟了说是🙏\nAmazfit 运动手表，华米的初代手表应该是，已经没有任何软件更新了，甚至连基础的手表功能都废了（最大日期限制在 2018 年）\n我还是第一次看见半反半透屏呢（）\n没见过的是这块表能直接添加到米家里，不过不能像米环 10Pro 那样获取数据做自动化什么的，而且基础的设备控制能力也完全报废了\n@SakayoriIr4e"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "饱饱来给我送钟了说是🙏\nAmazfit 运动手表，华米的初代手表应该是，已经没有任何软件更新了，甚至连基础的手表功能都废了（最大日期限制在 2018 年）\n我还是第一次看见半反半透屏呢（）\n没见过的是这块表能直接添加到米家里，不过不能像米环 10Pro https://t.co/UX0qQTzJoS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084630300391624704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4YNp7b0AAdPPf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084630300391624704"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2084630312198496354",
+        "created_at": "2026-08-04T13:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084630312198496354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UX0qQTzJoS",
+              "end": 150,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2084630312198496354/photo/1",
+              "media_key": "3_2084630300391624704",
+              "start": 127,
+              "url": "https://t.co/UX0qQTzJoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084630312198496354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 172,
+                "id": "2076475617806274560",
+                "start": 159,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "text": "饱饱来给我送钟了说是🙏\nAmazfit 运动手表，华米的初代手表应该是，已经没有任何软件更新了，甚至连基础的手表功能都废了（最大日期限制在 2018 年）\n我还是第一次看见半反半透屏呢（）\n没见过的是这块表能直接添加到米家里，不过不能像米环 10Pro 那样获取数据做自动化什么的，而且基础的设备控制能力也完全报废了\n@SakayoriIr4e"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饱饱来给我送钟了说是🙏\nAmazfit 运动手表，华米的初代手表应该是，已经没有任何软件更新了，甚至连基础的手表功能都废了（最大日期限制在 2018 年）\n我还是第一次看见半反半透屏呢（）\n没见过的是这块表能直接添加到米家里，不过不能像米环 10Pro https://t.co/UX0qQTzJoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 926,
+          "like_count": 367,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 4104
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-13T01:21:41.000Z",
+        "description": "是个人，浅浅了解一些刷机相关的，我要打瓦.........，@minecraftxfj这是我宝宝喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "minecraftxfj"
+              }
+            ]
+          }
+        },
+        "id": "2076475617806274560",
+        "location": "不知道",
+        "name": "Sakayori Iroha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076477540806602752/osmaftoE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "SakayoriIr4e",
+        "verified": false
+      }
+    ]
+  }
+}

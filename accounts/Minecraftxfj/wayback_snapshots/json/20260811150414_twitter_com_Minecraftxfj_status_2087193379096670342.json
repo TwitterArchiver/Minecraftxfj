@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2087137784951668830",
+    "created_at": "2026-08-11T15:04:14.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087193379096670342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087193379096670342",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087137784951668830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 哇感觉你的父母对你好好诶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2087137784951668830",
+        "created_at": "2026-08-11T15:04:14.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087193379096670342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087193379096670342",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087137784951668830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 哇感觉你的父母对你好好诶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2087137784951668830",
+        "created_at": "2026-08-11T11:23:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087137784951668830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2020520Rei/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/2020520Rei/status/2085325203295658221",
+              "start": 141,
+              "url": "https://t.co/tajurVOt9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087137784951668830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近很长一段时间都好烦，刚刚又又又和老爸说，最近不知道怎么了就是好烦，人也有意识知道自己烦，但就是好烦，身体肢体也控制不住动来动去的，总是要小心不要碰掉锅碗瓢盆，老爸说，害，我也不知道怎么帮你。然后阿零就说，老爸，我现在可以出门和大家交流了。老爸说，很棒，有好转就是好事。此刻的阿零还是好烦，必须要有意识控制自己，然后有时候大脑一个放电莫名其妙就起身，走来走去，阿零回过神来，说，哎呀，怎么看跟着老爸呀，阿零简直是一个跟屁虫，老爸说，诶，不不不，多走走是好事↘↗。好烦好烦好烦，烦的好想自杀，压制自己一拳干碎木门，然后压制自己就很烦。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1489,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085325203295658221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近很长一段时间都好烦，刚刚又又又和老爸说，最近不知道怎么了就是好烦，人也有意识知道自己烦，但就是好烦，身体肢体也控制不住动来动去的，总是要小心不要碰掉锅碗瓢盆，老爸说，害，我也不知道怎么帮你。然后阿零就说，老爸，我现在可以出门和大家交流了。老爸说，很棒，有好转就是好事。此刻的阿 https://t.co/tajurVOt9z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2087193379096670342",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1336,
+          "like_count": 806,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 5014
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2087176811470069842",
+        "name": "ReiOᴗoಣ零酱🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 626,
+          "like_count": 3491,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1832
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

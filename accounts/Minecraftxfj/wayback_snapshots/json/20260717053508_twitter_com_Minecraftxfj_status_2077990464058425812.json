@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2077988551200047359",
+    "created_at": "2026-07-17T05:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077990464058425812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052791047051153408",
+          "start": 0,
+          "username": "HaiyaRight22333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077990464058425812",
+    "in_reply_to_user_id": "2052791047051153408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077988551200047359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaiyaRight22333 更孤独了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2077988535987011584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ_kFbXAAAm42P.jpg",
+        "width": 1647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2077988551200047359",
+        "created_at": "2026-07-17T05:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077990464058425812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052791047051153408",
+              "start": 0,
+              "username": "HaiyaRight22333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077990464058425812",
+        "in_reply_to_user_id": "2052791047051153408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077988551200047359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaiyaRight22333 更孤独了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077988535987011584"
+          ]
+        },
+        "author_id": "2052791047051153408",
+        "conversation_id": "2077988551200047359",
+        "created_at": "2026-07-17T05:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077988551200047359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZDaKrAk7A",
+              "end": 57,
+              "expanded_url": "https://x.com/HaiyaRight22333/status/2077988551200047359/photo/1",
+              "media_key": "3_2077988535987011584",
+              "start": 34,
+              "url": "https://t.co/YZDaKrAk7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077988551200047359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个项目可以将ai作为你的联机朋友接入mc，解决没人陪你玩的问题。 https://t.co/YZDaKrAk7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 620,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 2921
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-08T16:42:30.000Z",
+        "description": "生产日期 2008/04/16|mtf|喜欢徒步|🍥🏳️‍⚧️",
+        "id": "2052791047051153408",
+        "name": "嗨鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070821435296358400/VJYKoqgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "HaiyaRight22333",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085800496762425356",
+    "created_at": "2026-08-07T19:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085807239072559390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2061773740195921920",
+          "start": 0,
+          "username": "guoxmvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085807239072559390",
+    "in_reply_to_user_id": "2061773740195921920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085806580596175356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guoxmvs 所以偶尔听到一次会很舒服，很有感觉，但是不适合单曲循环（）会腻的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085800496762425356",
+        "created_at": "2026-08-07T19:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085807239072559390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2061773740195921920",
+              "start": 0,
+              "username": "guoxmvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085807239072559390",
+        "in_reply_to_user_id": "2061773740195921920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085806580596175356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guoxmvs 所以偶尔听到一次会很舒服，很有感觉，但是不适合单曲循环（）会腻的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061773740195921920",
+        "conversation_id": "2085800496762425356",
+        "created_at": "2026-08-07T19:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085806580596175356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085806580596175356",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085805692687208639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 作曲的话挺可以的，但有点不耐听，仔细去听就会发现大部分节奏都是重复的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 1230,
+          "like_count": 519,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 4576
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T11:36:27.000Z",
+        "description": "出厂11.08.30 / MtF / 自杀未遂（2次） / 炸柜 / 暂时无法含糖",
+        "id": "2061773740195921920",
+        "location": "远方",
+        "name": "噪声&回声_Noise&Echo🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085252915275669504/Kkp34iXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 258,
+          "like_count": 2054,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "guoxmvs",
+        "verified": false
+      }
+    ]
+  }
+}

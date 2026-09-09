@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2089919358990753870",
+    "created_at": "2026-08-19T04:57:47.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T05:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089939865836343495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1983785414277332992",
+          "start": 0,
+          "username": "DBjDVFbzYr7256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089939865836343495",
+    "in_reply_to_user_id": "1983785414277332992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089919358990753870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DBjDVFbzYr7256 术术人闹麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2089919358990753870",
+        "created_at": "2026-08-19T04:57:47.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089939865836343495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1983785414277332992",
+              "start": 0,
+              "username": "DBjDVFbzYr7256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089939865836343495",
+        "in_reply_to_user_id": "1983785414277332992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089919358990753870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DBjDVFbzYr7256 术术人闹麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983785414277332992",
+        "conversation_id": "2089919358990753870",
+        "created_at": "2026-08-19T03:36:18.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089919358990753870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089919358990753870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是七夕\n当别人牵手时，我们可以一起听v家曲\n别人拥抱时，我们可以听v家曲。\n别人接吻时，我们可以听v家曲。\n别人在炫耀时，我们可以听v家曲。\n别人吃饭的时候，我们可以听v家曲\n别人约会时，我们可以听v家曲\n所以，快来和我一起听v家曲吧！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2089939865836343495",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1415,
+          "like_count": 1356,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 5620
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T06:38:26.000Z",
+        "description": "僕はボカロの曲愛好家、好き初音ミク",
+        "id": "1983785414277332992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089919358990753870",
+        "name": "ニガー",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053835548012531712/37bXpF8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 268,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "DBjDVFbzYr7256",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2080349238949548103",
+    "created_at": "2026-07-23T17:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080350319394119782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764834043483361280",
+          "start": 0,
+          "username": "aimohhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080350319394119782",
+    "in_reply_to_user_id": "1764834043483361280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080349238949548103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aimohhh 想的美哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2080348957083852800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7iWrPWYAAr0ps.png",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2080349238949548103",
+        "created_at": "2026-07-23T17:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080350319394119782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764834043483361280",
+              "start": 0,
+              "username": "aimohhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080350319394119782",
+        "in_reply_to_user_id": "1764834043483361280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080349238949548103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aimohhh 想的美哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080348957083852800"
+          ]
+        },
+        "author_id": "1764834043483361280",
+        "conversation_id": "2080349238949548103",
+        "created_at": "2026-07-23T17:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080349238949548103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXj8Qf1qh4",
+              "end": 54,
+              "expanded_url": "https://x.com/aimohhh/status/2080349238949548103/photo/1",
+              "media_key": "3_2080348957083852800",
+              "start": 31,
+              "url": "https://t.co/uXj8Qf1qh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080349238949548103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x左侧菜单栏更新了个Money，不知道国内的有没有机会能使用 https://t.co/uXj8Qf1qh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 779,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 3633
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-05T02:04:01.000Z",
+        "description": "Personal content creator. Original posts about AI, technology, internet culture, and online communities.",
+        "id": "1764834043483361280",
+        "name": "Aimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764835158409043968/h8DugZgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 578,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "aimohhh",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2079164405305266412",
+    "created_at": "2026-07-22T10:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079877000899227889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1627188680421957632",
+          "start": 0,
+          "username": "sayukinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079877000899227889",
+    "in_reply_to_user_id": "1627188680421957632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079824545306066957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayukinya 没钱买😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079164405305266412",
+        "created_at": "2026-07-22T10:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079877000899227889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1627188680421957632",
+              "start": 0,
+              "username": "sayukinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079877000899227889",
+        "in_reply_to_user_id": "1627188680421957632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079824545306066957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayukinya 没钱买😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627188680421957632",
+        "conversation_id": "2079164405305266412",
+        "created_at": "2026-07-22T07:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079824545306066957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079824545306066957",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079164405305266412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 看看你的🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 716,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 3452
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T06:10:03.000Z",
+        "description": "呀吼，这里是晓山樱雪～ / 25时团推 / 喜欢打音游 / 术术人 / 数码、无线电爱好者",
+        "id": "1627188680421957632",
+        "location": "空无一人的世界",
+        "name": "曉山桜雪",
+        "pinned_tweet_id": "1963530407582036334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017113516789166080/rdfkb40d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 547,
+          "like_count": 25126,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "sayukinya",
+        "verified": false
+      }
+    ]
+  }
+}

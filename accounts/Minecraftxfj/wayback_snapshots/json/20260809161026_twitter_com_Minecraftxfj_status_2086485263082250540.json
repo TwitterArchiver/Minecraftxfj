@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2086440930605748640",
+    "created_at": "2026-08-09T16:10:26.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T17:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086485263082250540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2077948471366029312",
+          "start": 0,
+          "username": "qpmwao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086485263082250540",
+    "in_reply_to_user_id": "2077948471366029312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086480763231350816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qpmwao 找 ai 去（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2086440930605748640",
+        "created_at": "2026-08-09T16:10:26.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086485263082250540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2077948471366029312",
+              "start": 0,
+              "username": "qpmwao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086485263082250540",
+        "in_reply_to_user_id": "2077948471366029312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086480763231350816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qpmwao 找 ai 去（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077948471366029312",
+        "conversation_id": "2086440930605748640",
+        "created_at": "2026-08-09T15:52:33.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086480763231350816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086480763231350816",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086442421022589285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 没改啊最近这两天特别忙"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2086485263082250540",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 1322,
+          "like_count": 699,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 4841
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T02:49:24.000Z",
+        "description": "10/药娘/男娘含糖新进亚空间/enfp/重抑重焦伴随精神分裂，双相情感障碍/男，/解离性身份障碍/不喜可挂壁，/生产日期2010/木桶饭喵🏳️‍⚧️🍥🏳️‍⚧️🍥https://t.co/bCN2NTfFrA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xuanningcha.online",
+                "end": 105,
+                "expanded_url": "https://www.xuanningcha.online/",
+                "start": 82,
+                "url": "https://t.co/bCN2NTfFrA"
+              }
+            ]
+          }
+        },
+        "id": "2077948471366029312",
+        "is_identity_verified": false,
+        "location": "西伯利亚/Ch/南北极圈游荡者",
+        "most_recent_tweet_id": "2086482317468426370",
+        "name": "玄宁茶🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2086440930605748640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077948471366029312/1784382757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078863282278981632/D6LIcLl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 46,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "qpmwao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

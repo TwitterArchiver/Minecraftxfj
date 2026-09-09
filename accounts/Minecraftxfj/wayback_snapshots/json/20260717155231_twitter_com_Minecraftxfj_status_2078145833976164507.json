@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2078063317881614399",
+    "created_at": "2026-07-17T15:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078145833976164507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070111193335775232",
+          "start": 0,
+          "username": "maozm888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078145833976164507",
+    "in_reply_to_user_id": "2070111193335775232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078063317881614399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maozm888 钱交给我，我给你写😭🙏🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2078063310495444993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbDkiLacAEpPiS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2078063317881614399",
+        "created_at": "2026-07-17T15:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078145833976164507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070111193335775232",
+              "start": 0,
+              "username": "maozm888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078145833976164507",
+        "in_reply_to_user_id": "2070111193335775232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078063317881614399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maozm888 钱交给我，我给你写😭🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078063310495444993"
+          ]
+        },
+        "author_id": "2070111193335775232",
+        "conversation_id": "2078063317881614399",
+        "created_at": "2026-07-17T10:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078063317881614399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vKzjPWFGb",
+              "end": 48,
+              "expanded_url": "https://x.com/maozm888/status/2078063317881614399/photo/1",
+              "media_key": "3_2078063310495444993",
+              "start": 25,
+              "url": "https://t.co/0vKzjPWFGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078063317881614399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想要不要整一个来看看前端到底是不是真的那么强 https://t.co/0vKzjPWFGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 621,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 2952
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-25T11:47:43.000Z",
+        "description": "有点文绉绉的 AI 应用开发工程师，也是 Vibe Coding 实践者。用代码、模型和一点直觉，把脑海里的想法持续变成现实。相信因果、宿命论，但始终保持一颗好奇心。\n喜欢在哲学📜、玄学🔮、道法☯️、交易📈与第九艺术🎮里，观测世界，也观测自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maozm.art",
+                "end": 23,
+                "expanded_url": "https://maozm.art",
+                "start": 0,
+                "url": "https://t.co/kBZaNU91gr"
+              }
+            ]
+          }
+        },
+        "id": "2070111193335775232",
+        "location": "中国 · 广州",
+        "name": "LazyCatttt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071654926770733056/3hkiE4Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 1083,
+          "like_count": 86,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/kBZaNU91gr",
+        "username": "maozm888",
+        "verified": true
+      }
+    ]
+  }
+}

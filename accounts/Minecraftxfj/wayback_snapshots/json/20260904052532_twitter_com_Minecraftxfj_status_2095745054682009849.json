@@ -1,0 +1,658 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095458564190162944"
+      ],
+      "media_source_tweet_id": [
+        "2095458677285376087"
+      ]
+    },
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      }
+    ],
+    "conversation_id": "2095745054682009849",
+    "created_at": "2026-09-04T05:25:32.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095745054682009849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "33290455",
+          "start": 3,
+          "username": "DECO27"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「きみは好きにな～る　好きにな～る　愛したくなる」Listen & Download: https://karent.jp/albu...",
+          "display_url": "youtu.be/l1UOPIr76CA",
+          "end": 59,
+          "expanded_url": "https://youtu.be/l1UOPIr76CA",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2095455092837371904/QE1i7Aca?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2095455092837371904/QE1i7Aca?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 36,
+          "status": 200,
+          "title": "DECO*27 - 洗脳 feat. 初音ミク",
+          "unwound_url": "https://www.youtube.com/watch?v=l1UOPIr76CA&feature=youtu.be",
+          "url": "https://t.co/16FD4sOihW"
+        },
+        {
+          "display_url": "pic.x.com/3YZCzcFsG6",
+          "end": 83,
+          "expanded_url": "https://x.com/DECO27/status/2095458677285376087/photo/1",
+          "media_key": "3_2095458564190162944",
+          "start": 60,
+          "url": "https://t.co/3YZCzcFsG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095745054682009849",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095458564190162944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5008
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095458677285376087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DECO27: 新曲「洗脳」\n明日19:00プレミア公開です🌀\nhttps://t.co/16FD4sOihW https://t.co/3YZCzcFsG6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2095458564190162944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSQdkAa0AAh8R9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095458564190162944"
+          ],
+          "media_source_tweet_id": [
+            "2095458677285376087"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          }
+        ],
+        "conversation_id": "2095745054682009849",
+        "created_at": "2026-09-04T05:25:32.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095745054682009849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "33290455",
+              "start": 3,
+              "username": "DECO27"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「きみは好きにな～る　好きにな～る　愛したくなる」Listen & Download: https://karent.jp/albu...",
+              "display_url": "youtu.be/l1UOPIr76CA",
+              "end": 59,
+              "expanded_url": "https://youtu.be/l1UOPIr76CA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2095455092837371904/QE1i7Aca?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095455092837371904/QE1i7Aca?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "DECO*27 - 洗脳 feat. 初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=l1UOPIr76CA&feature=youtu.be",
+              "url": "https://t.co/16FD4sOihW"
+            },
+            {
+              "display_url": "pic.x.com/3YZCzcFsG6",
+              "end": 83,
+              "expanded_url": "https://x.com/DECO27/status/2095458677285376087/photo/1",
+              "media_key": "3_2095458564190162944",
+              "start": 60,
+              "url": "https://t.co/3YZCzcFsG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095745054682009849",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095458564190162944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5008
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095458677285376087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DECO27: 新曲「洗脳」\n明日19:00プレミア公開です🌀\nhttps://t.co/16FD4sOihW https://t.co/3YZCzcFsG6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095458564190162944"
+          ]
+        },
+        "author_id": "33290455",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          }
+        ],
+        "conversation_id": "2095458677285376087",
+        "created_at": "2026-09-03T10:27:35.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095458677285376087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "「きみは好きにな～る　好きにな～る　愛したくなる」Listen & Download: https://karent.jp/albu...",
+              "display_url": "youtu.be/l1UOPIr76CA",
+              "end": 47,
+              "expanded_url": "https://youtu.be/l1UOPIr76CA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2095455092837371904/QE1i7Aca?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095455092837371904/QE1i7Aca?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "DECO*27 - 洗脳 feat. 初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=l1UOPIr76CA&feature=youtu.be",
+              "url": "https://t.co/16FD4sOihW"
+            },
+            {
+              "display_url": "pic.x.com/3YZCzcFsG6",
+              "end": 71,
+              "expanded_url": "https://x.com/DECO27/status/2095458677285376087/photo/1",
+              "media_key": "3_2095458564190162944",
+              "start": 48,
+              "url": "https://t.co/3YZCzcFsG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095458677285376087",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095458564190162944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1562,
+          "impression_count": 562363,
+          "like_count": 34847,
+          "quote_count": 697,
+          "reply_count": 50,
+          "retweet_count": 5008
+        },
+        "reply_settings": "everyone",
+        "text": "新曲「洗脳」\n明日19:00プレミア公開です🌀\nhttps://t.co/16FD4sOihW https://t.co/3YZCzcFsG6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2095745054682009849",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 1444,
+          "like_count": 2636,
+          "listed_count": 2,
+          "media_count": 631,
+          "tweet_count": 6443
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-19T19:37:59.000Z",
+        "description": "27人いるわけじゃないです\nYouTube: https://t.co/tDVoNjhuCj\nInstagram: https://t.co/CQjW3Abk1S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/DECO27Offici…",
+                "end": 46,
+                "expanded_url": "http://youtube.com/c/DECO27Official",
+                "start": 23,
+                "url": "https://t.co/tDVoNjhuCj"
+              },
+              {
+                "display_url": "instagram.com/deco27_39",
+                "end": 81,
+                "expanded_url": "https://www.instagram.com/deco27_39",
+                "start": 58,
+                "url": "https://t.co/CQjW3Abk1S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "otoiro.co.jp",
+                "end": 23,
+                "expanded_url": "https://otoiro.co.jp/",
+                "start": 0,
+                "url": "https://t.co/Chf4PUYlpM"
+              }
+            ]
+          }
+        },
+        "id": "33290455",
+        "is_identity_verified": false,
+        "location": "ダミーロマンス",
+        "most_recent_tweet_id": "2095458677285376087",
+        "name": "DECO*27",
+        "pinned_tweet_id": "2095458677285376087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33290455/1784282668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400323907735805954/DzkBzUPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182238,
+          "following_count": 598,
+          "like_count": 690,
+          "listed_count": 5745,
+          "media_count": 724,
+          "tweet_count": 2192
+        },
+        "url": "https://t.co/Chf4PUYlpM",
+        "username": "DECO27",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

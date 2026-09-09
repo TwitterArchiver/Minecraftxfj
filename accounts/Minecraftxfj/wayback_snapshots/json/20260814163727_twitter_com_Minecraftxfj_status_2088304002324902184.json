@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2088234244560814141",
+    "created_at": "2026-08-14T16:37:27.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088304002324902184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688792465292374016",
+          "start": 0,
+          "username": "unitedly_37400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088304002324902184",
+    "in_reply_to_user_id": "1688792465292374016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088234244560814141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unitedly_37400 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2088234238491643905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrl-dkaUAEIiJs.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2088234244560814141",
+        "created_at": "2026-08-14T16:37:27.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088304002324902184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688792465292374016",
+              "start": 0,
+              "username": "unitedly_37400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088304002324902184",
+        "in_reply_to_user_id": "1688792465292374016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088234244560814141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unitedly_37400 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088234238491643905"
+          ]
+        },
+        "author_id": "1688792465292374016",
+        "conversation_id": "2088234244560814141",
+        "created_at": "2026-08-14T12:00:16.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088234244560814141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C374EtrZo8",
+              "end": 42,
+              "expanded_url": "https://x.com/unitedly_37400/status/2088234244560814141/photo/1",
+              "media_key": "3_2088234238491643905",
+              "start": 19,
+              "url": "https://t.co/C374EtrZo8"
+            },
+            {
+              "display_url": "x.com/realhoshinofuj…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/realhoshinofuji/status/2088197312426500450",
+              "start": 43,
+              "url": "https://t.co/k34rhxzUZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088234244560814141",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088234238491643905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1709,
+          "like_count": 35,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088197312426500450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到这种头像的直接打包带走就好\n😋👆 https://t.co/C374EtrZo8 https://t.co/k34rhxzUZ7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2088304002324902184",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 1368,
+          "like_count": 976,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 5285
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰滋賀県民😁｜现在的名字不像假账号了👊｜🇯🇵🏳️‍⚧️｜微查成分回fo(真的很微)🥺没回➡️没看到😭｜小号@tsurumi_37400 欢迎关注喵｜魔裁/Mu/Go/F1(CL16)/MC/天际线｜最好的伙伴 @tomo9487｜bsky同名同ID｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "tomo9487"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9oi7"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "is_identity_verified": false,
+        "location": "滋賀県",
+        "most_recent_tweet_id": "2088287049153679649",
+        "name": "中井鶴見",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688792465292374016/1784302086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 618,
+          "like_count": 87503,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 2896
+        },
+        "url": "https://t.co/QrtZ8v9oi7",
+        "username": "unitedly_37400",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

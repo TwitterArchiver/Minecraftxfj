@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2088116260529930687",
+    "created_at": "2026-08-14T14:11:41.000Z",
+    "display_text_range": [
+      17,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088267318451388731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714516335252959232",
+          "start": 0,
+          "username": "carter_lau14832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088267318451388731",
+    "in_reply_to_user_id": "1714516335252959232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088195456103055590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carter_lau14832 三个形容词我都没看到说是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2088116260529930687",
+        "created_at": "2026-08-14T14:11:41.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088267318451388731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714516335252959232",
+              "start": 0,
+              "username": "carter_lau14832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088267318451388731",
+        "in_reply_to_user_id": "1714516335252959232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088195456103055590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carter_lau14832 三个形容词我都没看到说是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714516335252959232",
+        "conversation_id": "2088116260529930687",
+        "created_at": "2026-08-14T09:26:08.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088195456103055590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088195456103055590",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088116260529930687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 高技术力美少女"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2088267318451388731",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 1362,
+          "like_count": 953,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 5265
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-18T05:38:51.000Z",
+        "description": "被迫断糖（秘密含糖）   已炸柜  父母不同意   心情挺好 \n谢谢你@tktrtxafsjwwp0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "tktrtxafsjwwp0"
+              }
+            ]
+          }
+        },
+        "id": "1714516335252959232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088262508515909969",
+        "name": "Lauren Carter 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714516335252959232/1785507567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054609374744809472/CN6YXpZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 56,
+          "like_count": 118,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "carter_lau14832",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

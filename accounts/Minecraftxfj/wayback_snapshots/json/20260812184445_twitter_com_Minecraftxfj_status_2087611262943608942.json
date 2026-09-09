@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "2087593488716292158",
+    "created_at": "2026-08-12T18:44:45.000Z",
+    "display_text_range": [
+      8,
+      284
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087611262943608942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2087152708696346624",
+          "start": 0,
+          "username": "Kir4uh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087611262943608942",
+    "in_reply_to_user_id": "2087152708696346624",
+    "lang": "cs",
+    "note_tweet": {
+      "entities": {},
+      "text": "I found the song ‘Грустный русский взгляд’. It’s not popular at all on NetEase Cloud Music in China—only a handful of comments, and nobody’s added Chinese lyrics. So I used Grok to look up the lyrics and translate them into Chinese. The lyrics look pretty melancholic, but the melody actually feels kind of cheerful to me."
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087609430275719576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uh I found the song ‘Грустный русский взгляд’. It’s not popular at all on NetEase Cloud Music in China—only a handful of comments, and nobody’s added Chinese lyrics. So I used Grok to look up the lyrics and translate them into Chinese. The lyrics look pretty melancholic, but the"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2087593488716292158",
+        "created_at": "2026-08-12T18:44:45.000Z",
+        "display_text_range": [
+          8,
+          284
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087611262943608942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2087152708696346624",
+              "start": 0,
+              "username": "Kir4uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087611262943608942",
+        "in_reply_to_user_id": "2087152708696346624",
+        "lang": "cs",
+        "note_tweet": {
+          "entities": {},
+          "text": "I found the song ‘Грустный русский взгляд’. It’s not popular at all on NetEase Cloud Music in China—only a handful of comments, and nobody’s added Chinese lyrics. So I used Grok to look up the lyrics and translate them into Chinese. The lyrics look pretty melancholic, but the melody actually feels kind of cheerful to me."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087609430275719576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uh I found the song ‘Грустный русский взгляд’. It’s not popular at all on NetEase Cloud Music in China—only a handful of comments, and nobody’s added Chinese lyrics. So I used Grok to look up the lyrics and translate them into Chinese. The lyrics look pretty melancholic, but the"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087152708696346624",
+        "conversation_id": "2087593488716292158",
+        "created_at": "2026-08-12T18:37:28.000Z",
+        "display_text_range": [
+          14,
+          288
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087609430275719576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087609430275719576",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {},
+          "text": "the same applies to you, if you want to talk about something, then write in private messages. I'm always happy to talk, but I still advise you to listen to the song \"грустный русский взгляд\" I know you have a music player on your phone in China that has subtitles from other languages."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087608752442925172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj the same applies to you, if you want to talk about something, then write in private messages. I'm always happy to talk, but I still advise you to listen to the song \"грустный русский взгляд\" I know you have a music player on your phone in China that has subtitles from other"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2087611262943608942",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1356,
+          "like_count": 880,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 5138
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T12:23:42.000Z",
+        "description": "I am BI and always open to any communication.I love everyone in this world, But no one loves me.",
+        "id": "2087152708696346624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087609696559726930",
+        "name": "Kiruha 2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087152708696346624/1786521320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087153239007363072/YDD70WAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 203,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "Kir4uh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

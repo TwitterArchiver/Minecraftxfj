@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2077945213503615261",
+    "created_at": "2026-07-18T17:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078539199486255594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591344896757026821",
+          "start": 0,
+          "username": "xng328460971"
+        },
+        {
+          "end": 29,
+          "id": "2060709640652914690",
+          "start": 14,
+          "username": "czhbgygtlwpjib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078539199486255594",
+    "in_reply_to_user_id": "1591344896757026821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078069659132375051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xng328460971 @czhbgygtlwpjib 吃 8t 感康这会儿估计都已经烧成灰了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2077945213503615261",
+        "created_at": "2026-07-18T17:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078539199486255594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591344896757026821",
+              "start": 0,
+              "username": "xng328460971"
+            },
+            {
+              "end": 29,
+              "id": "2060709640652914690",
+              "start": 14,
+              "username": "czhbgygtlwpjib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078539199486255594",
+        "in_reply_to_user_id": "1591344896757026821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078069659132375051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xng328460971 @czhbgygtlwpjib 吃 8t 感康这会儿估计都已经烧成灰了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591344896757026821",
+        "conversation_id": "2077945213503615261",
+        "created_at": "2026-07-17T10:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078069659132375051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060709640652914690",
+              "start": 0,
+              "username": "czhbgygtlwpjib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078069659132375051",
+        "in_reply_to_user_id": "2060709640652914690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 932,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078054807651369440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@czhbgygtlwpjib 你吃的是感康还是金刚烷胺呀？可能成分会有不一样！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜编程｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@xunfengjun666 转生？！😨 @SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 631,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 3080
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-12T08:19:34.000Z",
+        "description": "我只是一个路人…\n｜自伤｜od｜同类互fo｜画画的｜不加墙内｜不吵架不站队立场是关我屁事",
+        "id": "1591344896757026821",
+        "name": "小人",
+        "pinned_tweet_id": "2047528717719642466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014266753748996097/q2q0pA-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 181,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "xng328460971",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T13:07:49.000Z",
+        "description": "我们只是网友 Ok？你把手机砸了，我就死了",
+        "id": "2060709640652914690",
+        "name": "aska二世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076313287382405120/Ah6kjXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 46,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "czhbgygtlwpjib",
+        "verified": false
+      }
+    ]
+  }
+}

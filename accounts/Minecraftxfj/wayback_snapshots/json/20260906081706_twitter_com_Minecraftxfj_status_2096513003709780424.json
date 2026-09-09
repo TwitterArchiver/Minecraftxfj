@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2096513003709780424",
+    "created_at": "2026-09-06T08:17:06.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096513003709780424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2362502538",
+          "start": 3,
+          "username": "cfm_miku_en"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096513003709780424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8610
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096178538286362985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cfm_miku_en: \"Summeretto Medley: Tell Your World × Only by Chasing the Wind\"\nSpecial Medley by Hatsune Miku &amp; Robin\nMV Released!🪽\n\n© Cr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 174500,
+        "height": 1080,
+        "media_key": "13_2096178115219505152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096178115219505152/img/1HdlRltVVYnH9ICB.jpg",
+        "public_metrics": {
+          "view_count": 339045
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096178115219505152/vid/avc1/1920x1080/m_8IfTtbOkqbRrRE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096178115219505152/pl/0VXu7ov4vjocP86w.m3u8?v=d6c"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096178115219505152/vid/avc1/1280x720/51UchIJkpWMqEQeD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096178115219505152/vid/avc1/640x360/cQm3yGsxLq-Z2nm4.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096178115219505152/vid/avc1/480x270/PIMj3Wt0lwiUTc-n.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2096513003709780424",
+        "created_at": "2026-09-06T08:17:06.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096513003709780424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2362502538",
+              "start": 3,
+              "username": "cfm_miku_en"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096513003709780424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8610
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096178538286362985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cfm_miku_en: \"Summeretto Medley: Tell Your World × Only by Chasing the Wind\"\nSpecial Medley by Hatsune Miku &amp; Robin\nMV Released!🪽\n\n© Cr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096178115219505152"
+          ]
+        },
+        "author_id": "2362502538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2096178538286362985",
+        "created_at": "2026-09-05T10:08:03.000Z",
+        "display_text_range": [
+          0,
+          235
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096178538286362985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 205,
+              "start": 190,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 222,
+              "start": 206,
+              "tag": "RobinSummeretto"
+            },
+            {
+              "end": 235,
+              "start": 223,
+              "tag": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Official Hatsune Miku and Piapro Characters Website run by Crypton Future Media, INC.",
+              "display_url": "piapro.net",
+              "end": 174,
+              "expanded_url": "https://www.piapro.net",
+              "images": [
+                {
+                  "height": 406,
+                  "url": "https://pbs.twimg.com/news_img/2095663190327672832/KVmMdijx?format=png&name=orig",
+                  "width": 798
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095663190327672832/KVmMdijx?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "piapro.net",
+              "unwound_url": "https://piapro.net/intl/en.html",
+              "url": "https://t.co/PXrCtN0fgq"
+            },
+            {
+              "display_url": "pic.x.com/IwINSR8opf",
+              "end": 259,
+              "expanded_url": "https://x.com/cfm_miku_en/status/2096178538286362985/video/1",
+              "media_key": "13_2096178115219505152",
+              "start": 236,
+              "url": "https://t.co/IwINSR8opf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096178538286362985",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2096178115219505152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5911,
+          "impression_count": 1007643,
+          "like_count": 36679,
+          "quote_count": 655,
+          "reply_count": 90,
+          "retweet_count": 8610
+        },
+        "reply_settings": "everyone",
+        "text": "\"Summeretto Medley: Tell Your World × Only by Chasing the Wind\"\nSpecial Medley by Hatsune Miku &amp; Robin\nMV Released!🪽\n\n© Crypton Future Media, INC. https://t.co/PXrCtN0fgq\n©︎COGNOSPHERE\n\n#HonkaiStarRail #RobinSummeretto #HatsuneMiku https://t.co/IwINSR8opf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2096513003709780424",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 1445,
+          "like_count": 2844,
+          "listed_count": 3,
+          "media_count": 651,
+          "tweet_count": 6561
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-26T10:54:03.000Z",
+        "description": "The official global Hatsune Miku Twitter account operated by Crypton Future Media! Header by @destxt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 93,
+                "username": "destxt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "piapro.net",
+                "end": 23,
+                "expanded_url": "http://piapro.net",
+                "start": 0,
+                "url": "https://t.co/SAyvf9swYM"
+              }
+            ]
+          }
+        },
+        "id": "2362502538",
+        "is_identity_verified": false,
+        "location": "Sapporo",
+        "most_recent_tweet_id": "2096178540974952837",
+        "name": "Hatsune Miku",
+        "pinned_tweet_id": "1035370744580980736",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362502538/1510554064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/839675509365620738/SFpLpPSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569248,
+          "following_count": 390,
+          "like_count": 7207,
+          "listed_count": 799,
+          "media_count": 1652,
+          "tweet_count": 13551
+        },
+        "url": "https://t.co/SAyvf9swYM",
+        "username": "cfm_miku_en",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

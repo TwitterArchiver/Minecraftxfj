@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085773256527941931",
+    "created_at": "2026-08-07T17:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085776025980694677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1471837590768603136",
+          "start": 0,
+          "username": "daanawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085776025980694677",
+    "in_reply_to_user_id": "1471837590768603136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085773256527941931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daanawa 老大我们这样搞抽象真的能遥遥领先吗🫡\n✋😭🤚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2085773249234063360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPInuCKb0AAlK1n.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085773256527941931",
+        "created_at": "2026-08-07T17:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085776025980694677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1471837590768603136",
+              "start": 0,
+              "username": "daanawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085776025980694677",
+        "in_reply_to_user_id": "1471837590768603136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085773256527941931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daanawa 老大我们这样搞抽象真的能遥遥领先吗🫡\n✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085773249234063360"
+          ]
+        },
+        "author_id": "1471837590768603136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2085773256527941931",
+        "created_at": "2026-08-07T17:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085773256527941931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39JRnZ82Zc",
+              "end": 36,
+              "expanded_url": "https://x.com/daanawa/status/2085773256527941931/photo/1",
+              "media_key": "3_2085773249234063360",
+              "start": 13,
+              "url": "https://t.co/39JRnZ82Zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085773256527941931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加油华为，加油China https://t.co/39JRnZ82Zc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1219,
+          "like_count": 500,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 4528
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-17T13:40:08.000Z",
+        "description": "没有特定中文名，可以叫我大安，或者是答案 :D\n# https://t.co/X4hJKXJL8W\n📍坐标北京 | 08年 (Gap year)\n🏳️‍⚧️MtF | 阻断 23.2.6 / HRT 24.8.28\n📏163cm / 48kg | 🍬 持证含糖\n🗣️交流: CN EN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Transprism.chengxi.online",
+                "end": 49,
+                "expanded_url": "http://Transprism.chengxi.online",
+                "start": 26,
+                "url": "https://t.co/X4hJKXJL8W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.chengxi.online",
+                "end": 23,
+                "expanded_url": "https://blog.chengxi.online/",
+                "start": 0,
+                "url": "https://t.co/XRhntlrCJf"
+              }
+            ]
+          }
+        },
+        "id": "1471837590768603136",
+        "location": "Beijing",
+        "name": "大安/daan🏳️‍⚧️",
+        "pinned_tweet_id": "2062834503782195693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077336309807669248/Sp9Rv5_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 447,
+          "like_count": 1228,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/XRhntlrCJf",
+        "username": "daanawa",
+        "verified": true
+      }
+    ]
+  }
+}

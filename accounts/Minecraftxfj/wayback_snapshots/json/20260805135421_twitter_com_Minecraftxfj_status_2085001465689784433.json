@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2084982508048077209",
+    "created_at": "2026-08-05T13:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085001465689784433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2047864598100111360",
+          "start": 0,
+          "username": "Yoki__tnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085001465689784433",
+    "in_reply_to_user_id": "2047864598100111360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084982508048077209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoki__tnt 能绷住的鉴定为绷绷炸弹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2084982508048077209",
+        "created_at": "2026-08-05T13:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085001465689784433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2047864598100111360",
+              "start": 0,
+              "username": "Yoki__tnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085001465689784433",
+        "in_reply_to_user_id": "2047864598100111360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084982508048077209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoki__tnt 能绷住的鉴定为绷绷炸弹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047864598100111360",
+        "conversation_id": "2084982508048077209",
+        "created_at": "2026-08-05T12:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084982508048077209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "我操我在拔刀’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dKrP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1dKrPPDRrNkJX",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 沐雨飞了",
+              "unwound_url": "https://twitter.com/i/spaces/1dKrPPDRrNkJX/peek",
+              "url": "https://t.co/MPdlBzmkyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084982508048077209",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MPdlBzmkyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 978,
+          "like_count": 395,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 4161
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T02:26:29.000Z",
+        "description": "",
+        "id": "2047864598100111360",
+        "location": "0.1km",
+        "name": "我操我在拔刀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047864961482006528/peuqlrUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 55,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "Yoki__tnt",
+        "verified": false
+      }
+    ]
+  }
+}

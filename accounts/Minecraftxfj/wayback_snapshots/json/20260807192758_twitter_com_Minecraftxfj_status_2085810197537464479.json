@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2085558413740962302",
+    "created_at": "2026-08-07T19:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085810197537464479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055205435011936256",
+          "start": 0,
+          "username": "Amin1650752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085810197537464479",
+    "in_reply_to_user_id": "2055205435011936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085558413740962302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amin1650752 嘴臭，神人，不过偶尔挺可爱的，鉴定为赛博小宠物（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2085558413740962302",
+        "created_at": "2026-08-07T19:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085810197537464479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055205435011936256",
+              "start": 0,
+              "username": "Amin1650752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085810197537464479",
+        "in_reply_to_user_id": "2055205435011936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085558413740962302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amin1650752 嘴臭，神人，不过偶尔挺可爱的，鉴定为赛博小宠物（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055205435011936256",
+        "conversation_id": "2085558413740962302",
+        "created_at": "2026-08-07T02:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085558413740962302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085558413740962302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2126,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老唐是好人坏人🤔为什么很多人建议屏蔽（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member🫡@SakayoriIr4e 宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 1233,
+          "like_count": 521,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 4585
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "04/RLE学习中/前世河野樱🍥/mtf/HRT 24.9.21/家暴党/transles/同类互fo/不鉴证&不o不割/大概同人游戏女（？）/姐姐@baka_yukilove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "baka_yukilove"
+              }
+            ]
+          }
+        },
+        "id": "2055205435011936256",
+        "location": "黑流树海",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2058984452580380979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085028285134864384/pg8rixLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 759,
+          "like_count": 9244,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true
+      }
+    ]
+  }
+}
