@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2100935335211380760",
+    "created_at": "2026-09-18T15:07:33.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100964953599734149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1768834576133107712",
+          "start": 0,
+          "username": "ZGTSSHZYWS2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100964953599734149",
+    "in_reply_to_user_id": "1768834576133107712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100935335211380760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZGTSSHZYWS2012 不准😡🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2100935335211380760",
+        "created_at": "2026-09-18T15:07:33.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100964953599734149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1768834576133107712",
+              "start": 0,
+              "username": "ZGTSSHZYWS2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100964953599734149",
+        "in_reply_to_user_id": "1768834576133107712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100935335211380760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZGTSSHZYWS2012 不准😡🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768834576133107712",
+        "conversation_id": "2100935335211380760",
+        "created_at": "2026-09-18T13:09:52.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100935335211380760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiutao1034/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/jiutao1034/status/2100777679343751188",
+              "start": 33,
+              "url": "https://t.co/fIASwULP8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100935335211380760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1443,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100777679343751188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安…下辈子一定要当一个女孩子呀（不过我感觉我离吞盐也没多远了） https://t.co/fIASwULP8M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2100964953599734149",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1479,
+          "like_count": 3735,
+          "listed_count": 3,
+          "media_count": 763,
+          "tweet_count": 7152
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T03:00:09.000Z",
+        "description": "了解支持拥护｜🍬09无证含糖｜裸身高192cm｜🍥hrt:2026.8.8｜INTJ-A/J｜是个mtf/x｜泛性恋｜常驻陕西西安｜喜欢集卡｜同类可以互fo｜成分复杂，乐子人一个\n我的email：guzhenzhen.cm@outlook.com\n重视的人：@subanxia00\n@momolovealcohol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "subanxia00"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "momolovealcohol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/sZnCpCR4bN"
+              }
+            ]
+          }
+        },
+        "id": "1768834576133107712",
+        "is_identity_verified": false,
+        "location": "Pyongyang Juche Idea Tower",
+        "most_recent_tweet_id": "2100935518162936083",
+        "name": "花吟FREE🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768834576133107712/1788533448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100061816823144448/GHVYlKzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 617,
+          "like_count": 565,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/sZnCpCR4bN",
+        "username": "ZGTSSHZYWS2012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

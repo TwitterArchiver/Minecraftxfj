@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2100940404564873533",
+    "created_at": "2026-09-19T13:28:33.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101302427526045991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581345518633959424",
+          "start": 0,
+          "username": "williamlofusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101302427526045991",
+    "in_reply_to_user_id": "1581345518633959424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101301547099697380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@williamlofusk 好诶！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2100940404564873533",
+        "created_at": "2026-09-19T13:28:33.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101302427526045991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581345518633959424",
+              "start": 0,
+              "username": "williamlofusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101302427526045991",
+        "in_reply_to_user_id": "1581345518633959424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101301547099697380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlofusk 好诶！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581345518633959424",
+        "conversation_id": "2100940404564873533",
+        "created_at": "2026-09-19T13:25:03.000Z",
+        "display_text_range": [
+          14,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101301547099697380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101301547099697380",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101299369047920969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 是哦，我基本都在QQ里很少上推特，最近打算重新恢复逛推了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2101302427526045991",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1490,
+          "like_count": 3829,
+          "listed_count": 3,
+          "media_count": 776,
+          "tweet_count": 7228
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-15T18:05:37.000Z",
+        "description": "“痛的话就叫出来，会好受些的。”\n是习惯并不好的核电猫猫，平时会做一些创作。/ 高放射性毒性 / 超级喜欢迷迭香小猫咪！♡/ 扁平装甲 / 想多交些朋友（比较弱社交）",
+        "id": "1581345518633959424",
+        "is_identity_verified": false,
+        "location": "青海/西宁/城东区",
+        "most_recent_tweet_id": "2101301547099697380",
+        "name": "🍥核猫猫WilliEam NUKCAT☢️",
+        "pinned_tweet_id": "1735699926422876441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581345518633959424/1767299936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006764709760958468/su9wM4cP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 122,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "williamlofusk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

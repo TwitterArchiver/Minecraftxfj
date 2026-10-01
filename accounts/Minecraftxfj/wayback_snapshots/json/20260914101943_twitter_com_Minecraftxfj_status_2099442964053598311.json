@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2099442964053598311",
+    "created_at": "2026-09-14T10:19:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T11:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099442964053598311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1070960596357509121",
+          "start": 3,
+          "username": "Genshin_7"
+        }
+      ],
+      "urls": [
+        {
+          "description": "email: {first letter of first name}{last name} at gmail phone: multiply 3, 5, 41, and 19907819. I don't usually pick up calls from unknown phone numbers GitHub Most recent resume Google Scholar I currently work at HRT as an Algorithm Developer on HAIL - HRT AI Labs - doing deep learning. I started in August 2019 as an Algorithm Engineer. I went to MIT for undergrad and my MEng. During undergrad, while interning at Google, my mentor and I wrote and published a paper. It was presented orally at INTERSPEECH",
+          "display_url": "jackserrino.com/tcoshort",
+          "end": 139,
+          "expanded_url": "http://jackserrino.com/tcoshort",
+          "start": 125,
+          "status": 200,
+          "title": "Jack Serrino",
+          "unwound_url": "https://jack.plus/",
+          "url": "https://t.co/S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099442964053598311",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2799
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099438004188160058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Genshin_7: 【キャラクター能力紹介・ヴォジャニーツァ】\n旅人の皆さん、こんにちは！ヴォジャニーツァの歌声は深い水の中より届き、戦闘のさなかにも響き渡ります。劇場ではめったに歌われることのない、往日の頌歌を一緒に聴いてみましょう～… https://t.co/S…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_2099404797728182278",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKVilhW0AYXnU7.jpg",
+        "width": 700
+      },
+      {
+        "height": 1309,
+        "media_key": "3_2099404800966184962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKVixlW0AIzgG3.jpg",
+        "width": 700
+      },
+      {
+        "height": 1794,
+        "media_key": "3_2099404803990257666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKVi82WgAIVxuF.jpg",
+        "width": 700
+      },
+      {
+        "height": 1164,
+        "media_key": "3_2099404807861633027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKVjLRXAAMI2ze.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2099442964053598311",
+        "created_at": "2026-09-14T10:19:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099442964053598311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1070960596357509121",
+              "start": 3,
+              "username": "Genshin_7"
+            }
+          ],
+          "urls": [
+            {
+              "description": "email: {first letter of first name}{last name} at gmail phone: multiply 3, 5, 41, and 19907819. I don't usually pick up calls from unknown phone numbers GitHub Most recent resume Google Scholar I currently work at HRT as an Algorithm Developer on HAIL - HRT AI Labs - doing deep learning. I started in August 2019 as an Algorithm Engineer. I went to MIT for undergrad and my MEng. During undergrad, while interning at Google, my mentor and I wrote and published a paper. It was presented orally at INTERSPEECH",
+              "display_url": "jackserrino.com/tcoshort",
+              "end": 139,
+              "expanded_url": "http://jackserrino.com/tcoshort",
+              "start": 125,
+              "status": 200,
+              "title": "Jack Serrino",
+              "unwound_url": "https://jack.plus/",
+              "url": "https://t.co/S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099442964053598311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2799
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099438004188160058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Genshin_7: 【キャラクター能力紹介・ヴォジャニーツァ】\n旅人の皆さん、こんにちは！ヴォジャニーツァの歌声は深い水の中より届き、戦闘のさなかにも響き渡ります。劇場ではめったに歌われることのない、往日の頌歌を一緒に聴いてみましょう～… https://t.co/S…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099404797728182278",
+            "3_2099404800966184962",
+            "3_2099404803990257666",
+            "3_2099404807861633027"
+          ]
+        },
+        "author_id": "1070960596357509121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2099438004188160058",
+        "created_at": "2026-09-14T10:00:00.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099438004188160058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNr2zFQ0zv",
+              "end": 132,
+              "expanded_url": "https://x.com/Genshin_7/status/2099438004188160058/photo/1",
+              "media_key": "3_2099404797728182278",
+              "start": 109,
+              "url": "https://t.co/SNr2zFQ0zv"
+            },
+            {
+              "display_url": "pic.x.com/SNr2zFQ0zv",
+              "end": 132,
+              "expanded_url": "https://x.com/Genshin_7/status/2099438004188160058/photo/1",
+              "media_key": "3_2099404800966184962",
+              "start": 109,
+              "url": "https://t.co/SNr2zFQ0zv"
+            },
+            {
+              "display_url": "pic.x.com/SNr2zFQ0zv",
+              "end": 132,
+              "expanded_url": "https://x.com/Genshin_7/status/2099438004188160058/photo/1",
+              "media_key": "3_2099404803990257666",
+              "start": 109,
+              "url": "https://t.co/SNr2zFQ0zv"
+            },
+            {
+              "display_url": "pic.x.com/SNr2zFQ0zv",
+              "end": 132,
+              "expanded_url": "https://x.com/Genshin_7/status/2099438004188160058/photo/1",
+              "media_key": "3_2099404807861633027",
+              "start": 109,
+              "url": "https://t.co/SNr2zFQ0zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099438004188160058",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099404797728182278"
+          },
+          {
+            "media_key": "3_2099404800966184962"
+          },
+          {
+            "media_key": "3_2099404803990257666"
+          },
+          {
+            "media_key": "3_2099404807861633027"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 192,
+                "start": 189,
+                "tag": "原神"
+              },
+              {
+                "end": 199,
+                "start": 193,
+                "tag": "氷雪の物語"
+              },
+              {
+                "end": 209,
+                "start": 200,
+                "tag": "ヴォジャニーツァ"
+              }
+            ]
+          },
+          "text": "【キャラクター能力紹介・ヴォジャニーツァ】\n旅人の皆さん、こんにちは！ヴォジャニーツァの歌声は深い水の中より届き、戦闘のさなかにも響き渡ります。劇場ではめったに歌われることのない、往日の頌歌を一緒に聴いてみましょう～\nイベント祈願「波の叙情歌」はVer.7.1アップデート後（9月23日）より開催され、「水底に響く歌声・ヴォジャニーツァ（水）」の出現確率が大幅にUPします。\n\n#原神 #氷雪の物語 #ヴォジャニーツァ"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 654,
+          "impression_count": 198282,
+          "like_count": 7001,
+          "quote_count": 305,
+          "reply_count": 23,
+          "retweet_count": 2812
+        },
+        "reply_settings": "everyone",
+        "text": "【キャラクター能力紹介・ヴォジャニーツァ】\n旅人の皆さん、こんにちは！ヴォジャニーツァの歌声は深い水の中より届き、戦闘のさなかにも響き渡ります。劇場ではめったに歌われることのない、往日の頌歌を一緒に聴いてみましょう～ https://t.co/SNr2zFQ0zv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2099442964053598311",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 1464,
+          "like_count": 3431,
+          "listed_count": 3,
+          "media_count": 726,
+          "tweet_count": 6994
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-07T08:37:58.000Z",
+        "description": "PS5・Xbox・iOS・Android・PC向けオープンワールドRPG『原神』公式アカウントです。最新情報を発信します！ #原神 #Genshin #HoYoverse",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "原神"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "Genshin"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "tag": "HoYoverse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/6mfgFBAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/6mfgFBAL",
+                "start": 0,
+                "url": "https://t.co/Ju8qwDkJpP"
+              }
+            ]
+          }
+        },
+        "id": "1070960596357509121",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099438008118251765",
+        "name": "原神（Genshin）公式",
+        "pinned_tweet_id": "2098766079069687987",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070960596357509121/1789220826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980837846979067904/Hvxtnvav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4058199,
+          "following_count": 57,
+          "like_count": 247,
+          "listed_count": 15380,
+          "media_count": 2136067,
+          "tweet_count": 2139686
+        },
+        "url": "https://t.co/Ju8qwDkJpP",
+        "username": "Genshin_7",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

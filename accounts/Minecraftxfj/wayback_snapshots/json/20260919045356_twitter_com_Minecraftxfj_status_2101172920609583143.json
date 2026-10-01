@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2101172920609583143",
+    "created_at": "2026-09-19T04:53:56.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101172920609583143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/trans_helper/s…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/trans_helper/status/2101172080444428767",
+          "start": 112,
+          "url": "https://t.co/eOMFC2tXI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101172920609583143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101172080444428767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拉完了😭\n其实这个还是用 esp8266 跑的，esp32 的板子已经画好了但是实在没钱焊了，再推一推先用这个开发吧\n这块屏也是用本地超市里的杂牌电子价签屏拆的，驱动起来费老鼻子劲，显示也和标准库的位置有偏差，后面再换吧😭 https://t.co/eOMFC2tXI3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20043,
+        "height": 1920,
+        "media_key": "13_2101171967302987777",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101171967302987777/img/CZY2GZM1O4zYjeY5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101171967302987777/vid/avc1/320x568/E8sgsDCwsHMq5_tz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101171967302987777/vid/avc1/720x1280/7xd5Y9LHoKMPPSW9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101171967302987777/vid/avc1/480x852/J9-ifRdJLzqzVkhL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101171967302987777/vid/avc1/1080x1920/AYAiClEFVSGITeE2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101171967302987777/pl/Xu0292XCCNMDcA37.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2101172920609583143",
+        "created_at": "2026-09-19T04:53:56.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101172920609583143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trans_helper/s…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/trans_helper/status/2101172080444428767",
+              "start": 112,
+              "url": "https://t.co/eOMFC2tXI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101172920609583143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101172080444428767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拉完了😭\n其实这个还是用 esp8266 跑的，esp32 的板子已经画好了但是实在没钱焊了，再推一推先用这个开发吧\n这块屏也是用本地超市里的杂牌电子价签屏拆的，驱动起来费老鼻子劲，显示也和标准库的位置有偏差，后面再换吧😭 https://t.co/eOMFC2tXI3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101171967302987777"
+          ]
+        },
+        "author_id": "2070818840213422080",
+        "conversation_id": "2101172080444428767",
+        "created_at": "2026-09-19T04:50:36.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101172080444428767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "此文章为网站 https://hrt.mahiro.uk 底层医学模型的具体解释 更新时间：2025 年 12 月 5 日 paste 备份：https://paste.sheartm.com/aaaaaace 目录# 总体概览 变量与单位约定 酯类到雌二醇的换算 生物利用度与给药途径 通用生物利用度函数 各途径的 FFF 设定 核心 PK 参数 单事件（DoseEvent）的数学模型 一室一阶吸...",
+              "display_url": "mahiro.uk/articles/estro…",
+              "end": 72,
+              "expanded_url": "https://mahiro.uk/articles/estrogen-model-summary",
+              "start": 49,
+              "status": 200,
+              "title": "HRT Recorder 雌二醇药代动力学模型详解",
+              "unwound_url": "https://mahiro.uk/articles/estrogen-model-summary",
+              "url": "https://t.co/mgermjjH87"
+            },
+            {
+              "display_url": "pic.x.com/JfIaXwWs3e",
+              "end": 106,
+              "expanded_url": "https://x.com/Trans_Helper/status/2101172080444428767/video/1",
+              "media_key": "13_2101171967302987777",
+              "start": 83,
+              "url": "https://t.co/JfIaXwWs3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101172080444428767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101171967302987777"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "TransWidget\n\n血药浓度推算 曲线绘制\n\n⚠️早期测试 demo，非最终效果\n\n感谢  https://t.co/mgermjjH87 给出的完整模型详解 https://t.co/JfIaXwWs3e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2101172920609583143",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1485,
+          "like_count": 3784,
+          "listed_count": 3,
+          "media_count": 773,
+          "tweet_count": 7194
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T10:44:33.000Z",
+        "description": "TransHelper 团队官方账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transhelper.org",
+                "end": 23,
+                "expanded_url": "https://transhelper.org",
+                "start": 0,
+                "url": "https://t.co/VJKVaqTtZY"
+              }
+            ]
+          }
+        },
+        "id": "2070818840213422080",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2101172080444428767",
+        "name": "TransHelper",
+        "pinned_tweet_id": "2070869416808751335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070818840213422080/1783269902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820961390321664/_gbcmZoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 8,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/VJKVaqTtZY",
+        "username": "Trans_Helper",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

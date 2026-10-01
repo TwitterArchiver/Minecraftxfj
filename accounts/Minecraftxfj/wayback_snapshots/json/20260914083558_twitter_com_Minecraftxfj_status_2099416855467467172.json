@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2099416855467467172",
+    "created_at": "2026-09-14T08:35:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T09:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099416855467467172"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "原神_キャラ生誕祭"
+        },
+        {
+          "end": 39,
+          "start": 27,
+          "tag": "アルベド生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1070960596357509121",
+          "start": 3,
+          "username": "Genshin_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099416855467467172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098985019247083811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Genshin_7: #原神_キャラ生誕祭\n【#アルベド生誕祭2026 】\n「クレー、旅人から手紙とスネージナヤのお土産物が届いたよ。一緒に開けようか。」\n「やったー！クレーね、最近またいっぱい新しい字を覚えたんだよ。クレーがお手紙読む！」… https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1745,
+        "media_key": "3_2098790275183210500",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBmoqpW8AQCLkS.jpg",
+        "width": 1745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2099416855467467172",
+        "created_at": "2026-09-14T08:35:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T09:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099416855467467172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "原神_キャラ生誕祭"
+            },
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "アルベド生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1070960596357509121",
+              "start": 3,
+              "username": "Genshin_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099416855467467172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098985019247083811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Genshin_7: #原神_キャラ生誕祭\n【#アルベド生誕祭2026 】\n「クレー、旅人から手紙とスネージナヤのお土産物が届いたよ。一緒に開けようか。」\n「やったー！クレーね、最近またいっぱい新しい字を覚えたんだよ。クレーがお手紙読む！」… https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098790275183210500"
+          ]
+        },
+        "author_id": "1070960596357509121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2098985019247083811",
+        "created_at": "2026-09-13T04:00:00.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098985019247083811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "原神_キャラ生誕祭"
+            },
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "アルベド生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlQQwyW3Nn",
+              "end": 133,
+              "expanded_url": "https://x.com/Genshin_7/status/2098985019247083811/photo/1",
+              "media_key": "3_2098790275183210500",
+              "start": 110,
+              "url": "https://t.co/mlQQwyW3Nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098985019247083811",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098790275183210500"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "原神_キャラ生誕祭"
+              },
+              {
+                "end": 24,
+                "start": 12,
+                "tag": "アルベド生誕祭2026"
+              }
+            ]
+          },
+          "text": "#原神_キャラ生誕祭\n【#アルベド生誕祭2026 】\n「クレー、旅人から手紙とスネージナヤのお土産物が届いたよ。一緒に開けようか。」\n「やったー！クレーね、最近またいっぱい新しい字を覚えたんだよ。クレーがお手紙読む！」\n「えっと、スネージナヤは…雪がいっぱいな場所なんだって！それって…ドラゴンスパインよりも多いのかな？」\n「もちろん。いつかクレーもきっと、自分の目で確かめられるよ。今は、旅人の旅が順風満帆であるよう、祈っていようね。」"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1431,
+          "impression_count": 802556,
+          "like_count": 38319,
+          "quote_count": 735,
+          "reply_count": 45,
+          "retweet_count": 9120
+        },
+        "reply_settings": "everyone",
+        "text": "#原神_キャラ生誕祭\n【#アルベド生誕祭2026 】\n「クレー、旅人から手紙とスネージナヤのお土産物が届いたよ。一緒に開けようか。」\n「やったー！クレーね、最近またいっぱい新しい字を覚えたんだよ。クレーがお手紙読む！」 https://t.co/mlQQwyW3Nn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2099416855467467172",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1464,
+          "like_count": 3410,
+          "listed_count": 3,
+          "media_count": 724,
+          "tweet_count": 6973
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-07T08:37:58.000Z",
+        "description": "PS5・Xbox・iOS・Android・PC向けオープンワールドRPG『原神』公式アカウントです。最新情報を発信します！ #原神 #Genshin #HoYoverse",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "原神"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "Genshin"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "tag": "HoYoverse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/6mfgFBAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/6mfgFBAL",
+                "start": 0,
+                "url": "https://t.co/Ju8qwDkJpP"
+              }
+            ]
+          }
+        },
+        "id": "1070960596357509121",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099348679693914338",
+        "name": "原神（Genshin）公式",
+        "pinned_tweet_id": "2098766079069687987",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070960596357509121/1789220826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980837846979067904/Hvxtnvav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4058141,
+          "following_count": 57,
+          "like_count": 247,
+          "listed_count": 15384,
+          "media_count": 2136066,
+          "tweet_count": 2139684
+        },
+        "url": "https://t.co/Ju8qwDkJpP",
+        "username": "Genshin_7",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2100340311302029784",
+    "created_at": "2026-09-17T16:32:04.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T17:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100623834600951824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990582437282525187",
+          "start": 0,
+          "username": "YeChuan1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100623834600951824",
+    "in_reply_to_user_id": "1990582437282525187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100340311302029784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeChuan1123 《好丑》"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100340306986016768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXoYZFWIAAd95m.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100340306994466816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXoYZHXEAAJVJ3.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2100340311302029784",
+        "created_at": "2026-09-17T16:32:04.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100623834600951824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990582437282525187",
+              "start": 0,
+              "username": "YeChuan1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100623834600951824",
+        "in_reply_to_user_id": "1990582437282525187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100340311302029784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeChuan1123 《好丑》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100340306986016768",
+            "3_2100340306994466816"
+          ]
+        },
+        "author_id": "1990582437282525187",
+        "conversation_id": "2100340311302029784",
+        "created_at": "2026-09-16T21:45:27.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T22:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100340311302029784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIRkTa8ekm",
+              "end": 77,
+              "expanded_url": "https://x.com/YeChuan1123/status/2100340311302029784/photo/1",
+              "media_key": "3_2100340306986016768",
+              "start": 54,
+              "url": "https://t.co/CIRkTa8ekm"
+            },
+            {
+              "display_url": "pic.x.com/CIRkTa8ekm",
+              "end": 77,
+              "expanded_url": "https://x.com/YeChuan1123/status/2100340311302029784/photo/1",
+              "media_key": "3_2100340306994466816",
+              "start": 54,
+              "url": "https://t.co/CIRkTa8ekm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100340311302029784",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100340306986016768"
+          },
+          {
+            "media_key": "3_2100340306994466816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4974,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘也只能抽点淡口的了 只能靠抽烟抽到解离来抗did 好讨厌（毕竟布林讨厌烟味\nos：（好丑 丑到我自己了 https://t.co/CIRkTa8ekm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2100623834600951824",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1484,
+          "like_count": 3678,
+          "listed_count": 3,
+          "media_count": 755,
+          "tweet_count": 7120
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT🇨🇦 同类互fo🏳️‍⚧️MTF 中文/Eng/日本語\n🎀Love mizuki & Sylveon🎀\n精神不好…焦虑/重抑/自毁倾向/DID人格分裂症/病娇\n*💝此生唯一的挚爱！伴侣: @blingbling712\n🩸里号：@YeChuanLovPan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "blingbling712"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "YeChuanLovPan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/ebZ9R1hZ2I"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "is_identity_verified": false,
+        "location": "布林的怀里",
+        "most_recent_tweet_id": "2100611039788253224",
+        "name": "YeChuan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990582437282525187/1782582424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076302592901001216/YAdpUpUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 445,
+          "like_count": 2203,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 1023
+        },
+        "url": "https://t.co/ebZ9R1hZ2I",
+        "username": "YeChuan1123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

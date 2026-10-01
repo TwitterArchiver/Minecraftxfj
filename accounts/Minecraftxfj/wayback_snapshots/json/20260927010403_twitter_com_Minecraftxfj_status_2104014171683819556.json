@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545801302617116672",
+    "conversation_id": "2103959428743725350",
+    "created_at": "2026-09-27T01:04:03.000Z",
+    "display_text_range": [
+      11,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T02:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104014171683819556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055228634710065152",
+          "start": 0,
+          "username": "Ruai_0324"
+        },
+        {
+          "end": 28,
+          "id": "1585145286598483968",
+          "start": 16,
+          "username": "lianyiganyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104014171683819556",
+    "in_reply_to_user_id": "2055228634710065152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103959428743725350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ruai_0324 诶！！！\n@lianyiganyu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2103959420489334784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLD8hgagAAip8S.jpg",
+        "width": 1918
+      },
+      {
+        "height": 470,
+        "media_key": "3_2103959420472565760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLD8hcaoAAc3bO.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2103959428743725350",
+        "created_at": "2026-09-27T01:04:03.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T02:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104014171683819556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055228634710065152",
+              "start": 0,
+              "username": "Ruai_0324"
+            },
+            {
+              "end": 28,
+              "id": "1585145286598483968",
+              "start": 16,
+              "username": "lianyiganyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104014171683819556",
+        "in_reply_to_user_id": "2055228634710065152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103959428743725350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ruai_0324 诶！！！\n@lianyiganyu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103959420489334784",
+            "3_2103959420472565760"
+          ]
+        },
+        "author_id": "2055228634710065152",
+        "conversation_id": "2103959428743725350",
+        "created_at": "2026-09-26T21:26:32.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T22:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103959428743725350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1weMqudpM",
+              "end": 55,
+              "expanded_url": "https://x.com/Ruai_0324/status/2103959428743725350/photo/1",
+              "media_key": "3_2103959420489334784",
+              "start": 32,
+              "url": "https://t.co/s1weMqudpM"
+            },
+            {
+              "display_url": "pic.x.com/s1weMqudpM",
+              "end": 55,
+              "expanded_url": "https://x.com/Ruai_0324/status/2103959428743725350/photo/1",
+              "media_key": "3_2103959420472565760",
+              "start": 32,
+              "url": "https://t.co/s1weMqudpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103959428743725350",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103959420489334784"
+          },
+          {
+            "media_key": "3_2103959420472565760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "我手机上和床上全都是NaNO₂\n前调凉凉的然后好咸好苦\n等死吧 https://t.co/s1weMqudpM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2104014171683819556",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2101747981615825105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 1520,
+          "like_count": 4464,
+          "listed_count": 3,
+          "media_count": 839,
+          "tweet_count": 7628
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "一代目@Xiaoyi_0324 三代目@xiaoyi_324\n简体字/繁体字均可｜日语使用翻译软件或ChatGPT\n重度抑郁+中度焦虑｜疑似双相障碍｜包括OD自残行为｜以些许负面情绪和自言自语为主，浏览请自负责任｜提问籍回复将在简介开头注明的那账户进行",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Xiaoyi_0324"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "xiaoyi_324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/mApcFzl8Sm"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "is_identity_verified": false,
+        "location": "要游玩提问箱吗↙️",
+        "most_recent_tweet_id": "2103978880780693830",
+        "name": "樱川由奈🏳️‍⚧️二代目",
+        "pinned_tweet_id": "2094751861794541979",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055228634710065152/1788262697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101918687649468416/rvLTLfyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 107,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/mApcFzl8Sm",
+        "username": "Ruai_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "is_identity_verified": true,
+        "location": "武汉",
+        "most_recent_tweet_id": "2098504319335338387",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4288,
+          "following_count": 6,
+          "like_count": 73,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
